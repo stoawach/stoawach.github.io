@@ -1,13 +1,13 @@
 ---
 title: Jekyll Serif Theme
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Strona Stowarzyszenia im. Aleksandry Wachniewskiej.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Stowarzyszenie im. Aleksandry Wachniewskiej
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Celem Stowarzyszenia jest działanie na rzecz ochrony dziedzictwa kulturowego, krajobrazowego i przyrodniczego Zwierzyńca oraz wspieranie jego zrównoważonego rozwoju.
