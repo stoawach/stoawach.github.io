@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Stowarzyszenie im. Aleksandry Wachniewskiej
 layout: home
 description: Strona Stowarzyszenia im. Aleksandry Wachniewskiej.
 intro_image: "images/illustrations/pointing.svg"
