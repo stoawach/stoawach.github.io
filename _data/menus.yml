@@ -2,9 +2,9 @@ main:
   - name: "Aktualności"
     url: "/services/"
     weight: 2
-  - name: "Zespół"
-    url: "/team/"
-    weight: 3
+  # - name: "Zespół"
+    # url: "/team/"
+    # weight: 3
   - name: "O nas"
     url: "/about/"
     weight: 4
