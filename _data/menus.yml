@@ -2,20 +2,20 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Zespół"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "O nas"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Strona główna"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 2
