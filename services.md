@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Działania
 layout: services
-description: Services
+description: Działania
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
