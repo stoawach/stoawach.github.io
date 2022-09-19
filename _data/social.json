@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/stoawach",
+    "image": "images/social/facebook.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Instagram",
+    "link": "https://www.instagram.com/stoawach",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC0XRvOZQQd2XmXJ6dRZfFPQ",
+    "image": "images/social/youtube.svg"
   }
 ]
