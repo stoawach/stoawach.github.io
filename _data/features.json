@@ -1,18 +1,18 @@
 [
   {
-    "title": "Aleksandra Wachniewska",
-    "description": "Malarka Roztocza, orędowniczka utowrzenia Roztoczańskiego Parku Narodowego",
+    "title": "Villa Restituta",
+    "description": "Idealna willa w stylu włoskim wykonana z modrzewia.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Villa Restituta",
-    "description": "Idealna willa w stylu włoskim wykonana z modrzewia.",
+    "title": "Aleksandra Wachniewska",
+    "description": "Malarka Roztocza, orędowniczka utowrzenia Roztoczańskiego Parku Narodowego",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }
