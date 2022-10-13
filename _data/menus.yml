@@ -1,6 +1,6 @@
 main:
   - name: "Aktualności"
-    url: "/posts/"
+    url: "/services/"
     weight: 2
   # - name: "Zespół"
     # url: "/team/"
