@@ -23,7 +23,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "posts"
     values:
       layout: "service"
   - scope:
