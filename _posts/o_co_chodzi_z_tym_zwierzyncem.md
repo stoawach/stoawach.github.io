@@ -4,7 +4,7 @@ date: 2022-07-23T12:33:46+10:00
 weight: 1
 ---
 
-![O co chodzi z tym Zwierzyńcem](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![O co chodzi z tym Zwierzyńcem](/images/posts/kosciolek.jpg)
 
 # O co chodzi z tym Zwierzyńcem?
 
