@@ -1,7 +1,7 @@
 ---
 title: "Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?"
 date: 2022-10-15T10:36:00+01:00
-weight: 1
+weight: 3
 ---
 
 ![gmach główny](/images/posts/gmach_glowny.jpg)
@@ -21,3 +21,5 @@ Dziękujemy Technikum im. Jana Zamoyskiego w Zwierzyńcu oraz Powiat Zamojski za
 ![staw długiego kanału](/images/posts/staw_dlogiego_kanalu_2.jpg)
 ![internat](/images/posts/internat_2.jpg)
 ![dziedziniec](/images/posts/dziedziniec.jpg)
+
+MJP
