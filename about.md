@@ -14,3 +14,5 @@ Niektórym jeszcze trudno w to uwierzyć, ale naszym interesem jest Zwierzyniec.
 Wierzymy, że Zwierzyniec ma ogromny potencjał i może zapewnić dostatek swoim obywatelom. Świadczą o tym różne opracowania, w tym naukowe. Mimo bogactwa dostępnych programów wsparcia, w Zwierzyńcu wciąż wygrywają doraźne interesy, stojące w sprzeczności ze zrównoważonym rozwojem. Takim działaniom, często niezgodnym z prawem, mówimy stanowcze nie. Będziemy je wam przedstawiać, bo tylko uwaga i zaangażowanie opinii publicznej może przyczynić się do zmian na lepsze.
 
 Poświęcamy dużo naszego prywatnego czasu działaniom na rzecz Zwierzyńca. Robimy to, bo wierzymy, że będzie to z korzyścią dla obecnych mieszkańców i przyszłych pokoleń. W zamian liczymy na dobre słowo od tych, którzy z nami się zgadzają. Tych, którzy mają inną wizję Zwierzyńca, również prosimy o merytoryczne uwagi i pozytywną krytykę. Jesteśmy otwarci na dialog i chętnie poznamy Wasze wątpliwości.
+
+[Regulamin Stowarzyszenia im. Aleksandry Wachniewskiej](/statute)
