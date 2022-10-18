@@ -1,7 +1,7 @@
 ---
 title: "Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?"
 date: 2022-10-15T10:36:00+01:00
-weight: 3
+weight: 4
 ---
 
 ![gmach główny](/images/posts/gmach_glowny.jpg)
