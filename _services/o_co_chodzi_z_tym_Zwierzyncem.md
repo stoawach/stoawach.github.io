@@ -4,8 +4,8 @@ date: 2022-07-23T12:33:46+10:00
 weight: 1
 ---
 
-![kościółek na wodzie](/images/posts/kosciolek.jpg)
-
+![Kościół "na wodzie" pw. św. Jana Nepomucena w Zwierzyńcu, Zwierzyniec](/images/posts/kosciolek.jpg)
+*Kościół "na wodzie" pw. św. Jana Nepomucena w Zwierzyńcu*
 
 Jak wiemy, część układu przestrzennego Zwierzyńca wpisana jest do rejestru zabytków województwa lubelskiego. Cóż takiego wyjątkowego jest w naszym mieście, że postanowiono objąć ochroną nie tylko pojedyncze budynki, ale cały obszar zabytkowego centrum?
 Oddajmy głos doktorowi Mieczysławowi Kseniakowi, jednemu ze współautorów realizowanego przez miasto "Projektu rewaloryzacji założenia pałacowo-parkowego w Zwierzyńcu":
@@ -20,9 +20,13 @@ Co to znaczy?
 Zwierzyniec ma szansę stać się prawdziwą perłą - nie tylko Roztocza, ale całej Europy. Możemy powrócić do idei miasta-ogrodu. Problemem nie są środki finansowe, bo tych jest sporo w różnych funduszach przeznaczonych dla kultury i dziedzictwa. Jedyne, czego potrzeba, to świadomość, wola i zaangażowanie mieszkańców, władz oraz innych ludzi dobrej woli.
 Pomóżcie nam przywrócić Zwierzyńcowi blask, na jaki zasługuje.
 
-![projekt rewaloryzacji](/images/posts/projekt_rewaloryzacji.jpg)
-![długi kanał](/images/posts/dlugi_kanal.jpg)
-![oficyna skrzydłowa południowa](/images/posts/oficyna_skrzydlowa_poludniowa.jpg)
-![staw długiego kanału](/images/posts/staw_dlugiego_kanalu.jpg)
+![Projekt rewaloryzacji założenia willowo-parkowego w Zwierzyńcu, Zwierzyniec](/images/posts/projekt_rewaloryzacji.jpg)
+*Projekt rewaloryzacji założenia willowo-parkowego w Zwierzyńcu*
+![długi kanał, Zwierzyńczyk, Zwierzyniec](/images/posts/dlugi_kanal.jpg)
+*Długi kanał, Zwierzyńczyk, Zwierzyniec*
+![Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/oficyna_skrzydlowa_poludniowa.jpg)
+*Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu*
+![Staw willowy, Zwierzyńczyk, Zwierzyniec](/images/posts/staw_dlugiego_kanalu.jpg)
+*Staw willowy, Zwierzyńczyk, Zwierzynie*
 
-MJP
+MJP/foto. MJP
