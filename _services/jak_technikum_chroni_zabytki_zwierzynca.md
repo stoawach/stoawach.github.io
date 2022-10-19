@@ -4,7 +4,8 @@ date: 2022-10-15T10:36:00+01:00
 weight: 4
 ---
 
-![gmach główny](/images/posts/gmach_glowny.jpg)
+![Gmach główny Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/gmach_glowny.jpg)
+*Gmach główny Technikum im. Jana Zamoyskiego w Zwierzyńcu*
 
 Zwierzynieckie Technikum to szkoła średnia z wieloletnią tradycją plasująca się w polskiej czołówce. Jego siedziba znajduje się w zespole Zarządu Ordynacji Zamojskiej wpisanym do rejestru zabytków. Jest to serce zabytkowego Zwierzyńca.
 
@@ -16,10 +17,15 @@ Dzięki uprzejmości Technikum i Starostwa dla mieszkańców oraz zwiedzających
 
 Dziękujemy Technikum im. Jana Zamoyskiego w Zwierzyńcu oraz Powiat Zamojski za dbanie o nasze wspólne dobro. To również dzięki Wam Zwierzyniec zmienia się na lepsze z poszanowaniem swojej historii.
 
-![internat](/images/posts/internat.jpg)
-![stołówka](/images/posts/stolowka.jpg)
-![staw długiego kanału](/images/posts/staw_dlogiego_kanalu_2.jpg)
-![internat](/images/posts/internat_2.jpg)
-![dziedziniec](/images/posts/dziedziniec.jpg)
+![Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/internat.jpg)
+*Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu*
+![Stołówka technikum, Zwierzyniec](/images/posts/stolowka.jpg)
+*Oficyna boczna północna (stołówka i biblioteka) Technikum im. Jana Zamoyskiego w Zwierzyńcu*
+![Staw willowy, Zwierzyńczyk, Zwierzynie](/images/posts/staw_dlugiego_kanalu_2.jpg)
+*Staw willowy, Zwierzyńczyk, Zwierzyniec*
+![Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/internat_2.jpg)
+*Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu*
+![Ogród willowy (dziedziniec Technikum im. Jana Zamoyskiego w Zwierzyńcu), Zwierzyniec](/images/posts/dziedziniec.jpg)
+*Ogród willowy (dziedziniec Technikum im. Jana Zamoyskiego w Zwierzyńcu)*
 
-MJP
+MJP/foto. MJP
