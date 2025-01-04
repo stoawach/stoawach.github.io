@@ -32,14 +32,14 @@ IMAGES_FOLDER = "images/posts"  # Folder for images
 # Fetch posts from profile
 def fetch_posts_from_profile():
     today = datetime.now()
-    last_week_start = (today - timedelta(days=today.weekday() + 14)).date()
+    last_week_start = (today - timedelta(days=today.weekday() + 365)).date()
     last_week_end = (today - timedelta(days=today.weekday() + 1)).date()
 
     since_timestamp = int(last_week_start.strftime("%s"))
     until_timestamp = int(last_week_end.strftime("%s"))
 
     url = (f"{GRAPH_API_URL}/{PROFILE_ID}/posts?"
-           f"fields=id,message,created_time,attachments&"
+           f"fields=id,message,created_time,attachments,place&"
            f"since={since_timestamp}&until={until_timestamp}&access_token={ACCESS_TOKEN}")
 
     print(f"Pobieranie postów z profilu od {last_week_start} do {last_week_end}...")
@@ -56,7 +56,9 @@ def fetch_posts_from_profile():
 
 # Generate a safe filename
 def generate_safe_filename(title):
-    return re.sub(r"[^a-zA-Z0-9_-]", "", title.replace(" ", "_"))[:50]
+    translation_table = str.maketrans("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ", "acelnoszzACELNOSZZ")
+    sanitized_title = title.translate(translation_table)
+    return re.sub(r"[^a-zA-Z0-9_-]", "", sanitized_title.replace(" ", "_")[:50])
 
 # Add non-breaking spaces
 def add_non_breaking_spaces(text):
@@ -84,6 +86,28 @@ def add_non_breaking_spaces(text):
 
     return text
 
+# Extract tags from hashtags
+def extract_tags(message):
+    """
+    Extracts hashtags from the post content to use as tags.
+    """
+    hashtags = re.findall(r"#(\w+)", message)  # Find all hashtags
+    return ", ".join(hashtags) if hashtags else "general"  # Default tag if none found
+
+# Filter common tags
+def filter_common_tags(tags, common_tags):
+    """
+    Removes common tags that appear frequently in posts.
+    """
+    return [tag for tag in tags if tag not in common_tags]
+
+# Format links in Markdown
+def format_links(text):
+    """
+    Converts plain URLs in the text into Markdown hyperlinks.
+    """
+    return re.sub(r"(http[s]?://\S+)", r"[\1](\1)", text)  # Convert URLs to Markdown links
+
 # Save image
 def save_image(image_url, file_base_name):
     os.makedirs(IMAGES_FOLDER, exist_ok=True)
@@ -103,8 +127,28 @@ def save_image(image_url, file_base_name):
         print(f"Error fetching image: {e}")
     return image_path
 
+# Find related posts based on tags
+def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags):
+    """
+    Finds posts with overlapping tags from existing files.
+    """
+    related_posts = []
+    for file_name in all_existing_files:
+        with open(os.path.join(OUTPUT_FOLDER, file_name), "r", encoding="utf-8") as file:
+            content = file.read()
+            # Extract tags and post_id from metadata
+            tags_line = re.search(r"tags: \[(.*?)\]", content)
+            post_id_line = re.search(r"post_id: (\d+)", content)
+            if tags_line and post_id_line:
+                tags = tags_line.group(1).split(", ")
+                tags = filter_common_tags(tags, common_tags)
+                post_id = post_id_line.group(1)
+                if post_id != current_post_id and any(tag in current_tags for tag in tags):
+                    related_posts.append((file_name, tags))
+    return sorted(related_posts, key=lambda x: x[0], reverse=True)  # Sort by filename to get newest first
+
 # Save post as Markdown
-def save_post_as_markdown(post):
+def save_post_as_markdown(post, all_existing_files, common_tags):
     post_id = post.get("id")
     message = post.get("message", "No content").strip()
     created_time = post.get("created_time")
@@ -125,6 +169,9 @@ def save_post_as_markdown(post):
 
     # Extract tags from the message
     tags = extract_tags(message)
+
+    # Filter common tags
+    tags = filter_common_tags(tags.split(", "), common_tags)
 
     # Generate base name for files
     safe_title = generate_safe_filename(title)
@@ -151,37 +198,59 @@ def save_post_as_markdown(post):
         file.write(f"date: {formatted_date}\n")
         file.write(f"weight: {weight}\n")
         file.write(f"post_id: {post_id}\n")
-        file.write(f"tags: [{tags}]\n")
+        file.write(f"tags: [{', '.join(tags)}]\n")
         if image_path:
             file.write(f"featured_image: /{image_path}\n")
-        location = post.get("place", {}).get("name", "Unknown Location")
-        file.write(f"location: \"{location}\"\n")
+        place = post.get("place", {})
+        location_name = place.get("name", "Unknown Location")
+        location_lat = place.get("location", {}).get("latitude", None)
+        location_lon = place.get("location", {}).get("longitude", None)
+        file.write(f"location: \"{location_name}\"\n")
+        if location_lat and location_lon:
+            file.write(f"latitude: {location_lat}\n")
+            file.write(f"longitude: {location_lon}\n")
         file.write(f"---\n\n")
         if image_markdown:
             file.write(image_markdown)
         file.write(content)
 
-        # Add social sharing links
+        # Add related posts section
+        current_tags = tags
+        related_posts = find_related_posts(current_tags, post_id, all_existing_files, common_tags)
+        if related_posts:
+            file.write("\n\nPowiązane posty:\n")
+            for related_file, _ in related_posts[:5]:  # Limit to 5 related posts
+                with open(os.path.join(OUTPUT_FOLDER, related_file), "r", encoding="utf-8") as related_file_content:
+                    related_content = related_file_content.read()
+                    title_match = re.search(r'title: \"(.*?)\"', related_content)
+                    related_title = title_match.group(1) if title_match else "Nieznany tytuł"
+                file.write(f"- [{related_title}](/services/{related_file.replace('.md', '')})\n")
+
+
+
+        # Add social sharing link for Facebook
         sharing_links = (
-            "\n\n---\n\n"
-            "Share this post:\n"
-            "- [Facebook](https://www.facebook.com/sharer/sharer.php?u={file_base_name}.html)\n"
-            "- [Twitter](https://twitter.com/intent/tweet?text={title}&url={file_base_name}.html)\n"
+            f"\n\n---\n\n"
+            f"Udostępnij ten tekst na Facebooku:\n"
+            f"[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/services/{file_base_name})\n"
         )
         file.write(sharing_links)
 
     print(f"Post saved as: {file_name}")
 
-
 # Main function
 def main():
-    posts = fetch_posts_from_profile()
-    if not posts:
+    common_tags = ["general", "wydarzenia", "ogłoszenia"]  # Define common tags to exclude
+    all_posts = fetch_posts_from_profile()  # Fetch all posts
+    if not all_posts:
         print("No new posts found.")
         return
 
-    for post in posts:
-        save_post_as_markdown(post)
+    # List existing Markdown files in _services folder
+    all_existing_files = [f for f in os.listdir(OUTPUT_FOLDER) if f.endswith(".md")]
+
+    for post in all_posts:
+        save_post_as_markdown(post, all_existing_files, common_tags)
 
 if __name__ == "__main__":
     main()
