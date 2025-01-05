@@ -3,6 +3,7 @@ import os
 import json
 import re
 from datetime import datetime, timedelta
+from collections import Counter
 
 # Load secrets from secrets.json
 def load_secrets(file_path="secrets.json"):
@@ -32,7 +33,7 @@ IMAGES_FOLDER = "images/posts"  # Folder for images
 # Fetch posts from profile
 def fetch_posts_from_profile():
     today = datetime.now()
-    last_week_start = (today - timedelta(days=today.weekday() + 365)).date()
+    last_week_start = (today - timedelta(days=today.weekday() + 30)).date()
     last_week_end = (today - timedelta(days=today.weekday() + 1)).date()
 
     since_timestamp = int(last_week_start.strftime("%s"))
@@ -127,12 +128,14 @@ def save_image(image_url, file_base_name):
         print(f"Error fetching image: {e}")
     return image_path
 
-# Find related posts based on tags
-def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags):
+# Find related posts based on tags and content similarity
+def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags, current_content):
     """
-    Finds posts with overlapping tags from existing files.
+    Finds posts with overlapping tags and similar content from existing files.
     """
     related_posts = []
+    current_words = Counter(re.sub(r"[^\w\s]", "", current_content.lower()).split())
+
     for file_name in all_existing_files:
         with open(os.path.join(OUTPUT_FOLDER, file_name), "r", encoding="utf-8") as file:
             content = file.read()
@@ -143,9 +146,20 @@ def find_related_posts(current_tags, current_post_id, all_existing_files, common
                 tags = tags_line.group(1).split(", ")
                 tags = filter_common_tags(tags, common_tags)
                 post_id = post_id_line.group(1)
-                if post_id != current_post_id and any(tag in current_tags for tag in tags):
-                    related_posts.append((file_name, tags))
-    return sorted(related_posts, key=lambda x: x[0], reverse=True)  # Sort by filename to get newest first
+
+                # Skip self-references
+                if post_id == current_post_id:
+                    continue
+
+                # Compare tags
+                if any(tag in current_tags for tag in tags):
+                    # Compare content similarity
+                    other_words = Counter(re.sub(r"[^\w\s]", "", content.lower()).split())
+                    shared_words = sum((current_words & other_words).values())
+                    related_posts.append((file_name, shared_words))
+
+    # Sort by shared words (descending) and then by filename (newest first)
+    return sorted(related_posts, key=lambda x: (-x[1], x[0]))
 
 # Save post as Markdown
 def save_post_as_markdown(post, all_existing_files, common_tags):
@@ -216,17 +230,17 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
 
         # Add related posts section
         current_tags = tags
-        related_posts = find_related_posts(current_tags, post_id, all_existing_files, common_tags)
+        related_posts = find_related_posts(current_tags, post_id, all_existing_files, common_tags, content)
         if related_posts:
             file.write("\n\nPowiązane posty:\n")
             for related_file, _ in related_posts[:5]:  # Limit to 5 related posts
                 with open(os.path.join(OUTPUT_FOLDER, related_file), "r", encoding="utf-8") as related_file_content:
                     related_content = related_file_content.read()
                     title_match = re.search(r'title: \"(.*?)\"', related_content)
-                    related_title = title_match.group(1) if title_match else "Nieznany tytuł"
-                file.write(f"- [{related_title}](/services/{related_file.replace('.md', '')})\n")
-
-
+                    if not title_match:
+                        continue
+                    related_title = title_match.group(1)
+                    file.write(f"- [{related_title}](/services/{related_file.replace('.md', '')})\n")
 
         # Add social sharing link for Facebook
         sharing_links = (
