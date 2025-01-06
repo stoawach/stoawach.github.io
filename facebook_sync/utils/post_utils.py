@@ -66,6 +66,11 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
     formatted_date = datetime.strptime(created_time, "%Y-%m-%dT%H:%M:%S%z").strftime("%Y-%m-%d")
     weight = -int(datetime.strptime(created_time, "%Y-%m-%dT%H:%M:%S%z").strftime("%Y%m%d"))
 
+    # Determine the author based on the content of the post
+    author = "Stowarzyszenie Wachniewskiej"  # Default author
+    if "©MJP" in message:
+        author = "Michał Jan Patyk"
+
     # Extract first line as title
     title = message.split("\n")[0]
 
@@ -157,9 +162,23 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             "@type": "BlogPosting",
             "headline": title,
             "datePublished": formatted_date,
-            "author": {"@type": "Organization", "name": "Stowarzyszenie Wachniewskiej"},
-            "image": (f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}" if image_path else ""),
+            "author": {"@type": "Person" if author == "Michał Jan Patyk" else "Organization", "name": author},
+            "publisher": {
+                "@type": "Organization",
+                "name": "Stowarzyszenie im. Aleksandry Wachniewskiej",
+                "logo": {"@type": "ImageObject", "url": "https://stowarzyszeniewachniewskiej.pl/images/logo/logo.svg"},
+            },
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": f"https://stowarzyszeniewachniewskiej.pl/services/{file_base_name}",
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}" if image_path else "",
+            },
+            "keywords": ", ".join(tags),
             "articleBody": content,
+            "description": meta_description,
         }
 
         file.write('\n<script type="application/ld+json">\n')
