@@ -10,9 +10,25 @@ from utils.text_utils import add_non_breaking_spaces, extract_tags, filter_commo
 OUTPUT_FOLDER = "../_services"
 
 
+def generate_safe_filename(title):
+    """
+    Generates a safe filename by replacing spaces with underscores,
+    removing unsupported characters, and replacing Polish characters with their Latin equivalents.
+    """
+    # Replace Polish characters with their Latin equivalents
+    translation_table = str.maketrans("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ", "acelnoszzACELNOSZZ")
+    sanitized_title = title.translate(translation_table)
+
+    # Replace spaces with underscores and remove unsupported characters
+    safe_title = re.sub(r"[^a-zA-Z0-9_-]", "", sanitized_title.replace(" ", "_"))
+
+    # Truncate to 50 characters for file name safety
+    return safe_title[:50]
+
+
 def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags, current_content):
     """
-    Finds posts with overlapping tags and similar content from existing files.
+    Finds posts with overlapping tags and similar content from both existing and new files.
     """
     related_posts = []
     current_words = Counter(re.sub(r"[^\w\s]", "", current_content.lower()).split())
@@ -69,7 +85,7 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
     tags = filter_common_tags(tags.split(", "), common_tags)
 
     # Generate base name for files
-    safe_title = re.sub(r"[^a-zA-Z0-9_-]", "", title.replace(" ", "_")[:50])
+    safe_title = generate_safe_filename(title)
     file_base_name = f"{formatted_date}_{safe_title}"
 
     # Handle attachments
@@ -108,11 +124,6 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
         file.write(f'description: "{meta_description}"\n')
 
         file.write("---\n\n")
-
-        # Add H1 title
-        file.write(f"# {title}\n\n")
-
-        # Add image if exists
         if image_markdown:
             file.write(image_markdown)
         file.write(content)
@@ -128,9 +139,7 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
                     title_match = re.search(r"title: \"(.*?)\"", related_content)
                     if not title_match:
                         continue
-                    related_title = (
-                        (title_match.group(1)[:70] + "...") if len(title_match.group(1)) > 70 else title_match.group(1)
-                    )
+                    related_title = title_match.group(1)
                     file.write(f"- [{related_title}](/services/{related_file.replace('.md', '')})\n")
 
         # Add social sharing link
