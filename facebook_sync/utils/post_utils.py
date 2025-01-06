@@ -162,6 +162,7 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             "@type": "BlogPosting",
             "headline": title,
             "datePublished": formatted_date,
+            "dateModified": formatted_date,
             "author": {"@type": "Person" if author == "Michał Jan Patyk" else "Organization", "name": author},
             "publisher": {
                 "@type": "Organization",
@@ -174,15 +175,40 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             },
             "image": {
                 "@type": "ImageObject",
-                "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}" if image_path else "",
+                "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}",
             },
+            "articleSection": "Turystyka i Dziedzictwo Kulturowe",
             "keywords": ", ".join(tags),
+            "wordCount": len(content.split()),
             "articleBody": content,
-            "description": meta_description,
+            "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+        }
+
+        # JSON-LD Breadcrumbs
+
+        breadcrumbs = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://stowarzyszeniewachniewskiej.pl"},
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Services",
+                    "item": "https://stowarzyszeniewachniewskiej.pl/services",
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": title,
+                    "item": f"https://stowarzyszeniewachniewskiej.pl/services/{file_base_name}",
+                },
+            ],
         }
 
         file.write('\n<script type="application/ld+json">\n')
         file.write(json.dumps(json_ld, ensure_ascii=False, indent=2))
+        file.write(json.dumps(breadcrumbs, ensure_ascii=False, indent=2))
         file.write("\n</script>\n")
 
     print(f"Post saved as: {file_name}")
