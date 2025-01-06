@@ -1,7 +1,8 @@
-Facebook Sync for Stowarzyszenie Wachniewskiej
+#Facebook Sync for Stowarzyszenie Wachniewskiej
 
 Automatyczne pobieranie postów z Facebooka i ich publikacja na stronie stowarzyszenia.
-Funkcjonalności
+
+##Funkcjonalności
 
     Pobieranie postów z określonego profilu na Facebooku.
     Zapisywanie postów w formacie Markdown w folderze _services.
@@ -9,22 +10,22 @@ Funkcjonalności
     Generowanie powiązanych postów na podstawie tagów i treści.
     Dodawanie linków do udostępniania postów na Facebooku.
 
-Wymagania
+##Wymagania
 
     Python 3.8 lub nowszy
     Konto programisty Facebooka z dostępem do API
     Klucz dostępu (ACCESS_TOKEN) i ID profilu (PROFILE_ID)
 
-Instalacja
+##Instalacja
 
-    Klonowanie repozytorium
+Klonowanie repozytorium
 
-git clone https://github.com/mijapa/stoawach.github.io.git
-cd stoawach.github.io/facebook_sync
+    git clone https://github.com/mijapa/stoawach.github.io.git
+    cd stoawach.github.io/facebook_sync
 
 Instalacja wymaganych bibliotek Zainstaluj biblioteki wymagane przez projekt:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Konfiguracja pliku secrets.json W folderze facebook_sync utwórz plik secrets.json:
 
@@ -33,19 +34,19 @@ Konfiguracja pliku secrets.json W folderze facebook_sync utwórz plik secrets.js
         "profile_id": "ID_PROFILU"
     }
 
-Użycie
+##Użycie
 
-    Przejdź do folderu facebook_sync:
+Przejdź do folderu facebook_sync:
 
-cd facebook_sync
+    cd facebook_sync
 
 Uruchom synchronizację:
 
     python main.py
 
-    Posty zostaną zapisane w folderze _services, a obrazy w images/posts.
+Posty zostaną zapisane w folderze _services, a obrazy w images/posts.
 
-Struktura projektu
+##Struktura projektu
 
     facebook_sync/
     ├── main.py                  # Główna logika programu
