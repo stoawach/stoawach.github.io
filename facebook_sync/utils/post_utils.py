@@ -184,6 +184,9 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
         }
 
+        if author == "Michał Jan Patyk":
+            json_ld["copyrightHolder"] = {"@type": "Person", "name": "Michał Jan Patyk"}
+
         # JSON-LD Breadcrumbs
 
         breadcrumbs = {
