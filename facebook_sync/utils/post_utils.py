@@ -74,8 +74,8 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
     # Extract first line as title
     title = message.split("\n")[0]
 
-    # Remove title from message
-    content = "\n".join(message.split("\n")[1:]).strip()
+    # Remove title and hashtags from message
+    content = re.sub(r"#\w+", "", "\n".join(message.split("\n")[1:])).strip()
 
     # Add non-breaking spaces to content
     content = add_non_breaking_spaces(content)
