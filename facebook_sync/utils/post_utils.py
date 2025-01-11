@@ -55,8 +55,8 @@ def find_related_posts(current_tags, current_post_id, all_existing_files, common
                     shared_words = sum((current_words & other_words).values())
                     related_posts.append((file_name, shared_words))
 
-    # Sort by shared words (descending) and then by filename (newest first)
-    return sorted(related_posts, key=lambda x: (-x[1], x[0]))
+    # Sort by shared words (descending)
+    return sorted(related_posts, key=lambda x: (-x[1]))
 
 
 def save_post_as_markdown(post, all_existing_files, common_tags):
@@ -175,7 +175,7 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             },
             "image": {
                 "@type": "ImageObject",
-                "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}",
+                "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}" if image_path else None,
             },
             "articleSection": "Turystyka i Dziedzictwo Kulturowe",
             "keywords": ", ".join(tags),
