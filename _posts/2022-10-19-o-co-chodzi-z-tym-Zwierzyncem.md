@@ -12,7 +12,7 @@ Oddajmy głos doktorowi Mieczysławowi Kseniakowi, jednemu ze współautorów re
 “zaproponowano przebieg granicy ochrony konserwatorskiej w taki sposób, aby stworzyć możliwie najlepsze warunki do odtworzenia i utrzymania jego pierwotnych walorów” (M. Kseniak 1978).
 
 Jakie to walory?
-To unikalne w skali kraju i świata założenie willowe, które zachowało się w dobrym stanie - i ma szansę być odtworzone. 
+To unikalne w skali kraju i świata założenie willowe, które zachowało się w dobrym stanie - i ma szansę być odtworzone.
 “zasadniczym ogniwem łączącym całość założenia jest zespół pałacowy, należy więc odtworzyć jego uniwersalne powiązania kompozycyjno-widokowe tak z terenami dawnego parkanu Zwierzyńca jak i z osadą przemysłowo-mieszkalną.” (M. Kseniak 1978)
 “Był on [zwierzyniec] ukoronowaniem działań Jana Zamoyskiego, związanych z powstaniem i organizacją Ordynacji Zamojskiej i najnowocześniejszej jak na owe czasy fortyfikacji i renesansowego Zamościa, opartego na wzorcach włoskich, realizowanych w oparciu o projekt Bernardo Morando. Był to zwierzyniec godny królów i książąt, w czym zdecydowanie prześcigał włoskich Medyceuszy.” (M. Kseniak, K. Pałgan, P. Szkołut 2014)
 
