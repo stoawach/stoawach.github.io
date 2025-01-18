@@ -1,6 +1,6 @@
 ---
 title: Aktualności
-layout: services
+layout: posts
 description: Aktualności
 intro_image: "images/illustrations/mapa_1829.svg"
 intro_image_alt: Mapa pomiarowa Zwierzyńca z 1829 roku, Zwierzyńczyk

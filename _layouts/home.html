@@ -25,19 +25,19 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% for post in site.posts limit: limit %}
       <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+        <div class="post-summary">
+          <div class="post-content">
+            <h2 class="post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
-            {% assign service_content_lines = service.content | newline_to_br | split: '</p>'%}
-            {% assign service_content = '' %}
-            {% for line in service_content_lines offset:1 %}
-            {% assign service_content = service_content | append: line %}
+            {% assign post_content_lines = post.content | newline_to_br | split: '</p>' %}
+            {% assign post_content = '' %}
+            {% for line in post_content_lines offset:1 %}
+            {% assign post_content = post_content | append: line %}
             {% endfor %}
-            <p>{{ service_content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ post_content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">Więcej aktualności</a>
+        <a class="button button-primary" href="{{ "posts" | relative_url }}">Więcej aktualności</a>
       </div>
     </div>
   </div>
