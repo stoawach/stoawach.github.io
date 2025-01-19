@@ -5,7 +5,7 @@ Automatyczne pobieranie postów z Facebooka i ich publikacja na stronie stowarzy
 ##Funkcjonalności
 
     Pobieranie postów z określonego profilu na Facebooku.
-    Zapisywanie postów w formacie Markdown w folderze _services.
+    Zapisywanie postów w formacie Markdown w folderze _posts.
     Pobieranie obrazów w wysokiej jakości i zapisywanie w images/posts.
     Generowanie powiązanych postów na podstawie tagów i treści.
     Dodawanie linków do udostępniania postów na Facebooku.
@@ -44,7 +44,7 @@ Uruchom synchronizację:
 
     python main.py
 
-Posty zostaną zapisane w folderze _services, a obrazy w images/posts.
+Posty zostaną zapisane w folderze _posts, a obrazy w images/posts.
 
 ##Struktura projektu
 
@@ -55,5 +55,5 @@ Posty zostaną zapisane w folderze _services, a obrazy w images/posts.
     │   ├── file_utils.py        # Operacje na plikach i obrazach
     │   ├── post_utils.py        # Przetwarzanie postów i generowanie plików Markdown
     │   └── text_utils.py        # Operacje na tekście
-    _services/                   # Folder na wygenerowane pliki Markdown
+    _posts/                      # Folder na wygenerowane pliki Markdown
     images/posts/                # Folder na pobrane obrazy          # Folder na pobrane obrazy
