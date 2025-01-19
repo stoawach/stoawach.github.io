@@ -3,7 +3,7 @@ import os
 from utils.facebook_api import fetch_posts_from_profile
 from utils.post_utils import save_post_as_markdown
 
-OUTPUT_FOLDER = "../_services"
+OUTPUT_FOLDER = "../_posts"
 
 
 def main():
@@ -17,7 +17,7 @@ def main():
         print("No new posts found.")
         return
 
-    # List existing Markdown files in _services folder
+    # List existing Markdown files in _posts folder
     all_existing_files = [f for f in os.listdir(OUTPUT_FOLDER) if f.endswith(".md")]
 
     for post in all_posts:
