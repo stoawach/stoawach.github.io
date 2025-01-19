@@ -7,23 +7,34 @@ from datetime import datetime
 from utils.file_utils import save_image
 from utils.text_utils import add_non_breaking_spaces, extract_tags, filter_common_tags, format_links
 
-OUTPUT_FOLDER = "../_services"
+OUTPUT_FOLDER = "../_posts"
 
 
 def generate_safe_filename(title):
     """
-    Generates a safe filename by replacing spaces with underscores,
+    Generates a safe filename by replacing spaces with hyphens,
     removing unsupported characters, and replacing Polish characters with their Latin equivalents.
+    Ensures the truncated title consists of whole words.
     """
     # Replace Polish characters with their Latin equivalents
     translation_table = str.maketrans("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ", "acelnoszzACELNOSZZ")
     sanitized_title = title.translate(translation_table)
 
-    # Replace spaces with underscores and remove unsupported characters
-    safe_title = re.sub(r"[^a-zA-Z0-9_-]", "", sanitized_title.replace(" ", "_"))
+    # Replace spaces with hyphens and remove unsupported characters
+    sanitized_title = re.sub(r"[^a-zA-Z0-9 -]", "", sanitized_title).replace(" ", "-")
 
-    # Truncate to 50 characters for file name safety
-    return safe_title[:50]
+    # Truncate to the nearest whole word within 50 characters
+    if len(sanitized_title) > 50:
+        truncated = sanitized_title[:50].rsplit("-", 1)[0]  # Cut off at the last hyphen
+    else:
+        truncated = sanitized_title
+
+    # Remove the last word if it's shorter than 3 characters
+    words = truncated.split("-")
+    if words and len(words[-1]) < 3:
+        words.pop()
+
+    return "-".join(words)
 
 
 def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags, current_content):
@@ -91,7 +102,7 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
 
     # Generate base name for files
     safe_title = generate_safe_filename(title)
-    file_base_name = f"{formatted_date}_{safe_title}"
+    file_base_name = f"{formatted_date}-{safe_title}"
 
     # Handle attachments
     image_path = None
@@ -145,14 +156,16 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
                     if not title_match:
                         continue
                     related_title = title_match.group(1)
-                    file.write(f"- [{related_title}](/services/{related_file.replace('.md', '')})\n")
+                    related_safe_title = related_file.replace(".md", "").split("-", 3)[-1]  # Use safe title
+                    related_safe_title = re.sub(r"-+", "-", related_safe_title)  # Replace multiple hyphens with one
+                    file.write(f"- [{related_title}](/posts/{related_safe_title})\n")
 
         # Add social sharing link
         sharing_links = (
             f"\n\n---\n\n"
             f"Udostępnij ten tekst na Facebooku:\n"
             f"[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u="
-            f"https://stowarzyszeniewachniewskiej.pl/services/{file_base_name})\n"
+            f"https://stowarzyszeniewachniewskiej.pl/posts/{safe_title})\n"
         )
         file.write(sharing_links)
 
@@ -171,13 +184,13 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
             },
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": f"https://stowarzyszeniewachniewskiej.pl/services/{file_base_name}",
+                "@id": f"https://stowarzyszeniewachniewskiej.pl/posts/{safe_title}",
             },
             "image": {
                 "@type": "ImageObject",
                 "url": f"https://stowarzyszeniewachniewskiej.pl/{image_path.lstrip('../')}" if image_path else None,
             },
-            "articleSection": "Turystyka i Dziedzictwo Kulturowe",
+            "articleSection": "Dziedzictwo Kulturowe i Zabytki",
             "keywords": ", ".join(tags),
             "wordCount": len(content.split()),
             "articleBody": content,
@@ -197,20 +210,23 @@ def save_post_as_markdown(post, all_existing_files, common_tags):
                 {
                     "@type": "ListItem",
                     "position": 2,
-                    "name": "Services",
-                    "item": "https://stowarzyszeniewachniewskiej.pl/services",
+                    "name": "posts",
+                    "item": "https://stowarzyszeniewachniewskiej.pl/posts",
                 },
                 {
                     "@type": "ListItem",
                     "position": 3,
                     "name": title,
-                    "item": f"https://stowarzyszeniewachniewskiej.pl/services/{file_base_name}",
+                    "item": f"https://stowarzyszeniewachniewskiej.pl/posts/{safe_title}",
                 },
             ],
         }
 
         file.write('\n<script type="application/ld+json">\n')
         file.write(json.dumps(json_ld, ensure_ascii=False, indent=2))
+        file.write("\n</script>\n")
+
+        file.write('<script type="application/ld+json">\n')
         file.write(json.dumps(breadcrumbs, ensure_ascii=False, indent=2))
         file.write("\n</script>\n")
 
