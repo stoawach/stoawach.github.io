@@ -24,15 +24,17 @@ def generate_safe_filename(title):
     sanitized_title = re.sub(r"[^a-zA-Z0-9 -]", "", sanitized_title).replace(" ", "-")
 
     # Truncate to the nearest whole word within 50 characters
-    if len(sanitized_title) > 50:
-        truncated = sanitized_title[:50].rsplit("-", 1)[0]  # Cut off at the last hyphen
+    if len(sanitized_title) > 60:
+        truncated = sanitized_title[:60].rsplit("-", 1)[0]  # Cut off at the last hyphen
     else:
         truncated = sanitized_title
 
-    # Remove the last word if it's shorter than 3 characters
+    # Remove the last word if it's shorter than 3 characters and NOT purely numeric
     words = truncated.split("-")
-    if words and len(words[-1]) < 3:
-        words.pop()
+    if words:
+        last_word = words[-1]
+        if len(last_word) < 3 and not last_word.isdigit():
+            words.pop()
 
     return "-".join(words)
 
