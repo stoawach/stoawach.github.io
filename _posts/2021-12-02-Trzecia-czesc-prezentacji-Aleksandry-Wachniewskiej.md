@@ -1,5 +1,5 @@
 ---
-title: "Trzecia część prezentacji Aleksandry Wachniewskiej"
+title: "Historia Aleksandry Wachniewskiej - część III"
 date: 2021-12-02
 weight: -20211202
 post_id: 103478058758108_128044452968135

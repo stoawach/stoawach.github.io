@@ -1,5 +1,5 @@
 ---
-title: "Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej"
+title: "Historia Aleksandry Wachniewskiej - część I"
 date: 2021-11-26
 weight: -20211126
 post_id: 103478058758108_126791469760100

@@ -1,5 +1,5 @@
 ---
-title: "Druga część naszej serii"
+title: "Historia Aleksandry Wachniewskiej - część II"
 date: 2021-11-29
 weight: -20211129
 post_id: 103478058758108_127410566364857

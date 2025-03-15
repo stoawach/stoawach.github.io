@@ -1,5 +1,5 @@
 ---
-title: "Historia Aleksandry Wachniewskiej - część VI. "
+title: "Historia Aleksandry Wachniewskiej - część VI"
 date: 2021-12-23
 weight: -20211223
 post_id: 103478058758108_133006222471958
