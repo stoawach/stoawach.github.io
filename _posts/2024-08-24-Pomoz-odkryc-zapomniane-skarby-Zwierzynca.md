@@ -1,0 +1,103 @@
+---
+title: "Pomóż odkryć zapomniane skarby Zwierzyńca!"
+date: 2024-08-24
+weight: -20240824
+post_id: 103478058758108_484950727580119
+tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
+featured_image: /../images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg
+location: "Zwierzyńczyk"
+latitude: 50.608727170481
+longitude: 22.970324203776
+description: "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willow..."
+---
+
+![Pomóż odkryć zapomniane skarby Zwierzyńca!](/images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg)
+*Pomóż odkryć zapomniane skarby Zwierzyńca!*
+
+Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willowego Zwierzyńca. Ten obraz to tylko jeden z wielu elementów tego magicznego miejsca.
+
+Zwiększenie świadomości społecznej na temat tego wyjątkowego zakątka jest kluczowe, by przywrócić jego dawną świetność. Rewaloryzacja wartości kompozycyjnych i krajobrazowych pozwoli na nowo odkryć piękno, które skrywa Zwierzyniec.
+
+Podziel się tym postem i wesprzyj działania na rzecz rewitalizacji Zwierzyńca.
+
+
+
+©MJP
+
+Powiązane posty:
+- [Mgła tajemnic spowija zwierzyniecką willę](/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille)
+- [To element założenia willowego w Zwierzyńcu](/posts/To-element-zalozenia-willowego-w-Zwierzyncu)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
+- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
+
+
+---
+
+Udostępnij ten tekst na Facebooku:
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Pomóż odkryć zapomniane skarby Zwierzyńca!",
+  "datePublished": "2024-08-24",
+  "dateModified": "2024-08-24",
+  "author": {
+    "@type": "Person",
+    "name": "Michał Jan Patyk"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://stowarzyszeniewachniewskiej.pl/images/logo/logo.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg"
+  },
+  "articleSection": "Dziedzictwo Kulturowe i Zabytki",
+  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "wordCount": 72,
+  "articleBody": "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willowego Zwierzyńca. Ten obraz to tylko jeden z wielu elementów tego magicznego miejsca.\n\nZwiększenie świadomości społecznej na temat tego wyjątkowego zakątka jest kluczowe, by przywrócić jego dawną świetność. Rewaloryzacja wartości kompozycyjnych i krajobrazowych pozwoli na nowo odkryć piękno, które skrywa Zwierzyniec.\n\nPodziel się tym postem i wesprzyj działania na rzecz rewitalizacji Zwierzyńca.\n\n             \n\n©MJP",
+  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Michał Jan Patyk"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://stowarzyszeniewachniewskiej.pl"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "posts",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Pomóż odkryć zapomniane skarby Zwierzyńca!",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca"
+    }
+  ]
+}
+</script>
