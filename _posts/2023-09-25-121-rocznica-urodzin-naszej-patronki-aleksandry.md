@@ -4,14 +4,14 @@ date: 2023-09-25
 weight: -20230925
 post_id: 103478058758108_292801090128418
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-09-25-121-rocznica-urodzin-naszej-Patronki-Aleksandry.jpg
+featured_image: /../images/posts/2023-09-25-121-rocznica-urodzin-naszej-patronki-aleksandry.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Od czasu zlikwidowania niepodzielonego majątku, jakim była Ordynacja Zamojska, odnotowano trzy pokoleniowe próby ratowania renesansowej willi. Pierwsz..."
 ---
 
-![121 rocznica urodzin naszej Patronki Aleksandry Wachniewskiej](/images/posts/2023-09-25-121-rocznica-urodzin-naszej-Patronki-Aleksandry.jpg)
+![121 rocznica urodzin naszej Patronki Aleksandry Wachniewskiej](/images/posts/2023-09-25-121-rocznica-urodzin-naszej-patronki-aleksandry.jpg)
 *121 rocznica urodzin naszej Patronki Aleksandry Wachniewskiej*
 
 Od czasu zlikwidowania niepodzielonego majątku, jakim była Ordynacja Zamojska, odnotowano trzy pokoleniowe próby ratowania renesansowej willi.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-25-121-rocznica-urodzin-naszej-Patronki-Aleksandry.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-25-121-rocznica-urodzin-naszej-patronki-aleksandry.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

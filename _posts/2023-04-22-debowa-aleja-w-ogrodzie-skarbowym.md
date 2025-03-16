@@ -4,14 +4,14 @@ date: 2023-04-22
 weight: -20230422
 post_id: 103478058758108_204407318967796
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-04-22-Debowa-aleja-w-ogrodzie-skarbowym.jpg
+featured_image: /../images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Dębowa aleja w ogrodzie skarbowym](/images/posts/2023-04-22-Debowa-aleja-w-ogrodzie-skarbowym.jpg)
+![Dębowa aleja w ogrodzie skarbowym](/images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg)
 *Dębowa aleja w ogrodzie skarbowym*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-22-Debowa-aleja-w-ogrodzie-skarbowym.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

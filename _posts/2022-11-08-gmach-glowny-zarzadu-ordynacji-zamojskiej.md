@@ -4,14 +4,14 @@ date: 2022-11-08
 weight: -20221108
 post_id: 103478058758108_147793047962557
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]
-featured_image: /../images/posts/2022-11-08-Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej.jpg
+featured_image: /../images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Tak, jak Kościółek na Wodzie, tak i Gmach Główny Zarządu Ordynacji Zamojskiej jest częścią większej całości - założenia willowo-ogrodowego. Dopiero po..."
 ---
 
-![Gmach Główny Zarządu Ordynacji Zamojskiej.](/images/posts/2022-11-08-Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej.jpg)
+![Gmach Główny Zarządu Ordynacji Zamojskiej.](/images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg)
 *Gmach Główny Zarządu Ordynacji Zamojskiej.*
 
 Tak, jak Kościółek na Wodzie, tak i Gmach Główny Zarządu Ordynacji Zamojskiej jest częścią większej całości - założenia willowo-ogrodowego. Dopiero połączenie z pozostałymi elementami ukaże prawdziwą wartość tego obiektu.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-08-Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",

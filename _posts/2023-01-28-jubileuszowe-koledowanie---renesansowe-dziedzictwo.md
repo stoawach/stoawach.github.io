@@ -4,14 +4,14 @@ date: 2023-01-28
 weight: -20230128
 post_id: 103478058758108_166928639382331
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-28-Jubileuszowe-koledowanie---Renesansowe-dziedzictwo.jpg
+featured_image: /../images/posts/2023-01-28-jubileuszowe-koledowanie---renesansowe-dziedzictwo.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i..."
 ---
 
-![Jubileuszowe kolędowanie - Renesansowe dziedzictwo.](/images/posts/2023-01-28-Jubileuszowe-koledowanie---Renesansowe-dziedzictwo.jpg)
+![Jubileuszowe kolędowanie - Renesansowe dziedzictwo.](/images/posts/2023-01-28-jubileuszowe-koledowanie---renesansowe-dziedzictwo.jpg)
 *Jubileuszowe kolędowanie - Renesansowe dziedzictwo.*
 
 Na pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i skąpany we mgle długi kanał.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-28-Jubileuszowe-koledowanie---Renesansowe-dziedzictwo.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-28-jubileuszowe-koledowanie---renesansowe-dziedzictwo.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

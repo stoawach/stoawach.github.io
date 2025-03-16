@@ -4,14 +4,14 @@ date: 2023-04-15
 weight: -20230415
 post_id: 103478058758108_200529529355575
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-04-15-Deptak-dawniej.jpg
+featured_image: /../images/posts/2023-04-15-deptak-dawniej.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Deptak dawniej](/images/posts/2023-04-15-Deptak-dawniej.jpg)
+![Deptak dawniej](/images/posts/2023-04-15-deptak-dawniej.jpg)
 *Deptak dawniej*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-15-Deptak-dawniej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-15-deptak-dawniej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

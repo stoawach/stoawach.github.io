@@ -4,14 +4,14 @@ date: 2022-12-14
 weight: -20221214
 post_id: 103478058758108_156036697138192
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-14-Degradacja-rezydencji.jpg
+featured_image: /../images/posts/2022-12-14-degradacja-rezydencji.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Degradacja rezydencji.](/images/posts/2022-12-14-Degradacja-rezydencji.jpg)
+![Degradacja rezydencji.](/images/posts/2022-12-14-degradacja-rezydencji.jpg)
 *Degradacja rezydencji.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-14-Degradacja-rezydencji.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-14-degradacja-rezydencji.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

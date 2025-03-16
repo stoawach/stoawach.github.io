@@ -4,14 +4,14 @@ date: 2024-05-01
 weight: -20240501
 post_id: 103478058758108_415885904486602
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-05-01-Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca.jpg
+featured_image: /../images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na zdjęciu ponownie prezentujemy barokowy kościółek “na wodzie”, otulony wiosenną zielenią. To najcenniejszy i najbardziej rozpoznawalny zabytek Zwier..."
 ---
 
-![Odkryj następne wskazówki od NID na temat Zwierzyńca](/images/posts/2024-05-01-Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca.jpg)
+![Odkryj następne wskazówki od NID na temat Zwierzyńca](/images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca.jpg)
 *Odkryj następne wskazówki od NID na temat Zwierzyńca*
 
 Na zdjęciu ponownie prezentujemy barokowy kościółek “na wodzie”, otulony wiosenną zielenią. To najcenniejszy i najbardziej rozpoznawalny zabytek Zwierzyńca zbudowany w 1741 roku, usytuowany w założeniu willowym.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-01-Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

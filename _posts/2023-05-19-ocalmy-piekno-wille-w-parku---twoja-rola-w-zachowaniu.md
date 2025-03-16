@@ -4,14 +4,14 @@ date: 2023-05-19
 weight: -20230519
 post_id: 103478058758108_220049377403590
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-05-19-Ocalmy-piekno-Wille-w-parku---Twoja-rola-w-zachowaniu.jpg
+featured_image: /../images/posts/2023-05-19-ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej po..."
 ---
 
-![Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.](/images/posts/2023-05-19-Ocalmy-piekno-Wille-w-parku---Twoja-rola-w-zachowaniu.jpg)
+![Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.](/images/posts/2023-05-19-ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu.jpg)
 *Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.*
 
 Zastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej pomocy. Poprzez swój komentarz, możesz przyczynić się do wpisania willi do rejestru zabytków, co pomoże w ich ochronie i zachowaniu dla przyszłych pokoleń.
@@ -72,7 +72,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-19-Ocalmy-piekno-Wille-w-parku---Twoja-rola-w-zachowaniu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-19-ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

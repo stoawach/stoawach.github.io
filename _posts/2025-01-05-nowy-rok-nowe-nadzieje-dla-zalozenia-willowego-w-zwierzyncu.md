@@ -4,14 +4,14 @@ date: 2025-01-05
 weight: -20250105
 post_id: 103478058758108_577624414979416
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2025-01-05-Nowy-rok-nowe-nadzieje-dla-Zalozenia-Willowego-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego nie..."
 ---
 
-![Nowy rok, nowe nadzieje dla Założenia Willowego w Zwierzyńcu](/images/posts/2025-01-05-Nowy-rok-nowe-nadzieje-dla-Zalozenia-Willowego-w-Zwierzyncu.jpg)
+![Nowy rok, nowe nadzieje dla Założenia Willowego w Zwierzyńcu](/images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu.jpg)
 *Nowy rok, nowe nadzieje dla Założenia Willowego w Zwierzyńcu*
 
 Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego niezwykłe piękno.
@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-01-05-Nowy-rok-nowe-nadzieje-dla-Zalozenia-Willowego-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

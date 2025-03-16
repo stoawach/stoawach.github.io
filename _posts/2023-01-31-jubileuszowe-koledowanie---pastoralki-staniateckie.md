@@ -4,14 +4,14 @@ date: 2023-01-31
 weight: -20230131
 post_id: 103478058758108_167601209315074
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-31-Jubileuszowe-koledowanie---pastoralki-staniateckie.jpg
+featured_image: /../images/posts/2023-01-31-jubileuszowe-koledowanie---pastoralki-staniateckie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na zdjęciu widoczny jest staw kościelny. Na środku widać najbardziej rozpoznawalny zwierzyniecki zabytek - kościółek na wodzie. W głębi, z prawej stro..."
 ---
 
-![Jubileuszowe kolędowanie - pastorałki staniąteckie.](/images/posts/2023-01-31-Jubileuszowe-koledowanie---pastoralki-staniateckie.jpg)
+![Jubileuszowe kolędowanie - pastorałki staniąteckie.](/images/posts/2023-01-31-jubileuszowe-koledowanie---pastoralki-staniateckie.jpg)
 *Jubileuszowe kolędowanie - pastorałki staniąteckie.*
 
 Na zdjęciu widoczny jest staw kościelny. Na środku widać najbardziej rozpoznawalny zwierzyniecki zabytek - kościółek na wodzie. W głębi, z prawej strony można dostrzec budynek oberży. Z lewej strony widać dzwonnicę. To wszystko elementy programu idealnej willi wypoczynkowej rozwijanego na przestrzeni wieków w Zwierzyńcu.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-31-Jubileuszowe-koledowanie---pastoralki-staniateckie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-31-jubileuszowe-koledowanie---pastoralki-staniateckie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

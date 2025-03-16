@@ -4,14 +4,14 @@ date: 2024-01-20
 weight: -20240120
 post_id: 103478058758108_357249393683587
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły]
-featured_image: /../images/posts/2024-01-20-Remont-konserwatorski-kosciola-pw-sw-Jana-Nepomucena.jpg
+featured_image: /../images/posts/2024-01-20-remont-konserwatorski-kosciola-pwswjana-nepomucena.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zwierzyniecki kościół “na wodzie” niedługo odzyska swój blask. Wkrótce poznamy program prac, jakie zostaną wykonane w ramach “Remontu konserwatorskieg..."
 ---
 
-![Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu](/images/posts/2024-01-20-Remont-konserwatorski-kosciola-pw-sw-Jana-Nepomucena.jpg)
+![Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu](/images/posts/2024-01-20-remont-konserwatorski-kosciola-pwswjana-nepomucena.jpg)
 *Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu*
 
 Zwierzyniecki kościół “na wodzie” niedługo odzyska swój blask. Wkrótce poznamy program prac, jakie zostaną wykonane w ramach “Remontu konserwatorskiego Kościoła p.w. św. Jana Nepomucena w Zwierzyńcu wraz z renowacją otoczenia przy kościele”. Wartość robót budowlanych ma wynieść trzy i pół miliona złotych. Obserwuj nasz profil, by razem z nami na bieżąco śledzić przebieg prac.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-20-Remont-konserwatorski-kosciola-pw-sw-Jana-Nepomucena.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-20-remont-konserwatorski-kosciola-pwswjana-nepomucena.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły",

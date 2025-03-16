@@ -4,12 +4,12 @@ date: 2022-10-31
 weight: -20221031
 post_id: 103478058758108_145854481489747
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, parki]
-featured_image: /../images/posts/2022-10-31-Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2022-10-31-skapany-we-mgle-park-srodowiskowy-w-zwierzyncu.jpg
 location: "Unknown Location"
 description: "Park znajduje się w części układu przestrzennego miasta wpisanej do rejestru zabytków już w 1978 r. Jak każdy zabytek rejestrowy podlega ochronie praw..."
 ---
 
-![Skąpany we mgle park środowiskowy w Zwierzyńcu.](/images/posts/2022-10-31-Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu.jpg)
+![Skąpany we mgle park środowiskowy w Zwierzyńcu.](/images/posts/2022-10-31-skapany-we-mgle-park-srodowiskowy-w-zwierzyncu.jpg)
 *Skąpany we mgle park środowiskowy w Zwierzyńcu.*
 
 Park znajduje się w części układu przestrzennego miasta wpisanej do rejestru zabytków już w 1978 r. Jak każdy zabytek rejestrowy podlega ochronie prawnej.
@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-10-31-Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-10-31-skapany-we-mgle-park-srodowiskowy-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, parki",

@@ -4,14 +4,14 @@ date: 2024-09-15
 weight: -20240915
 post_id: 103478058758108_499521886123003
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-09-15-30-lat-temu-prezydent-RP-uznal-pierwszych-15-zabytkow.jpg
+featured_image: /../images/posts/2024-09-15-30-lat-temu-prezydent-rp-uznal-pierwszych-15-zabytkow.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. To element założenia willowego...."
 ---
 
-![30 lat temu prezydent RP uznał pierwszych 15 zabytków za Pomniki Historii. Dlaczego to ważne również z punktu widzenia Zwierzyńca?](/images/posts/2024-09-15-30-lat-temu-prezydent-RP-uznal-pierwszych-15-zabytkow.jpg)
+![30 lat temu prezydent RP uznał pierwszych 15 zabytków za Pomniki Historii. Dlaczego to ważne również z punktu widzenia Zwierzyńca?](/images/posts/2024-09-15-30-lat-temu-prezydent-rp-uznal-pierwszych-15-zabytkow.jpg)
 *30 lat temu prezydent RP uznał pierwszych 15 zabytków za Pomniki Historii. Dlaczego to ważne również z punktu widzenia Zwierzyńca?*
 
 Zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. To element założenia willowego.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-15-30-lat-temu-prezydent-RP-uznal-pierwszych-15-zabytkow.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-15-30-lat-temu-prezydent-rp-uznal-pierwszych-15-zabytkow.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

@@ -4,14 +4,14 @@ date: 2024-12-28
 weight: -20241228
 post_id: 103478058758108_572190085522849
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2024-12-28-Perla-Zalozenia-Willowego-w-Zwierzyncu-w-zimowej-scenerii.jpg
+featured_image: /../images/posts/2024-12-28-perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Zdjęcie przedstawia kościół pw. św. Jana Nepomucena w Zwierzyńcu. Tafla stawu kościelnego delikatnie pokryta cienką warstwą lodu odbija świątynię i no..."
 ---
 
-![Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/images/posts/2024-12-28-Perla-Zalozenia-Willowego-w-Zwierzyncu-w-zimowej-scenerii.jpg)
+![Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/images/posts/2024-12-28-perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii.jpg)
 *Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii*
 
 Zdjęcie przedstawia kościół pw. św. Jana Nepomucena w Zwierzyńcu. Tafla stawu kościelnego delikatnie pokryta cienką warstwą lodu odbija świątynię i nocne niebo. Gałęzie drzew zdobi świeży śnieg. Zimowa aura dodaje temu miejscu osobliwego uroku.
@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-28-Perla-Zalozenia-Willowego-w-Zwierzyncu-w-zimowej-scenerii.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-28-perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

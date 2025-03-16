@@ -4,14 +4,14 @@ date: 2022-12-02
 weight: -20221202
 post_id: 103478058758108_153242617417600
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-02-Przemiany-niezwyklej-willi.jpg
+featured_image: /../images/posts/2022-12-02-przemiany-niezwyklej-willi.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Przemiany niezwykłej willi.](/images/posts/2022-12-02-Przemiany-niezwyklej-willi.jpg)
+![Przemiany niezwykłej willi.](/images/posts/2022-12-02-przemiany-niezwyklej-willi.jpg)
 *Przemiany niezwykłej willi.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-02-Przemiany-niezwyklej-willi.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-02-przemiany-niezwyklej-willi.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

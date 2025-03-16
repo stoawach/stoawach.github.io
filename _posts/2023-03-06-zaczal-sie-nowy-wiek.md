@@ -4,14 +4,14 @@ date: 2023-03-06
 weight: -20230306
 post_id: 103478058758108_178405508234644
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-03-06-Zaczal-sie-nowy-wiek.jpg
+featured_image: /../images/posts/2023-03-06-zaczal-sie-nowy-wiek.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Zaczął się nowy wiek.](/images/posts/2023-03-06-Zaczal-sie-nowy-wiek.jpg)
+![Zaczął się nowy wiek.](/images/posts/2023-03-06-zaczal-sie-nowy-wiek.jpg)
 *Zaczął się nowy wiek.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-06-Zaczal-sie-nowy-wiek.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-06-zaczal-sie-nowy-wiek.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

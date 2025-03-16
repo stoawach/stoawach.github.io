@@ -4,14 +4,14 @@ date: 2022-12-18
 weight: -20221218
 post_id: 103478058758108_156954623713066
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-18-Pierwszy-powazny-remont.jpg
+featured_image: /../images/posts/2022-12-18-pierwszy-powazny-remont.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Pierwszy poważny remont.](/images/posts/2022-12-18-Pierwszy-powazny-remont.jpg)
+![Pierwszy poważny remont.](/images/posts/2022-12-18-pierwszy-powazny-remont.jpg)
 *Pierwszy poważny remont.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-18-Pierwszy-powazny-remont.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-18-pierwszy-powazny-remont.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

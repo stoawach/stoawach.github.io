@@ -4,14 +4,14 @@ date: 2024-04-13
 weight: -20240413
 post_id: 103478058758108_405399342201925
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, NarodowyInstytutDziedzictwa]
-featured_image: /../images/posts/2024-04-13-Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie.jpg
+featured_image: /../images/posts/2024-04-13-potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "NID to państwowa instytucja kultury, która jest eksperckim wsparciem dla Ministerstwa Kultury i Dziedzictwa Narodowego oraz instytucji publicznych w z..."
 ---
 
-![Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/images/posts/2024-04-13-Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie.jpg)
+![Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/images/posts/2024-04-13-potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie.jpg)
 *Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!*
 
 Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie! To dlatego niezwykle ważne dla niego są wskazania konserwatorskie zawarte w opracowaniu studialnym przygotowanym przez Narodowy Instytut Dziedzictwa.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-13-Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-13-potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, NarodowyInstytutDziedzictwa",

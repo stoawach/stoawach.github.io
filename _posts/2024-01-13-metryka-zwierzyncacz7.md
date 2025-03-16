@@ -4,14 +4,14 @@ date: 2024-01-13
 weight: -20240113
 post_id: 103478058758108_353206120754581
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-01-13-Metryka-Zwierzynca-cz-7.jpg
+featured_image: /../images/posts/2024-01-13-metryka-zwierzyncacz7.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "W tym roku 50-lecie świętuje Roztoczański Park Narodowy. To właśnie on chroni dziś lasy, wśród których hetman i kanclerz Jan Zamoyski założył Zwierzyn..."
 ---
 
-![Metryka Zwierzyńca cz. 7](/images/posts/2024-01-13-Metryka-Zwierzynca-cz-7.jpg)
+![Metryka Zwierzyńca cz. 7](/images/posts/2024-01-13-metryka-zwierzyncacz7.jpg)
 *Metryka Zwierzyńca cz. 7*
 
 W tym roku 50-lecie świętuje Roztoczański Park Narodowy. To właśnie on chroni dziś lasy, wśród których hetman i kanclerz Jan Zamoyski założył Zwierzyniec.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-13-Metryka-Zwierzynca-cz-7.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-13-metryka-zwierzyncacz7.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

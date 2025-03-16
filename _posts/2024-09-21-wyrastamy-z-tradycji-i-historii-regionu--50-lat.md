@@ -4,14 +4,14 @@ date: 2024-09-21
 weight: -20240921
 post_id: 103478058758108_503805545694637
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczanskiParkNarodowy, RoztoczanskiPN]
-featured_image: /../images/posts/2024-09-21-Wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg
+featured_image: /../images/posts/2024-09-21-wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg
 location: "Pałac Plenipotenta w Zwierzyńcu"
 latitude: 50.6059
 longitude: 22.9668
 description: "Zdjęcie przedstawia Willę Plenipotenta w porannych promieniach słońca. To element ewoluującego na przestrzeni wieków założenia willowego w Zwierzyńcu...."
 ---
 
-![Wyrastamy z tradycji i historii regionu – 50 lat Roztoczańskiego Parku Narodowego dla przyrody i człowieka](/images/posts/2024-09-21-Wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg)
+![Wyrastamy z tradycji i historii regionu – 50 lat Roztoczańskiego Parku Narodowego dla przyrody i człowieka](/images/posts/2024-09-21-wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg)
 *Wyrastamy z tradycji i historii regionu – 50 lat Roztoczańskiego Parku Narodowego dla przyrody i człowieka*
 
 Zdjęcie przedstawia Willę Plenipotenta w porannych promieniach słońca. To element ewoluującego na przestrzeni wieków założenia willowego w Zwierzyńcu. Obecnie w „pałacu” mieści się siedziba dyrekcji RPN.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-21-Wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-21-wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczanskiParkNarodowy, RoztoczanskiPN",

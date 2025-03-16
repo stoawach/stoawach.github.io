@@ -4,14 +4,14 @@ date: 2022-11-10
 weight: -20221110
 post_id: 103478058758108_148259047915957
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-10-Oficyna-skrzydlowa-poludniowa.jpg
+featured_image: /../images/posts/2022-11-10-oficyna-skrzydlowa-poludniowa.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Kolejny element większej całości - założenia willowo-ogrodowego. Dopiero wraz z nim oficyna nabiera pełni wartości...."
 ---
 
-![Oficyna skrzydłowa południowa.](/images/posts/2022-11-10-Oficyna-skrzydlowa-poludniowa.jpg)
+![Oficyna skrzydłowa południowa.](/images/posts/2022-11-10-oficyna-skrzydlowa-poludniowa.jpg)
 *Oficyna skrzydłowa południowa.*
 
 Kolejny element większej całości - założenia willowo-ogrodowego. Dopiero wraz z nim oficyna nabiera pełni wartości.
@@ -61,7 +61,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-10-Oficyna-skrzydlowa-poludniowa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-10-oficyna-skrzydlowa-poludniowa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

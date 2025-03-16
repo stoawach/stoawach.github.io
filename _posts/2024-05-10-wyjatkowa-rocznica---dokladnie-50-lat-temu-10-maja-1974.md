@@ -4,14 +4,14 @@ date: 2024-05-10
 weight: -20240510
 post_id: 103478058758108_421348990606960
 tags: [RoztoczańskiParkNarodowy, 50latRPN, OchronaPrzyrody, DziedzictwoPrzyrodnicze]
-featured_image: /../images/posts/2024-05-10--Dzis-przypada-wyjatkowa-rocznica---dokladnie-50-lat-temu.jpg
+featured_image: /../images/posts/2024-05-10-wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974.jpg
 location: "Roztoczański Park Narodowy"
 latitude: 50.60584383531
 longitude: 22.966814683821
 description: "Początkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsz..."
 ---
 
-![🎉 Dziś przypada wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy 🌳](/images/posts/2024-05-10--Dzis-przypada-wyjatkowa-rocznica---dokladnie-50-lat-temu.jpg)
+![🎉 Dziś przypada wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy 🌳](/images/posts/2024-05-10-wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974.jpg)
 *🎉 Dziś przypada wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy 🌳*
 
 Początkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsze fragmenty roztoczańskich lasów o naturalnym, puszczańskim charakterze. Dziś Park stanowi nie tylko skarbnicę różnorodności przyrodniczej ale też symbol ochrony przyrody i dziedzictwa kulturowego Roztocza.
@@ -58,7 +58,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-10--Dzis-przypada-wyjatkowa-rocznica---dokladnie-50-lat-temu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-10-wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "RoztoczańskiParkNarodowy, 50latRPN, OchronaPrzyrody, DziedzictwoPrzyrodnicze",

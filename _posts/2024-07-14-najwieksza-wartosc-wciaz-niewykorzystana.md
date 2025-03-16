@@ -4,14 +4,14 @@ date: 2024-07-14
 weight: -20240714
 post_id: 103478058758108_460294023379123
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-07-14-Najwieksza-wartosc-wciaz-niewykorzystana.jpg
+featured_image: /../images/posts/2024-07-14-najwieksza-wartosc-wciaz-niewykorzystana.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu. To element zwierzynieckiego założenia willowego...."
 ---
 
-![Największa wartość wciąż niewykorzystana?](/images/posts/2024-07-14-Najwieksza-wartosc-wciaz-niewykorzystana.jpg)
+![Największa wartość wciąż niewykorzystana?](/images/posts/2024-07-14-najwieksza-wartosc-wciaz-niewykorzystana.jpg)
 *Największa wartość wciąż niewykorzystana?*
 
 Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu. To element zwierzynieckiego założenia willowego.
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-07-14-Najwieksza-wartosc-wciaz-niewykorzystana.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-07-14-najwieksza-wartosc-wciaz-niewykorzystana.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

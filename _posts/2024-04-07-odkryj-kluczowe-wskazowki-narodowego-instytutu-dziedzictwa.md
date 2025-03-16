@@ -4,14 +4,14 @@ date: 2024-04-07
 weight: -20240407
 post_id: 103478058758108_401462412595618
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-04-07-Odkryj-kluczowe-wskazowki-Narodowego-Instytutu-Dziedzictwa.jpg
+featured_image: /../images/posts/2024-04-07-odkryj-kluczowe-wskazowki-narodowego-instytutu-dziedzictwa.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "W ubiegłym roku Narodowy Instytut Dziedzictwa przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie dotyczące przest..."
 ---
 
-![Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa. Dzięki realizacji tych zaleceń Zwierzyniec może odzyskać swój blask!](/images/posts/2024-04-07-Odkryj-kluczowe-wskazowki-Narodowego-Instytutu-Dziedzictwa.jpg)
+![Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa. Dzięki realizacji tych zaleceń Zwierzyniec może odzyskać swój blask!](/images/posts/2024-04-07-odkryj-kluczowe-wskazowki-narodowego-instytutu-dziedzictwa.jpg)
 *Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa. Dzięki realizacji tych zaleceń Zwierzyniec może odzyskać swój blask!*
 
 W ubiegłym roku Narodowy Instytut Dziedzictwa przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie dotyczące przestrzeni zabytkowego Zwierzyńca. W postach przybliżamy te bardzo ważne dla przyszłości Zwierzyńca uwagi.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-07-Odkryj-kluczowe-wskazowki-Narodowego-Instytutu-Dziedzictwa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-07-odkryj-kluczowe-wskazowki-narodowego-instytutu-dziedzictwa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

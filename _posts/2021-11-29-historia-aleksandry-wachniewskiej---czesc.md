@@ -4,12 +4,12 @@ date: 2021-11-29
 weight: -20211129
 post_id: 103478058758108_127410566364857
 tags: []
-featured_image: /../images/posts/2021-11-29-Druga-czesc-naszej-serii-Prosimy-o-udostepnienia.jpg
+featured_image: /../images/posts/2021-11-29-historia-aleksandry-wachniewskiej---czesc.jpg
 location: "Unknown Location"
 description: "DZIECIŃSTWO OLI POŚRÓD LASÓW..."
 ---
 
-![Zdjęcie w tle - Dominik Dziadosz](/images/posts/2021-11-29-Druga-czesc-naszej-serii-Prosimy-o-udostepnienia.jpg)
+![Zdjęcie w tle - Dominik Dziadosz](/images/posts/2021-11-29-historia-aleksandry-wachniewskiej---czesc.jpg)
 *Zdjęcie w tle - Dominik Dziadosz*
 
 Prosimy o udostępnienia!
@@ -50,7 +50,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-29-Druga-czesc-naszej-serii-Prosimy-o-udostepnienia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-29-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

@@ -4,12 +4,12 @@ date: 2022-01-07
 weight: -20220107
 post_id: 103478058758108_136172375488676
 tags: []
-featured_image: /../images/posts/2022-01-07-Witajcie-w-Roku-Aleksandry-Wachniewskiej.jpg
+featured_image: /../images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg
 location: "Unknown Location"
 description: "Nie martwcie się, na huczną inaugurację roku naszej Patronki przyjdzie pora na wiosnę!..."
 ---
 
-![Tymczasem wciąż opowiadamy o naszej Patronce](/images/posts/2022-01-07-Witajcie-w-Roku-Aleksandry-Wachniewskiej.jpg)
+![Tymczasem wciąż opowiadamy o naszej Patronce](/images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg)
 *Tymczasem wciąż opowiadamy o naszej Patronce*
 
 
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-01-07-Witajcie-w-Roku-Aleksandry-Wachniewskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

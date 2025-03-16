@@ -4,12 +4,12 @@ date: 2021-12-18
 weight: -20211218
 post_id: 103478058758108_131884565917457
 tags: []
-featured_image: /../images/posts/2021-12-18-Przy-przedswiatecznych-porzadkach-polecamy-posluchac.jpg
+featured_image: /../images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg
 location: "Unknown Location"
 description: "[https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU](htt..."
 ---
 
-![Polecamy posłuchać reportażu Radio Lublin "Symfonia dla pani Wachniewskiej"](/images/posts/2021-12-18-Przy-przedswiatecznych-porzadkach-polecamy-posluchac.jpg)
+![Polecamy posłuchać reportażu Radio Lublin "Symfonia dla pani Wachniewskiej"](/images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg)
 *Polecamy posłuchać reportażu Radio Lublin "Symfonia dla pani Wachniewskiej"*
 
 Możecie usłyszeć wiele ciekawych historii prosto z ust znanych Zwierzynian (i nie tylko!).
@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-18-Przy-przedswiatecznych-porzadkach-polecamy-posluchac.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

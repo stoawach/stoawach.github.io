@@ -4,14 +4,14 @@ date: 2022-11-19
 weight: -20221119
 post_id: 103478058758108_150305171044678
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-19-Budynek-glowny-browaru.jpg
+featured_image: /../images/posts/2022-11-19-budynek-glowny-browaru.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki...."
 ---
 
-![Budynek główny browaru.](/images/posts/2022-11-19-Budynek-glowny-browaru.jpg)
+![Budynek główny browaru.](/images/posts/2022-11-19-budynek-glowny-browaru.jpg)
 *Budynek główny browaru.*
 
 Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-19-Budynek-glowny-browaru.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-19-budynek-glowny-browaru.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

@@ -4,14 +4,14 @@ date: 2024-03-16
 weight: -20240316
 post_id: 103478058758108_388818543860005
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, narodowyinstytutdziedzictwa]
-featured_image: /../images/posts/2024-03-16-Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa.jpg
+featured_image: /../images/posts/2024-03-16-czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania..."
 ---
 
-![Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/images/posts/2024-03-16-Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa.jpg)
+![Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/images/posts/2024-03-16-czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa.jpg)
 *Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!*
 
 Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-03-16-Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-03-16-czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, narodowyinstytutdziedzictwa",

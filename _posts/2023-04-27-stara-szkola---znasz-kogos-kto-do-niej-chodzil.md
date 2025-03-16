@@ -4,14 +4,14 @@ date: 2023-04-27
 weight: -20230427
 post_id: 103478058758108_207183835356811
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-04-27-Stara-Szkola---Znasz-kogos-kto-do-niej-chodzil.jpg
+featured_image: /../images/posts/2023-04-27-stara-szkola---znasz-kogos-kto-do-niej-chodzil.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Stara Szkoła - Znasz kogoś, kto do niej chodził?](/images/posts/2023-04-27-Stara-Szkola---Znasz-kogos-kto-do-niej-chodzil.jpg)
+![Stara Szkoła - Znasz kogoś, kto do niej chodził?](/images/posts/2023-04-27-stara-szkola---znasz-kogos-kto-do-niej-chodzil.jpg)
 *Stara Szkoła - Znasz kogoś, kto do niej chodził?*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-27-Stara-Szkola---Znasz-kogos-kto-do-niej-chodzil.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-27-stara-szkola---znasz-kogos-kto-do-niej-chodzil.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

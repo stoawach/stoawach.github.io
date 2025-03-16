@@ -4,12 +4,12 @@ date: 2022-07-01
 weight: -20220701
 post_id: 103478058758108_172293221876591
 tags: [Zwierzyniec, Roztocze, Lubelskie, kościoły, villarestituta, turystyka, dziedzictwo, Zamość, MiastoIdealne]
-featured_image: /../images/posts/2022-07-01-Dzis-Akt-Lokacyjny-z-1580-roku-wrocil-do-Zamoscia-Dlaczego.jpg
+featured_image: /../images/posts/2022-07-01-akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia-dlaczego.jpg
 location: "Unknown Location"
 description: "Hetman i kanclerz wielki koronny Jan Zamoyski, gdy zakładał Idealne Miasto, miał już w planie Idealną Willę. Już w przyszłym roku będziemy świętować 4..."
 ---
 
-![Akt Lokacyjny z 1580 roku wrócił do Zamościa. Dlaczego to ważne i dla nas?](/images/posts/2022-07-01-Dzis-Akt-Lokacyjny-z-1580-roku-wrocil-do-Zamoscia-Dlaczego.jpg)
+![Akt Lokacyjny z 1580 roku wrócił do Zamościa. Dlaczego to ważne i dla nas?](/images/posts/2022-07-01-akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia-dlaczego.jpg)
 *Akt Lokacyjny z 1580 roku wrócił do Zamościa. Dlaczego to ważne i dla nas?*
 
 Hetman i kanclerz wielki koronny Jan Zamoyski, gdy zakładał Idealne Miasto, miał już w planie Idealną Willę.
@@ -57,7 +57,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-01-Dzis-Akt-Lokacyjny-z-1580-roku-wrocil-do-Zamoscia-Dlaczego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-01-akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia-dlaczego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, Roztocze, Lubelskie, kościoły, villarestituta, turystyka, dziedzictwo, Zamość, MiastoIdealne",

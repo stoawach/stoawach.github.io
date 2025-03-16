@@ -4,14 +4,14 @@ date: 2023-01-06
 weight: -20230106
 post_id: 103478058758108_161609389914256
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-06-W-wieku-pary.jpg
+featured_image: /../images/posts/2023-01-06-w-wieku-pary.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![W wieku pary.](/images/posts/2023-01-06-W-wieku-pary.jpg)
+![W wieku pary.](/images/posts/2023-01-06-w-wieku-pary.jpg)
 *W wieku pary.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-06-W-wieku-pary.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-06-w-wieku-pary.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

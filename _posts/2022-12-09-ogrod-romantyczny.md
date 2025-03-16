@@ -4,14 +4,14 @@ date: 2022-12-09
 weight: -20221209
 post_id: 103478058758108_154851983923330
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-09-Ogrod-romantyczny.jpg
+featured_image: /../images/posts/2022-12-09-ogrod-romantyczny.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Ogród romantyczny.](/images/posts/2022-12-09-Ogrod-romantyczny.jpg)
+![Ogród romantyczny.](/images/posts/2022-12-09-ogrod-romantyczny.jpg)
 *Ogród romantyczny.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-09-Ogrod-romantyczny.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-09-ogrod-romantyczny.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

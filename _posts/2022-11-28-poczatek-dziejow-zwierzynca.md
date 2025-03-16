@@ -4,14 +4,14 @@ date: 2022-11-28
 weight: -20221128
 post_id: 103478058758108_152374710837724
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-28-Poczatek-dziejow-Zwierzynca.jpg
+featured_image: /../images/posts/2022-11-28-poczatek-dziejow-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "To dokładnie w tym miejscu rozpoczyna się historia Zwierzyńca. W 1593 roku pierwszy ordynat Jan Zamoyski nabył włość szczebrzeską z zamiarem wybudowan..."
 ---
 
-![Początek dziejów Zwierzyńca.](/images/posts/2022-11-28-Poczatek-dziejow-Zwierzynca.jpg)
+![Początek dziejów Zwierzyńca.](/images/posts/2022-11-28-poczatek-dziejow-zwierzynca.jpg)
 *Początek dziejów Zwierzyńca.*
 
 To dokładnie w tym miejscu rozpoczyna się historia Zwierzyńca. W 1593 roku pierwszy ordynat Jan Zamoyski nabył włość szczebrzeską z zamiarem wybudowania tutaj idealnej wiejskiej (wypoczynkowej) siedziby.
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-28-Poczatek-dziejow-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-28-poczatek-dziejow-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

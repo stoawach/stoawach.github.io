@@ -4,12 +4,12 @@ date: 2021-12-15
 weight: -20211215
 post_id: 103478058758108_131324862640094
 tags: []
-featured_image: /../images/posts/2021-12-15-Przedstawiamy-kolejna-czesc-historii-Aleksandry.jpg
+featured_image: /../images/posts/2021-12-15-historia-aleksandry-wachniewskiej---czesc.jpg
 location: "Unknown Location"
 description: "Zapraszamy do lektury, prosimy o udostępnienia i wciąż zachęcamy do podpisania petycji, by uratować dom, w którym mieszkała! Link poniżej...."
 ---
 
-![Obraz: A. Wachniewska, zbiory prywatne](/images/posts/2021-12-15-Przedstawiamy-kolejna-czesc-historii-Aleksandry.jpg)
+![Obraz: A. Wachniewska, zbiory prywatne](/images/posts/2021-12-15-historia-aleksandry-wachniewskiej---czesc.jpg)
 *Obraz: A. Wachniewska, zbiory prywatne*
 
 OSOBOWA DOJRZAŁOŚĆ TWÓRCZA
@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-15-Przedstawiamy-kolejna-czesc-historii-Aleksandry.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-15-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

@@ -4,14 +4,14 @@ date: 2024-11-16
 weight: -20241116
 post_id: 103478058758108_543936798348178
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy, NadleśnictwoZwierzyniec]
-featured_image: /../images/posts/2024-11-16-Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym.jpg
+featured_image: /../images/posts/2024-11-16-czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ujęcie z lotu ptaka idealnie oddaje genius loci tego miejsca - harmonijne połączenie architektury i natury.  Na zdjęciu widoczny jest centralny fragme..."
 ---
 
-![Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/images/posts/2024-11-16-Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym.jpg)
+![Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/images/posts/2024-11-16-czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym.jpg)
 *Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!*
 
 Ujęcie z lotu ptaka idealnie oddaje genius loci tego miejsca - harmonijne połączenie architektury i natury.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-16-Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-16-czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy, NadleśnictwoZwierzyniec",

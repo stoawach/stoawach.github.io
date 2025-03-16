@@ -4,14 +4,14 @@ date: 2022-11-03
 weight: -20221103
 post_id: 103478058758108_146505824757946
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-03-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2022-11-03-skapana-we-mgle-ulica-lipowa-wzwierzyncucd.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Oczami wyobraźni, pomiędzy dojrzałymi drzewami, łatwo można dojrzeć ścieżkę z naturalnych materiałów (takich, jak te w parku środowiskowym), oświetlon..."
 ---
 
-![Skąpana we mgle ulica Lipowa w Zwierzyńcu cd.](/images/posts/2022-11-03-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg)
+![Skąpana we mgle ulica Lipowa w Zwierzyńcu cd.](/images/posts/2022-11-03-skapana-we-mgle-ulica-lipowa-wzwierzyncucd.jpg)
 *Skąpana we mgle ulica Lipowa w Zwierzyńcu cd.*
 
 Oczami wyobraźni, pomiędzy dojrzałymi drzewami, łatwo można dojrzeć ścieżkę z naturalnych materiałów (takich, jak te w parku środowiskowym), oświetloną przez stylowe latarnie. To będzie piękne nawiązanie do zabytkowego serca Zwierzyńca. Nowy bulwar doskonale połączy historyczne centrum z przewidzianymi miejscowym planem terenami zabudowy pensjonatowej na Rózinie.
@@ -58,7 +58,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-03-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-03-skapana-we-mgle-ulica-lipowa-wzwierzyncucd.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

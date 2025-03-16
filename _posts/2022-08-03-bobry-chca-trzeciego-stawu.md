@@ -4,12 +4,12 @@ date: 2022-08-03
 weight: -20220803
 post_id: 103478058758108_178816377890942
 tags: [Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, bobry]
-featured_image: /../images/posts/2022-08-03-Bobry-chca-trzeciego-stawu.jpg
+featured_image: /../images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg
 location: "Unknown Location"
 description: "Działalność bobrów w naszym Zwierzyńcu budzi spore emocje. Z jednej strony mamy przyrodników, którzy mówią, jak ważną rolę spełniają te zwierzęta - bu..."
 ---
 
-![Bobry chcą trzeciego stawu?](/images/posts/2022-08-03-Bobry-chca-trzeciego-stawu.jpg)
+![Bobry chcą trzeciego stawu?](/images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg)
 *Bobry chcą trzeciego stawu?*
 
 Działalność bobrów w naszym Zwierzyńcu budzi spore emocje. Z jednej strony mamy przyrodników, którzy mówią, jak ważną rolę spełniają te zwierzęta - budują ekosystemy wodne, będąc swoistymi architektami natury. Z drugiej strony słyszymy głosy, że to szkodniki, a poza tym co one w ogóle tu robią!
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-08-03-Bobry-chca-trzeciego-stawu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, bobry",

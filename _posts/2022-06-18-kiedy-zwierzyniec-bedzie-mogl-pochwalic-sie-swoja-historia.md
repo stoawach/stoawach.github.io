@@ -4,12 +4,12 @@ date: 2022-06-18
 weight: -20220618
 post_id: 103478058758108_169529935486253
 tags: [europejskiedniarcheologii, Zwierzyniec, Roztocze, Lubelskie, pałace, villarestituta, turystyka, historia]
-featured_image: /../images/posts/2022-06-18-Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg
+featured_image: /../images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg
 location: "Unknown Location"
 description: "Czasem słyszymy, że turyści, którzy przyjeżdżają do Zwierzyńca po obejrzeniu Kościółka na Wodzie i Zwierzyńczyka mówią: spacer na 15 minut i nic więce..."
 ---
 
-![Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/images/posts/2022-06-18-Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg)
+![Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg)
 *Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?*
 
 Czasem słyszymy, że turyści, którzy przyjeżdżają do Zwierzyńca po obejrzeniu Kościółka na Wodzie i Zwierzyńczyka mówią: spacer na 15 minut i nic więcej ciekawego w tym miasteczku nie ma. Czy słusznie?
@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-06-18-Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "europejskiedniarcheologii, Zwierzyniec, Roztocze, Lubelskie, pałace, villarestituta, turystyka, historia",

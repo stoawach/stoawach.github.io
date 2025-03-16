@@ -4,14 +4,14 @@ date: 2023-09-02
 weight: -20230902
 post_id: 103478058758108_279748281433699
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie]
-featured_image: /../images/posts/2023-09-02-Co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg
+featured_image: /../images/posts/2023-09-02-co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Po zwycięskiej bitwie Powstania Styczniowego, która miała miejsce 3. września 1863 roku pod Panasówką:      “W Zwierzyńcu lokowano rannych w prywatnyc..."
 ---
 
-![Co zdarzyło się 160 lat temu w zwierzynieckiej oberży?](/images/posts/2023-09-02-Co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg)
+![Co zdarzyło się 160 lat temu w zwierzynieckiej oberży?](/images/posts/2023-09-02-co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg)
 *Co zdarzyło się 160 lat temu w zwierzynieckiej oberży?*
 
 Po zwycięskiej bitwie Powstania Styczniowego, która miała miejsce 3. września 1863 roku pod Panasówką:
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-02-Co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-02-co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie",

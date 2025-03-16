@@ -4,14 +4,14 @@ date: 2022-11-04
 weight: -20221104
 post_id: 103478058758108_146720704736458
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-04-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3.jpg
+featured_image: /../images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Czyż nie pięknie będzie spacerować bulwarem w otoczeniu tak bujnej przyrody? W Zwierzyńcu, mieście-ogrodzie, zdrowe i dojrzałe drzewa stanowią zasadni..."
 ---
 
-![Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3](/images/posts/2022-11-04-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3.jpg)
+![Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3](/images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg)
 *Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3*
 
 Czyż nie pięknie będzie spacerować bulwarem w otoczeniu tak bujnej przyrody? W Zwierzyńcu, mieście-ogrodzie, zdrowe i dojrzałe drzewa stanowią zasadniczy element zagospodarowania przestrzennego.
@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-04-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

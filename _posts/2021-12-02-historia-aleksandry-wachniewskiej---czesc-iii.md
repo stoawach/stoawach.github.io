@@ -4,12 +4,12 @@ date: 2021-12-02
 weight: -20211202
 post_id: 103478058758108_128044452968135
 tags: []
-featured_image: /../images/posts/2021-12-02-Trzecia-czesc-prezentacji-Aleksandry-Wachniewskiej.jpg
+featured_image: /../images/posts/2021-12-02-historia-aleksandry-wachniewskiej---czesc-iii.jpg
 location: "Unknown Location"
 description: "STUDIA SZTUK PIĘKNYCH I KREACJE ALEKSANDRY..."
 ---
 
-![Obraz - A. Wachniewska, zbiory prywatne](/images/posts/2021-12-02-Trzecia-czesc-prezentacji-Aleksandry-Wachniewskiej.jpg)
+![Obraz - A. Wachniewska, zbiory prywatne](/images/posts/2021-12-02-historia-aleksandry-wachniewskiej---czesc-iii.jpg)
 *Obraz - A. Wachniewska, zbiory prywatne*
 
 Zapraszamy do lektury i prosimy o udostępnienia!
@@ -52,7 +52,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-02-Trzecia-czesc-prezentacji-Aleksandry-Wachniewskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-02-historia-aleksandry-wachniewskiej---czesc-iii.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

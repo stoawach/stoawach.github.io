@@ -4,12 +4,12 @@ date: 2022-02-02
 weight: -20220202
 post_id: 103478058758108_141541901618390
 tags: []
-featured_image: /../images/posts/2022-02-02-Drzewom-tak-jak-ludziom-zdarza-sie-chorowac-Niektore.jpg
+featured_image: /../images/posts/2022-02-02-drzewom-tak-jak-ludziom-zdarza-sie-chorowac.jpg
 location: "Unknown Location"
 description: "Zdjęcia przedstawiają drzewa, które padły ofiarą ostatnich silnych wiatrów. Pierwsze – wiele lat rosło w trudnych warunkach nad Stawem Kościelnym i na..."
 ---
 
-![Drzewom, tak jak ludziom, zdarza się chorować.](/images/posts/2022-02-02-Drzewom-tak-jak-ludziom-zdarza-sie-chorowac-Niektore.jpg)
+![Drzewom, tak jak ludziom, zdarza się chorować.](/images/posts/2022-02-02-drzewom-tak-jak-ludziom-zdarza-sie-chorowac.jpg)
 *Drzewom, tak jak ludziom, zdarza się chorować.*
 
 Niektóre choroby są widoczne gołym okiem, inne można zdiagnozować dopiero po wnikliwej analizie. Jedne powodują przewlekłe osłabienie drzewa, drugie potrafią błyskawicznie (nawet w ciągu kilku sezonów) doprowadzić do jego całkowitego obumarcia.
@@ -51,7 +51,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-02-02-Drzewom-tak-jak-ludziom-zdarza-sie-chorowac-Niektore.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-02-02-drzewom-tak-jak-ludziom-zdarza-sie-chorowac.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

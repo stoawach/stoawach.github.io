@@ -4,14 +4,14 @@ date: 2022-11-09
 weight: -20221109
 post_id: 103478058758108_147997357942126
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-09-Deptak-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2022-11-09-deptak-w-zwierzyncu.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Deptak przeszedł modernizację w 2013 roku, choć dla ruchu kołowego był zamknięty już wcześniej. Dzisiaj nikt sobie nie wyobraża, aby miały na niego wr..."
 ---
 
-![Deptak w Zwierzyńcu.](/images/posts/2022-11-09-Deptak-w-Zwierzyncu.jpg)
+![Deptak w Zwierzyńcu.](/images/posts/2022-11-09-deptak-w-zwierzyncu.jpg)
 *Deptak w Zwierzyńcu.*
 
 Deptak przeszedł modernizację w 2013 roku, choć dla ruchu kołowego był zamknięty już wcześniej. Dzisiaj nikt sobie nie wyobraża, aby miały na niego wrócić samochody.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-09-Deptak-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-09-deptak-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

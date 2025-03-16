@@ -4,12 +4,12 @@ date: 2021-09-17
 weight: -20210917
 post_id: 103478058758108_104293088676605
 tags: []
-featured_image: /../images/posts/2021-09-17-Kochani.jpg
+featured_image: /../images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej-przez.jpg
 location: "Unknown Location"
 description: "Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!..."
 ---
 
-![Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!](/images/posts/2021-09-17-Kochani.jpg)
+![Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!](/images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej-przez.jpg)
 *Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!*
 
 Założyliśmy stowarzyszenie, którego celem jest działanie na rzecz ochrony i rozwoju dziedzictwa kulturowego, krajobrazowego i przyrodniczego naszego Miasta.
@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-17-Kochani.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej-przez.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

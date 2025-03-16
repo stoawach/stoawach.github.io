@@ -4,14 +4,14 @@ date: 2023-07-30
 weight: -20230730
 post_id: 103478058758108_261611293247398
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, RadioLublin, Reportaż, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-07-30-Czy-znasz-ukryty-kod-Zwierzynca.jpg
+featured_image: /../images/posts/2023-07-30-czy-znasz-ukryty-kod-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "W sercu Zwierzyńca, między zabytkowymi budynkami Technikum im. Jana Zamoyskiego, drzemie tajemnica, która chce być odkryta. Czyż to nie brzmi jak pocz..."
 ---
 
-![Czy znasz ukryty kod Zwierzyńca?](/images/posts/2023-07-30-Czy-znasz-ukryty-kod-Zwierzynca.jpg)
+![Czy znasz ukryty kod Zwierzyńca?](/images/posts/2023-07-30-czy-znasz-ukryty-kod-zwierzynca.jpg)
 *Czy znasz ukryty kod Zwierzyńca?*
 
 W sercu Zwierzyńca, między zabytkowymi budynkami Technikum im. Jana Zamoyskiego, drzemie tajemnica, która chce być odkryta. Czyż to nie brzmi jak początek niezwykłej przygody? Odkryjmy tajemniczy kod, który splata historię, przyrodę i zabytki w jedno, tworząc wyjątkowy klimat tego niezwykłego miejsca.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-30-Czy-znasz-ukryty-kod-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-30-czy-znasz-ukryty-kod-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, RadioLublin, Reportaż, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

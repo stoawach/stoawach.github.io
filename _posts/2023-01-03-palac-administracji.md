@@ -4,14 +4,14 @@ date: 2023-01-03
 weight: -20230103
 post_id: 103478058758108_160931963315332
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-03-Palac-administracji.jpg
+featured_image: /../images/posts/2023-01-03-palac-administracji.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Pałac administracji.](/images/posts/2023-01-03-Palac-administracji.jpg)
+![Pałac administracji.](/images/posts/2023-01-03-palac-administracji.jpg)
 *Pałac administracji.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-03-Palac-administracji.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-03-palac-administracji.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

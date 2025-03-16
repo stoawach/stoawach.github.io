@@ -4,14 +4,14 @@ date: 2023-06-24
 weight: -20230624
 post_id: 103478058758108_241402445268283
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-06-24--Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego.jpg
+featured_image: /../images/posts/2023-06-24-zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zapraszamy Was do kontynuowania naszej podróży przez czterysta trzydzieści lat historii niezwykłego Zwierzyńca...."
 ---
 
-![🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟](/images/posts/2023-06-24--Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego.jpg)
+![🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟](/images/posts/2023-06-24-zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego.jpg)
 *🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟*
 
 Zapraszamy Was do kontynuowania naszej podróży przez czterysta trzydzieści lat historii niezwykłego Zwierzyńca.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-24--Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-24-zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

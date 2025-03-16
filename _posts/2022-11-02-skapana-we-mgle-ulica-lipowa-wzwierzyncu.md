@@ -4,12 +4,12 @@ date: 2022-11-02
 weight: -20221102
 post_id: 103478058758108_146327248109137
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-02-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2022-11-02-skapana-we-mgle-ulica-lipowa-wzwierzyncu.jpg
 location: "Unknown Location"
 description: "Bogata w dojrzałe drzewa Lipowa stanowi naturalne przedłużenie parku środowiskowego. W niedalekiej przyszłości stanie się bulwarem. W latach 2022-2024..."
 ---
 
-![Skąpana we mgle ulica Lipowa w Zwierzyńcu.](/images/posts/2022-11-02-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg)
+![Skąpana we mgle ulica Lipowa w Zwierzyńcu.](/images/posts/2022-11-02-skapana-we-mgle-ulica-lipowa-wzwierzyncu.jpg)
 *Skąpana we mgle ulica Lipowa w Zwierzyńcu.*
 
 Bogata w dojrzałe drzewa Lipowa stanowi naturalne przedłużenie parku środowiskowego. W niedalekiej przyszłości stanie się bulwarem. W latach 2022-2024 gmina planuje zagospodarowanie tej przestrzeni z zachowaniem i konserwacją zieleni wysokiej.
@@ -57,7 +57,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-02-Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-02-skapana-we-mgle-ulica-lipowa-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

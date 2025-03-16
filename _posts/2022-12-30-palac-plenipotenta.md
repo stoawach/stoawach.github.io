@@ -4,14 +4,14 @@ date: 2022-12-30
 weight: -20221230
 post_id: 103478058758108_159885616753300
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, RoztoczańskiParkNarodowy]
-featured_image: /../images/posts/2022-12-30-Palac-plenipotenta.jpg
+featured_image: /../images/posts/2022-12-30-palac-plenipotenta.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Pałac plenipotenta.](/images/posts/2022-12-30-Palac-plenipotenta.jpg)
+![Pałac plenipotenta.](/images/posts/2022-12-30-palac-plenipotenta.jpg)
 *Pałac plenipotenta.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-30-Palac-plenipotenta.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-30-palac-plenipotenta.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, RoztoczańskiParkNarodowy",

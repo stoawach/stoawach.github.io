@@ -4,14 +4,14 @@ date: 2022-12-13
 weight: -20221213
 post_id: 103478058758108_155811247160737
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-13-Zniszczenie-i-zapomnienie.jpg
+featured_image: /../images/posts/2022-12-13-zniszczenie-i-zapomnienie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Zniszczenie i zapomnienie.](/images/posts/2022-12-13-Zniszczenie-i-zapomnienie.jpg)
+![Zniszczenie i zapomnienie.](/images/posts/2022-12-13-zniszczenie-i-zapomnienie.jpg)
 *Zniszczenie i zapomnienie.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-13-Zniszczenie-i-zapomnienie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-13-zniszczenie-i-zapomnienie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

@@ -4,12 +4,12 @@ date: 2021-11-26
 weight: -20211126
 post_id: 103478058758108_126791469760100
 tags: []
-featured_image: /../images/posts/2021-11-26-Kochani-zaczynamy-nasza-serie-postow-o-Aleksandrze.jpg
+featured_image: /../images/posts/2021-11-26-historia-aleksandry-wachniewskiej---czesc.jpg
 location: "Unknown Location"
 description: "ALEKSANDRA WACHNIEWSKA  (1902-1989)..."
 ---
 
-![Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej](/images/posts/2021-11-26-Kochani-zaczynamy-nasza-serie-postow-o-Aleksandrze.jpg)
+![Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej](/images/posts/2021-11-26-historia-aleksandry-wachniewskiej---czesc.jpg)
 *Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej*
 
 Przez kolejne kilka dni przybliżać będziemy Wam Jej postać. Zapraszamy do lektury i prosimy o udostępnienia!
@@ -51,7 +51,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-26-Kochani-zaczynamy-nasza-serie-postow-o-Aleksandrze.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-26-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

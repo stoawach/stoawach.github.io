@@ -4,14 +4,14 @@ date: 2022-12-07
 weight: -20221207
 post_id: 103478058758108_154378967303965
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]
-featured_image: /../images/posts/2022-12-07-Ogrodowy-salon.jpg
+featured_image: /../images/posts/2022-12-07-ogrodowy-salon.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Ogrodowy salon.](/images/posts/2022-12-07-Ogrodowy-salon.jpg)
+![Ogrodowy salon.](/images/posts/2022-12-07-ogrodowy-salon.jpg)
 *Ogrodowy salon.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-07-Ogrodowy-salon.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-07-ogrodowy-salon.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",

@@ -4,14 +4,14 @@ date: 2024-11-03
 weight: -20241103
 post_id: 103478058758108_535105382564653
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-11-03-Slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg
+featured_image: /../images/posts/2024-11-03-slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Na zdjęciu widoczny jest „kościółek na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu w ciepłych barwach jesiennego wieczoru. Ten niezwykły obiekt, zbud..."
 ---
 
-![“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/images/posts/2024-11-03-Slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg)
+![“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/images/posts/2024-11-03-slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg)
 *“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”*
 
 Na zdjęciu widoczny jest „kościółek na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu w ciepłych barwach jesiennego wieczoru. Ten niezwykły obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego, które ewoluowało na przestrzeni wieków.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-03-Slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-03-slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

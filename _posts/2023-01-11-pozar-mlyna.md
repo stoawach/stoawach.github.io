@@ -4,14 +4,14 @@ date: 2023-01-11
 weight: -20230111
 post_id: 103478058758108_162872246454637
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-11-Pozar-mlyna.jpg
+featured_image: /../images/posts/2023-01-11-pozar-mlyna.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Pożar młyna.](/images/posts/2023-01-11-Pozar-mlyna.jpg)
+![Pożar młyna.](/images/posts/2023-01-11-pozar-mlyna.jpg)
 *Pożar młyna.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-11-Pozar-mlyna.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-11-pozar-mlyna.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

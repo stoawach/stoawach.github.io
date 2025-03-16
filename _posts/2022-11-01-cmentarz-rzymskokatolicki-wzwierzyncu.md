@@ -4,12 +4,12 @@ date: 2022-11-01
 weight: -20221101
 post_id: 103478058758108_146033621471833
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, cmentarze]
-featured_image: /../images/posts/2022-11-01-Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku.jpg
+featured_image: /../images/posts/2022-11-01-cmentarz-rzymskokatolicki-wzwierzyncu.jpg
 location: "Unknown Location"
 description: "Na cmentarzu rosną wiekowe drzewa. Szereg z nich pochodzi ze szkółek Ordynacji we Floriance i Zwierzyńcu...."
 ---
 
-![Cmentarz rzymskokatolicki w Zwierzyńcu](/images/posts/2022-11-01-Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku.jpg)
+![Cmentarz rzymskokatolicki w Zwierzyńcu](/images/posts/2022-11-01-cmentarz-rzymskokatolicki-wzwierzyncu.jpg)
 *Cmentarz rzymskokatolicki w Zwierzyńcu*
 
 Założony w 1907 roku, jest otoczony z trzech stron lasem sosnowym.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-01-Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-01-cmentarz-rzymskokatolicki-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, cmentarze",

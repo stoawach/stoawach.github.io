@@ -4,14 +4,14 @@ date: 2024-06-29
 weight: -20240629
 post_id: 103478058758108_451487060926486
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-06-29-Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego.jpg
+featured_image: /../images/posts/2024-06-29-co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w nocnej scenerii. To jeden z najbardziej niezwykłych zabytków województwa lubelski..."
 ---
 
-![Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.](/images/posts/2024-06-29-Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego.jpg)
+![Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.](/images/posts/2024-06-29-co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego.jpg)
 *Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.*
 
 Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w nocnej scenerii. To jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest on elementem zwierzynieckiego założenia willowego, który powstał w 1741 roku. Jego mury w znacznej części stanowiły niegdyś inną budowlę.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-06-29-Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-06-29-co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

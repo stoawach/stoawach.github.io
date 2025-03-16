@@ -4,12 +4,12 @@ date: 2021-12-09
 weight: -20211209
 post_id: 103478058758108_129793726126541
 tags: []
-featured_image: /../images/posts/2021-12-09-Kochani.jpg
+featured_image: /../images/posts/2021-12-09-historia-aleksandry-wachniewskiej---czesc.jpg
 location: "Unknown Location"
 description: "Powracamy do serii o życiu, twórczości i działaniach naszej Patronki - Aleksandry Wachniewskiej...."
 ---
 
-![Obraz: A. Wachniewska, Teka Turkowicka, zbiory prywatne](/images/posts/2021-12-09-Kochani.jpg)
+![Obraz: A. Wachniewska, Teka Turkowicka, zbiory prywatne](/images/posts/2021-12-09-historia-aleksandry-wachniewskiej---czesc.jpg)
 *Obraz: A. Wachniewska, Teka Turkowicka, zbiory prywatne*
 
 
@@ -52,7 +52,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-09-Kochani.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-09-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

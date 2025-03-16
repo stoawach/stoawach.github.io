@@ -4,14 +4,14 @@ date: 2024-12-14
 weight: -20241214
 post_id: 103478058758108_562714279803763
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2024-12-14-Zalozenie-Willowe---zapomniana-harmonia-Zwierzynca.jpg
+featured_image: /../images/posts/2024-12-14-zalozenie-willowe---zapomniana-harmonia-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku..."
 ---
 
-![Założenie Willowe - zapomniana harmonia Zwierzyńca](/images/posts/2024-12-14-Zalozenie-Willowe---zapomniana-harmonia-Zwierzynca.jpg)
+![Założenie Willowe - zapomniana harmonia Zwierzyńca](/images/posts/2024-12-14-zalozenie-willowe---zapomniana-harmonia-zwierzynca.jpg)
 *Założenie Willowe - zapomniana harmonia Zwierzyńca*
 
 Zdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku świateł, stoi barokowy kościół pw. św. Jana Nepomucena. Z lewej strony, w cieniu, widoczna jest dzwonnica, a w głębi z prawej strony można dostrzec dach dawnej oberży.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-14-Zalozenie-Willowe---zapomniana-harmonia-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-14-zalozenie-willowe---zapomniana-harmonia-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

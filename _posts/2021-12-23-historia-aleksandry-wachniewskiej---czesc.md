@@ -4,12 +4,12 @@ date: 2021-12-23
 weight: -20211223
 post_id: 103478058758108_133006222471958
 tags: []
-featured_image: /../images/posts/2021-12-23-Historia-Aleksandry-Wachniewskiej---czesc-VI.jpg
+featured_image: /../images/posts/2021-12-23-historia-aleksandry-wachniewskiej---czesc.jpg
 location: "Unknown Location"
 description: "Zapraszamy do lektury i prosimy o udostępnienia!..."
 ---
 
-![Zdjęcie w tle - Michał Korga](/images/posts/2021-12-23-Historia-Aleksandry-Wachniewskiej---czesc-VI.jpg)
+![Zdjęcie w tle - Michał Korga](/images/posts/2021-12-23-historia-aleksandry-wachniewskiej---czesc.jpg)
 *Zdjęcie w tle - Michał Korga*
 
 Zapraszamy do lektury i prosimy o udostępnienia!
@@ -53,7 +53,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-23-Historia-Aleksandry-Wachniewskiej---czesc-VI.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-23-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

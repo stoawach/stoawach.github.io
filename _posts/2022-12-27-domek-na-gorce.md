@@ -4,14 +4,14 @@ date: 2022-12-27
 weight: -20221227
 post_id: 103478058758108_159143643494164
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-27-Domek-na-gorce.jpg
+featured_image: /../images/posts/2022-12-27-domek-na-gorce.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![“Domek na górce”.](/images/posts/2022-12-27-Domek-na-gorce.jpg)
+![“Domek na górce”.](/images/posts/2022-12-27-domek-na-gorce.jpg)
 *“Domek na górce”.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-27-Domek-na-gorce.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-27-domek-na-gorce.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

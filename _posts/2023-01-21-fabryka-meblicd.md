@@ -4,14 +4,14 @@ date: 2023-01-21
 weight: -20230121
 post_id: 103478058758108_165170419558153
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-21-Fabryka-mebli.jpg
+featured_image: /../images/posts/2023-01-21-fabryka-meblicd.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Fabryka mebli c.d.](/images/posts/2023-01-21-Fabryka-mebli.jpg)
+![Fabryka mebli c.d.](/images/posts/2023-01-21-fabryka-meblicd.jpg)
 *Fabryka mebli c.d.*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-21-Fabryka-mebli.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-21-fabryka-meblicd.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

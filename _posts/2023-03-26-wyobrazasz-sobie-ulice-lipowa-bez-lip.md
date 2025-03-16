@@ -4,14 +4,14 @@ date: 2023-03-26
 weight: -20230326
 post_id: 103478058758108_189469453794916
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-03-26-Wyobrazasz-sobie-ulice-Lipowa-bez-lip.jpg
+featured_image: /../images/posts/2023-03-26-wyobrazasz-sobie-ulice-lipowa-bez-lip.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zdjęcie przedstawia ulicę Lipową w Zwierzyńcu wraz z pasem bujnej zieleni. Oczami wyobraźni można we mgle dojrzeć bulwar stanowiący naturalne przedłuż..."
 ---
 
-![Wyobrażasz sobie ulicę Lipową bez lip?](/images/posts/2023-03-26-Wyobrazasz-sobie-ulice-Lipowa-bez-lip.jpg)
+![Wyobrażasz sobie ulicę Lipową bez lip?](/images/posts/2023-03-26-wyobrazasz-sobie-ulice-lipowa-bez-lip.jpg)
 *Wyobrażasz sobie ulicę Lipową bez lip?*
 
 Zdjęcie przedstawia ulicę Lipową w Zwierzyńcu wraz z pasem bujnej zieleni.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-26-Wyobrazasz-sobie-ulice-Lipowa-bez-lip.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-26-wyobrazasz-sobie-ulice-lipowa-bez-lip.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

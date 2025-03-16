@@ -4,12 +4,12 @@ date: 2024-01-27
 weight: -20240127
 post_id: 103478058758108_361269393281587
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły]
-featured_image: /../images/posts/2024-01-27-Kazde-male-miasto-ma-swoj-Wawel.jpg
+featured_image: /../images/posts/2024-01-27-kazde-male-miasto-ma-swoj-wawel.jpg
 location: "Unknown Location"
 description: "W Zwierzyńcu na miano Wawelu - prawdziwej perełki - z pewnością zasługuje barokowy kościół “na wodzie” p.w. św. Jana Nepomucena znajdujący się w chron..."
 ---
 
-![Każde małe miasto ma swój Wawel?](/images/posts/2024-01-27-Kazde-male-miasto-ma-swoj-Wawel.jpg)
+![Każde małe miasto ma swój Wawel?](/images/posts/2024-01-27-kazde-male-miasto-ma-swoj-wawel.jpg)
 *Każde małe miasto ma swój Wawel?*
 
 W Zwierzyńcu na miano Wawelu - prawdziwej perełki - z pewnością zasługuje barokowy kościół “na wodzie” p.w. św. Jana Nepomucena znajdujący się w chronionym obszarze krajobrazowej renesansowej willi. Już dziś jest to obiekt o szczególnym znaczeniu, a efekty czekającego go wkrótce remontu, pomogą rozsławić ten zabytek na całą Polskę.
@@ -61,7 +61,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-27-Kazde-male-miasto-ma-swoj-Wawel.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-27-kazde-male-miasto-ma-swoj-wawel.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły",

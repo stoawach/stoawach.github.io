@@ -4,12 +4,12 @@ date: 2023-01-24
 weight: -20230124
 post_id: 103478058758108_165942419480953
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-24-Jubileuszowe-koledowanie---lutnia.jpg
+featured_image: /../images/posts/2023-01-24-jubileuszowe-koledowanie---lutnia.jpg
 location: "Unknown Location"
 description: "Zdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypocz..."
 ---
 
-![Jubileuszowe kolędowanie - lutnia](/images/posts/2023-01-24-Jubileuszowe-koledowanie---lutnia.jpg)
+![Jubileuszowe kolędowanie - lutnia](/images/posts/2023-01-24-jubileuszowe-koledowanie---lutnia.jpg)
 *Jubileuszowe kolędowanie - lutnia*
 
 Zdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypoczynkowej.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-24-Jubileuszowe-koledowanie---lutnia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-24-jubileuszowe-koledowanie---lutnia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

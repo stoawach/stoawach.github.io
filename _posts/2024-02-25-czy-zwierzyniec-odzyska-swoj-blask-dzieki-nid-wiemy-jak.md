@@ -4,14 +4,14 @@ date: 2024-02-25
 weight: -20240225
 post_id: 103478058758108_378010898274103
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-02-25-Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak.jpg
+featured_image: /../images/posts/2024-02-25-czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania..."
 ---
 
-![zdj. Dominik Dziadosz](/images/posts/2024-02-25-Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak.jpg)
+![zdj. Dominik Dziadosz](/images/posts/2024-02-25-czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak.jpg)
 *zdj. Dominik Dziadosz*
 
 Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-25-Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-25-czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

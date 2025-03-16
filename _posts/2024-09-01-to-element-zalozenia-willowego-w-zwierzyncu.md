@@ -4,14 +4,14 @@ date: 2024-09-01
 weight: -20240901
 post_id: 103478058758108_490394413702417
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-09-01-To-element-zalozenia-willowego-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2024-09-01-to-element-zalozenia-willowego-w-zwierzyncu.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Niedługo rusza wielki remont Kościoła “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. Na prace przy obiekcie przeznaczono aż 3,5 miliona złotych. Re..."
 ---
 
-![To element założenia willowego w Zwierzyńcu](/images/posts/2024-09-01-To-element-zalozenia-willowego-w-Zwierzyncu.jpg)
+![To element założenia willowego w Zwierzyńcu](/images/posts/2024-09-01-to-element-zalozenia-willowego-w-zwierzyncu.jpg)
 *To element założenia willowego w Zwierzyńcu*
 
 Niedługo rusza wielki remont Kościoła “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. Na prace przy obiekcie przeznaczono aż 3,5 miliona złotych. Remont świątyni to wielki krok naprzód w rewitalizacji tego niezwykłego miejsca. Potrzebne są jednak dalsze działania, by przywrócić blask całemu założeniu willowemu.
@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-01-To-element-zalozenia-willowego-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-01-to-element-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

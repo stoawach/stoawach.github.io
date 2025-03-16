@@ -4,14 +4,14 @@ date: 2023-01-22
 weight: -20230122
 post_id: 103478058758108_165451379530057
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-01-22-Villa-Restituta-w-Zwierzyncu-zima-AD-1593.jpg
+featured_image: /../images/posts/2023-01-22-villa-restituta-w-zwierzyncu-zima-ad-1593.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Wizualizacja przedstawia idealną willę wypoczynkową w Zwierzyńcu w zimowej scenerii. To wciąż początkowy etap prac i w kolejnych wersjach przybędzie w..."
 ---
 
-![Villa Restituta w Zwierzyńcu zimą AD 1593](/images/posts/2023-01-22-Villa-Restituta-w-Zwierzyncu-zima-AD-1593.jpg)
+![Villa Restituta w Zwierzyńcu zimą AD 1593](/images/posts/2023-01-22-villa-restituta-w-zwierzyncu-zima-ad-1593.jpg)
 *Villa Restituta w Zwierzyńcu zimą AD 1593*
 
 Wizualizacja przedstawia idealną willę wypoczynkową w Zwierzyńcu w zimowej scenerii. To wciąż początkowy etap prac i w kolejnych wersjach przybędzie więcej szczegółów.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-22-Villa-Restituta-w-Zwierzyncu-zima-AD-1593.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-22-villa-restituta-w-zwierzyncu-zima-ad-1593.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

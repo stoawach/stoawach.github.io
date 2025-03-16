@@ -4,14 +4,14 @@ date: 2024-10-13
 weight: -20241013
 post_id: 103478058758108_520056864069505
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-10-13-Powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg
+featured_image: /../images/posts/2024-10-13-powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na zdjęciu widoczna jest południowa oficyna skrzydłowa – część historycznego założenia willowego Zwierzyńca. Murowane oficyny powstały pod koniec XVII..."
 ---
 
-![Powstały, gdy wciąż trwała modrzewiowa willa dająca początek Zwierzyńcowi](/images/posts/2024-10-13-Powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg)
+![Powstały, gdy wciąż trwała modrzewiowa willa dająca początek Zwierzyńcowi](/images/posts/2024-10-13-powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg)
 *Powstały, gdy wciąż trwała modrzewiowa willa dająca początek Zwierzyńcowi*
 
 Na zdjęciu widoczna jest południowa oficyna skrzydłowa – część historycznego założenia willowego Zwierzyńca. Murowane oficyny powstały pod koniec XVIII wieku, prawdopodobnie według projektu Ferdynanda Merksena. Uzupełniły wcześniejsze drewniane zabudowania, gdy modrzewiowy pałac ordynata jeszcze istniał.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-13-Powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-13-powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

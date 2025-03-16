@@ -4,14 +4,14 @@ date: 2024-05-26
 weight: -20240526
 post_id: 103478058758108_431296152945577
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-05-26-Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly.jpg
+featured_image: /../images/posts/2024-05-26-wielka-dotacja-zostala-przyznana-poznaj-szczegoly.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zdjęcie przedstawia kościół na wodzie pw. św. Jana Nepomucena oświetlony promieniami porannego słońca, otulony soczystą, wiosenną zielenią. To najcenn..."
 ---
 
-![Wielka dotacja została przyznana! Poznaj szczegóły.](/images/posts/2024-05-26-Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly.jpg)
+![Wielka dotacja została przyznana! Poznaj szczegóły.](/images/posts/2024-05-26-wielka-dotacja-zostala-przyznana-poznaj-szczegoly.jpg)
 *Wielka dotacja została przyznana! Poznaj szczegóły.*
 
 Zdjęcie przedstawia kościół na wodzie pw. św. Jana Nepomucena oświetlony promieniami porannego słońca, otulony soczystą, wiosenną zielenią. To najcenniejszy zabytek zbudowany w zwierzynieckim założeniu willowym w 1741 roku.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-26-Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-26-wielka-dotacja-zostala-przyznana-poznaj-szczegoly.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

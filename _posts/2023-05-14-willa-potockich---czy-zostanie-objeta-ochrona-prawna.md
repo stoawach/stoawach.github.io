@@ -4,14 +4,14 @@ date: 2023-05-14
 weight: -20230514
 post_id: 103478058758108_217216501020211
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-05-14-Willa-Potockich---czy-zostanie-objeta-ochrona-prawna.jpg
+featured_image: /../images/posts/2023-05-14-willa-potockich---czy-zostanie-objeta-ochrona-prawna.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Willa Potockich - czy zostanie objęta ochroną prawną?](/images/posts/2023-05-14-Willa-Potockich---czy-zostanie-objeta-ochrona-prawna.jpg)
+![Willa Potockich - czy zostanie objęta ochroną prawną?](/images/posts/2023-05-14-willa-potockich---czy-zostanie-objeta-ochrona-prawna.jpg)
 *Willa Potockich - czy zostanie objęta ochroną prawną?*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-14-Willa-Potockich---czy-zostanie-objeta-ochrona-prawna.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-14-willa-potockich---czy-zostanie-objeta-ochrona-prawna.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

@@ -4,14 +4,14 @@ date: 2023-11-15
 weight: -20231115
 post_id: 103478058758108_320880893987104
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-11-15-PO-CO-NAM-ZABYTKI.jpg
+featured_image: /../images/posts/2023-11-15-po-co-nam-zabytki.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Czasem zastanawiamy się, czy nasza praca ma sens...."
 ---
 
-![Po co nam zabytki?](/images/posts/2023-11-15-PO-CO-NAM-ZABYTKI.jpg)
+![Po co nam zabytki?](/images/posts/2023-11-15-po-co-nam-zabytki.jpg)
 *Po co nam zabytki?*
 
 Czasem zastanawiamy się, czy nasza praca ma sens.
@@ -79,7 +79,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-11-15-PO-CO-NAM-ZABYTKI.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-11-15-po-co-nam-zabytki.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

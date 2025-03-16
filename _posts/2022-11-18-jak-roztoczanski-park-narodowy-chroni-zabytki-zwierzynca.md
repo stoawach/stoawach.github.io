@@ -4,14 +4,14 @@ date: 2022-11-18
 weight: -20221118
 post_id: 103478058758108_150061777735684
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy, roztoczanskiparknarodowy]
-featured_image: /../images/posts/2022-11-18-Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca.jpg
+featured_image: /../images/posts/2022-11-18-jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Propozycja utworzenia Zwierzynieckiego Parku Narodowego obejmującego 6 400 ha lasów została opracowana m.in. przez Aleksandrę Wachniewską już w 1959 r..."
 ---
 
-![Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?](/images/posts/2022-11-18-Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca.jpg)
+![Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?](/images/posts/2022-11-18-jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca.jpg)
 *Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?*
 
 Propozycja utworzenia Zwierzynieckiego Parku Narodowego obejmującego 6 400 ha lasów została opracowana m.in. przez Aleksandrę Wachniewską już w 1959 roku. Po kilkunastu latach, 10 maja 1974 roku, udało się urzeczywistnić tę ideę w postaci Roztoczańskiego Parku Narodowego.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-18-Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-18-jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy, roztoczanskiparknarodowy",

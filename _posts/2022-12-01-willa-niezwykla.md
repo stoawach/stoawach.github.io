@@ -4,14 +4,14 @@ date: 2022-12-01
 weight: -20221201
 post_id: 103478058758108_153034400771755
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-01-Willa-niezwykla.jpg
+featured_image: /../images/posts/2022-12-01-willa-niezwykla.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Willa niezwykła.](/images/posts/2022-12-01-Willa-niezwykla.jpg)
+![Willa niezwykła.](/images/posts/2022-12-01-willa-niezwykla.jpg)
 *Willa niezwykła.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -71,7 +71,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-01-Willa-niezwykla.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-01-willa-niezwykla.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

@@ -4,14 +4,14 @@ date: 2022-12-17
 weight: -20221217
 post_id: 103478058758108_156708743737654
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-17-Zadbana-osada-urzednicza.jpg
+featured_image: /../images/posts/2022-12-17-zadbana-osada-urzednicza.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Zadbana osada urzędnicza.](/images/posts/2022-12-17-Zadbana-osada-urzednicza.jpg)
+![Zadbana osada urzędnicza.](/images/posts/2022-12-17-zadbana-osada-urzednicza.jpg)
 *Zadbana osada urzędnicza.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-17-Zadbana-osada-urzednicza.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-17-zadbana-osada-urzednicza.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

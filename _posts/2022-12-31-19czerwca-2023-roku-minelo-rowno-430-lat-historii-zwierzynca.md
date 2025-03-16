@@ -4,14 +4,14 @@ date: 2022-12-31
 weight: -20221231
 post_id: 103478058758108_160242363384292
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-31-Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca.jpg
+featured_image: /../images/posts/2022-12-31-19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Zdjęcie przedstawia kościół pw. św. Jana Nepomucena](/images/posts/2022-12-31-Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca.jpg)
+![Zdjęcie przedstawia kościół pw. św. Jana Nepomucena](/images/posts/2022-12-31-19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca.jpg)
 *Zdjęcie przedstawia kościół pw. św. Jana Nepomucena*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-31-Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-31-19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

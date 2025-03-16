@@ -4,14 +4,14 @@ date: 2024-10-26
 weight: -20241026
 post_id: 103478058758108_529459919795866
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RPN, RoztoczańskiPN]
-featured_image: /../images/posts/2024-10-26-Niecodzienny-widok-na-tle-zabytkowej-architektury.jpg
+featured_image: /../images/posts/2024-10-26-niecodzienny-widok-na-tle-zabytkowej-architektury.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na zdjęciach widoczna jest południowa oficyna skrzydłowa z końca XVIII wieku – część historycznego założenia willowego Zwierzyńca.  W kadrach znalazły..."
 ---
 
-![Niecodzienny widok na tle zabytkowej architektury](/images/posts/2024-10-26-Niecodzienny-widok-na-tle-zabytkowej-architektury.jpg)
+![Niecodzienny widok na tle zabytkowej architektury](/images/posts/2024-10-26-niecodzienny-widok-na-tle-zabytkowej-architektury.jpg)
 *Niecodzienny widok na tle zabytkowej architektury*
 
 Na zdjęciach widoczna jest południowa oficyna skrzydłowa z końca XVIII wieku – część historycznego założenia willowego Zwierzyńca.
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-26-Niecodzienny-widok-na-tle-zabytkowej-architektury.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-26-niecodzienny-widok-na-tle-zabytkowej-architektury.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RPN, RoztoczańskiPN",

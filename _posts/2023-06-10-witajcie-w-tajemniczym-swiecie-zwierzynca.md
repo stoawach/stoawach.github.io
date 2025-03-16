@@ -4,14 +4,14 @@ date: 2023-06-10
 weight: -20230610
 post_id: 103478058758108_233438502731344
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-06-10--Witajcie-w-tajemniczym-swiecie-Zwierzynca.jpg
+featured_image: /../images/posts/2023-06-10-witajcie-w-tajemniczym-swiecie-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Przedstawiamy Wam kolejny fragment historii tego magicznego miejsca, które wciąż zachwyca i fascynuje...."
 ---
 
-![🌳🏰🦌 Witajcie w tajemniczym świecie Zwierzyńca! 🌳🏰🦌](/images/posts/2023-06-10--Witajcie-w-tajemniczym-swiecie-Zwierzynca.jpg)
+![🌳🏰🦌 Witajcie w tajemniczym świecie Zwierzyńca! 🌳🏰🦌](/images/posts/2023-06-10-witajcie-w-tajemniczym-swiecie-zwierzynca.jpg)
 *🌳🏰🦌 Witajcie w tajemniczym świecie Zwierzyńca! 🌳🏰🦌*
 
 Przedstawiamy Wam kolejny fragment historii tego magicznego miejsca, które wciąż zachwyca i fascynuje.
@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-10--Witajcie-w-tajemniczym-swiecie-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-10-witajcie-w-tajemniczym-swiecie-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

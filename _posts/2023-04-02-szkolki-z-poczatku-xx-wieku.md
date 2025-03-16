@@ -4,14 +4,14 @@ date: 2023-04-02
 weight: -20230402
 post_id: 103478058758108_193360760072452
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-04-02-Szkolki-z-poczatku-XX-wieku.jpg
+featured_image: /../images/posts/2023-04-02-szkolki-z-poczatku-xx-wieku.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Szkółki z początku XX wieku](/images/posts/2023-04-02-Szkolki-z-poczatku-XX-wieku.jpg)
+![Szkółki z początku XX wieku](/images/posts/2023-04-02-szkolki-z-poczatku-xx-wieku.jpg)
 *Szkółki z początku XX wieku*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-02-Szkolki-z-poczatku-XX-wieku.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-02-szkolki-z-poczatku-xx-wieku.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

@@ -4,14 +4,14 @@ date: 2022-11-25
 weight: -20221125
 post_id: 103478058758108_151711200904075
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy]
-featured_image: /../images/posts/2022-11-25-Jak-miasto-Zwierzyniec-chroni-swoje-zabytki.jpg
+featured_image: /../images/posts/2022-11-25-jak-miasto-zwierzyniec-chroni-swoje-zabytki.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zwierzyniec uzyskał prawa miejskie w 1990 roku, a już w roku przyszłym będzie świętował 430 lat swojej historii...."
 ---
 
-![Jak miasto Zwierzyniec chroni swoje zabytki?](/images/posts/2022-11-25-Jak-miasto-Zwierzyniec-chroni-swoje-zabytki.jpg)
+![Jak miasto Zwierzyniec chroni swoje zabytki?](/images/posts/2022-11-25-jak-miasto-zwierzyniec-chroni-swoje-zabytki.jpg)
 *Jak miasto Zwierzyniec chroni swoje zabytki?*
 
 Zwierzyniec uzyskał prawa miejskie w 1990 roku, a już w roku przyszłym będzie świętował 430 lat swojej historii.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-25-Jak-miasto-Zwierzyniec-chroni-swoje-zabytki.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-25-jak-miasto-zwierzyniec-chroni-swoje-zabytki.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy",

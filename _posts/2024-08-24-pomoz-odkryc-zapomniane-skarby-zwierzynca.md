@@ -4,14 +4,14 @@ date: 2024-08-24
 weight: -20240824
 post_id: 103478058758108_484950727580119
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg
+featured_image: /../images/posts/2024-08-24-pomoz-odkryc-zapomniane-skarby-zwierzynca.jpg
 location: "Zwierzyńczyk"
 latitude: 50.608727170481
 longitude: 22.970324203776
 description: "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willow..."
 ---
 
-![Pomóż odkryć zapomniane skarby Zwierzyńca!](/images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg)
+![Pomóż odkryć zapomniane skarby Zwierzyńca!](/images/posts/2024-08-24-pomoz-odkryc-zapomniane-skarby-zwierzynca.jpg)
 *Pomóż odkryć zapomniane skarby Zwierzyńca!*
 
 Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willowego Zwierzyńca. Ten obraz to tylko jeden z wielu elementów tego magicznego miejsca.
@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-08-24-Pomoz-odkryc-zapomniane-skarby-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-08-24-pomoz-odkryc-zapomniane-skarby-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

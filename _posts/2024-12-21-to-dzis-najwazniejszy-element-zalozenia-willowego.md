@@ -4,14 +4,14 @@ date: 2024-12-21
 weight: -20241221
 post_id: 103478058758108_567488662659658
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2024-12-21-To-dzis-najwazniejszy-element-Zalozenia-Willowego.jpg
+featured_image: /../images/posts/2024-12-21-to-dzis-najwazniejszy-element-zalozenia-willowego.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Fotografia przedstawia ujęcie z lotu ptaka na charakterystyczną sylwetę kościoła pw. św. Jana Nepomucena w Zwierzyńcu oświetlonego zachodzącym jesienn..."
 ---
 
-![To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/images/posts/2024-12-21-To-dzis-najwazniejszy-element-Zalozenia-Willowego.jpg)
+![To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/images/posts/2024-12-21-to-dzis-najwazniejszy-element-zalozenia-willowego.jpg)
 *To dziś najważniejszy element Założenia Willowego w Zwierzyńcu*
 
 Fotografia przedstawia ujęcie z lotu ptaka na charakterystyczną sylwetę kościoła pw. św. Jana Nepomucena w Zwierzyńcu oświetlonego zachodzącym jesiennym słońcem. Wokół widać spokojne wody stawu kościelnego przyprószone żółtymi liśćmi, a po lewej stronie sąsiednią wyspę.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-21-To-dzis-najwazniejszy-element-Zalozenia-Willowego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-21-to-dzis-najwazniejszy-element-zalozenia-willowego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

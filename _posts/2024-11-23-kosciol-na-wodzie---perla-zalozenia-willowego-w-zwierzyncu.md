@@ -4,14 +4,14 @@ date: 2024-11-23
 weight: -20241123
 post_id: 103478058758108_548659351209256
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2024-11-23-Kosciol-na-wodzie---perla-zalozenia-willowego-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2024-11-23-kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Zdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem ..."
 ---
 
-![Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/images/posts/2024-11-23-Kosciol-na-wodzie---perla-zalozenia-willowego-w-Zwierzyncu.jpg)
+![Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/images/posts/2024-11-23-kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu.jpg)
 *Kościół na wodzie - perła założenia willowego w Zwierzyńcu*
 
 Zdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem konserwatora trwają obecnie prace remontowe świątyni.
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-23-Kosciol-na-wodzie---perla-zalozenia-willowego-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-23-kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

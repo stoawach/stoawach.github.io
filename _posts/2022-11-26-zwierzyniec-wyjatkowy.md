@@ -4,14 +4,14 @@ date: 2022-11-26
 weight: -20221126
 post_id: 103478058758108_151881997553662
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-26-Zwierzyniec-wyjatkowy.jpg
+featured_image: /../images/posts/2022-11-26-zwierzyniec-wyjatkowy.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Co takiego, poza przyrodą i zabytkami, czyni Zwierzyniec wyjątkowym w skali Europy?..."
 ---
 
-![Zwierzyniec wyjątkowy.](/images/posts/2022-11-26-Zwierzyniec-wyjatkowy.jpg)
+![Zwierzyniec wyjątkowy.](/images/posts/2022-11-26-zwierzyniec-wyjatkowy.jpg)
 *Zwierzyniec wyjątkowy.*
 
 Co takiego, poza przyrodą i zabytkami, czyni Zwierzyniec wyjątkowym w skali Europy?
@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-26-Zwierzyniec-wyjatkowy.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-26-zwierzyniec-wyjatkowy.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

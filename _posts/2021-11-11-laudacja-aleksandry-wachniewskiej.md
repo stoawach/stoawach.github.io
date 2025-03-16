@@ -4,12 +4,12 @@ date: 2021-11-11
 weight: -20211111
 post_id: 103478058758108_123409070098340
 tags: []
-featured_image: /../images/posts/2021-11-11-LAUDACJA---ALEKSANDRY--WACHNIEWSKIEJ.jpg
+featured_image: /../images/posts/2021-11-11-laudacja-aleksandry-wachniewskiej.jpg
 location: "Unknown Location"
 description: "‌            ‌Laudacja‌ ‌-‌ ‌to‌ ‌pochwała‌ ‌od‌ ‌łac.‌ ‌laudatio,‌ ‌pochwała‌ ‌zalet‌ ‌osobowych,‌ ‌tu‌ ‌Patronki‌ ‌Stowarzyszenia‌ ‌Jej‌ ‌Imienia.‌ ..."
 ---
 
-![Laudacja Aleksandry Wachniewskiej](/images/posts/2021-11-11-LAUDACJA---ALEKSANDRY--WACHNIEWSKIEJ.jpg)
+![Laudacja Aleksandry Wachniewskiej](/images/posts/2021-11-11-laudacja-aleksandry-wachniewskiej.jpg)
 *Laudacja Aleksandry Wachniewskiej*
 
 ‌Laudacja‌ ‌-‌ ‌to‌ ‌pochwała‌ ‌od‌ ‌łac.‌ ‌laudatio,‌ ‌pochwała‌ ‌zalet‌ ‌osobowych,‌ ‌tu‌ ‌Patronki‌ ‌Stowarzyszenia‌ ‌Jej‌ ‌Imienia.‌ ‌Godzi‌ ‌się‌ ‌w‌ ‌pochwale/laudacji‌ ‌użyć‌ ‌stylu‌ ‌podniosłego,‌ ‌radosnego‌ ‌i‌ ‌uroczystego.‌ ‌Takie‌ ‌wzory‌ ‌daje‌ ‌nam‌ ‌Tradycja‌ ‌i‌ ‌takoż‌ ‌czynimy‌ ‌w‌ ‌zagajeniu‌ ‌tego‌ ‌przedstawienia‌ ‌Osoby.‌ ‌
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-11-LAUDACJA---ALEKSANDRY--WACHNIEWSKIEJ.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-11-laudacja-aleksandry-wachniewskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

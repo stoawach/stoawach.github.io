@@ -4,12 +4,12 @@ date: 2021-09-25
 weight: -20210925
 post_id: 103478058758108_110399661399281
 tags: []
-featured_image: /../images/posts/2021-09-25-119-lat-temu-w-folwarku-na-Floriance-przyszla-na-swiat.jpg
+featured_image: /../images/posts/2021-09-25-jesienia-25-wrzesnia-1902-roku-w-folwarku-na-floriance.jpg
 location: "Unknown Location"
 description: "Życie społecznego obrońcy przyrody i zabytków nie było łatwe, zwłaszcza, że Wachniewskiej przyszło żyć w czasach, gdzie aktywność społeczna nie spotyk..."
 ---
 
-![Aleksandra Wachnieska, mal. mal. Lucyna Matławska-Patyk](/images/posts/2021-09-25-119-lat-temu-w-folwarku-na-Floriance-przyszla-na-swiat.jpg)
+![Aleksandra Wachnieska, mal. mal. Lucyna Matławska-Patyk](/images/posts/2021-09-25-jesienia-25-wrzesnia-1902-roku-w-folwarku-na-floriance.jpg)
 *Aleksandra Wachnieska, mal. Lucyna Matławska-Patyk*
 
 Większość z nas kojarzy tę osobę jako związaną ze Zwierzyńcem artystkę. Życie naszej Patronki przepełniała miłość do lokalnej przyrody, przejawiająca się w Jej obrazach. Wyraz tej wyjątkowej więzi z Roztoczem Wachniewska dawała również czynem! To dzięki Jej wysiłkom udało się ocalić przed dewastacją ostatnie skrawki roztoczańskiej puszczy i objąć je ochroną, najpierw w formie rezerwatów, a w końcu Roztoczańskiego Parku Narodowego.
@@ -55,7 +55,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-25-119-lat-temu-w-folwarku-na-Floriance-przyszla-na-swiat.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-25-jesienia-25-wrzesnia-1902-roku-w-folwarku-na-floriance.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

@@ -4,14 +4,14 @@ date: 2024-12-07
 weight: -20241207
 post_id: 103478058758108_557929713615553
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]
-featured_image: /../images/posts/2024-12-07-Zalozenie-Willowe-w-Zwierzyncu--miejsce-stworzone.jpg
+featured_image: /../images/posts/2024-12-07-zalozenie-willowe-w-zwierzyncu--miejsce-stworzone.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Na zdjęciu widzimy barokowy kościół pw. św. Jana Nepomucena - jeden z najbardziej rozpoznawalnych symboli Zwierzyńca - rozświetlony w jesienną noc. Je..."
 ---
 
-![Założenie Willowe w Zwierzyńcu – miejsce stworzone do idealnego wypoczynku](/images/posts/2024-12-07-Zalozenie-Willowe-w-Zwierzyncu--miejsce-stworzone.jpg)
+![Założenie Willowe w Zwierzyńcu – miejsce stworzone do idealnego wypoczynku](/images/posts/2024-12-07-zalozenie-willowe-w-zwierzyncu--miejsce-stworzone.jpg)
 *Założenie Willowe w Zwierzyńcu – miejsce stworzone do idealnego wypoczynku*
 
 Na zdjęciu widzimy barokowy kościół pw. św. Jana Nepomucena - jeden z najbardziej rozpoznawalnych symboli Zwierzyńca - rozświetlony w jesienną noc. Jego lustrzane odbicie w spokojnej tafli stawu przywołuje na myśl bogatą historię założenia willowego.
@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-07-Zalozenie-Willowe-w-Zwierzyncu--miejsce-stworzone.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-07-zalozenie-willowe-w-zwierzyncu--miejsce-stworzone.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",

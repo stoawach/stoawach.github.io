@@ -4,12 +4,12 @@ date: 2021-10-14
 weight: -20211014
 post_id: 103478058758108_115946637511250
 tags: []
-featured_image: /../images/posts/2021-10-14-ALEKSANDRA-WACHNIEWSKA.jpg
+featured_image: /../images/posts/2021-10-14-aleksandra-wachniewska.jpg
 location: "Unknown Location"
 description: "z Fejfer-Stankowskich,  artystka, malarka Roztocza, współtwórca Roztoczańskiego Parku Narodowego,..."
 ---
 
-![mal. Aleksandra Wachniewska](/images/posts/2021-10-14-ALEKSANDRA-WACHNIEWSKA.jpg)
+![mal. Aleksandra Wachniewska](/images/posts/2021-10-14-aleksandra-wachniewska.jpg)
 *mal. Aleksandra Wachniewska*
 
    ALEKSANDRA WACHNIEWSKA z Fejfer-Stankowskich,
@@ -52,7 +52,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-14-ALEKSANDRA-WACHNIEWSKA.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-14-aleksandra-wachniewska.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

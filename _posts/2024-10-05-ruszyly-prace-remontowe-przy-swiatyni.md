@@ -4,14 +4,14 @@ date: 2024-10-05
 weight: -20241005
 post_id: 103478058758108_514172754657916
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-10-05-Ruszyly-prace-remontowe-przy-swiatyni.jpg
+featured_image: /../images/posts/2024-10-05-ruszyly-prace-remontowe-przy-swiatyni.jpg
 location: "Kościół na Wodzie"
 latitude: 50.609411874825
 longitude: 22.968428010865
 description: "Na zdjęciu widoczny jest kościół pw. św. Jana Nepomucena w Zwierzyńcu – znany jako kościółek „na wodzie”. Ten wyjątkowy obiekt, zbudowany w 1741 roku,..."
 ---
 
-![Ruszyły prace remontowe przy świątyni](/images/posts/2024-10-05-Ruszyly-prace-remontowe-przy-swiatyni.jpg)
+![Ruszyły prace remontowe przy świątyni](/images/posts/2024-10-05-ruszyly-prace-remontowe-przy-swiatyni.jpg)
 *Ruszyły prace remontowe przy świątyni*
 
 Na zdjęciu widoczny jest kościół pw. św. Jana Nepomucena w Zwierzyńcu – znany jako kościółek „na wodzie”. Ten wyjątkowy obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego w Zwierzyńcu, które ewoluowało na przestrzeni wieków.
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-05-Ruszyly-prace-remontowe-przy-swiatyni.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-05-ruszyly-prace-remontowe-przy-swiatyni.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

@@ -4,14 +4,14 @@ date: 2024-02-10
 weight: -20240210
 post_id: 103478058758108_369621912446335
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-02-10-Kolejne-dobre-wiesci-ze-Zwierzynca.jpg
+featured_image: /../images/posts/2024-02-10-kolejne-dobre-wiesci-zezwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Lubelski Wojewódzki Konserwator Zabytków orzeka o wpisaniu do rejestru zabytków willi Borowianki...."
 ---
 
-![Kolejne dobre wieści ze Zwierzyńca](/images/posts/2024-02-10-Kolejne-dobre-wiesci-ze-Zwierzynca.jpg)
+![Kolejne dobre wieści ze Zwierzyńca](/images/posts/2024-02-10-kolejne-dobre-wiesci-zezwierzynca.jpg)
 *Kolejne dobre wieści ze Zwierzyńca*
 
 Lubelski Wojewódzki Konserwator Zabytków orzeka o wpisaniu do rejestru zabytków willi Borowianki.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-10-Kolejne-dobre-wiesci-ze-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-10-kolejne-dobre-wiesci-zezwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

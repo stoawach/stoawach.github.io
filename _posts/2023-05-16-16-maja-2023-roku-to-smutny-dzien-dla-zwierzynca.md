@@ -4,12 +4,12 @@ date: 2023-05-16
 weight: -20230516
 post_id: 103478058758108_218307544244440
 tags: []
-featured_image: /../images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca.jpg
+featured_image: /../images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg
 location: "Unknown Location"
 description: "..."
 ---
 
-![16 maja 2023 roku to smutny dzień dla Zwierzyńca](/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca.jpg)
+![16 maja 2023 roku to smutny dzień dla Zwierzyńca](/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg)
 *16 maja 2023 roku to smutny dzień dla Zwierzyńca*
 
 16 maja 2023 roku to smutny dzień dla Zwierzyńca. Straciliśmy dziś kolejną pamiątkę po funkcjonującej tu Ordynacji Zamojskiej. Wyrwano nam ją i wyrzucono na śmietnik historii. Ile jeszcze budynków zniknie z naszej przestrzeni zanim ockniemy się z tego destrukcyjnego szału? Spieszmy się podziwiać zwierzynieckie zabytki, tak szybko obracają się w kupę gruzu...
@@ -44,7 +44,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "",

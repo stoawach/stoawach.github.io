@@ -4,14 +4,14 @@ date: 2024-02-03
 weight: -20240203
 post_id: 103478058758108_365432519531941
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-02-03-Metryka-Zwierzynca-cz-8.jpg
+featured_image: /../images/posts/2024-02-03-metryka-zwierzyncacz8.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Czy wiesz, że początki Rudki są starsze od Zwierzyńca?..."
 ---
 
-![Metryka Zwierzyńca cz. 8](/images/posts/2024-02-03-Metryka-Zwierzynca-cz-8.jpg)
+![Metryka Zwierzyńca cz. 8](/images/posts/2024-02-03-metryka-zwierzyncacz8.jpg)
 *Metryka Zwierzyńca cz. 8*
 
 Czy wiesz, że początki Rudki są starsze od Zwierzyńca?
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-03-Metryka-Zwierzynca-cz-8.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-03-metryka-zwierzyncacz8.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

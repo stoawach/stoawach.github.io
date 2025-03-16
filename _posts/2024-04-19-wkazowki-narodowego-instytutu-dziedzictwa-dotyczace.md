@@ -4,14 +4,14 @@ date: 2024-04-19
 weight: -20240419
 post_id: 103478058758108_408808821860977
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2024-04-19-Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego.jpg
+featured_image: /../images/posts/2024-04-19-wkazowki-narodowego-instytutu-dziedzictwa-dotyczace.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na zdjęciu widzimy założenie willowe, od którego zaczęła się historia naszej miejscowości. Dzięki uprzejmości Tymczasem w Zwierzyńcu możemy podziwiać ..."
 ---
 
-![zdj. Tymczasem w Zwierzyńcu](/images/posts/2024-04-19-Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego.jpg)
+![zdj. Tymczasem w Zwierzyńcu](/images/posts/2024-04-19-wkazowki-narodowego-instytutu-dziedzictwa-dotyczace.jpg)
 *zdj. Tymczasem w Zwierzyńcu*
 
 Na zdjęciu widzimy założenie willowe, od którego zaczęła się historia naszej miejscowości. Dzięki uprzejmości Tymczasem w Zwierzyńcu możemy podziwiać prawie cały jego obszar z lotu ptaka. Dokładnie pośrodku, pomiędzy oficynami, znajdowała się modrzewiowa willa. Na głównej osi rozciąga się długi na 400 metrów kanał, a po przeciwnej stronie,  na środkowej wyspie stawu kościelnego, jest kościół “na wodzie” - najcenniejszy zwierzyniecki zabytek.
@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-19-Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-19-wkazowki-narodowego-instytutu-dziedzictwa-dotyczace.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

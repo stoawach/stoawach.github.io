@@ -4,14 +4,14 @@ date: 2024-05-18
 weight: -20240518
 post_id: 103478058758108_426421933432999
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, BrowarZwierzyniec]
-featured_image: /../images/posts/2024-05-18-Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg
+featured_image: /../images/posts/2024-05-18-czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg
 location: "Browar Zwierzyniec"
 latitude: 50.607403613084
 longitude: 22.96747645729
 description: "Zdjęcie przedstawia zabytkowy browar w Zwierzyńcu oświetlony przez błyskawicę. To integralny element historycznego miasta-ogrodu...."
 ---
 
-![Czy teraz prace projektowe będą postępować błyskawicznie?](/images/posts/2024-05-18-Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg)
+![Czy teraz prace projektowe będą postępować błyskawicznie?](/images/posts/2024-05-18-czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg)
 *Czy teraz prace projektowe będą postępować błyskawicznie?*
 
 Zdjęcie przedstawia zabytkowy browar w Zwierzyńcu oświetlony przez błyskawicę. To integralny element historycznego miasta-ogrodu.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-18-Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-18-czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, BrowarZwierzyniec",

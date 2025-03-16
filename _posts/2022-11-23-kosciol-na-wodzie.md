@@ -4,14 +4,14 @@ date: 2022-11-23
 weight: -20221123
 post_id: 103478058758108_151258800949315
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]
-featured_image: /../images/posts/2022-11-23-Kosciol-na-wodzie.jpg
+featured_image: /../images/posts/2022-11-23-kosciol-na-wodzie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układ..."
 ---
 
-![Kościół “na wodzie”.](/images/posts/2022-11-23-Kosciol-na-wodzie.jpg)
+![Kościół “na wodzie”.](/images/posts/2022-11-23-kosciol-na-wodzie.jpg)
 *Kościół “na wodzie”.*
 
 Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-23-Kosciol-na-wodzie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-23-kosciol-na-wodzie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",

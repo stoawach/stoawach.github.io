@@ -4,14 +4,14 @@ date: 2024-11-30
 weight: -20241130
 post_id: 103478058758108_553390170736174
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec, RoztoczańskiParkNarodowy]
-featured_image: /../images/posts/2024-11-30-Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg
+featured_image: /../images/posts/2024-11-30-czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zdjęcie przedstawia serce założenia willowego w Zwierzyńcu w promieniach zachodzącego jesiennego słońca. Na pierwszym planie jest kościół pw. św. Jana..."
 ---
 
-![Czy wiesz, że to miejsce odwiedzali królowie?](/images/posts/2024-11-30-Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg)
+![Czy wiesz, że to miejsce odwiedzali królowie?](/images/posts/2024-11-30-czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg)
 *Czy wiesz, że to miejsce odwiedzali królowie?*
 
 Zdjęcie przedstawia serce założenia willowego w Zwierzyńcu w promieniach zachodzącego jesiennego słońca. Na pierwszym planie jest kościół pw. św. Jana Nepomucena “na wodzie”oraz staw kościelny. Pośrodku kadru znajdują się zabytkowe oficyny, a między nimi centralne miejsce, w którym kiedyś stała imponująca modrzewiowa willa. W tle można dostrzec staw willowy, długi kanał oraz lasy Roztoczańskiego Parku Narodowego.
@@ -66,7 +66,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-30-Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-30-czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec, RoztoczańskiParkNarodowy",

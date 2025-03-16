@@ -4,14 +4,14 @@ date: 2023-07-01
 weight: -20230701
 post_id: 103478058758108_245407454867782
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-07-01--Odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg
+featured_image: /../images/posts/2023-07-01-odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zapraszamy Was w kolejną podróż do magicznego świata Zwierzyńca, gdzie piękno natury i ludzkiego tworzenia splatają się w jedno. Dziś pragniemy podkre..."
 ---
 
-![🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/images/posts/2023-07-01--Odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg)
+![🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/images/posts/2023-07-01-odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg)
 *🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟*
 
 Zapraszamy Was w kolejną podróż do magicznego świata Zwierzyńca, gdzie piękno natury i ludzkiego tworzenia splatają się w jedno. Dziś pragniemy podkreślić niezwykłą wartość kościółka na wodzie pw. św. Jana Nepomucena, który powstał w baroku jako kolejny element willowej kompozycji krajobrazowej i dodaje jeszcze większej urody temu miejscu.
@@ -71,7 +71,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-01--Odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-01-odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

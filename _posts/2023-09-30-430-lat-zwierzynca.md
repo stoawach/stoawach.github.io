@@ -4,12 +4,12 @@ date: 2023-09-30
 weight: -20230930
 post_id: 103478058758108_295549056520288
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-09-30-430-lat-Zwierzynca.jpg
+featured_image: /../images/posts/2023-09-30-430-lat-zwierzynca.jpg
 location: "Unknown Location"
 description: "🌧️ Deszczowy weekend to idealny moment, aby zachęcić Was do odwiedzenia magicznego świata Zwierzyńca na Roztoczu! 🏰..."
 ---
 
-![430 lat Zwierzyńca](/images/posts/2023-09-30-430-lat-Zwierzynca.jpg)
+![430 lat Zwierzyńca](/images/posts/2023-09-30-430-lat-zwierzynca.jpg)
 *430 lat Zwierzyńca*
 
 🌧️ Deszczowy weekend to idealny moment, aby zachęcić Was do odwiedzenia magicznego świata Zwierzyńca na Roztoczu! 🏰
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-30-430-lat-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-30-430-lat-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

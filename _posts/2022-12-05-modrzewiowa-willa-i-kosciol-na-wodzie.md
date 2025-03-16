@@ -4,14 +4,14 @@ date: 2022-12-05
 weight: -20221205
 post_id: 103478058758108_153922984016230
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]
-featured_image: /../images/posts/2022-12-05-Modrzewiowa-willa-i-kosciol-na-wodzie.jpg
+featured_image: /../images/posts/2022-12-05-modrzewiowa-willa-i-kosciol-na-wodzie.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Modrzewiowa willa i kościół na wodzie.](/images/posts/2022-12-05-Modrzewiowa-willa-i-kosciol-na-wodzie.jpg)
+![Modrzewiowa willa i kościół na wodzie.](/images/posts/2022-12-05-modrzewiowa-willa-i-kosciol-na-wodzie.jpg)
 *Modrzewiowa willa i kościół na wodzie.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -71,7 +71,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-05-Modrzewiowa-willa-i-kosciol-na-wodzie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-05-modrzewiowa-willa-i-kosciol-na-wodzie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",

@@ -4,14 +4,14 @@ date: 2022-11-07
 weight: -20221107
 post_id: 103478058758108_147528387989023
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]
-featured_image: /../images/posts/2022-11-07-Kosciolek-na-wodzie-w-Zwierzyncu.jpg
+featured_image: /../images/posts/2022-11-07-kosciolek-na-wodzie-wzwierzyncu.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Kościół pw. św. Jana Nepomucena to najbardziej rozpoznawalny zabytek Zwierzyńca.  Dziś, tylko jak przez mgłę, możemy próbować odczytać jego przynależn..."
 ---
 
-![Kościółek na wodzie w Zwierzyńcu](/images/posts/2022-11-07-Kosciolek-na-wodzie-w-Zwierzyncu.jpg)
+![Kościółek na wodzie w Zwierzyńcu](/images/posts/2022-11-07-kosciolek-na-wodzie-wzwierzyncu.jpg)
 *Kościółek na wodzie w Zwierzyńcu*
 
 Kościół pw. św. Jana Nepomucena to najbardziej rozpoznawalny zabytek Zwierzyńca.
@@ -60,7 +60,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-07-Kosciolek-na-wodzie-w-Zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-07-kosciolek-na-wodzie-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",

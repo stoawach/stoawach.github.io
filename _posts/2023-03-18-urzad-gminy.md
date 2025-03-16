@@ -4,14 +4,14 @@ date: 2023-03-18
 weight: -20230318
 post_id: 103478058758108_185229120885616
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2023-03-18-Urzad-Gminy.jpg
+featured_image: /../images/posts/2023-03-18-urzad-gminy.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Urząd Gminy](/images/posts/2023-03-18-Urzad-Gminy.jpg)
+![Urząd Gminy](/images/posts/2023-03-18-urzad-gminy.jpg)
 *Urząd Gminy*
 
 Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-18-Urzad-Gminy.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-18-urzad-gminy.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

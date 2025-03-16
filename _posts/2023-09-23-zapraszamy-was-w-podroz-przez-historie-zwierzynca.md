@@ -4,14 +4,14 @@ date: 2023-09-23
 weight: -20230923
 post_id: 103478058758108_291449600263567
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-09-23-Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca.jpg
+featured_image: /../images/posts/2023-09-23-zapraszamy-was-w-podroz-przez-historie-zwierzynca.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Na środku kadru widzimy kościółek na wodzie - kościół pw. św. Jana Nepomucena. Z prawej strony widnieje pomnik - tajemnicze oko opatrzności...."
 ---
 
-![Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu.](/images/posts/2023-09-23-Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca.jpg)
+![Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu.](/images/posts/2023-09-23-zapraszamy-was-w-podroz-przez-historie-zwierzynca.jpg)
 *Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu.*
 
 Nasz film, zatytułowany "430 lat Zwierzyńca", to nie tylko opowieść o początkach tej miejscowości, ale także lekcja o wartości lokalnego dziedzictwa.
@@ -71,7 +71,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-23-Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-23-zapraszamy-was-w-podroz-przez-historie-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",

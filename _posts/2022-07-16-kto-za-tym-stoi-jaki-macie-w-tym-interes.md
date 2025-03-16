@@ -4,12 +4,12 @@ date: 2022-07-16
 weight: -20220716
 post_id: 103478058758108_175359364903310
 tags: [Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]
-featured_image: /../images/posts/2022-07-16-Kto-za-tym-stoi-Jaki-macie-w-tym-interes.jpg
+featured_image: /../images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg
 location: "Unknown Location"
 description: "Ostatnio, ponieważ prowadzimy wiele akcji, coraz częściej spotykamy się z pytaniem: kto za tym stoi? Za tym, czyli za próbą podźwignięcia Zwierzyńca n..."
 ---
 
-![Kto za tym stoi? Jaki macie w tym interes?](/images/posts/2022-07-16-Kto-za-tym-stoi-Jaki-macie-w-tym-interes.jpg)
+![Kto za tym stoi? Jaki macie w tym interes?](/images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg)
 *Kto za tym stoi? Jaki macie w tym interes?*
 
 Ostatnio, ponieważ prowadzimy wiele akcji, coraz częściej spotykamy się z pytaniem: kto za tym stoi?
@@ -61,7 +61,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-16-Kto-za-tym-stoi-Jaki-macie-w-tym-interes.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły",

@@ -4,14 +4,14 @@ date: 2022-12-20
 weight: -20221220
 post_id: 103478058758108_157427253665803
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-12-20-Osada-ogrod.jpg
+featured_image: /../images/posts/2022-12-20-osada-ogrod.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich...."
 ---
 
-![Osada-ogród.](/images/posts/2022-12-20-Osada-ogrod.jpg)
+![Osada-ogród.](/images/posts/2022-12-20-osada-ogrod.jpg)
 *Osada-ogród.*
 
 Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.
@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-20-Osada-ogrod.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-20-osada-ogrod.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",

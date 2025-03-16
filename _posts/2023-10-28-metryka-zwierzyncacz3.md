@@ -4,14 +4,14 @@ date: 2023-10-28
 weight: -20231028
 post_id: 103478058758108_311429168265610
 tags: [Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]
-featured_image: /../images/posts/2023-10-28-Metryka-Zwierzynca-cz-3.jpg
+featured_image: /../images/posts/2023-10-28-metryka-zwierzyncacz3.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoy..."
 ---
 
-![Metryka Zwierzyńca cz. 3](/images/posts/2023-10-28-Metryka-Zwierzynca-cz-3.jpg)
+![Metryka Zwierzyńca cz. 3](/images/posts/2023-10-28-metryka-zwierzyncacz3.jpg)
 *Metryka Zwierzyńca cz. 3*
 
 Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.
@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-10-28-Metryka-Zwierzynca-cz-3.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-10-28-metryka-zwierzyncacz3.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
