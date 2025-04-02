@@ -28,17 +28,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Jubileuszowe kolędowanie - pastorałki staniąteckie.](/posts/Jubileuszowe-koledowanie-pastoralki-staniateckie)
-- [Jubileuszowe kolędowanie - lutnia](/posts/Jubileuszowe-koledowanie-lutnia)
-- [Jubileuszowe kolędowanie - Renesansowe dziedzictwo.](/posts/Jubileuszowe-koledowanie-Renesansowe-dziedzictwo)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
+- [Jubileuszowe kolędowanie - pastorałki staniąteckie](/posts/jubileuszowe-koledowanie-pastoralki-staniateckie)
+- [Jubileuszowe kolędowanie - lutnia](/posts/jubileuszowe-koledowanie-lutnia)
+- [Jubileuszowe kolędowanie - Renesansowe dziedzictwo](/posts/jubileuszowe-koledowanie-renesansowe-dziedzictwo)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Villa-Restituta-w-Zwierzyncu-zima-AD-1593)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/villa-restituta-w-zwierzyncu-zima-ad-1593)
 
 <script type="application/ld+json">
 {

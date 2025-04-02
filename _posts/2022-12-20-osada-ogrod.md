@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Zniszczenie i zapomnienie.](/posts/Zniszczenie-i-zapomnienie)
-- [Idealna modrzewiowa willa.](/posts/Idealna-modrzewiowa-willa)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Likiernia.](/posts/Likiernia)
-- [Zadbana osada urzędnicza.](/posts/Zadbana-osada-urzednicza)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Likiernia](/posts/likiernia)
+- [Zadbana osada urzędnicza](/posts/zadbana-osada-urzednicza)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Osada-ogrod)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/osada-ogrod)
 
 <script type="application/ld+json">
 {

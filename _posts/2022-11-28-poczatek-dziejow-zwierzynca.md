@@ -27,17 +27,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Witaj w jubileuszowym, 430. roku historii Zwierzyńca!](/posts/Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca)
-- [Młyn.](/posts/Mlyn)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Deptak dawniej](/posts/Deptak-dawniej)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Poczatek-dziejow-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/poczatek-dziejow-zwierzynca)
 
 <script type="application/ld+json">
 {

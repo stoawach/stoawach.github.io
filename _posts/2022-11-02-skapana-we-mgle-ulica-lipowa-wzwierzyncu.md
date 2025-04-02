@@ -20,17 +20,17 @@ Drzewa z Lipowej jeszcze rok temu były zagrożone wycinką. Teraz podlegają 
 MJP
 
 Powiązane posty:
-- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/Jak-miasto-Zwierzyniec-chroni-swoje-zabytki)
-- [Wyobrażasz sobie ulicę Lipową bez lip?](/posts/Wyobrazasz-sobie-ulice-Lipowa-bez-lip)
-- [Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3](/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3)
-- [Dębowa aleja w ogrodzie skarbowym](/posts/Debowa-aleja-w-ogrodzie-skarbowym)
-- [Park romantyczny.](/posts/Park-romantyczny)
+- [Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3](/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucz3)
+- [Skąpana we mgle ulica Lipowa w Zwierzyńcu cd.](/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucd)
+- [Wyobrażasz sobie ulicę Lipową bez lip?](/posts/wyobrazasz-sobie-ulice-lipowa-bez-lip)
+- [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncu)
 
 <script type="application/ld+json">
 {

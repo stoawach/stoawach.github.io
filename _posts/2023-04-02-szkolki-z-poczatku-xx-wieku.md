@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/Willa-Potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Dębowa aleja w ogrodzie skarbowym](/posts/Debowa-aleja-w-ogrodzie-skarbowym)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Deptak dawniej](/posts/deptak-dawniej)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Szkolki-z-poczatku-XX-wieku)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/szkolki-z-poczatku-xx-wieku)
 
 <script type="application/ld+json">
 {

@@ -22,10 +22,18 @@ description: "z Fejfer-Stankowskich,  artystka, malarka Roztocza, współtwórc
 
    W obrazach pozostawiła nam niepowtarzalną jesienną paletę barw krajobrazów i portretów drzew.
 
+Powiązane posty:
+- [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
+- [Tymczasem wciąż opowiadamy o naszej Patronce](/posts/tymczasem-wciaz-opowiadamy-onaszej-patronce)
+- [Historia Aleksandry Wachniewskiej - część I](/posts/historia-aleksandry-wachniewskiej-czesc-i)
+- [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
+- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+
+
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/ALEKSANDRA-WACHNIEWSKA)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/aleksandra-wachniewska)
 
 <script type="application/ld+json">
 {

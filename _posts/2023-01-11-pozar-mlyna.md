@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Likiernia.](/posts/Likiernia)
-- [Młyn.](/posts/Mlyn)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Likiernia](/posts/likiernia)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Pozar-mlyna)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/pozar-mlyna)
 
 <script type="application/ld+json">
 {

@@ -24,17 +24,17 @@ Poświęcamy dużo naszego prywatnego czasu działaniom na rzecz Zwierzyńca. R
 Jeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy!
 
 Powiązane posty:
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
-- [Z czego chcemy być dumni?](/posts/Z-czego-chcemy-byc-dumni)
-- [Czy kolejne drzewa muszą zniknąć z krajobrazu Zwierzyńca?](/posts/Czy-kolejne-drzewa-musza-zniknac-z-krajobrazu-Zwierzynca)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja)
+- [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Kto-za-tym-stoi-Jaki-macie-w-tym-interes)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
 
 <script type="application/ld+json">
 {

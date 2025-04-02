@@ -25,17 +25,17 @@ Pisaliśmy już o tym, jak Technikum im. Jana Zamoyskiego dba o zabytki. T
 ©MJP
 
 Powiązane posty:
-- [Pałac administracji.](/posts/Palac-administracji)
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Oficyna skrzydłowa południowa.](/posts/Oficyna-skrzydlowa-poludniowa)
-- [Wnętrze krajobrazowe.](/posts/Wnetrze-krajobrazowe)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
+- [Oficyna skrzydłowa południowa cd](/posts/oficyna-skrzydlowa-poludniowa-cd)
+- [Pałac administracji](/posts/palac-administracji)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Kościół “na wodzie”](/posts/kosciol-na-wodzie)
+- [Wnętrze krajobrazowe](/posts/wnetrze-krajobrazowe)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-polnocna)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-polnocna)
 
 <script type="application/ld+json">
 {

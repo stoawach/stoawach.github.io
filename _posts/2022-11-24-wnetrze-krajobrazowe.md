@@ -27,17 +27,17 @@ Niestety, nie wszyscy są wrażliwi na piękno lub brzydotę otaczającego k
 ©MJP
 
 Powiązane posty:
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Długi kanał modrzewiowej willi](/posts/dlugi-kanal-modrzewiowej-willi)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Wnetrze-krajobrazowe)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/wnetrze-krajobrazowe)
 
 <script type="application/ld+json">
 {

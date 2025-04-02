@@ -33,17 +33,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Oberża i nowe drogi.](/posts/Oberza-i-nowe-drogi)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
-- [Osada-ogród.](/posts/Osada-ogrod)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
+- [Willa niezwykła](/posts/willa-niezwykla)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Domek-na-gorce)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/domek-na-gorce)
 
 <script type="application/ld+json">
 {

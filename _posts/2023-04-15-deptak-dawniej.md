@@ -33,17 +33,17 @@ Zdjęcie, w oryginale czarno-białe, udostępnione dzięki uprzejmości Towarzy
 ©MJP
 
 Powiązane posty:
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Pożar młyna.](/posts/Pozar-mlyna)
-- [Pałac administracji.](/posts/Palac-administracji)
-- [Szkółki z początku XX wieku](/posts/Szkolki-z-poczatku-XX-wieku)
-- [Likiernia.](/posts/Likiernia)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
+- [Pożar młyna](/posts/pozar-mlyna)
+- [Fabryka mebli cd.](/posts/fabryka-meblicd)
+- [Fabryka mebli](/posts/fabryka-mebli)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Deptak-dawniej)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/deptak-dawniej)
 
 <script type="application/ld+json">
 {

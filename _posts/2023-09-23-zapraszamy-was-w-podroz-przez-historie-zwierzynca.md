@@ -34,17 +34,17 @@ Projekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszeni
 ©MJP
 
 Powiązane posty:
-- [430 lat Zwierzyńca](/posts/430-lat-Zwierzynca)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [PO CO NAM ZABYTKI?](/posts/PO-CO-NAM-ZABYTKI)
-- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie! To dlatego niezwykle ważne dla niego są wskazania konserwatorskie zawarte w opracowaniu studialnym przygotowanym przez Narodowy Instytut Dziedzictwa.](/posts/Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie)
-- [🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟](/posts/-Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
+- [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 
 <script type="application/ld+json">
 {

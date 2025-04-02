@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Pałac administracji.](/posts/Palac-administracji)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Pałac administracji](/posts/palac-administracji)
+- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Likiernia)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/likiernia)
 
 <script type="application/ld+json">
 {

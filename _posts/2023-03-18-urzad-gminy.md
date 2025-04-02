@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Szkółki z początku XX wieku](/posts/Szkolki-z-poczatku-XX-wieku)
-- [Likiernia.](/posts/Likiernia)
-- [Fabryka mebli.](/posts/Fabryka-mebli)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Pożar młyna](/posts/pozar-mlyna)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Urzad-Gminy)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/urzad-gminy)
 
 <script type="application/ld+json">
 {

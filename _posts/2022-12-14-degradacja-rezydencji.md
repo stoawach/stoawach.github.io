@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Park romantyczny.](/posts/Park-romantyczny)
-- [Zadbana osada urzędnicza.](/posts/Zadbana-osada-urzednicza)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Idealna modrzewiowa willa.](/posts/Idealna-modrzewiowa-willa)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Park romantyczny](/posts/park-romantyczny)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Degradacja-rezydencji)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/degradacja-rezydencji)
 
 <script type="application/ld+json">
 {

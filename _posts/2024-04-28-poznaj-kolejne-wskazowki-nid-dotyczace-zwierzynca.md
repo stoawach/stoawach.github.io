@@ -28,17 +28,17 @@ Działajmy razem!
 ©MJP
 
 Powiązane posty:
-- [Odkryj następne wskazówki od NID na temat Zwierzyńca](/posts/Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca)
-- [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie)
-- [Od kilku tygodni przybliżamy Wam wskazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca.](/posts/Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego)
-- [Wybierz rozwój Zwierzyńca w oparciu o dziedzictwo!](/posts/Wybierz-rozwoj-Zwierzynca-w-oparciu-o-dziedzictwo)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Odkryj następne wskazówki od NID na temat Zwierzyńca](/posts/odkryj-nastepne-wskazowki-od-nid-na-temat)
+- [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/czy-teraz-prace-projektowe-beda-postepowac)
+- [Wkazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca](/posts/wkazowki-narodowego-instytutu-dziedzictwa)
+- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Poznaj-kolejne-wskazowki-NID-dotyczace-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca)
 
 <script type="application/ld+json">
 {

@@ -28,17 +28,17 @@ Najprościej - udostępniając ten post.
 MJP
 
 Powiązane posty:
-- [Skąpany we mgle park środowiskowy w Zwierzyńcu.](/posts/Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu)
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/Jak-Technikum-im-Jana-Zamoyskiego-chroni-zabytki-Zwierzynca)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Skąpany we mgle park środowiskowy w Zwierzyńcu](/posts/skapany-we-mgle-park-srodowiskowy-w-zwierzyncu)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
 
 <script type="application/ld+json">
 {

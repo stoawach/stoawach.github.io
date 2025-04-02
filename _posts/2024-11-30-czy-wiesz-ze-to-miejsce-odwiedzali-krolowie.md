@@ -29,17 +29,17 @@ Zdjęcie MJP dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultur
 ©MJP
 
 Powiązane posty:
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
-- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
-- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/Kosciol-na-wodzie-perla-zalozenia-willowego-w-Zwierzyncu)
-- [🌳🏰🦌 Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii! 🌳🏰🦌](/posts/-Zapraszamy-do-Magicznego-Zwierzynca-Odkryj-piekno-przyrody)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
+- [Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii!](/posts/zapraszamy-do-magicznego-zwierzynca-odkryj-piekno)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 <script type="application/ld+json">
 {

@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Modrzewiowa willa i kościół na wodzie.](/posts/Modrzewiowa-willa-i-kosciol-na-wodzie)
-- [Marysieńka.](/posts/Marysienka)
-- [Likiernia.](/posts/Likiernia)
-- [Witaj w jubileuszowym, 430. roku historii Zwierzyńca!](/posts/Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
+- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Pierwszy-powazny-remont)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/pierwszy-powazny-remont)
 
 <script type="application/ld+json">
 {

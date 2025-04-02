@@ -29,17 +29,17 @@ Twoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.
 ©MJP
 
 Powiązane posty:
-- [Poszukiwani są specjaliści, którzy przeprowadzą remont konserwatorski kościoła na wodzie](/posts/Poszukiwani-sa-specjalisci-ktorzy-przeprowadza-remont)
-- [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/Wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci)
-- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.](/posts/Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego)
-- [Największa wartość wciąż niewykorzystana?](/posts/Najwieksza-wartosc-wciaz-niewykorzystana)
-- [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie)
+- [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Największa wartość wciąż niewykorzystana?](/posts/najwieksza-wartosc-wciaz-niewykorzystana)
+- [Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu](/posts/remont-konserwatorski-kosciola-pwswjana)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly)
 
 <script type="application/ld+json">
 {

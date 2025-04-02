@@ -23,17 +23,17 @@ Może już czas zadbać o to wyjątkowe miejsce ukazując jego prawdziwe pię
 MJP
 
 Powiązane posty:
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.](/posts/Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego)
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [Mgła tajemnic spowija zwierzyniecką willę](/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Mgła tajemnic spowija zwierzyniecką willę](/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
+- [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Kosciolek-na-wodzie-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/kosciolek-na-wodzie-wzwierzyncu)
 
 <script type="application/ld+json">
 {

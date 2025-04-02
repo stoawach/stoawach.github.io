@@ -29,17 +29,17 @@ Dołącz do naszej misji ochrony i promocji dziedzictwa Zwierzyńca – każdy
 ©MJP
 
 Powiązane posty:
-- [Metryka Zwierzyńca cz. 2](/posts/Metryka-Zwierzynca-cz-2)
-- [Metryka Zwierzyńca cz. 9 - ostatnia](/posts/Metryka-Zwierzynca-cz-9-ostatnia)
-- [Metryka Zwierzyńca cz. 1](/posts/Metryka-Zwierzynca-cz-1)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
+- [Metryka Zwierzyńca cz. 9 - ostatnia](/posts/metryka-zwierzyncacz9-ostatnia)
+- [Metryka Zwierzyńca cz. 2](/posts/metryka-zwierzyncacz2)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Metryka Zwierzyńca cz. 7](/posts/metryka-zwierzyncacz7)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-8)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz8)
 
 <script type="application/ld+json">
 {

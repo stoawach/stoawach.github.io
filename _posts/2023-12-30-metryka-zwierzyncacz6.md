@@ -29,17 +29,17 @@ Serdecznie zapraszamy do pełnego zaangażowania w odkrywanie i pielęgnowani
 ©MJP
 
 Powiązane posty:
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
-- [Metryka Zwierzyńca cz. 2](/posts/Metryka-Zwierzynca-cz-2)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [Metryka Zwierzyńca cz. 4](/posts/Metryka-Zwierzynca-cz-4)
-- [Metryka Zwierzyńca cz. 1](/posts/Metryka-Zwierzynca-cz-1)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Metryka Zwierzyńca cz. 2](/posts/metryka-zwierzyncacz2)
+- [Metryka Zwierzyńca cz. 3](/posts/metryka-zwierzyncacz3)
+- [Metryka Zwierzyńca cz. 4](/posts/metryka-zwierzyncacz4)
+- [Metryka Zwierzyńca cz. 1](/posts/metryka-zwierzyncacz1)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-6)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz6)
 
 <script type="application/ld+json">
 {

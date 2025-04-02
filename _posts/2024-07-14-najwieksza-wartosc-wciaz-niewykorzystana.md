@@ -27,17 +27,17 @@ Twoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.
 ©MJP
 
 Powiązane posty:
-- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.](/posts/Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego)
-- [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/Wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci)
-- [Poszukiwani są specjaliści, którzy przeprowadzą remont konserwatorski kościoła na wodzie](/posts/Poszukiwani-sa-specjalisci-ktorzy-przeprowadza-remont)
-- [Wielka dotacja została przyznana! Poznaj szczegóły.](/posts/Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni)
+- [Wielka dotacja została przyznana! Poznaj szczegóły](/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Najwieksza-wartosc-wciaz-niewykorzystana)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/najwieksza-wartosc-wciaz-niewykorzystana)
 
 <script type="application/ld+json">
 {

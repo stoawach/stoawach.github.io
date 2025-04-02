@@ -32,17 +32,17 @@ Teraz jest czas, aby świat usłyszał o tym niezwykłym miejscu! Dołączcie
 ©MJP
 
 Powiązane posty:
-- [Metryka Zwierzyńca cz. 1](/posts/Metryka-Zwierzynca-cz-1)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [PO CO NAM ZABYTKI?](/posts/PO-CO-NAM-ZABYTKI)
+- [Metryka Zwierzyńca cz. 1](/posts/metryka-zwierzyncacz1)
+- [Metryka Zwierzyńca cz. 3](/posts/metryka-zwierzyncacz3)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Metryka Zwierzyńca cz. 4](/posts/metryka-zwierzyncacz4)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/-Witajcie-w-tajemniczym-swiecie-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/witajcie-w-tajemniczym-swiecie-zwierzynca)
 
 <script type="application/ld+json">
 {

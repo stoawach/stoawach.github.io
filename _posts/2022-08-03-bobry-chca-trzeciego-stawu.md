@@ -31,17 +31,17 @@ Jeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na�
 Bóbr europejski - fot. Przemysław Stachyra
 
 Powiązane posty:
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [Z czego chcemy być dumni?](/posts/Z-czego-chcemy-byc-dumni)
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Kto za tym stoi? Jaki macie w tym interes?](/posts/Kto-za-tym-stoi-Jaki-macie-w-tym-interes)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja)
+- [Akt Lokacyjny z 1580 roku wrócił do Zamościa. Dlaczego to ważne i dla nas?](/posts/akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Bobry-chca-trzeciego-stawu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/bobry-chca-trzeciego-stawu)
 
 <script type="application/ld+json">
 {

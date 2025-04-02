@@ -32,17 +32,17 @@ Wspólnymi siłami możemy być strażnikami dziedzictwa Zwierzyńca oraz jego 
 ©MJP
 
 Powiązane posty:
-- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie! To dlatego niezwykle ważne dla niego są wskazania konserwatorskie zawarte w opracowaniu studialnym przygotowanym przez Narodowy Instytut Dziedzictwa.](/posts/Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie)
-- [Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/posts/Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Modrzewiowa willa i kościół na wodzie.](/posts/Modrzewiowa-willa-i-kosciol-na-wodzie)
+- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Wybierz-rozwoj-Zwierzynca-w-oparciu-o-dziedzictwo)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo)
 
 <script type="application/ld+json">
 {

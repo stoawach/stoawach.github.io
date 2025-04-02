@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Fabryka mebli.](/posts/Fabryka-mebli)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Likiernia.](/posts/Likiernia)
-- [Pałac administracji.](/posts/Palac-administracji)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Likiernia](/posts/likiernia)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/fabryka-meblicd)
 
 <script type="application/ld+json">
 {

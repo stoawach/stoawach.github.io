@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Dębowa aleja w ogrodzie skarbowym](/posts/Debowa-aleja-w-ogrodzie-skarbowym)
-- [Fabryka mebli.](/posts/Fabryka-mebli)
-- [Likiernia.](/posts/Likiernia)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/W-wieku-pary)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/w-wieku-pary)
 
 <script type="application/ld+json">
 {

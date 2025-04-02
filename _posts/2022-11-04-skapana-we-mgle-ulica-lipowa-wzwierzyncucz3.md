@@ -22,17 +22,17 @@ W tej okolicy, przed laty, znajdował się mostek ułatwiający dojście z o
 MJP
 
 Powiązane posty:
-- [Młyn.](/posts/Mlyn)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [PO CO NAM ZABYTKI?](/posts/PO-CO-NAM-ZABYTKI)
+- [Skąpana we mgle ulica Lipowa w Zwierzyńcu](/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncu)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/czy-teraz-prace-projektowe-beda-postepowac)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucz3)
 
 <script type="application/ld+json">
 {

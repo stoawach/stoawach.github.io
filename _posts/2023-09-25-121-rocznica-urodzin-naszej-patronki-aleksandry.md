@@ -25,17 +25,17 @@ Jest nadzieja, że działania te przyniosą oczekiwane efekty i wreszcie will
 ©LMP
 
 Powiązane posty:
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [430 lat Zwierzyńca](/posts/430-lat-Zwierzynca)
-- [Willa ](/posts/Willa-Borowianka)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [PO CO NAM ZABYTKI?](/posts/PO-CO-NAM-ZABYTKI)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-Patronki-Aleksandry)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-patronki-aleksandry)
 
 <script type="application/ld+json">
 {

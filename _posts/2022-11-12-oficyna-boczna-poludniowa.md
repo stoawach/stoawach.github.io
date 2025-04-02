@@ -27,17 +27,17 @@ Słychać też dobre wieści - wspólnota podjęła starania o remont dachu bu
 MJP
 
 Powiązane posty:
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Oficyna wschodnia.](/posts/Oficyna-wschodnia)
-- [Budynek główny browaru.](/posts/Budynek-glowny-browaru)
-- [Willa ](/posts/Willa-Borowianka)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Oficyna wschodnia](/posts/oficyna-wschodnia)
+- [Budynek główny browaru](/posts/budynek-glowny-browaru)
+- [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-poludniowa)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-poludniowa)
 
 <script type="application/ld+json">
 {

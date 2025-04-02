@@ -21,17 +21,17 @@ Oczami wyobraźni, pomiędzy dojrzałymi drzewami, łatwo można dojrzeć ście�
 MJP
 
 Powiązane posty:
-- [Wyobrażasz sobie ulicę Lipową bez lip?](/posts/Wyobrazasz-sobie-ulice-Lipowa-bez-lip)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Pożar młyna.](/posts/Pozar-mlyna)
-- [Bobry chcą trzeciego stawu?](/posts/Bobry-chca-trzeciego-stawu)
-- [Fabryka mebli c.d.](/posts/Fabryka-mebli)
+- [Skąpana we mgle ulica Lipowa w Zwierzyńcu](/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncu)
+- [Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3](/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucz3)
+- [Wyobrażasz sobie ulicę Lipową bez lip?](/posts/wyobrazasz-sobie-ulice-lipowa-bez-lip)
+- [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucd)
 
 <script type="application/ld+json">
 {

@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Park romantyczny.](/posts/Park-romantyczny)
-- [Degradacja rezydencji.](/posts/Degradacja-rezydencji)
-- [Pożar młyna.](/posts/Pozar-mlyna)
-- [Młyn.](/posts/Mlyn)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
+- [Park romantyczny](/posts/park-romantyczny)
+- [Degradacja rezydencji](/posts/degradacja-rezydencji)
+- [Pożar młyna](/posts/pozar-mlyna)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Młyn](/posts/mlyn)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Zadbana-osada-urzednicza)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/zadbana-osada-urzednicza)
 
 <script type="application/ld+json">
 {

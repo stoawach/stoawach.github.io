@@ -28,17 +28,17 @@ W tle między drzewami majaczy południowa skrzydłowa oficyna modrzewiowej re
 MJP
 
 Powiązane posty:
-- [Wnętrze krajobrazowe.](/posts/Wnetrze-krajobrazowe)
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Oficyna wschodnia](/posts/oficyna-wschodnia)
+- [Willa \](/posts/willa)
+- [Wnętrze krajobrazowe](/posts/wnetrze-krajobrazowe)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Staw-zwierzynczyka)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/staw-zwierzynczyka)
 
 <script type="application/ld+json">
 {

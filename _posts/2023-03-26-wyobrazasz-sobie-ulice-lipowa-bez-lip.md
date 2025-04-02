@@ -29,17 +29,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Park romantyczny.](/posts/Park-romantyczny)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Park romantyczny](/posts/park-romantyczny)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Wyobrazasz-sobie-ulice-Lipowa-bez-lip)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/wyobrazasz-sobie-ulice-lipowa-bez-lip)
 
 <script type="application/ld+json">
 {

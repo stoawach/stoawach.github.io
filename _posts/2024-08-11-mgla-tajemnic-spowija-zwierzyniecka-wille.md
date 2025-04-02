@@ -28,17 +28,17 @@ Twoje wsparcie to cegiełka w przywracaniu piękna tego niezwykłego miejsca.
 ©MJP
 
 Powiązane posty:
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [To element założenia willowego w Zwierzyńcu](/posts/To-element-zalozenia-willowego-w-Zwierzyncu)
-- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu. Nasz film, zatytułowany ](/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca)
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [To element założenia willowego w Zwierzyńcu](/posts/to-element-zalozenia-willowego-w-zwierzyncu)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
 
 <script type="application/ld+json">
 {

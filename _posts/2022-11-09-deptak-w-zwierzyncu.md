@@ -25,17 +25,17 @@ Czy wiesz, że kiedyś po grobli poruszała się kolejka wąskotorowa?
 MJP
 
 Powiązane posty:
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [Z czego chcemy być dumni?](/posts/Z-czego-chcemy-byc-dumni)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
+- [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Deptak-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/deptak-w-zwierzyncu)
 
 <script type="application/ld+json">
 {

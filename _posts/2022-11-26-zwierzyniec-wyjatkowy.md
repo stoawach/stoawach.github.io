@@ -28,17 +28,17 @@ Zdjęcie przedstawia najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Wci�
 ©MJP
 
 Powiązane posty:
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Z czego chcemy być dumni?](/posts/Z-czego-chcemy-byc-dumni)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [430 lat Zwierzyńca](/posts/430-lat-Zwierzynca)
-- [Czy Zwierzyniec odzyska swój blask? Dzięki NID wiemy jak może się to stać!](/posts/Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak)
+- [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa](/posts/ocalmy-piekno-wille-w-parku-twoja-rola)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Czy Zwierzyniec odzyska swój blask? Dzięki NID wiemy jak może się to stać!](/posts/czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Zwierzyniec-wyjatkowy)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/zwierzyniec-wyjatkowy)
 
 <script type="application/ld+json">
 {

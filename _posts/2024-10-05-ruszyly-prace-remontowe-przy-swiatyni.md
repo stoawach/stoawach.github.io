@@ -27,17 +27,17 @@ Twoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności m
 ©MJP
 
 Powiązane posty:
-- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/Slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Każde małe miasto ma swój Wawel?](/posts/Kazde-male-miasto-ma-swoj-Wawel)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego)
+- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Ruszyly-prace-remontowe-przy-swiatyni)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/ruszyly-prace-remontowe-przy-swiatyni)
 
 <script type="application/ld+json">
 {

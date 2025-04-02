@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Modrzewiowa willa i kościół na wodzie.](/posts/Modrzewiowa-willa-i-kosciol-na-wodzie)
-- [Oberża i nowe drogi.](/posts/Oberza-i-nowe-drogi)
-- [Park romantyczny.](/posts/Park-romantyczny)
-- [Idealna modrzewiowa willa.](/posts/Idealna-modrzewiowa-willa)
-- [Szkółki z początku XX wieku](/posts/Szkolki-z-poczatku-XX-wieku)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
+- [Willa niezwykła](/posts/willa-niezwykla)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oblicze-urzedniczej-osady)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oblicze-urzedniczej-osady)
 
 <script type="application/ld+json">
 {

@@ -33,17 +33,17 @@ Projekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszeni
 [https://fb.watch/nnYm2GJm4V/](https://fb.watch/nnYm2GJm4V/)
 
 Powiązane posty:
-- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu. Nasz film, zatytułowany ](/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca)
-- [PO CO NAM ZABYTKI?](/posts/PO-CO-NAM-ZABYTKI)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/430-lat-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/430-lat-zwierzynca)
 
 <script type="application/ld+json">
 {

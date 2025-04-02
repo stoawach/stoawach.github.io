@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Oberża i nowe drogi.](/posts/Oberza-i-nowe-drogi)
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [“Domek na górce”.](/posts/Domek-na-gorce)
-- [Fabryka mebli.](/posts/Fabryka-mebli)
+- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Likiernia](/posts/likiernia)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Powstanczy-szpital)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/powstanczy-szpital)
 
 <script type="application/ld+json">
 {

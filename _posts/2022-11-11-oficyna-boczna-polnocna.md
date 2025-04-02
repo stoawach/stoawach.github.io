@@ -27,17 +27,17 @@ Czy spacer wśród zabytków, jak ten, nie będzie piękny?
 MJP
 
 Powiązane posty:
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Oficyna wschodnia.](/posts/Oficyna-wschodnia)
-- [Oficyna skrzydłowa południowa.](/posts/Oficyna-skrzydlowa-poludniowa)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
-- [Budynek główny browaru.](/posts/Budynek-glowny-browaru)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Oficyna wschodnia](/posts/oficyna-wschodnia)
+- [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
+- [Oficyna skrzydłowa południowa](/posts/oficyna-skrzydlowa-poludniowa)
+- [Willa \](/posts/willa)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-polnocna)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-polnocna)
 
 <script type="application/ld+json">
 {

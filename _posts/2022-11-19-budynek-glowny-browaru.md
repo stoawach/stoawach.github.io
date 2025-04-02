@@ -25,17 +25,17 @@ Od 2000 roku, w wakacje, na dziedzińcu browaru odbywają się projekcje kin
 ©MJP
 
 Powiązane posty:
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Willa ](/posts/Willa-Borowianka)
-- [W wieku pary.](/posts/W-wieku-pary)
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Fabryka mebli.](/posts/Fabryka-mebli)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Willa \](/posts/willa)
+- [W wieku pary](/posts/w-wieku-pary)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Kościół “na wodzie”](/posts/kosciol-na-wodzie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Budynek-glowny-browaru)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/budynek-glowny-browaru)
 
 <script type="application/ld+json">
 {

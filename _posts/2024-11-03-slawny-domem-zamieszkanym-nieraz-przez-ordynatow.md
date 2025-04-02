@@ -25,17 +25,17 @@ Twoje wsparcie ma moc odmienić losy całego założenia willowego w Zwierzy�
 ©MJP
 
 Powiązane posty:
-- [Ruszyły prace remontowe przy świątyni](/posts/Ruszyly-prace-remontowe-przy-swiatyni)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
+- [Ruszyły prace remontowe przy świątyni](/posts/ruszyly-prace-remontowe-przy-swiatyni)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
 
 <script type="application/ld+json">
 {

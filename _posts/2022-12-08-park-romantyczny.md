@@ -33,17 +33,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Młyn.](/posts/Mlyn)
-- [Zadbana osada urzędnicza.](/posts/Zadbana-osada-urzednicza)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Młyn](/posts/mlyn)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Park-romantyczny)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/park-romantyczny)
 
 <script type="application/ld+json">
 {

@@ -24,17 +24,17 @@ Razem możemy sprawić, że Zwierzyniec zajaśnieje prawdziwym blaskiem!
 ©MJP
 
 Powiązane posty:
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego)
-- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [30 lat temu prezydent RP uznał pierwszych 15 zabytków za Pomniki Historii. Dlaczego to ważne również z punktu widzenia Zwierzyńca?](/posts/30-lat-temu-prezydent-RP-uznal-pierwszych-15-zabytkow)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
+- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Kazde-male-miasto-ma-swoj-Wawel)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/kazde-male-miasto-ma-swoj-wawel)
 
 <script type="application/ld+json">
 {

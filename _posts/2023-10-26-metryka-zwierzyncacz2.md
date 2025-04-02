@@ -28,17 +28,17 @@ Nie zapomnij zostawić komentarza i podzielić się postem. Im więcej osób
 ©MJP
 
 Powiązane posty:
-- [Witaj w jubileuszowym, 430. roku historii Zwierzyńca!](/posts/Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [Metryka Zwierzyńca cz. 1](/posts/Metryka-Zwierzynca-cz-1)
-- [Metryka Zwierzyńca cz. 4](/posts/Metryka-Zwierzynca-cz-4)
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
+- [Metryka Zwierzyńca cz. 1](/posts/metryka-zwierzyncacz1)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Metryka Zwierzyńca cz. 4](/posts/metryka-zwierzyncacz4)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-2)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz2)
 
 <script type="application/ld+json">
 {

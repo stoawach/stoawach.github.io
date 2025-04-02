@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Szkółki z początku XX wieku](/posts/Szkolki-z-poczatku-XX-wieku)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/Willa-Potockich-czy-zostanie-objeta-ochrona-prawna)
-- [W wieku pary.](/posts/W-wieku-pary)
-- [Likiernia.](/posts/Likiernia)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Debowa-aleja-w-ogrodzie-skarbowym)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/debowa-aleja-w-ogrodzie-skarbowym)
 
 <script type="application/ld+json">
 {

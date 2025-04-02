@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [“Domek na górce”.](/posts/Domek-na-gorce)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
-- [Dębowa aleja w ogrodzie skarbowym](/posts/Debowa-aleja-w-ogrodzie-skarbowym)
-- [Deptak dawniej](/posts/Deptak-dawniej)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Likiernia](/posts/likiernia)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oberza-i-nowe-drogi)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oberza-i-nowe-drogi)
 
 <script type="application/ld+json">
 {

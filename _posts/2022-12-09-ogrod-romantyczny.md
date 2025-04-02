@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
-- [Idealna modrzewiowa willa.](/posts/Idealna-modrzewiowa-willa)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Ogrod-romantyczny)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/ogrod-romantyczny)
 
 <script type="application/ld+json">
 {

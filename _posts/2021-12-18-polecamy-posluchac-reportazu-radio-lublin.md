@@ -16,10 +16,18 @@ Możecie usłyszeć wiele ciekawych historii prosto z ust znanych Zwierzynian (i
 
 [https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU](https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU)
 
+Powiązane posty:
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
+- [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
+- [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
+- [To one dają nam życiodajny tlen, cień i ochłodę w upalne dni](/posts/to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode)
+- [Tymczasem wciąż opowiadamy o naszej Patronce](/posts/tymczasem-wciaz-opowiadamy-onaszej-patronce)
+
+
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Przy-przedswiatecznych-porzadkach-polecamy-posluchac)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin)
 
 <script type="application/ld+json">
 {
@@ -42,7 +50,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin-symfonia-dla-pani"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin"
   },
   "image": {
     "@type": "ImageObject",
@@ -77,7 +85,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Polecamy posłuchać reportażu Radio Lublin \\\"Symfonia dla pani Wachniewskiej\\",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin-symfonia-dla-pani"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin"
     }
   ]
 }

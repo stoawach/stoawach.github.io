@@ -34,17 +34,17 @@ Udostępnijcie ten post, aby zaprosić innych do odkrywania tej wyjątkowej 
 ©MJP
 
 Powiązane posty:
-- [🌳🏰🦌 Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii! 🌳🏰🦌](/posts/-Zapraszamy-do-Magicznego-Zwierzynca-Odkryj-piekno-przyrody)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟](/posts/-Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego)
-- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu. Nasz film, zatytułowany ](/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca)
-- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
+- [Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii!](/posts/zapraszamy-do-magicznego-zwierzynca-odkryj-piekno)
+- [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 <script type="application/ld+json">
 {

@@ -24,17 +24,17 @@ Po II wojnie światowej została odebrana Zarządowi Ordynacji Zamojskiej i p
 MJP
 
 Powiązane posty:
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Gmach Główny Zarządu Ordynacji Zamojskiej.](/posts/Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej)
-- [Oficyna wschodnia.](/posts/Oficyna-wschodnia)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Gmach Główny Zarządu Ordynacji Zamojskiej](/posts/gmach-glowny-zarzadu-ordynacji-zamojskiej)
+- [Oficyna wschodnia](/posts/oficyna-wschodnia)
+- [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-poludniowa)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-poludniowa)
 
 <script type="application/ld+json">
 {

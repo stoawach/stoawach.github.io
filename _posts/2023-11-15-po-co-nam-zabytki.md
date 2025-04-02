@@ -42,17 +42,17 @@ Zdjęcie ukazuje fragment 400-metrowego kanału w Zwierzyńcu, będącego integ
 fot. ©MJP
 
 Powiązane posty:
-- [Z czego chcemy być dumni?](/posts/Z-czego-chcemy-byc-dumni)
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Kto za tym stoi? Jaki macie w tym interes?](/posts/Kto-za-tym-stoi-Jaki-macie-w-tym-interes)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/PO-CO-NAM-ZABYTKI)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/po-co-nam-zabytki)
 
 <script type="application/ld+json">
 {

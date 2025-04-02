@@ -33,11 +33,18 @@ lauda!‌ ‌
 
 Przedstawiamy‌ ‌oto‌ ‌Osobę,‌ ‌mieszkankę‌ ‌Zwierzyńca,‌ ‌co‌ ‌życiem‌ ‌całym‌ ‌zaskarbiła‌ ‌sobie‌ ‌naszą‌ ‌Wdzięczność,‌ ‌Pamięć‌ ‌i‌ ‌Miłość.‌ ‌
 
+Powiązane posty:
+- [Drzewom, tak jak ludziom, zdarza się chorować](/posts/drzewom-tak-jak-ludziom-zdarza-sie-chorowac)
+- [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
+- [Historia Aleksandry Wachniewskiej - część I](/posts/historia-aleksandry-wachniewskiej-czesc-i)
+- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
+
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/LAUDACJA---ALEKSANDRY--WACHNIEWSKIEJ)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/laudacja-aleksandry-wachniewskiej)
 
 <script type="application/ld+json">
 {

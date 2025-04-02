@@ -25,17 +25,17 @@ Czy w najbliższej przyszłości założenie willowo-ogrodowe wróci do pełn
 MJP
 
 Powiązane posty:
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Oficyna skrzydłowa południowa.](/posts/Oficyna-skrzydlowa-poludniowa)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/Jak-Technikum-im-Jana-Zamoyskiego-chroni-zabytki-Zwierzynca)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Oficyna skrzydłowa południowa](/posts/oficyna-skrzydlowa-poludniowa)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/gmach-glowny-zarzadu-ordynacji-zamojskiej)
 
 <script type="application/ld+json">
 {

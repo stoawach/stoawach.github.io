@@ -26,17 +26,17 @@ zdj. Fundacja Honesty
 ©MJP
 
 Powiązane posty:
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego)
-- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/Kosciol-na-wodzie-perla-zalozenia-willowego-w-Zwierzyncu)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [Mgła tajemnic spowija zwierzyniecką willę](/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille)
-- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu. Nasz film, zatytułowany ](/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca)
+- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
+- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
+- [Mgła tajemnic spowija zwierzyniecką willę](/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/To-element-zalozenia-willowego-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/to-element-zalozenia-willowego-w-zwierzyncu)
 
 <script type="application/ld+json">
 {

@@ -27,17 +27,17 @@ Kiedy to nastąpi? W dużej mierze jest to zależne od aktywności mieszkań
 ©MJP
 
 Powiązane posty:
-- [Modrzewiowa willa i kościół na wodzie.](/posts/Modrzewiowa-willa-i-kosciol-na-wodzie)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
-- [Willa ](/posts/Willa-Borowianka)
+- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Pierwszy poważny remont](/posts/pierwszy-powazny-remont)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Kosciol-na-wodzie)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/kosciol-na-wodzie)
 
 <script type="application/ld+json">
 {

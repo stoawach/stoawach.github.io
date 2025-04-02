@@ -30,17 +30,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Idealna modrzewiowa willa.](/posts/Idealna-modrzewiowa-willa)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Modrzewiowa willa i kościół na wodzie.](/posts/Modrzewiowa-willa-i-kosciol-na-wodzie)
-- [Likiernia.](/posts/Likiernia)
-- [Zniszczenie i zapomnienie.](/posts/Zniszczenie-i-zapomnienie)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Administracja-majatku)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/administracja-majatku)
 
 <script type="application/ld+json">
 {

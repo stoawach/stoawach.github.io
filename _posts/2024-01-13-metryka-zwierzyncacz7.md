@@ -30,17 +30,17 @@ Razem możemy sprawić, że stanie się on prawdziwą perełką nie tylko dl
 ©MJP
 
 Powiązane posty:
-- [Metryka Zwierzyńca cz. 5](/posts/Metryka-Zwierzynca-cz-5)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟](/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Metryka Zwierzyńca cz. 2](/posts/Metryka-Zwierzynca-cz-2)
+- [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Metryka Zwierzyńca cz. 3](/posts/metryka-zwierzyncacz3)
+- [Metryka Zwierzyńca cz. 2](/posts/metryka-zwierzyncacz2)
+- [Metryka Zwierzyńca cz. 4](/posts/metryka-zwierzyncacz4)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-7)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz7)
 
 <script type="application/ld+json">
 {

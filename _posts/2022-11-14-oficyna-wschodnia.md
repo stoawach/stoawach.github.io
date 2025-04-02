@@ -26,17 +26,17 @@ Na pierwszym planie widzimy wody trzeciego stawu, który miał powstać w rama
 MJP
 
 Powiązane posty:
-- [Oficyna boczna północna.](/posts/Oficyna-boczna-polnocna)
-- [Oficyna boczna południowa.](/posts/Oficyna-boczna-poludniowa)
-- [Willa ](/posts/Willa-Borowianka)
-- [Staw zwierzyńczyka.](/posts/Staw-zwierzynczyka)
-- [Willa niezwykła.](/posts/Willa-niezwykla)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
+- [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
+- [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
+- [Willa \](/posts/willa)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-wschodnia)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/oficyna-wschodnia)
 
 <script type="application/ld+json">
 {

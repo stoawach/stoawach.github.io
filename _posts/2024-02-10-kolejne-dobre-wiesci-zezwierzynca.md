@@ -29,17 +29,17 @@ Ta decyzja konserwatora potwierdza, że nasze wspólne zainteresowanie jest kl
 ©MJP
 
 Powiązane posty:
-- [Dobre wieści na początek 2024 roku](/posts/Dobre-wiesci-na-poczatek-2024-roku)
-- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/Jak-Technikum-im-Jana-Zamoyskiego-chroni-zabytki-Zwierzynca)
-- [To także dzięki Tobie](/posts/To-takze-dzieki-Tobie)
-- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/Jak-chronione-jest-zabytkowe-serce-Zwierzynca-i-co-daje-nam)
-- [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.](/posts/Ocalmy-piekno-Wille-w-parku-Twoja-rola-w-zachowaniu)
+- [Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?](/posts/jak-roztoczanski-park-narodowy-chroni-zabytki)
+- [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa](/posts/ocalmy-piekno-wille-w-parku-twoja-rola)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Kolejne-dobre-wiesci-ze-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/kolejne-dobre-wiesci-zezwierzynca)
 
 <script type="application/ld+json">
 {

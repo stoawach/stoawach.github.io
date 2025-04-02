@@ -22,17 +22,17 @@ Najprościej - udostępniając ten post.
 MJP
 
 Powiązane posty:
-- [Cmentarz rzymskokatolicki w Zwierzyńcu, założony w 1907 roku, jest otoczony z trzech stron lasem sosnowym.](/posts/Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku)
-- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/Jak-chronione-jest-zabytkowe-serce-Zwierzynca-i-co-daje-nam)
-- [“Domek na górce”.](/posts/Domek-na-gorce)
-- [O co chodzi z tym Zwierzyńcem?](/posts/O-co-chodzi-z-tym-Zwierzyncem)
-- [Park romantyczny.](/posts/Park-romantyczny)
+- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/skapany-we-mgle-park-srodowiskowy-w-zwierzyncu)
 
 <script type="application/ld+json">
 {

@@ -27,17 +27,17 @@ Zachowane do dziś w Zwierzyńcu założenie willowe powiązane z rezerwatem 
 ©MJP
 
 Powiązane posty:
-- [Pałac administracji.](/posts/Palac-administracji)
-- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [Likiernia.](/posts/Likiernia)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
+- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Niecodzienny-widok-na-tle-zabytkowej-architektury)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/niecodzienny-widok-na-tle-zabytkowej-architektury)
 
 <script type="application/ld+json">
 {

@@ -33,17 +33,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/Willa-Potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Likiernia.](/posts/Likiernia)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Osada - ogród.](/posts/Osada-ogrod)
-- [Deptak dawniej](/posts/Deptak-dawniej)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Likiernia](/posts/likiernia)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Palac-administracji)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/palac-administracji)
 
 <script type="application/ld+json">
 {

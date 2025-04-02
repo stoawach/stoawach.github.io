@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Młyn.](/posts/Mlyn)
-- [Pałac administracji.](/posts/Palac-administracji)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Likiernia.](/posts/Likiernia)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Likiernia](/posts/likiernia)
+- [Urząd Gminy](/posts/urzad-gminy)
+- [Fabryka mebli](/posts/fabryka-mebli)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Palac-plenipotenta)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/palac-plenipotenta)
 
 <script type="application/ld+json">
 {

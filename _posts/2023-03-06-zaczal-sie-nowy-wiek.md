@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Fabryka mebli c.d.](/posts/Fabryka-mebli)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/Willa-Potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Dębowa aleja w ogrodzie skarbowym](/posts/Debowa-aleja-w-ogrodzie-skarbowym)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Zaczal-sie-nowy-wiek)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/zaczal-sie-nowy-wiek)
 
 <script type="application/ld+json">
 {

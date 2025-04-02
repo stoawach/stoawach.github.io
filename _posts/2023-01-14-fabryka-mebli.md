@@ -32,17 +32,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/Stara-Szkola-Znasz-kogos-kto-do-niej-chodzil)
-- [Fabryka mebli c.d.](/posts/Fabryka-mebli)
-- [Oberża i nowe drogi.](/posts/Oberza-i-nowe-drogi)
-- [Deptak dawniej](/posts/Deptak-dawniej)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/Willa-Potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Fabryka mebli cd.](/posts/fabryka-meblicd)
+- [Deptak dawniej](/posts/deptak-dawniej)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/fabryka-mebli)
 
 <script type="application/ld+json">
 {

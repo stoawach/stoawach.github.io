@@ -31,17 +31,17 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Willa niezwykła.](/posts/Willa-niezwykla)
-- [Przemiany niezwykłej willi.](/posts/Przemiany-niezwyklej-willi)
-- [Zniszczenie i zapomnienie.](/posts/Zniszczenie-i-zapomnienie)
-- [Ogrodowy salon.](/posts/Ogrodowy-salon)
-- [Wnętrze modrzewiowej willi.](/posts/Wnetrze-modrzewiowej-willi)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Idealna-modrzewiowa-willa)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/idealna-modrzewiowa-willa)
 
 <script type="application/ld+json">
 {

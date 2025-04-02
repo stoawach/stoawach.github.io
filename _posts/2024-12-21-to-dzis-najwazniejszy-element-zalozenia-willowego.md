@@ -28,17 +28,17 @@ Zdjęcie MJP dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultur
 ©MJP
 
 Powiązane posty:
-- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/Kosciol-na-wodzie-perla-zalozenia-willowego-w-Zwierzyncu)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
-- [Metryka Zwierzyńca cz. 3](/posts/Metryka-Zwierzynca-cz-3)
-- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
-- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
+- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
 
 <script type="application/ld+json">
 {

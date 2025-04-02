@@ -21,10 +21,18 @@ Drzewa chorują. Są atakowane przez szkodniki. Są uszkadzane przez niewłaś
 
 "Kiedy wycięte zostanie ostatnie drzewo, ostatnia rzeka zostanie zatruta i zginie ostatnia ryba - odkryjemy, że nie można jeść pieniędzy."
 
+Powiązane posty:
+- [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
+- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+- [Laudacja Aleksandry Wachniewskiej](/posts/laudacja-aleksandry-wachniewskiej)
+- [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
+
+
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Drzewom-tak-jak-ludziom-zdarza-sie-chorowac-Niektore)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/drzewom-tak-jak-ludziom-zdarza-sie-chorowac)
 
 <script type="application/ld+json">
 {

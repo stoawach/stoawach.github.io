@@ -30,17 +30,17 @@ Dziękujemy Władzom miasta za dbanie o nasze wspólne dobro. To również dz
 ©MJP
 
 Powiązane posty:
-- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/Jak-Technikum-im-Jana-Zamoyskiego-chroni-zabytki-Zwierzynca)
-- [Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?](/posts/Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca)
-- [Czy Browarna zostanie deptakiem, tak jak nakazuje to miejscowe prawo?](/posts/Czy-Browarna-zostanie-deptakiem-tak-jak-nakazuje)
-- [Zbieramy podpisy poparcia. Co przemawia za deptakiem na Browarnej?](/posts/Zbieramy-podpisy-poparcia-Co-przemawia-za-deptakiem)
-- [Co zdarzyło się 160 lat temu w zwierzynieckiej oberży?](/posts/Co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej-oberzy)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?](/posts/jak-roztoczanski-park-narodowy-chroni-zabytki)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Jak-miasto-Zwierzyniec-chroni-swoje-zabytki)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 
 <script type="application/ld+json">
 {

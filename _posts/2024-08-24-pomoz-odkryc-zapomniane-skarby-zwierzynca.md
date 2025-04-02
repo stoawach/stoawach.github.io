@@ -25,17 +25,17 @@ Podziel się tym postem i wesprzyj działania na rzecz rewitalizacji Zwierzy
 ©MJP
 
 Powiązane posty:
-- [Mgła tajemnic spowija zwierzyniecką willę](/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille)
-- [To element założenia willowego w Zwierzyńcu](/posts/To-element-zalozenia-willowego-w-Zwierzyncu)
-- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/Zalozenie-Willowe-zapomniana-harmonia-Zwierzynca)
-- [Metryka Zwierzyńca cz. 6](/posts/Metryka-Zwierzynca-cz-6)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [To element założenia willowego w Zwierzyńcu](/posts/to-element-zalozenia-willowego-w-zwierzyncu)
+- [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/pomoz-odkryc-zapomniane-skarby-zwierzynca)
 
 <script type="application/ld+json">
 {

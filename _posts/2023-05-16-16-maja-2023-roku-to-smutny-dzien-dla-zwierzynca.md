@@ -14,10 +14,18 @@ description: "..."
 
 16 maja 2023 roku to smutny dzień dla Zwierzyńca. Straciliśmy dziś kolejną pamiątkę po funkcjonującej tu Ordynacji Zamojskiej. Wyrwano nam ją i wyrzucono na śmietnik historii. Ile jeszcze budynków zniknie z naszej przestrzeni zanim ockniemy się z tego destrukcyjnego szału? Spieszmy się podziwiać zwierzynieckie zabytki, tak szybko obracają się w kupę gruzu...
 
+Powiązane posty:
+- [To one dają nam życiodajny tlen, cień i ochłodę w upalne dni](/posts/to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode)
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
+- [Drzewom, tak jak ludziom, zdarza się chorować](/posts/drzewom-tak-jak-ludziom-zdarza-sie-chorowac)
+- [Laudacja Aleksandry Wachniewskiej](/posts/laudacja-aleksandry-wachniewskiej)
+- [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
+
+
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca)
 
 <script type="application/ld+json">
 {
