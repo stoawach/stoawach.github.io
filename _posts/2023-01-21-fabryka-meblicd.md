@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Fabryka mebli c.d.",
+  "headline": "Fabryka mebli cd.",
   "datePublished": "2023-01-21",
   "dateModified": "2023-01-21",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/fabryka-meblicd"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-21-fabryka-meblicd.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-21-fabryka-meblicd.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 181,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia Fabrykę Wyrobów Drzewnych w latach międzywojennych. Po prawej stronie, za drzewami, można dostrzec budynek stróżówki, o którym wspominaliśmy w poprzednim wpisie.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Wyroby zwierzynieckiej fabryki stanowiły najpierw posadzki zwracające uwagę różnorodnością wzorów i starannością wykonania. Jedne tzw. “massiw” wytwarzano z pełnego drewna, buka lub dębu, inne fornirowane ozdabiano barwnymi deseniami z jasnego i czarnego dębu, z buka, jaworu, brzostu i jesionu.\nTe piękne posadzki trafiły do wielu warszawskich salonów w pałacach Branickich, Platerów, Tyszkiewiczów, Krasińskich i w sławnych domach Orgelbranda, Kronenberga, Chałubińskich, Natansonów. Zwierzynieckie posadzki położono w nowo zbudowanym Banku Handlowym w Warszawie. Wysyłano je do Brześcia Litewskiego, Wilna, Mińska i Moskwy, a modele posadzek powędrowały aż do Paryża. Na wystawie przemysłowo-rolniczej w Warszawie (1878) otrzymały srebrny medal.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia Fabrykę Wyrobów Drzewnych w latach międzywojennych. Po prawej stronie, za drzewami, można dostrzec budynek stróżówki, o którym wspominaliśmy w poprzednim wpisie.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Wyroby zwierzynieckiej fabryki stanowiły najpierw posadzki zwracające uwagę różnorodnością wzorów i starannością wykonania. Jedne tzw. “massiw” wytwarzano z pełnego drewna, buka lub dębu, inne fornirowane ozdabiano barwnymi deseniami z jasnego i czarnego dębu, z buka, jaworu, brzostu i jesionu.\nTe piękne posadzki trafiły do wielu warszawskich salonów w pałacach Branickich, Platerów, Tyszkiewiczów, Krasińskich i w sławnych domach Orgelbranda, Kronenberga, Chałubińskich, Natansonów. Zwierzynieckie posadzki położono w nowo zbudowanym Banku Handlowym w Warszawie. Wysyłano je do Brześcia Litewskiego, Wilna, Mińska i Moskwy, a modele posadzek powędrowały aż do Paryża. Na wystawie przemysłowo-rolniczej w Warszawie (1878) otrzymały srebrny medal.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Fabryka mebli c.d.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli"
+      "name": "Fabryka mebli cd.",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/fabryka-meblicd"
     }
   ]
 }

@@ -43,12 +43,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna boczna północna.",
+  "headline": "Oficyna boczna północna",
   "datePublished": "2022-11-11",
   "dateModified": "2022-11-11",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -60,17 +60,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-polnocna"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-polnocna"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-11-oficyna-boczna-polnocna.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-11-oficyna-boczna-polnocna.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 129,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna została zbudowana pod koniec XVIII wieku jako jedna z 4 ustawionych w podkowę przy modrzewiowej willi ordynata. Początkowo pełniła funkcję kuchni dworskiej. W 1808 roku została przebudowana na gisernię (odlewnię), która stanowiła element jednego z pierwszych na ziemiach polski zakładu metalurgicznego - “mechaniki”. W 1907 roku budynek zamieniono na resursę obywatelską - miejsce spotkań. Po II wojnie światowej oficynę przejęła szkoła. Urządzono w niej stołówkę, bibliotekę i aulę koncertową.\n\nWidoczny na pierwszym planie fragment ulicy Aleksandry Wachniewskiej, według miejscowego prawa, ma stać się ciągiem pieszo-jezdnym. Wraz z pełniącą funkcję ciągu pieszego ulicą Browarną obie stanowić będą układ pieszej eksploracji zabytkowej części miasta.\n\nCzy spacer wśród zabytków, jak ten, nie będzie piękny?\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna została zbudowana pod koniec XVIII wieku jako jedna z 4 ustawionych w podkowę przy modrzewiowej willi ordynata. Początkowo pełniła funkcję kuchni dworskiej. W 1808 roku została przebudowana na gisernię (odlewnię), która stanowiła element jednego z pierwszych na ziemiach polski zakładu metalurgicznego - “mechaniki”. W 1907 roku budynek zamieniono na resursę obywatelską - miejsce spotkań. Po II wojnie światowej oficynę przejęła szkoła. Urządzono w niej stołówkę, bibliotekę i aulę koncertową.\n\nWidoczny na pierwszym planie fragment ulicy Aleksandry Wachniewskiej, według miejscowego prawa, ma stać się ciągiem pieszo-jezdnym. Wraz z pełniącą funkcję ciągu pieszego ulicą Browarną obie stanowić będą układ pieszej eksploracji zabytkowej części miasta.\n\nCzy spacer wśród zabytków, jak ten, nie będzie piękny?\n\n\n\nMJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -93,8 +94,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna boczna północna.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-polnocna"
+      "name": "Oficyna boczna północna",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-polnocna"
     }
   ]
 }

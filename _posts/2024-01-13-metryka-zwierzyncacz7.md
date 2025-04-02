@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Metryka Zwierzyńca cz. 7",
+  "headline": "Metryka Zwierzyńca cz. 7",
   "datePublished": "2024-01-13",
   "dateModified": "2024-01-13",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-7"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz7"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-13-metryka-zwierzyncacz7.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-01-13-metryka-zwierzyncacz7.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 240,
-  "articleBody": "W tym roku 50-lecie świętuje Roztoczański Park Narodowy. To właśnie on chroni dziś lasy, wśród których hetman i kanclerz Jan Zamoyski założył Zwierzyniec. \n\n\"Przy liście z 28 października mała karteczka zawierała jeszcze jedną informację o zwierzętach żyjących poza trzydziestokilometrowym parkanem, ale w naturalnych warunkach: \"Za łosie, które mi WMć obiecywać raczysz - dziękuję WMci. Racz WMć kazać odprowadzić je do Knyszyna proszę. Opatrzył JMĆ pan Lubelski aby stamtąd cało przeprowadzono było. Skarżę się WMci, że mi dziś jeden rozigrał się i pędząc z góry szyję złamał.” Żal to nie tylko myśliwego ale i człowieka, który miał zrozumienie dla sprawy ochrony przyrody, bowiem zwierzęta zgromadzone w zwierzyńcu rzadko były obiektem myśliwskich zapałów, były to zwierzęta do podziwiania. Wielkie łowiska i dwory myśliwskie Zamoyskiego znajdowały się w Zamchu i Knyszynie.” \nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia strumień Świerszcz na odcinku biegnącym wzdłuż Długiego Kanału. Zasila on staw kościelny, zapewniając wodę niezbędną do przetrwania Kościółka na wodzie, który został wzniesiony w XVIII w. na dębowych palach wbitych w dno zbiornika. \nW głębi widoczny jest las będący częścią Roztoczańskiego Parku Narodowego. Park obejmuje swoją ochroną nie tylko ekosystemy, ale również krajobraz i wartości kulturowe.\n\nZachęcamy do udostępniania tego posta i zapraszania znajomych do odkrywania z nami wyjątkowej historii Zwierzyńca! \nRazem możemy sprawić, że stanie się on prawdziwą perełką nie tylko dla nas, ale także dla przyszłych pokoleń.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "W tym roku 50-lecie świętuje Roztoczański Park Narodowy. To właśnie on chroni dziś lasy, wśród których hetman i kanclerz Jan Zamoyski założył Zwierzyniec.\n\n\"Przy liście z 28 października mała karteczka zawierała jeszcze jedną informację o zwierzętach żyjących poza trzydziestokilometrowym parkanem, ale w naturalnych warunkach: \"Za łosie, które mi WMć obiecywać raczysz - dziękuję WMci. Racz WMć kazać odprowadzić je do Knyszyna proszę. Opatrzył JMĆ pan Lubelski aby stamtąd cało przeprowadzono było. Skarżę się WMci, że mi dziś jeden rozigrał się i pędząc z góry szyję złamał.” Żal to nie tylko myśliwego ale i człowieka, który miał zrozumienie dla sprawy ochrony przyrody, bowiem zwierzęta zgromadzone w zwierzyńcu rzadko były obiektem myśliwskich zapałów, były to zwierzęta do podziwiania. Wielkie łowiska i dwory myśliwskie Zamoyskiego znajdowały się w Zamchu i Knyszynie.”\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia strumień Świerszcz na odcinku biegnącym wzdłuż Długiego Kanału. Zasila on staw kościelny, zapewniając wodę niezbędną do przetrwania Kościółka na wodzie, który został wzniesiony w XVIII w. na dębowych palach wbitych w dno zbiornika.\nW głębi widoczny jest las będący częścią Roztoczańskiego Parku Narodowego. Park obejmuje swoją ochroną nie tylko ekosystemy, ale również krajobraz i wartości kulturowe.\n\nZachęcamy do udostępniania tego posta i zapraszania znajomych do odkrywania z nami wyjątkowej historii Zwierzyńca!\nRazem możemy sprawić, że stanie się on prawdziwą perełką nie tylko dla nas, ale także dla przyszłych pokoleń.\n\n\n\n©MJP",
+  "description": "W tym roku 50-lecie świętuje Roztoczański Park Narodowy. To właśnie on chroni dziś lasy, wśród których hetman i kanclerz Jan Zamoyski założył Zwierzyn...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Metryka Zwierzyńca cz. 7",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-7"
+      "name": "Metryka Zwierzyńca cz. 7",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz7"
     }
   ]
 }

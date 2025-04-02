@@ -28,7 +28,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2023-05-16",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -40,17 +40,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 0,
-  "articleBody": "",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 52,
+  "articleBody": "16 maja 2023 roku to smutny dzień dla Zwierzyńca. Straciliśmy dziś kolejną pamiątkę po funkcjonującej tu Ordynacji Zamojskiej. Wyrwano nam ją i wyrzucono na śmietnik historii. Ile jeszcze budynków zniknie z naszej przestrzeni zanim ockniemy się z tego destrukcyjnego szału? Spieszmy się podziwiać zwierzynieckie zabytki, tak szybko obracają się w kupę gruzu...",
+  "description": "...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -74,7 +75,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "16 maja 2023 roku to smutny dzień dla Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca"
     }
   ]
 }

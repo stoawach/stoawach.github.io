@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟",
+  "headline": "Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!",
   "datePublished": "2023-06-24",
   "dateModified": "2023-06-24",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/-Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-24-zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-06-24-zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 198,
-  "articleBody": "Zapraszamy Was do kontynuowania naszej podróży przez czterysta trzydzieści lat historii niezwykłego Zwierzyńca.\n\nNa pierwszym planie zdjęcia możecie podziwiać malowniczy staw kościelny. Zwróćcie uwagę na wyjątkową perłę, kościółek na wodzie, który wyłania się spośród zieleni. To kościół pod wezwaniem św. Jana Nepomucena, świadek bogatej historii Zwierzyńca.\n\nModrzewiowa willa, w stylu włoskim, która dała początek historii Zwierzyńca, to nie tylko sam budynek, ale również wiele otaczających ją elementów. Jej kompozycja na przestrzeni lat ewoluowała. Pomimo przybywania nowych obiektów, zawsze harmonijnie wtapiały się one w istniejący krajobraz.\n\nJak podają Lucyna Matławska-Patyk i Michał Patyk, autorzy artykułu “Renesansowa Willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Willa jest pojęciem  szerokim, na którego treść składa się bogaty program użytkowy i kompozycyjny określający całe założenie. Budynek - rezydencja to tylko element składowy willi obok innych elementów jak: dziedziniec, podjazd, ogród z odpowiednim wyposażeniem, założenie wodne, zwierzyniec, a wszystkie te elementy w rozplanowaniu całości wzajemnie są powiązane i zespolone kompozycyjnie z otaczającym naturalnym krajobrazem. To wyobrażenie willi jako idealnej siedziby powiązanej z przyrodą wynikało bezpośrednio z renesansowej koncepcji świata.”\n\nJesteśmy pełni podziwu dla Waszego wsparcia i pasji, jaką okazujecie dla Zwierzyńca! Dzięki Waszym udostępnieniom i polubieniom, coraz więcej osób odkrywa magię tego niezwykłego miejsca.\n \n            \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zapraszamy Was do kontynuowania naszej podróży przez czterysta trzydzieści lat historii niezwykłego Zwierzyńca.\n\nNa pierwszym planie zdjęcia możecie podziwiać malowniczy staw kościelny. Zwróćcie uwagę na wyjątkową perłę, kościółek na wodzie, który wyłania się spośród zieleni. To kościół pod wezwaniem św. Jana Nepomucena, świadek bogatej historii Zwierzyńca.\n\nModrzewiowa willa, w stylu włoskim, która dała początek historii Zwierzyńca, to nie tylko sam budynek, ale również wiele otaczających ją elementów. Jej kompozycja na przestrzeni lat ewoluowała. Pomimo przybywania nowych obiektów, zawsze harmonijnie wtapiały się one w istniejący krajobraz.\n\nJak podają Lucyna Matławska-Patyk i Michał Patyk, autorzy artykułu “Renesansowa Willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Willa jest pojęciem  szerokim, na którego treść składa się bogaty program użytkowy i kompozycyjny określający całe założenie. Budynek - rezydencja to tylko element składowy willi obok innych elementów jak: dziedziniec, podjazd, ogród z odpowiednim wyposażeniem, założenie wodne, zwierzyniec, a wszystkie te elementy w rozplanowaniu całości wzajemnie są powiązane i zespolone kompozycyjnie z otaczającym naturalnym krajobrazem. To wyobrażenie willi jako idealnej siedziby powiązanej z przyrodą wynikało bezpośrednio z renesansowej koncepcji świata.”\n\nJesteśmy pełni podziwu dla Waszego wsparcia i pasji, jaką okazujecie dla Zwierzyńca! Dzięki Waszym udostępnieniom i polubieniom, coraz więcej osób odkrywa magię tego niezwykłego miejsca.\n\n\n\n©MJP",
+  "description": "Zapraszamy Was do kontynuowania naszej podróży przez czterysta trzydzieści lat historii niezwykłego Zwierzyńca....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "🌟✨ Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca! ✨🌟",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/-Zwierzyncem-Zachwyceni-Odkryjcie-urok-tego-wspanialego"
+      "name": "Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego-wspanialego"
     }
   ]
 }

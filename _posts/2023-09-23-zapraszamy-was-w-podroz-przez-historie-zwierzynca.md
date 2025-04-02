@@ -67,17 +67,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-23-zapraszamy-was-w-podroz-przez-historie-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-09-23-zapraszamy-was-w-podroz-przez-historie-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
-  "wordCount": 174,
-  "articleBody": "Na środku kadru widzimy kościółek na wodzie - kościół pw. św. Jana Nepomucena. Z prawej strony widnieje pomnik - tajemnicze oko opatrzności.\n\nPierwszy ordynat Jan Zamoyski wyobraził sobie Zwierzyniec jako idealną willę w połączeniu z naturą, a jego wizja zapoczątkowała niezwykłą historię tego miejsca. Pani doktor Małgorzata Przegalińska oraz członkowie Stowarzyszenia im. Aleksandry Wachniewskiej opowiedzą Wam o nieznanych szerzej faktach i wydarzeniach z przeszłości Zwierzyńca.\n\nTen film to nie tylko podróż w czasie, ale także apel do Was, naszych widzów. Dzielenie się tym wideo i krzewienie dziedzictwa Zwierzyńca to szansa na zachowanie tego niezwykłego miejsca dla przyszłych pokoleń. To od Waszego  poparcia zależy, czy potencjał Zwierzyńca zostanie wykorzystany w pełni.\n\nPrzygotujcie się na fascynującą opowieść. Nie zapomnijcie zostawić komentarza, podzielić się filmem, a może nawet zaangażować się bezpośrednio w działalność Stowarzyszenia. Razem możemy uczynić wiele!\n\nDziękujemy, że jesteście z nami. Rozpocznijmy naszą podróż przez \"430 lat Zwierzyńca\"!\n\nFilm jest częścią projektu \"430 lat temu w Zwierzyńcu\".  \nProjekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszenia Lokalna Grupa Działania \"Nasze Roztocze\" LGD Nasze Roztocze\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
+  "wordCount": 195,
+  "articleBody": "Nasz film, zatytułowany \"430 lat Zwierzyńca\", to nie tylko opowieść o początkach tej miejscowości, ale także lekcja o wartości lokalnego dziedzictwa.\n\nNa środku kadru widzimy kościółek na wodzie - kościół pw. św. Jana Nepomucena. Z prawej strony widnieje pomnik - tajemnicze oko opatrzności.\n\nPierwszy ordynat Jan Zamoyski wyobraził sobie Zwierzyniec jako idealną willę w połączeniu z naturą, a jego wizja zapoczątkowała niezwykłą historię tego miejsca. Pani doktor Małgorzata Przegalińska oraz członkowie Stowarzyszenia im. Aleksandry Wachniewskiej opowiedzą Wam o nieznanych szerzej faktach i wydarzeniach z przeszłości Zwierzyńca.\n\nTen film to nie tylko podróż w czasie, ale także apel do Was, naszych widzów. Dzielenie się tym wideo i krzewienie dziedzictwa Zwierzyńca to szansa na zachowanie tego niezwykłego miejsca dla przyszłych pokoleń. To od Waszego  poparcia zależy, czy potencjał Zwierzyńca zostanie wykorzystany w pełni.\n\nPrzygotujcie się na fascynującą opowieść. Nie zapomnijcie zostawić komentarza, podzielić się filmem, a może nawet zaangażować się bezpośrednio w działalność Stowarzyszenia. Razem możemy uczynić wiele!\n\nDziękujemy, że jesteście z nami. Rozpocznijmy naszą podróż przez \"430 lat Zwierzyńca\"!\n\nFilm jest częścią projektu \"430 lat temu w Zwierzyńcu\".\nProjekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszenia Lokalna Grupa Działania \"Nasze Roztocze\" LGD Nasze Roztocze\n\n\n\n©MJP",
+  "description": "Na środku kadru widzimy kościółek na wodzie - kościół pw. św. Jana Nepomucena. Z prawej strony widnieje pomnik - tajemnicze oko opatrzności....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -105,7 +105,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Zapraszamy-Was-w-podroz-przez-historie-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca"
     }
   ]
 }

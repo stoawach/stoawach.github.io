@@ -60,17 +60,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-06-16-wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-06-16-wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 117,
-  "articleBody": "Kościół na wodzie pw. św. Jana Nepomucena, widniejący na zdjęciu, to jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest elementem zwierzynieckiego założenia willowego, który powstał w 1741 roku.\n\n“I oto po odbiciu tynków w bocznych kaplicach, ukazały się zdumiewające wiązania starych murów, zarysy dawnych ścian. Przedziały między dziewięcioma frontowymi otworami to słupy. Jest ich dziesięć. Nad nimi ślady danych sklepień. W prawej kaplicy, nisko, tuż nad posadzką zarys wejścia do małej piwniczki. Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę.” pisała w 1992 roku w książce “Marysieńka i Zwierzyniec” Halina Matławska.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i wesprzyj jego rewitalizację!\n\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Kościół na wodzie pw. św. Jana Nepomucena, widniejący na zdjęciu, to jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest elementem zwierzynieckiego założenia willowego, który powstał w 1741 roku.\n\n“I oto po odbiciu tynków w bocznych kaplicach, ukazały się zdumiewające wiązania starych murów, zarysy dawnych ścian. Przedziały między dziewięcioma frontowymi otworami to słupy. Jest ich dziesięć. Nad nimi ślady danych sklepień. W prawej kaplicy, nisko, tuż nad posadzką zarys wejścia do małej piwniczki. Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę.” pisała w 1992 roku w książce “Marysieńka i Zwierzyniec” Halina Matławska.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i wesprzyj jego rewitalizację!\n\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n\n\n©MJP",
+  "description": "Kościół na wodzie pw. św. Jana Nepomucena, widniejący na zdjęciu, to jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest elementem ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,7 +98,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni-w-znacznej-czesci"
     }
   ]
 }

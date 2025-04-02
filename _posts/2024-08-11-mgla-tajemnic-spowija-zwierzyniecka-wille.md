@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/mgla-tajemnic-spowija-zwierzyniecka-wille"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-08-11-mgla-tajemnic-spowija-zwierzyniecka-wille.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-08-11-mgla-tajemnic-spowija-zwierzyniecka-wille.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 112,
-  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu skąpany w delikatnej poświacie wieczornej mgły. To tylko element większej całości - willowego założenia Zwierzyńca, które wciąż czeka na ponowne odkrycie i docenienie.\n\n“Ważne jest, aby tak imponujące dziedzictwo Ordynacji nie utraciło całkowicie swego pierwotnego charakteru.” - apelował w 2012 roku dr inż. Mieczysław Kseniak autor Projektu Rewaloryzacji Założenia Pałacowo-Parkowego w Zwierzyńcu. Czy te słowa nie brzmią dzisiaj jeszcze głośniej?\n\nNie pozwól, by Zwierzyniec pozostał ukrytym skarbem!\nWesprzyj działania na rzecz jego rewitalizacji dzieląc się tym postem. Razem możemy zachować i ożywić to magiczne miejsce dla przyszłych pokoleń.\n\nTwoje wsparcie to cegiełka w przywracaniu piękna tego niezwykłego miejsca.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu skąpany w delikatnej poświacie wieczornej mgły. To tylko element większej całości - willowego założenia Zwierzyńca, które wciąż czeka na ponowne odkrycie i docenienie.\n\n“Ważne jest, aby tak imponujące dziedzictwo Ordynacji nie utraciło całkowicie swego pierwotnego charakteru.” - apelował w 2012 roku dr inż. Mieczysław Kseniak autor Projektu Rewaloryzacji Założenia Pałacowo-Parkowego w Zwierzyńcu. Czy te słowa nie brzmią dzisiaj jeszcze głośniej?\n\nNie pozwól, by Zwierzyniec pozostał ukrytym skarbem!\nWesprzyj działania na rzecz jego rewitalizacji dzieląc się tym postem. Razem możemy zachować i ożywić to magiczne miejsce dla przyszłych pokoleń.\n\nTwoje wsparcie to cegiełka w przywracaniu piękna tego niezwykłego miejsca.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu skąpany w delikatnej poświacie wieczornej mgły. To tylko element więks...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Mgła tajemnic spowija zwierzyniecką willę",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Mgla-tajemnic-spowija-zwierzyniecka-wille"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/mgla-tajemnic-spowija-zwierzyniecka-wille"
     }
   ]
 }

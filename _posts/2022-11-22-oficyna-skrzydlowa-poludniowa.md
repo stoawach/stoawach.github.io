@@ -42,7 +42,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna skrzydłowa południowa.",
+  "headline": "Oficyna skrzydłowa południowa",
   "datePublished": "2022-11-22",
   "dateModified": "2022-11-22",
   "author": {
@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-poludniowa"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-poludniowa"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-22-oficyna-skrzydlowa-poludniowa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-22-oficyna-skrzydlowa-poludniowa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 83,
-  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna skrzydłowa południowa została wzniesiona przy modrzewiowej willi ordynata. Stylistyka budynku utrzymana jest w duchu klasycyzmu. Detale architektoniczne powtarzają formy zastosowane w elewacjach oficyny skrzydłowej północnej.\n\nZalecenia konserwatorskie zwracają uwagę na potrzebę rekompozycji i rewitalizacji otoczenia obiektu. Wskazana jest także przebudowa wnętrza przywracająca pierwotne znaczenie wejścia głównego i hallu wejściowego.\nCzy w nieodległej przyszłości znów możliwe będzie wchodzenie do oficyny głównym, reprezentacyjnym wejściem? \n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna skrzydłowa południowa została wzniesiona przy modrzewiowej willi ordynata. Stylistyka budynku utrzymana jest w duchu klasycyzmu. Detale architektoniczne powtarzają formy zastosowane w elewacjach oficyny skrzydłowej północnej.\n\nZalecenia konserwatorskie zwracają uwagę na potrzebę rekompozycji i rewitalizacji otoczenia obiektu. Wskazana jest także przebudowa wnętrza przywracająca pierwotne znaczenie wejścia głównego i hallu wejściowego.\nCzy w nieodległej przyszłości znów możliwe będzie wchodzenie do oficyny głównym, reprezentacyjnym wejściem?\n\n\n\n©MJP",
+  "description": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,8 +96,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna skrzydłowa południowa.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-poludniowa"
+      "name": "Oficyna skrzydłowa południowa",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-poludniowa"
     }
   ]
 }

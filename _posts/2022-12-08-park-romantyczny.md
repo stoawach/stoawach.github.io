@@ -49,7 +49,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Park romantyczny.",
+  "headline": "Park romantyczny",
   "datePublished": "2022-12-08",
   "dateModified": "2022-12-08",
   "author": {
@@ -66,17 +66,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Park-romantyczny"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/park-romantyczny"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-08-park-romantyczny.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-08-park-romantyczny.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 212,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa pierwszym planie zdjęcia widać staw kościelny. Za nim znajduje się deptak na ulicy Wachniewskiej. Według lokalnego prawa jest on tylko zapowiedzią całej strefy ruchu pieszego, jaka powstanie w Zabytkowym Sercu Zwierzyńca. Takie rozwiązanie, znane już z dużych miast Polski, pozwoli swobodnie cieszyć się mieszkańcom oraz gościom otaczającą przyrodą i architekturą.\n\nAutorzy książki “Willa Zamoyskich w Zwierzyńcu” piszą:\n“Usytuowanie Zwierzyńca na krawędzi pradoliny Wieprza szczególnie predestynowało istniejące tu zasoby krajobrazowe do wykorzystania ich naturalnych walorów parkowych. Różnorodność siedlisk w pobliżu pałacu: bory sosnowe na piaszczystych stokach wydmowych wzgórz, porastające wierzchowiny drzewostany jodłowo-bukowe, wilgotne łąki nadrzeczne ułatwiały tworzenie parku niezwykle atrakcyjnego krajobrazowo. Osiemnastowieczny ogród swobodnie rozprzestrzeniał się wokół, przenikając w naturalne otoczenie.”\n\nIzabela Czartoryska pisała:\n“Szczęśliwy ten, który zastanie na gruncie swoim drzewa stare, łatwiej mu czekać skutku swojej pracy, swojego starania. Siedząc pod ich cieniem, układa dalsze roboty, błogosławiąc ojca, czyli dziada, że je posadził. Dobrze by było dla pokoleń przyszłych, gdyby każdy gotował im te same uszczęśliwienia.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta. \nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa pierwszym planie zdjęcia widać staw kościelny. Za nim znajduje się deptak na ulicy Wachniewskiej. Według lokalnego prawa jest on tylko zapowiedzią całej strefy ruchu pieszego, jaka powstanie w Zabytkowym Sercu Zwierzyńca. Takie rozwiązanie, znane już z dużych miast Polski, pozwoli swobodnie cieszyć się mieszkańcom oraz gościom otaczającą przyrodą i architekturą.\n\nAutorzy książki “Willa Zamoyskich w Zwierzyńcu” piszą:\n“Usytuowanie Zwierzyńca na krawędzi pradoliny Wieprza szczególnie predestynowało istniejące tu zasoby krajobrazowe do wykorzystania ich naturalnych walorów parkowych. Różnorodność siedlisk w pobliżu pałacu: bory sosnowe na piaszczystych stokach wydmowych wzgórz, porastające wierzchowiny drzewostany jodłowo-bukowe, wilgotne łąki nadrzeczne ułatwiały tworzenie parku niezwykle atrakcyjnego krajobrazowo. Osiemnastowieczny ogród swobodnie rozprzestrzeniał się wokół, przenikając w naturalne otoczenie.”\n\nIzabela Czartoryska pisała:\n“Szczęśliwy ten, który zastanie na gruncie swoim drzewa stare, łatwiej mu czekać skutku swojej pracy, swojego starania. Siedząc pod ich cieniem, układa dalsze roboty, błogosławiąc ojca, czyli dziada, że je posadził. Dobrze by było dla pokoleń przyszłych, gdyby każdy gotował im te same uszczęśliwienia.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta.\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -103,8 +103,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Park romantyczny.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Park-romantyczny"
+      "name": "Park romantyczny",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/park-romantyczny"
     }
   ]
 }

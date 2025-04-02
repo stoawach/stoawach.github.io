@@ -54,7 +54,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2023-09-30",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -66,17 +66,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/430-lat-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/430-lat-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-30-430-lat-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-09-30-430-lat-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 212,
-  "articleBody": "🌧️ Deszczowy weekend to idealny moment, aby zachęcić Was do odwiedzenia magicznego świata Zwierzyńca na Roztoczu! 🏰\n\nJeśli nie mieliście jeszcze okazji, to zapraszamy do obejrzenia naszego filmu - poznajcie początki tego miejsca, odkryjcie tajemnice ukryte w starych murach i dowiedzcie się, co czyni Zwierzyniec tak niezwykłym. 📜🔍\nWedług nas, jednym z kluczowych elementów, które decydują o wyjątkowości Zwierzyńca jest głębokie połączenie z Naturą. Ta więź sięga jego korzeni, kiedy to pierwszy ordynat Jan Zamoyski marzył o idealnej willi, która harmonijnie łączyła się z pięknem krajobrazu. 🌳\n\nPrzez wieki Zwierzyniec ewoluował, ale ta wyjątkowa relacja z przyrodą niezmiennie trwała. Dziś Roztoczański Park Narodowy chroni pozostałości pierwotnej puszczy, która otaczała nasze miasto. 🌿\n\nObejrzyjcie film, a dowiecie się, co znaczyło pojęcie \"willa\", gdzie znajdował się - i jak wyglądał - główny budynek mieszkalny, i dlaczego wizja ludzi żyjących cztery wieki temu nadal tak wpływa na naszą rzeczywistość dzisiaj. 🏡\n\nJesteśmy bardzo ciekawi Waszych opinii! Zapraszamy do udostępniania i komentowania - co Wam się podobało, a nad czym możemy jeszcze popracować? ✨\n\nDziękujemy, że jesteście z nami w tej misji zachowania wspólnego dziedzictwa dla przyszłych pokoleń. 🌟\n\nFilm jest częścią projektu \"430 lat temu w Zwierzyńcu\".  \nProjekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszenia Lokalna Grupa Działania \"Nasze Roztocze\" LGD Nasze Roztocze\n\n             \n\n[https://fb.watch/nnYm2GJm4V/](https://fb.watch/nnYm2GJm4V/)",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "🌧️ Deszczowy weekend to idealny moment, aby zachęcić Was do odwiedzenia magicznego świata Zwierzyńca na Roztoczu! 🏰\n\nJeśli nie mieliście jeszcze okazji, to zapraszamy do obejrzenia naszego filmu - poznajcie początki tego miejsca, odkryjcie tajemnice ukryte w starych murach i dowiedzcie się, co czyni Zwierzyniec tak niezwykłym. 📜🔍\nWedług nas, jednym z kluczowych elementów, które decydują o wyjątkowości Zwierzyńca jest głębokie połączenie z Naturą. Ta więź sięga jego korzeni, kiedy to pierwszy ordynat Jan Zamoyski marzył o idealnej willi, która harmonijnie łączyła się z pięknem krajobrazu. 🌳\n\nPrzez wieki Zwierzyniec ewoluował, ale ta wyjątkowa relacja z przyrodą niezmiennie trwała. Dziś Roztoczański Park Narodowy chroni pozostałości pierwotnej puszczy, która otaczała nasze miasto. 🌿\n\nObejrzyjcie film, a dowiecie się, co znaczyło pojęcie \"willa\", gdzie znajdował się - i jak wyglądał - główny budynek mieszkalny, i dlaczego wizja ludzi żyjących cztery wieki temu nadal tak wpływa na naszą rzeczywistość dzisiaj. 🏡\n\nJesteśmy bardzo ciekawi Waszych opinii! Zapraszamy do udostępniania i komentowania - co Wam się podobało, a nad czym możemy jeszcze popracować? ✨\n\nDziękujemy, że jesteście z nami w tej misji zachowania wspólnego dziedzictwa dla przyszłych pokoleń. 🌟\n\nFilm jest częścią projektu \"430 lat temu w Zwierzyńcu\".\nProjekt ten jest współfinansowany ze środków otrzymanych od Stowarzyszenia Lokalna Grupa Działania \"Nasze Roztocze\" LGD Nasze Roztocze\n\n\n\n[https://fb.watch/nnYm2GJm4V/](https://fb.watch/nnYm2GJm4V/)",
+  "description": "🌧️ Deszczowy weekend to idealny moment, aby zachęcić Was do odwiedzenia magicznego świata Zwierzyńca na Roztoczu! 🏰...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -100,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "430 lat Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/430-lat-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/430-lat-zwierzynca"
     }
   ]
 }

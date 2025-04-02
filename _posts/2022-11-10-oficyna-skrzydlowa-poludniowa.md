@@ -40,12 +40,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna skrzydłowa południowa.",
+  "headline": "Oficyna skrzydłowa południowa",
   "datePublished": "2022-11-10",
   "dateModified": "2022-11-10",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -57,17 +57,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-poludniowa"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-poludniowa"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-10-oficyna-skrzydlowa-poludniowa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-10-oficyna-skrzydlowa-poludniowa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 61,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Dopiero wraz z nim oficyna nabiera pełni wartości.\n\nZbudowana pod koniec XVIII wieku jako jedna z 4 oficyn ustawionych w podkowę przy modrzewiowej willi ordynata była siedzibą generalnego plenipotenta.\nPo II wojnie światowej została odebrana Zarządowi Ordynacji Zamojskiej i przekazana szkole. Do dziś funkcjonuje w niej internat, dlatego zachowała się w dobrym stanie.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Dopiero wraz z nim oficyna nabiera pełni wartości.\n\nZbudowana pod koniec XVIII wieku jako jedna z 4 oficyn ustawionych w podkowę przy modrzewiowej willi ordynata była siedzibą generalnego plenipotenta.\nPo II wojnie światowej została odebrana Zarządowi Ordynacji Zamojskiej i przekazana szkole. Do dziś funkcjonuje w niej internat, dlatego zachowała się w dobrym stanie.\n\n\n\nMJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Dopiero wraz z nim oficyna nabiera pełni wartości....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -90,8 +91,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna skrzydłowa południowa.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-poludniowa"
+      "name": "Oficyna skrzydłowa południowa",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-poludniowa"
     }
   ]
 }

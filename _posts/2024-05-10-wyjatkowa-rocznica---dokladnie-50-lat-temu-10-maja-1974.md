@@ -37,12 +37,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "🎉 Dziś przypada wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy 🌳",
+  "headline": "Wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy",
   "datePublished": "2024-05-10",
   "dateModified": "2024-05-10",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -54,17 +54,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/-Dzis-przypada-wyjatkowa-rocznica---dokladnie-50-lat-temu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-10-wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-10-wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "RoztoczańskiParkNarodowy, 50latRPN, OchronaPrzyrody, DziedzictwoPrzyrodnicze",
-  "wordCount": 126,
-  "articleBody": "Początkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsze fragmenty roztoczańskich lasów o naturalnym, puszczańskim charakterze. Dziś Park stanowi nie tylko skarbnicę różnorodności przyrodniczej ale też symbol ochrony przyrody i dziedzictwa kulturowego Roztocza.\n\nDzisiaj, w dniu złotego jubileuszu Roztoczańskiego Parku Narodowego, pragniemy wyrazić wdzięczność byłym i obecnym pracownikom RPN za pół wieku poświęcenia i troski o zachowanie najcenniejszych walorów przyrodniczo-kulturowych Roztocza. To także dzięki nim starania o utworzenie parku narodowego na Roztoczu, zainicjowane przez naszą Patronkę – Aleksandrę Wachniewską, przyniosły oczekiwane efekty. Niech ta rocznica będzie okazją do refleksji nad dotychczasowymi osiągnięciami ale też zobowiązaniem do dalszej troski o unikatowe dziedzictwo przyrodnicze.\n\nRazem tworzymy przyszłość, w której Natura jest chroniona i szanowana! 💚🌳",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[RoztoczańskiParkNarodowy, 50latRPN, OchronaPrzyrody, DziedzictwoPrzyrodnicze]",
+  "wordCount": 158,
+  "articleBody": "dokladnie-50-lat-temu-10-maja-1974.jpg\nlocation: \"Roztoczański Park Narodowy\"\nlatitude: 50.60584383531\nlongitude: 22.966814683821\ndescription: \"Początkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsz...\"\n\n\nPoczątkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsze fragmenty roztoczańskich lasów o naturalnym, puszczańskim charakterze. Dziś Park stanowi nie tylko skarbnicę różnorodności przyrodniczej ale też symbol ochrony przyrody i dziedzictwa kulturowego Roztocza.\n\nDzisiaj, w dniu złotego jubileuszu Roztoczańskiego Parku Narodowego, pragniemy wyrazić wdzięczność byłym i obecnym pracownikom RPN za pół wieku poświęcenia i troski o zachowanie najcenniejszych walorów przyrodniczo-kulturowych Roztocza. To także dzięki nim starania o utworzenie parku narodowego na Roztoczu, zainicjowane przez naszą Patronkę – Aleksandrę Wachniewską, przyniosły oczekiwane efekty. Niech ta rocznica będzie okazją do refleksji nad dotychczasowymi osiągnięciami ale też zobowiązaniem do dalszej troski o unikatowe dziedzictwo przyrodnicze.\n\nRazem tworzymy przyszłość, w której Natura jest chroniona i szanowana! 💚🌳",
+  "description": "Początkowo zajmował obszar 4,8 tys. ha, ale dzięki trzem powiększeniom jego powierzchnia wzrosła do około 8,5 tys. ha. Park objął ochroną najcenniejsz...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -87,8 +88,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "🎉 Dziś przypada wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy 🌳",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/-Dzis-przypada-wyjatkowa-rocznica---dokladnie-50-lat-temu"
+      "name": "Wyjątkowa rocznica - dokładnie 50 lat temu, 10 maja 1974 roku, Rozporządzeniem Rady Ministrów został powołany Roztoczański Park Narodowy",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wyjatkowa-rocznica---dokladnie-50-lat-temu-10-maja-1974"
     }
   ]
 }

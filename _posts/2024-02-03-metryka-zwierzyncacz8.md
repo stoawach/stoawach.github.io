@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Metryka Zwierzyńca cz. 8",
+  "headline": "Metryka Zwierzyńca cz. 8",
   "datePublished": "2024-02-03",
   "dateModified": "2024-02-03",
   "author": {
@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-8"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz8"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-03-metryka-zwierzyncacz8.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-02-03-metryka-zwierzyncacz8.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 193,
-  "articleBody": "Czy wiesz, że początki Rudki są starsze od Zwierzyńca?\n\n\"Starym dokumentem wydobytym na światło dzienne z okazji czterechsetlecia Zwierzyńca jest niewielki zapis dotyczący poddanych ze wsi Rudy-Rudki. Rudka, dziś rozległa dzielnica Zwierzyńca rozlokowana na prawym brzegu Wieprza swoim początkiem sięga wczesnych lat szesnastego wieku, kiedy nad rozlewiskiem Wieprza, u stóp góry nazywanej dziś Tartaczną powstała kuźnica (zapewne z młotem do kruszenia rudy darniowej poruszanym siłą wody) i młyn tartaczny nazywany “piłą”. Pierwsi osadnicy Rudy byli więc rudnikami, młynarzami i tartacznikami. Kiedy Jan Zamoyski nabywał włość szczebrzeską, wsi Rudki jeszcze nie było, ale wokół młyna i tartaku wzrastała liczba chłopskich zagród, poddanych, którzy pracowali w okolicznych folwarkach lub lasach, a przede wszystkim w rudczańskich zakładach przemysłowych.” \nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia rzekę Wieprz płynącą przez Park Środowiskowy w Zwierzyńcu oświetloną pierwszymi promieniami wschodzącego słońca.\nWedług planu gminy wzdłuż rzeki powstanie kiedyś bulwar łączący zabytkowe centrum z Rudką. Będzie to kolejna atrakcja Zwierzyńca, pozwalająca odciążyć oblegane w wakacje przez turystów ciągi piesze.\n\nDołącz do naszej misji ochrony i promocji dziedzictwa Zwierzyńca – każdy Twój gest się liczy!\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Czy wiesz, że początki Rudki są starsze od Zwierzyńca?\n\n\"Starym dokumentem wydobytym na światło dzienne z okazji czterechsetlecia Zwierzyńca jest niewielki zapis dotyczący poddanych ze wsi Rudy-Rudki. Rudka, dziś rozległa dzielnica Zwierzyńca rozlokowana na prawym brzegu Wieprza swoim początkiem sięga wczesnych lat szesnastego wieku, kiedy nad rozlewiskiem Wieprza, u stóp góry nazywanej dziś Tartaczną powstała kuźnica (zapewne z młotem do kruszenia rudy darniowej poruszanym siłą wody) i młyn tartaczny nazywany “piłą”. Pierwsi osadnicy Rudy byli więc rudnikami, młynarzami i tartacznikami. Kiedy Jan Zamoyski nabywał włość szczebrzeską, wsi Rudki jeszcze nie było, ale wokół młyna i tartaku wzrastała liczba chłopskich zagród, poddanych, którzy pracowali w okolicznych folwarkach lub lasach, a przede wszystkim w rudczańskich zakładach przemysłowych.”\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia rzekę Wieprz płynącą przez Park Środowiskowy w Zwierzyńcu oświetloną pierwszymi promieniami wschodzącego słońca.\nWedług planu gminy wzdłuż rzeki powstanie kiedyś bulwar łączący zabytkowe centrum z Rudką. Będzie to kolejna atrakcja Zwierzyńca, pozwalająca odciążyć oblegane w wakacje przez turystów ciągi piesze.\n\nDołącz do naszej misji ochrony i promocji dziedzictwa Zwierzyńca – każdy Twój gest się liczy!\n\n\n\n©MJP",
+  "description": "Czy wiesz, że początki Rudki są starsze od Zwierzyńca?...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,8 +99,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Metryka Zwierzyńca cz. 8",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-8"
+      "name": "Metryka Zwierzyńca cz. 8",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz8"
     }
   ]
 }

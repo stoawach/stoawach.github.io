@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Fabryka mebli.",
+  "headline": "Fabryka mebli",
   "datePublished": "2023-01-14",
   "dateModified": "2023-01-14",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/fabryka-mebli"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-14-fabryka-mebli.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-14-fabryka-mebli.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 208,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia stróżówkę prowadzącą na teren Fabryki Wyrobów Drzewnych. Obiekt pozostał w pierwotnej, niezmienionej formie charakterystycznej dla XIX-wiecznej zabudowy miejskiej z terenu ordynacji Zamoyskich. Pomimo postulowanego przez konserwatora remontu generalnego budynku, został on rozebrany po 2000. roku.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Największym zakładem przemysłowym w Zwierzyńcu była fabryka wyrobów drzewnych. Powstała w 1873 roku jako warsztaty stolarskie produkujące posadzki umieszczone najpierw w oberży zwierzynieckiej, gdzie rozpoczął pracę zespół stolarzy sprowadzonych z Warszawy na czele z majstrem Walentym Raczyńskim.\nJednocześnie rozpoczęto budowę fabryki posadzek przy szosie biłgorajskiej, w sąsiedztwie folwarku i w bezpośredniej styczności z gorzelnią. Już po roku stanęły mury, zamontowano maszynę parową sprowadzoną z warszawskiej firmy Scholtze i Rephan oraz transmisję z zakładów Nemelki z Wiednia. Wiele urządzeń zakupiono aż w Londynie.\nOd 1874 r. fabryka rozpoczęła produkcję pełną parą. Dzień pracy trwał od 6 rano do 7 wieczorem z półgodzinną przerwą na śniadanie i godzinną przerwą na obiad.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia stróżówkę prowadzącą na teren Fabryki Wyrobów Drzewnych. Obiekt pozostał w pierwotnej, niezmienionej formie charakterystycznej dla XIX-wiecznej zabudowy miejskiej z terenu ordynacji Zamoyskich. Pomimo postulowanego przez konserwatora remontu generalnego budynku, został on rozebrany po 2000. roku.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Największym zakładem przemysłowym w Zwierzyńcu była fabryka wyrobów drzewnych. Powstała w 1873 roku jako warsztaty stolarskie produkujące posadzki umieszczone najpierw w oberży zwierzynieckiej, gdzie rozpoczął pracę zespół stolarzy sprowadzonych z Warszawy na czele z majstrem Walentym Raczyńskim.\nJednocześnie rozpoczęto budowę fabryki posadzek przy szosie biłgorajskiej, w sąsiedztwie folwarku i w bezpośredniej styczności z gorzelnią. Już po roku stanęły mury, zamontowano maszynę parową sprowadzoną z warszawskiej firmy Scholtze i Rephan oraz transmisję z zakładów Nemelki z Wiednia. Wiele urządzeń zakupiono aż w Londynie.\nOd 1874 r. fabryka rozpoczęła produkcję pełną parą. Dzień pracy trwał od 6 rano do 7 wieczorem z półgodzinną przerwą na śniadanie i godzinną przerwą na obiad.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Fabryka mebli.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Fabryka-mebli"
+      "name": "Fabryka mebli",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/fabryka-mebli"
     }
   ]
 }

@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Wybierz-rozwoj-Zwierzynca-w-oparciu-o-dziedzictwo"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-03-02-wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-03-02-wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły]",
   "wordCount": 183,
-  "articleBody": "Popieramy wszystkich, którym na sercu leży rozwój Zwierzyńca bazujący  na jego największych  atutach: przyrodzie i zabytkach. By taki rozwój miał miejsce, potrzebna jest znajomość zarówno historii, jak i planów na przyszłość.\n\nKażda miejscowość ma najważniejsze dla siebie wydawnictwa i dokumenty. W naszym mieście-ogrodzie są to:\n💡 “Zwierzyniec” autorstwa Haliny Matławskiej - obszerna i bogata w szczegóły monografia, \n💡 “Zwierzyniec w starej pocztówce i fotografii” wydany przez Towarzystwo Miłośników Zwierzyńca - album ukazujący oblicze miejscowości sprzed lat,\n💡 Strategia Rozwoju Miasta i Gminy Zwierzyniec do 2030 roku - główny i najważniejszy dokument  obszaru gminy, który wyznacza kluczowe cele i kierunki rozwoju.\nSzczególnie kandydatów w nadchodzących wyborach zapraszamy do lektury i merytorycznej dyskusji dotyczącej przyszłości Zwierzyńca.\n\nPierwsze zdjęcie przedstawia wizytówkę Zwierzyńca i jego najcenniejszy zabytek - “kościółek na wodzie” - kościół pw. św. Jana Nepomucena - będący częścią rozwijającego się na przestrzeni wieków założenia willowego.\nNa drugim zdjęciu widać lektury, z którymi powinien się zapoznać każdy chcący bezpośrednio decydować o losach Zwierzyńca.\n\nWspólnymi siłami możemy być strażnikami dziedzictwa Zwierzyńca oraz jego największymi promotorami!  Niech Twoje zaangażowanie będzie iskrą, która przywróci blask tej magicznej miejscowości!\n\n                \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Popieramy wszystkich, którym na sercu leży rozwój Zwierzyńca bazujący  na jego największych  atutach: przyrodzie i zabytkach. By taki rozwój miał miejsce, potrzebna jest znajomość zarówno historii, jak i planów na przyszłość.\n\nKażda miejscowość ma najważniejsze dla siebie wydawnictwa i dokumenty. W naszym mieście-ogrodzie są to:\n💡 “Zwierzyniec” autorstwa Haliny Matławskiej - obszerna i bogata w szczegóły monografia,\n💡 “Zwierzyniec w starej pocztówce i fotografii” wydany przez Towarzystwo Miłośników Zwierzyńca - album ukazujący oblicze miejscowości sprzed lat,\n💡 Strategia Rozwoju Miasta i Gminy Zwierzyniec do 2030 roku - główny i najważniejszy dokument  obszaru gminy, który wyznacza kluczowe cele i kierunki rozwoju.\nSzczególnie kandydatów w nadchodzących wyborach zapraszamy do lektury i merytorycznej dyskusji dotyczącej przyszłości Zwierzyńca.\n\nPierwsze zdjęcie przedstawia wizytówkę Zwierzyńca i jego najcenniejszy zabytek - “kościółek na wodzie” - kościół pw. św. Jana Nepomucena - będący częścią rozwijającego się na przestrzeni wieków założenia willowego.\nNa drugim zdjęciu widać lektury, z którymi powinien się zapoznać każdy chcący bezpośrednio decydować o losach Zwierzyńca.\n\nWspólnymi siłami możemy być strażnikami dziedzictwa Zwierzyńca oraz jego największymi promotorami!  Niech Twoje zaangażowanie będzie iskrą, która przywróci blask tej magicznej miejscowości!\n\n\n\n©MJP",
+  "description": "Popieramy wszystkich, którym na sercu leży rozwój Zwierzyńca bazujący  na jego największych  atutach: przyrodzie i zabytkach. By taki rozwój miał miej...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -103,7 +103,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Wybierz rozwój Zwierzyńca w oparciu o dziedzictwo!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Wybierz-rozwoj-Zwierzynca-w-oparciu-o-dziedzictwo"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo"
     }
   ]
 }

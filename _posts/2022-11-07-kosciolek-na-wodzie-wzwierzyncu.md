@@ -39,12 +39,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Kościółek na wodzie w Zwierzyńcu",
+  "headline": "Kościółek na wodzie w Zwierzyńcu",
   "datePublished": "2022-11-07",
   "dateModified": "2022-11-07",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -56,17 +56,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciolek-na-wodzie-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kosciolek-na-wodzie-wzwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-07-kosciolek-na-wodzie-wzwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-07-kosciolek-na-wodzie-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]",
   "wordCount": 60,
-  "articleBody": "Kościół pw. św. Jana Nepomucena to najbardziej rozpoznawalny zabytek Zwierzyńca. \nDziś, tylko jak przez mgłę, możemy próbować odczytać jego przynależność do większej całości - założenia willowo-ogrodowego. PRL wprowadził tu wiele elementów obcych, obniżających wartość całego układu przestrzennego. Brak należytej ochrony tej przestrzeni da się zaobserwować również dzisiaj.\nMoże już czas zadbać o to wyjątkowe miejsce ukazując jego prawdziwe piękno?\n\n          \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kościół pw. św. Jana Nepomucena to najbardziej rozpoznawalny zabytek Zwierzyńca.\nDziś, tylko jak przez mgłę, możemy próbować odczytać jego przynależność do większej całości - założenia willowo-ogrodowego. PRL wprowadził tu wiele elementów obcych, obniżających wartość całego układu przestrzennego. Brak należytej ochrony tej przestrzeni da się zaobserwować również dzisiaj.\nMoże już czas zadbać o to wyjątkowe miejsce ukazując jego prawdziwe piękno?\n\n\n\nMJP",
+  "description": "Kościół pw. św. Jana Nepomucena to najbardziej rozpoznawalny zabytek Zwierzyńca.  Dziś, tylko jak przez mgłę, możemy próbować odczytać jego przynależn...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -89,8 +90,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Kościółek na wodzie w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciolek-na-wodzie-w-Zwierzyncu"
+      "name": "Kościółek na wodzie w Zwierzyńcu",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kosciolek-na-wodzie-wzwierzyncu"
     }
   ]
 }

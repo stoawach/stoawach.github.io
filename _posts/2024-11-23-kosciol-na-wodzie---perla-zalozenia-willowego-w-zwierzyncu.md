@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciol-na-wodzie---perla-zalozenia-willowego-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-23-kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-11-23-kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
-  "wordCount": 159,
-  "articleBody": "Zdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem konserwatora trwają obecnie prace remontowe świątyni.\nW tle, na jednej z wysp, wyłania się tajemniczy pomnik – świadek historii i romantycznej tradycji tego miejsca.\n\n„Biała architektura czterech oficyn otaczała reprezentacyjne wnętrze z podjazdem “cour d’honneur”, ozdobione gazonami i klombami, otwierające się szeroko na staw z barokowym kościółkiem “na wodzie”, “monumentem na wyspie” i dalej na nadwieprzańskie błonia eksponujące lesiste stoki Góry Piasecznej i malowniczą szachownicę pól Góry Folwarcznej” - podają w artykule z 1989 roku pt. “Idea jedności człowieka z przyrodą w Zwierzyńcu – Ogrodzie oświeconych i romantycznych” autorzy H. Matławska, L. Matławska-Patyk i M. Patyk.\n\nRazem możemy ożywić to miejsce i jego niezwykłą historię. Polub ten post, by pomóc go odnaleźć tym, którzy tak jak Ty, chcą przywrócić blask temu wyjątkowemu dziedzictwu.\n\nZdjęcie dzięki uprzejmości Fundacja Honesty, która realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
+  "wordCount": 190,
+  "articleBody": "perla-zalozenia-willowego-w-zwierzyncu.jpg\nlocation: \"Kościół na Wodzie\"\nlatitude: 50.609411874825\nlongitude: 22.968428010865\ndescription: \"Zdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem ...\"\n\n\nZdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem konserwatora trwają obecnie prace remontowe świątyni.\nW tle, na jednej z wysp, wyłania się tajemniczy pomnik – świadek historii i romantycznej tradycji tego miejsca.\n\n„Biała architektura czterech oficyn otaczała reprezentacyjne wnętrze z podjazdem “cour d’honneur”, ozdobione gazonami i klombami, otwierające się szeroko na staw z barokowym kościółkiem “na wodzie”, “monumentem na wyspie” i dalej na nadwieprzańskie błonia eksponujące lesiste stoki Góry Piasecznej i malowniczą szachownicę pól Góry Folwarcznej” - podają w artykule z 1989 roku pt. “Idea jedności człowieka z przyrodą w Zwierzyńcu – Ogrodzie oświeconych i romantycznych” autorzy H. Matławska, L. Matławska-Patyk i M. Patyk.\n\nRazem możemy ożywić to miejsce i jego niezwykłą historię. Polub ten post, by pomóc go odnaleźć tym, którzy tak jak Ty, chcą przywrócić blask temu wyjątkowemu dziedzictwu.\n\nZdjęcie MJP dzięki uprzejmości Fundacja Honesty, która realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia wzniesiony w 1741 roku barokowy kościół pw. św. Jana Nepomucena malowniczo oświetlony zachodzącym jesiennym słońcem. Pod nadzorem ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Kościół na wodzie - perła założenia willowego w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciol-na-wodzie---perla-zalozenia-willowego-w-Zwierzyncu"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kosciol-na-wodzie---perla-zalozenia-willowego-w-zwierzyncu"
     }
   ]
 }

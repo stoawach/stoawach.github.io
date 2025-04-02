@@ -50,7 +50,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟",
+  "headline": "Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!",
   "datePublished": "2023-07-01",
   "dateModified": "2023-07-01",
   "author": {
@@ -67,17 +67,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-01-odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-07-01-odkryjcie-niezwykle-polaczenie-historii-i-sacrum.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 275,
-  "articleBody": "Zapraszamy Was w kolejną podróż do magicznego świata Zwierzyńca, gdzie piękno natury i ludzkiego tworzenia splatają się w jedno. Dziś pragniemy podkreślić niezwykłą wartość kościółka na wodzie pw. św. Jana Nepomucena, który powstał w baroku jako kolejny element willowej kompozycji krajobrazowej i dodaje jeszcze większej urody temu miejscu.\n\nNa pierwszym planie zdjęcia możecie podziwiać malowniczy kościółek na wodzie, który dumnie wznosi się na dębowych palach wbitych w dno stawu jak Wenecja na lagunie. To właśnie ten unikalny obiekt znajduje się na przedłużeniu osi układu wodnego, wzbogacając jej atrakcyjność i bogactwo podkreślające niepowtarzalność Zwierzyńca.\n\nJak podają autorzy artykułu “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Rozwijana konsekwentnie główna oś założenia trafia dalej na symetryczny układ czterech wysp. Środkową wyspę zajmuje niewielki barokowy kościół wzniesiony w r. 1741. Oś główną kończy monument w formie rzymskiego sarkofagu. Oś poprzeczną przebiegającą przez trzy wyspy zamyka Domek na Górce pod lasem.”\n\nKościółek na wodzie, wzniesiony w latach 1741-1747, to świadek długiej historii i głębokiego znaczenia tego miejsca. Jego budowa była starannie zaplanowana, aby stworzyć niezwykłą świątynię, która emanuje pięknem i duchową atmosferą, jako wotum wdzięczności za narodziny syna Klemensa.\n\nJednak nie tylko kościółek na wodzie stanowi o niezwykłości Zwierzyńca. Wciąż możemy dostrzec renesansowe wielkoprzestrzenne założenie willowe, które istnieje tu do dziś. To przepiękne dziedzictwo przeszłości, które wciąż czeka, aby być docenione i zachowane w całości dla przyszłych pokoleń.\n\nDlatego tak ważne jest Twoje zainteresowanie i zaangażowanie. To od nas zależy, czy to niezwykłe dziedzictwo zostanie docenione i pielęgnowane. Razem możemy chronić to piękno i dzielić się nim z innymi.\n\nUdostępnijcie ten post, aby zaprosić innych do odkrywania tej wyjątkowej części Zwierzyńca, która dodaje blasku i wartości całej rezydencji.\n\n            \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zapraszamy Was w kolejną podróż do magicznego świata Zwierzyńca, gdzie piękno natury i ludzkiego tworzenia splatają się w jedno. Dziś pragniemy podkreślić niezwykłą wartość kościółka na wodzie pw. św. Jana Nepomucena, który powstał w baroku jako kolejny element willowej kompozycji krajobrazowej i dodaje jeszcze większej urody temu miejscu.\n\nNa pierwszym planie zdjęcia możecie podziwiać malowniczy kościółek na wodzie, który dumnie wznosi się na dębowych palach wbitych w dno stawu jak Wenecja na lagunie. To właśnie ten unikalny obiekt znajduje się na przedłużeniu osi układu wodnego, wzbogacając jej atrakcyjność i bogactwo podkreślające niepowtarzalność Zwierzyńca.\n\nJak podają autorzy artykułu “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Rozwijana konsekwentnie główna oś założenia trafia dalej na symetryczny układ czterech wysp. Środkową wyspę zajmuje niewielki barokowy kościół wzniesiony w r. 1741. Oś główną kończy monument w formie rzymskiego sarkofagu. Oś poprzeczną przebiegającą przez trzy wyspy zamyka Domek na Górce pod lasem.”\n\nKościółek na wodzie, wzniesiony w latach 1741-1747, to świadek długiej historii i głębokiego znaczenia tego miejsca. Jego budowa była starannie zaplanowana, aby stworzyć niezwykłą świątynię, która emanuje pięknem i duchową atmosferą, jako wotum wdzięczności za narodziny syna Klemensa.\n\nJednak nie tylko kościółek na wodzie stanowi o niezwykłości Zwierzyńca. Wciąż możemy dostrzec renesansowe wielkoprzestrzenne założenie willowe, które istnieje tu do dziś. To przepiękne dziedzictwo przeszłości, które wciąż czeka, aby być docenione i zachowane w całości dla przyszłych pokoleń.\n\nDlatego tak ważne jest Twoje zainteresowanie i zaangażowanie. To od nas zależy, czy to niezwykłe dziedzictwo zostanie docenione i pielęgnowane. Razem możemy chronić to piękno i dzielić się nim z innymi.\n\nUdostępnijcie ten post, aby zaprosić innych do odkrywania tej wyjątkowej części Zwierzyńca, która dodaje blasku i wartości całej rezydencji.\n\n\n\n©MJP",
+  "description": "Zapraszamy Was w kolejną podróż do magicznego świata Zwierzyńca, gdzie piękno natury i ludzkiego tworzenia splatają się w jedno. Dziś pragniemy podkre...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -104,8 +104,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "🌟✨ Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu! ✨🌟",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/-Odkryjcie-niezwykle-polaczenie-historii-i-sacrum"
+      "name": "Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum"
     }
   ]
 }

@@ -43,7 +43,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2022-06-18",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -55,17 +55,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "europejskiedniarcheologii, Zwierzyniec, Roztocze, Lubelskie, pałace, villarestituta, turystyka, historia",
+  "keywords": "[europejskiedniarcheologii, Zwierzyniec, Roztocze, Lubelskie, pałace, villarestituta, turystyka, historia]",
   "wordCount": 171,
-  "articleBody": "Czasem słyszymy, że turyści, którzy przyjeżdżają do Zwierzyńca po obejrzeniu Kościółka na Wodzie i Zwierzyńczyka mówią: spacer na 15 minut i nic więcej ciekawego w tym miasteczku nie ma. Czy słusznie?\n\nZwierzyniec to nie tylko przyroda, ale też bardzo cenne dziedzictwo kulturowe. Pomimo dostępności wielu źródeł książkowych, w przestrzeni publicznej miasta wciąż mało jest informacji o tym, dlaczego jest to miejsce wyjątkowe. Zwierzyniec posiada szczególnie bogatą historię i wiele obiektów dziedzictwa materialnego, które powinny zostać odkryte i przedstawione na nowo.\n \n17 - 19 czerwca to Europejskie Dni Archeologii. Co to ma wspólnego ze Zwierzyńcem? Na pewno słyszeliście o Modrzewiowej Willi Jana Zamoyskiego - pierwszego ordynata. W miejscu gdzie stała potrzebne są prace archeologiczne, które przybliżą nam jej dzieje. Badań wymagają też pozostałości kamiennej budowli, znajdujące się na końcu długiego kanału.\nNowe informacje na temat Zwierzyńca mogą być impulsem, który zapoczątkuje prace nad zwiększeniem atrakcyjności zabytkowego centrum.\n\nJeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy!",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Czasem słyszymy, że turyści, którzy przyjeżdżają do Zwierzyńca po obejrzeniu Kościółka na Wodzie i Zwierzyńczyka mówią: spacer na 15 minut i nic więcej ciekawego w tym miasteczku nie ma. Czy słusznie?\n\nZwierzyniec to nie tylko przyroda, ale też bardzo cenne dziedzictwo kulturowe. Pomimo dostępności wielu źródeł książkowych, w przestrzeni publicznej miasta wciąż mało jest informacji o tym, dlaczego jest to miejsce wyjątkowe. Zwierzyniec posiada szczególnie bogatą historię i wiele obiektów dziedzictwa materialnego, które powinny zostać odkryte i przedstawione na nowo.\n\n17 - 19 czerwca to Europejskie Dni Archeologii. Co to ma wspólnego ze Zwierzyńcem? Na pewno słyszeliście o Modrzewiowej Willi Jana Zamoyskiego - pierwszego ordynata. W miejscu gdzie stała potrzebne są prace archeologiczne, które przybliżą nam jej dzieje. Badań wymagają też pozostałości kamiennej budowli, znajdujące się na końcu długiego kanału.\nNowe informacje na temat Zwierzyńca mogą być impulsem, który zapoczątkuje prace nad zwiększeniem atrakcyjności zabytkowego centrum.\n\nJeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy!",
+  "description": "Czasem słyszymy, że turyści, którzy przyjeżdżają do Zwierzyńca po obejrzeniu Kościółka na Wodzie i Zwierzyńczyka mówią: spacer na 15 minut i nic więce...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -89,7 +90,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kiedy-Zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja-historia"
     }
   ]
 }

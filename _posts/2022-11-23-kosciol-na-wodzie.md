@@ -43,7 +43,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Kościół “na wodzie”.",
+  "headline": "Kościół “na wodzie”",
   "datePublished": "2022-11-23",
   "dateModified": "2022-11-23",
   "author": {
@@ -60,17 +60,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciol-na-wodzie"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kosciol-na-wodzie"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-23-kosciol-na-wodzie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-23-kosciol-na-wodzie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]",
   "wordCount": 125,
-  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nW Zwierzyńcu na piętrze modrzewiowej willi z końca XVI wieku istniała kaplica. \nKościół wzniesiono na osi drewnianej willi, w latach 1741 - 1747, z fundacji Tomasza i Teresy Zamoyskich. Należał on do parafii w Szczebrzeszynie. Od 1919 roku pełnił funkcję kościoła parafialnego. W 1980 roku parafię przeniesiono do nowego kościoła w Zwierzyńcu.\n\nKościółek dzięki swej nietypowej lokalizacji i bryle do dzisiaj stanowi perłę całego założenia. Kontynuacja prac związanych z rewitalizacją Zabytkowego Centrum Zwierzyńca pozwoli na przywrócenie reprezentacyjnego wnętrza przed oficynami i ponowne otwarcie go w kierunku stawu kościelnego.\nKiedy to nastąpi? W dużej mierze jest to zależne od aktywności mieszkańców i sympatyków tego pięknego miejsca.\n \n          \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nW Zwierzyńcu na piętrze modrzewiowej willi z końca XVI wieku istniała kaplica.\nKościół wzniesiono na osi drewnianej willi, w latach 1741 - 1747, z fundacji Tomasza i Teresy Zamoyskich. Należał on do parafii w Szczebrzeszynie. Od 1919 roku pełnił funkcję kościoła parafialnego. W 1980 roku parafię przeniesiono do nowego kościoła w Zwierzyńcu.\n\nKościółek dzięki swej nietypowej lokalizacji i bryle do dzisiaj stanowi perłę całego założenia. Kontynuacja prac związanych z rewitalizacją Zabytkowego Centrum Zwierzyńca pozwoli na przywrócenie reprezentacyjnego wnętrza przed oficynami i ponowne otwarcie go w kierunku stawu kościelnego.\nKiedy to nastąpi? W dużej mierze jest to zależne od aktywności mieszkańców i sympatyków tego pięknego miejsca.\n\n\n\n©MJP",
+  "description": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -97,8 +97,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Kościół “na wodzie”.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kosciol-na-wodzie"
+      "name": "Kościół “na wodzie”",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kosciol-na-wodzie"
     }
   ]
 }

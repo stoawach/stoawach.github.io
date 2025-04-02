@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Jubileuszowe-koledowanie---lutnia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/jubileuszowe-koledowanie---lutnia"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-24-jubileuszowe-koledowanie---lutnia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-24-jubileuszowe-koledowanie---lutnia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
-  "wordCount": 98,
-  "articleBody": "Zdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypoczynkowej.\n\nWspominaliśmy już o mającej miejsce 21. stycznia 2023 uroczystej inauguracji obchodów 430-lecia Zwierzyńca. Zapraszamy do obejrzenia pierwszej części koncertu, jaki miał miejsce podczas tego wydarzenia. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
+  "wordCount": 124,
+  "articleBody": "lutnia.jpg\nlocation: \"Unknown Location\"\ndescription: \"Zdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypocz...\"\n\n\nZdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypoczynkowej.\n\nWspominaliśmy już o mającej miejsce 21. stycznia 2023 uroczystej inauguracji obchodów 430-lecia Zwierzyńca. Zapraszamy do obejrzenia pierwszej części koncertu, jaki miał miejsce podczas tego wydarzenia. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Jest on częścią idealnej willi wypocz...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,7 +96,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Jubileuszowe kolędowanie - lutnia",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Jubileuszowe-koledowanie---lutnia"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/jubileuszowe-koledowanie---lutnia"
     }
   ]
 }

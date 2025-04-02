@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Zalozenie-Willowe---zapomniana-harmonia-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zalozenie-willowe---zapomniana-harmonia-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-14-zalozenie-willowe---zapomniana-harmonia-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-12-14-zalozenie-willowe---zapomniana-harmonia-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
-  "wordCount": 223,
-  "articleBody": "Zdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku świateł, stoi barokowy kościół pw. św. Jana Nepomucena. Z lewej strony, w cieniu, widoczna jest dzwonnica, a w głębi z prawej strony można dostrzec dach dawnej oberży.\n\nZałożenie Willowe zmieniało się na przestrzeni lat, ale zawsze stanowiło harmonijną całość. Za czasów Aleksandra Augusta i Stanisława Kostki, XI i XII ordynata, modrzewiowa willa, oficyny i przestrzeń między nimi tworzyły okazałą kompozycję architektoniczno-ogrodową, która otwierała się szeroko na staw z kościółkiem i krajobraz otaczającej przyrody. \nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“Biała architektura czterech oficyn otaczała reprezentacyjne wnętrze z podjazdem 'cour d’honneur', ozdobione gazonami i klombami, otwierające się szeroko na staw z barokowym kościółkiem 'na wodzie' (...). Właściciel willi cenił stare domostwo i spokój lasów, a nowe oficyny i różne elementy romantycznego ogrodu wskazywały na przemyślane działania gospodarza.\"\n\nWspółczesna przestrzeń nie zachowuje już tej harmonii. Liczne niekorzystne elementy rozcinają oryginalne założenie, odbierając mu dawną świetność. Jednak wciąż można to zmienić. Przywrócenie pierwotnego układu mogłoby na nowo ukazać piękno tego miejsca i jego historyczny charakter.\n\nNiech to zdjęcie przypomni nam o wyjątkowej wartości Założenia Willowego i o możliwości jego odnowy. Polub i udostępnij ten post, aby więcej osób mogło dowiedzieć się o jego niezwykłej historii i wesprzeć działania na rzecz ochrony Zwierzyńca.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
+  "wordCount": 252,
+  "articleBody": "zapomniana-harmonia-zwierzynca.jpg\nlocation: \"Zwierzyniec\"\nlatitude: 50.61039\nlongitude: 22.96615\ndescription: \"Zdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku...\"\n\n\nZdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku świateł, stoi barokowy kościół pw. św. Jana Nepomucena. Z lewej strony, w cieniu, widoczna jest dzwonnica, a w głębi z prawej strony można dostrzec dach dawnej oberży.\n\nZałożenie Willowe zmieniało się na przestrzeni lat, ale zawsze stanowiło harmonijną całość. Za czasów Aleksandra Augusta i Stanisława Kostki, XI i XII ordynata, modrzewiowa willa, oficyny i przestrzeń między nimi tworzyły okazałą kompozycję architektoniczno-ogrodową, która otwierała się szeroko na staw z kościółkiem i krajobraz otaczającej przyrody.\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“Biała architektura czterech oficyn otaczała reprezentacyjne wnętrze z podjazdem 'cour d’honneur', ozdobione gazonami i klombami, otwierające się szeroko na staw z barokowym kościółkiem 'na wodzie' (...). Właściciel willi cenił stare domostwo i spokój lasów, a nowe oficyny i różne elementy romantycznego ogrodu wskazywały na przemyślane działania gospodarza.\"\n\nWspółczesna przestrzeń nie zachowuje już tej harmonii. Liczne niekorzystne elementy rozcinają oryginalne założenie, odbierając mu dawną świetność. Jednak wciąż można to zmienić. Przywrócenie pierwotnego układu mogłoby na nowo ukazać piękno tego miejsca i jego historyczny charakter.\n\nNiech to zdjęcie przypomni nam o wyjątkowej wartości Założenia Willowego i o możliwości jego odnowy. Polub i udostępnij ten post, aby więcej osób mogło dowiedzieć się o jego niezwykłej historii i wesprzeć działania na rzecz ochrony Zwierzyńca.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia jesienny wieczór nad stawem kościelnym – jednym z kluczowych elementów Założenia Willowego w Zwierzyńcu. Na środku stawu, w blasku...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,7 +100,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Założenie Willowe - zapomniana harmonia Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Zalozenie-Willowe---zapomniana-harmonia-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zalozenie-willowe---zapomniana-harmonia-zwierzynca"
     }
   ]
 }

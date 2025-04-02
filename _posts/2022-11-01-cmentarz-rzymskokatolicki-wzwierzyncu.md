@@ -44,12 +44,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Cmentarz rzymskokatolicki w Zwierzyńcu",
+  "headline": "Cmentarz rzymskokatolicki w Zwierzyńcu",
   "datePublished": "2022-11-01",
   "dateModified": "2022-11-01",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,17 +61,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/cmentarz-rzymskokatolicki-wzwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-01-cmentarz-rzymskokatolicki-wzwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-01-cmentarz-rzymskokatolicki-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, cmentarze",
-  "wordCount": 50,
-  "articleBody": "Na cmentarzu rosną wiekowe drzewa. Szereg z nich pochodzi ze szkółek Ordynacji we Floriance i Zwierzyńcu.\n\nUkład przestrzenny najstarszej części cmentarza został wpisany do rejestru zabytków w 1996 r.\n\nTo tutaj znajduje się nagrobek naszej Patronki.\n\nZabytki to Twoje dziedzictwo. Działaj, by je chronić!\nNajprościej - udostępniając ten post.\n\n          \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, cmentarze]",
+  "wordCount": 61,
+  "articleBody": "Założony w 1907 roku, jest otoczony z trzech stron lasem sosnowym.\n\nNa cmentarzu rosną wiekowe drzewa. Szereg z nich pochodzi ze szkółek Ordynacji we Floriance i Zwierzyńcu.\n\nUkład przestrzenny najstarszej części cmentarza został wpisany do rejestru zabytków w 1996 r.\n\nTo tutaj znajduje się nagrobek naszej Patronki.\n\nZabytki to Twoje dziedzictwo. Działaj, by je chronić!\nNajprościej - udostępniając ten post.\n\n\n\nMJP",
+  "description": "Na cmentarzu rosną wiekowe drzewa. Szereg z nich pochodzi ze szkółek Ordynacji we Floriance i Zwierzyńcu....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -94,8 +95,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Cmentarz rzymskokatolicki w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Cmentarz-rzymskokatolicki-w-Zwierzyncu-zalozony-w-1907-roku"
+      "name": "Cmentarz rzymskokatolicki w Zwierzyńcu",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/cmentarz-rzymskokatolicki-wzwierzyncu"
     }
   ]
 }

@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-13-powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-10-13-powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 88,
-  "articleBody": "Na zdjęciu widoczna jest południowa oficyna skrzydłowa – część historycznego założenia willowego Zwierzyńca. Murowane oficyny powstały pod koniec XVIII wieku, prawdopodobnie według projektu Ferdynanda Merksena. Uzupełniły wcześniejsze drewniane zabudowania, gdy modrzewiowy pałac ordynata jeszcze istniał.\n\nW tym roku zakończył się remont elewacji oficyny. Obecnie w budynku mieści się internat Technikum im. Jana Zamoyskiego w Zwierzyńcu. Dzięki staraniom Starostwa sukcesywnie prowadzone są prace konserwatorskie przy kolejnych obiektach.\n\nTwoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności mają nie tylko pojedyncze zabytki, ale również całe założenie willowe w Zwierzyńcu.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczna jest południowa oficyna skrzydłowa – część historycznego założenia willowego Zwierzyńca. Murowane oficyny powstały pod koniec XVIII wieku, prawdopodobnie według projektu Ferdynanda Merksena. Uzupełniły wcześniejsze drewniane zabudowania, gdy modrzewiowy pałac ordynata jeszcze istniał.\n\nW tym roku zakończył się remont elewacji oficyny. Obecnie w budynku mieści się internat Technikum im. Jana Zamoyskiego w Zwierzyńcu. Dzięki staraniom Starostwa sukcesywnie prowadzone są prace konserwatorskie przy kolejnych obiektach.\n\nTwoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności mają nie tylko pojedyncze zabytki, ale również całe założenie willowe w Zwierzyńcu.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczna jest południowa oficyna skrzydłowa – część historycznego założenia willowego Zwierzyńca. Murowane oficyny powstały pod koniec XVII...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,7 +96,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Powstały, gdy wciąż trwała modrzewiowa willa dająca początek Zwierzyńcowi",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/powstaly-gdy-wciaz-trwala-modrzewiowa-willa-dajaca-poczatek"
     }
   ]
 }

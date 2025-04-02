@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-25-czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-02-25-czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
-  "wordCount": 131,
-  "articleBody": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.\n\nPierwszym ze wskazań konserwatorskich jest uwypuklenie terenu pierwotnego założenia, nawarstwionego historycznie wzdłuż osi wschód - zachód. W tym miejscu powstał Zwierzyniec i wokół niego się rozwijał.\n\nZdjęcie, udostępnione dzięki uprzejmości Tymczasem w Zwierzyńcu, ukazuje pośrodku staw kościelny z czterema wyspami i kościółkiem na wodzie. Z lewej strony widnieje zespół oficyn i dziedziniec przed nieistniejącą willą oraz staw willowy i fragment kanału. To ten obszar dał początek Zwierzyńcowi. W górnej części wznosi się charakterystyczny budynek browaru.\n\nJakie jeszcze obiekty poznajesz na zdjęciu?\n\nRazem możemy chronić i promować dziedzictwo Zwierzyńca. Twój udział pomoże Zwierzyńcowi odzyskać blask!\n\n              \n\nzdj. Dominik Dziadosz\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
+  "wordCount": 128,
+  "articleBody": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.\n\nPierwszym ze wskazań konserwatorskich jest uwypuklenie terenu pierwotnego założenia, nawarstwionego historycznie wzdłuż osi wschód - zachód. W tym miejscu powstał Zwierzyniec i wokół niego się rozwijał.\n\nZdjęcie, udostępnione dzięki uprzejmości Tymczasem w Zwierzyńcu, ukazuje pośrodku staw kościelny z czterema wyspami i kościółkiem na wodzie. Z lewej strony widnieje zespół oficyn i dziedziniec przed nieistniejącą willą oraz staw willowy i fragment kanału. To ten obszar dał początek Zwierzyńcowi. W górnej części wznosi się charakterystyczny budynek browaru.\n\nJakie jeszcze obiekty poznajesz na zdjęciu?\n\nRazem możemy chronić i promować dziedzictwo Zwierzyńca. Twój udział pomoże Zwierzyńcowi odzyskać blask!\n\n\n\n©MJP",
+  "description": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,7 +100,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy Zwierzyniec odzyska swój blask? Dzięki NID wiemy jak może się to stać!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-Zwierzyniec-odzyska-swoj-blask-Dzieki-NID-wiemy-jak"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid-wiemy-jak"
     }
   ]
 }

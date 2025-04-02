@@ -41,12 +41,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Gmach Główny Zarządu Ordynacji Zamojskiej.",
+  "headline": "Gmach Główny Zarządu Ordynacji Zamojskiej",
   "datePublished": "2022-11-08",
   "dateModified": "2022-11-08",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -58,17 +58,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/gmach-glowny-zarzadu-ordynacji-zamojskiej"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]",
   "wordCount": 87,
-  "articleBody": "Tak, jak Kościółek na Wodzie, tak i Gmach Główny Zarządu Ordynacji Zamojskiej jest częścią większej całości - założenia willowo-ogrodowego. Dopiero połączenie z pozostałymi elementami ukaże prawdziwą wartość tego obiektu. \nBudynek powstał pod koniec XVIII wieku, jako jedna z czterech oficyn ustawionych w podkowę przy modrzewiowej willi. Również tutaj PRL wprowadził wiele obcych elementów. \nObecnie w oficynach mieści się Technikum im. Jana Zamoyskiego, które sukcesywnie podejmuje się kolejnych remontów.\n\nCzy w najbliższej przyszłości założenie willowo-ogrodowe wróci do pełnej świetności? To zależy głównie od aktywności i zainteresowania społeczeństwa.\n\n          \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Tak, jak Kościółek na Wodzie, tak i Gmach Główny Zarządu Ordynacji Zamojskiej jest częścią większej całości - założenia willowo-ogrodowego. Dopiero połączenie z pozostałymi elementami ukaże prawdziwą wartość tego obiektu.\nBudynek powstał pod koniec XVIII wieku, jako jedna z czterech oficyn ustawionych w podkowę przy modrzewiowej willi. Również tutaj PRL wprowadził wiele obcych elementów.\nObecnie w oficynach mieści się Technikum im. Jana Zamoyskiego, które sukcesywnie podejmuje się kolejnych remontów.\n\nCzy w najbliższej przyszłości założenie willowo-ogrodowe wróci do pełnej świetności? To zależy głównie od aktywności i zainteresowania społeczeństwa.\n\n\n\nMJP",
+  "description": "Tak, jak Kościółek na Wodzie, tak i Gmach Główny Zarządu Ordynacji Zamojskiej jest częścią większej całości - założenia willowo-ogrodowego. Dopiero po...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -91,8 +92,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Gmach Główny Zarządu Ordynacji Zamojskiej.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Gmach-Glowny-Zarzadu-Ordynacji-Zamojskiej"
+      "name": "Gmach Główny Zarządu Ordynacji Zamojskiej",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/gmach-glowny-zarzadu-ordynacji-zamojskiej"
     }
   ]
 }

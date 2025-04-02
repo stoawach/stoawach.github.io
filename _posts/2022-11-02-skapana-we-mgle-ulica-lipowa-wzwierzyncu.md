@@ -36,12 +36,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Skąpana we mgle ulica Lipowa w Zwierzyńcu.",
+  "headline": "Skąpana we mgle ulica Lipowa w Zwierzyńcu",
   "datePublished": "2022-11-02",
   "dateModified": "2022-11-02",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -53,17 +53,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-02-skapana-we-mgle-ulica-lipowa-wzwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-02-skapana-we-mgle-ulica-lipowa-wzwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 44,
-  "articleBody": "Bogata w dojrzałe drzewa Lipowa stanowi naturalne przedłużenie parku środowiskowego. W niedalekiej przyszłości stanie się bulwarem. W latach 2022-2024 gmina planuje zagospodarowanie tej przestrzeni z zachowaniem i konserwacją zieleni wysokiej.\nDrzewa z Lipowej jeszcze rok temu były zagrożone wycinką. Teraz podlegają sukcesywnej pielęgnacji.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Bogata w dojrzałe drzewa Lipowa stanowi naturalne przedłużenie parku środowiskowego. W niedalekiej przyszłości stanie się bulwarem. W latach 2022-2024 gmina planuje zagospodarowanie tej przestrzeni z zachowaniem i konserwacją zieleni wysokiej.\nDrzewa z Lipowej jeszcze rok temu były zagrożone wycinką. Teraz podlegają sukcesywnej pielęgnacji.\n\n\n\nMJP",
+  "description": "Bogata w dojrzałe drzewa Lipowa stanowi naturalne przedłużenie parku środowiskowego. W niedalekiej przyszłości stanie się bulwarem. W latach 2022-2024...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -86,8 +87,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Skąpana we mgle ulica Lipowa w Zwierzyńcu.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu"
+      "name": "Skąpana we mgle ulica Lipowa w Zwierzyńcu",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncu"
     }
   ]
 }

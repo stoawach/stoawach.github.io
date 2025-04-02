@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Marysieńka.",
+  "headline": "Marysieńka",
   "datePublished": "2022-12-03",
   "dateModified": "2022-12-03",
   "author": {
@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Marysienka"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/marysienka"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-03-marysienka.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-03-marysienka.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]",
   "wordCount": 163,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Kościółek z modrzewiową willą łączyła główna oś widokowa. Współcześnie oś jest przedzielona na pół przez ulicę Browarną. W swoim dzisiejszym kształcie droga zakłóca to najważniejsze powiązanie widokowe całej kompozycji założenia willowo-parkowego.\n\n3 marca 1658 roku Jan Sobiepan Zamoyski, III ordynat, poślubił Marię Kazimierę de La Grange d’Arquien - późniejszą królową Polski. Gdy Marysieńka przybyła do Zwierzyńca, zastała go już urządzonym. Niemniej jednak wprowadzała w nim pewne zmiany. Jedną z nich był “domek na wodzie” - strojna altana - zwany też przez nią pustelnią (ermitażem). To właśnie na miejscu altany stanął później kościół na wodzie. \n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta. \nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n          \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia kościółek na wodzie - kościół pod wezwaniem świętego Jana Nepomucena - wizytówkę Zwierzyńca. Kościółek z modrzewiową willą łączyła główna oś widokowa. Współcześnie oś jest przedzielona na pół przez ulicę Browarną. W swoim dzisiejszym kształcie droga zakłóca to najważniejsze powiązanie widokowe całej kompozycji założenia willowo-parkowego.\n\n3 marca 1658 roku Jan Sobiepan Zamoyski, III ordynat, poślubił Marię Kazimierę de La Grange d’Arquien - późniejszą królową Polski. Gdy Marysieńka przybyła do Zwierzyńca, zastała go już urządzonym. Niemniej jednak wprowadzała w nim pewne zmiany. Jedną z nich był “domek na wodzie” - strojna altana - zwany też przez nią pustelnią (ermitażem). To właśnie na miejscu altany stanął później kościół na wodzie.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta.\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,8 +99,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Marysieńka.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Marysienka"
+      "name": "Marysieńka",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/marysienka"
     }
   ]
 }

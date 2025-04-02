@@ -41,7 +41,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Budynek główny browaru.",
+  "headline": "Budynek główny browaru",
   "datePublished": "2022-11-19",
   "dateModified": "2022-11-19",
   "author": {
@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Budynek-glowny-browaru"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/budynek-glowny-browaru"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-19-budynek-glowny-browaru.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-19-budynek-glowny-browaru.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 131,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nBrowar wybudował i urządził w latach 1805 - 1806 Stanisław Kostka Zamoyski. Prace budowlane prowadzone były pod kierunkiem majstra murarskiego ze Szczebrzeszyna, a wyposażeniem technologicznym zajął się szkot - inżynier John McDonald. W 1836 roku w browarze zamontowano maszynę parową. W latach 1926 -1927 browar został połączony z tartakiem i fabryką wyrobów drzewnych kolejką wąskotorową.\n\nOd 2000 roku, w wakacje, na dziedzińcu browaru odbywają się projekcje kina nocnego Letniej Akademii Filmowej. W 2008 roku zakończono produkcję piwa w głównym budynku. W 2013 roku Perła - Browary Lubelskie podpisała 15-letnią umowę dzierżawy ze Starostwem Powiatowym. Współczesna linia produkcyjna, dostarczona z Czech, została zainstalowana w nowej części browaru, powstałej w latach 70-tych i 80-tych ubiegłego stulecia. \n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nBrowar wybudował i urządził w latach 1805 - 1806 Stanisław Kostka Zamoyski. Prace budowlane prowadzone były pod kierunkiem majstra murarskiego ze Szczebrzeszyna, a wyposażeniem technologicznym zajął się szkot - inżynier John McDonald. W 1836 roku w browarze zamontowano maszynę parową. W latach 1926 -1927 browar został połączony z tartakiem i fabryką wyrobów drzewnych kolejką wąskotorową.\n\nOd 2000 roku, w wakacje, na dziedzińcu browaru odbywają się projekcje kina nocnego Letniej Akademii Filmowej. W 2008 roku zakończono produkcję piwa w głównym budynku. W 2013 roku Perła - Browary Lubelskie podpisała 15-letnią umowę dzierżawy ze Starostwem Powiatowym. Współczesna linia produkcyjna, dostarczona z Czech, została zainstalowana w nowej części browaru, powstałej w latach 70-tych i 80-tych ubiegłego stulecia.\n\n\n\n©MJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -95,8 +95,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Budynek główny browaru.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Budynek-glowny-browaru"
+      "name": "Budynek główny browaru",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/budynek-glowny-browaru"
     }
   ]
 }

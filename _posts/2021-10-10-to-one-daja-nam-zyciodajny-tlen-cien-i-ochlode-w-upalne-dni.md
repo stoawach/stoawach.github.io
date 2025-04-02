@@ -26,12 +26,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "To one dają nam życiodajny tlen, cień i ochłodę w upalne dni. Przeciwdziałają suszy i powodzi zatrzymując wodę i nawilżają powietrze, stopniowo ją oddając. Są domem dla wielu zwierząt, ostoją różnorodności biologicznej. Wydzielają związki eteryczne, wpływające korzystnie na nasze zdrowie, a ich bliskość, zieleń i szum liści koi nasze nerwy. Od najdawniejszych czasów fascynowały ludzi. Uważano je za oś Wszechświata, połączenie Ziemi z Kosmosem, alegorię ciągle odradzającej się Natury. Ich symbolika obecna jest w każdej religii. ",
+  "headline": "To one dają nam życiodajny tlen, cień i ochłodę w upalne dni",
   "datePublished": "2021-10-10",
   "dateModified": "2021-10-10",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -43,17 +43,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/To-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-10-to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-10-10-to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 34,
-  "articleBody": "Drzewa.  \nDziś ich święto. Światowy Dzień Drzewa. Spróbujmy sprawić, aby miały swoje święto codziennie. Doceńmy pracę jaką dla nas wykonują i opiekujmy się naszymi Zielonymi Przyjaciółmi, bo ich obecność w naszym otoczeniu jest bezcenna.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 98,
+  "articleBody": "Przeciwdziałają suszy i powodzi zatrzymując wodę i nawilżają powietrze, stopniowo ją oddając. Są domem dla wielu zwierząt, ostoją różnorodności biologicznej. Wydzielają związki eteryczne, wpływające korzystnie na nasze zdrowie, a ich bliskość, zieleń i szum liści koi nasze nerwy. Od najdawniejszych czasów fascynowały ludzi. Uważano je za oś Wszechświata, połączenie Ziemi z Kosmosem, alegorię ciągle odradzającej się Natury. Ich symbolika obecna jest w każdej religii.\n\nDrzewa.\nDziś ich święto. Światowy Dzień Drzewa. Spróbujmy sprawić, aby miały swoje święto codziennie. Doceńmy pracę jaką dla nas wykonują i opiekujmy się naszymi Zielonymi Przyjaciółmi, bo ich obecność w naszym otoczeniu jest bezcenna.",
+  "description": "Drzewa.   Dziś ich święto. Światowy Dzień Drzewa. Spróbujmy sprawić, aby miały swoje święto codziennie. Doceńmy pracę jaką dla nas wykonują i opiekujm...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -76,8 +77,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "To one dają nam życiodajny tlen, cień i ochłodę w upalne dni ",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/To-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni"
+      "name": "To one dają nam życiodajny tlen, cień i ochłodę w upalne dni",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode-w-upalne-dni"
     }
   ]
 }

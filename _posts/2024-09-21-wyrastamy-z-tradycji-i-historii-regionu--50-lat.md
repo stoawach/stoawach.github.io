@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Wyrastamy-z-tradycji-i-historii-regionu--50-lat"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wyrastamy-z-tradycji-i-historii-regionu--50-lat"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-21-wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-09-21-wyrastamy-z-tradycji-i-historii-regionu--50-lat.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczanskiParkNarodowy, RoztoczanskiPN",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczanskiParkNarodowy, RoztoczanskiPN]",
   "wordCount": 92,
-  "articleBody": "Zdjęcie przedstawia Willę Plenipotenta w porannych promieniach słońca. To element ewoluującego na przestrzeni wieków założenia willowego w Zwierzyńcu. Obecnie w „pałacu” mieści się siedziba dyrekcji RPN. \n\nTrwa jubileusz 50-lecia Parku. Instytucja otacza swoją ochroną nie tylko przyrodę. „Celem równorzędnym jest zachowanie wartości kulturowych, w tym krajobrazu kulturowego, uwarunkowań historycznych, walorów krajobrazowych oraz kształtowania właściwych postaw człowieka wobec środowiska przyrodniczego.” – możemy przeczytać w Planie Ochrony RPN. \n\nRoztoczański Park Narodowy pomaga chronić Zwierzyniec, a dzięki Twojemu wsparciu miejsce to zostanie należycie docenione i skorzysta z wiedzy oraz pasji ekspertów w procesie rewitalizacji.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia Willę Plenipotenta w porannych promieniach słońca. To element ewoluującego na przestrzeni wieków założenia willowego w Zwierzyńcu. Obecnie w „pałacu” mieści się siedziba dyrekcji RPN.\n\nTrwa jubileusz 50-lecia Parku. Instytucja otacza swoją ochroną nie tylko przyrodę. „Celem równorzędnym jest zachowanie wartości kulturowych, w tym krajobrazu kulturowego, uwarunkowań historycznych, walorów krajobrazowych oraz kształtowania właściwych postaw człowieka wobec środowiska przyrodniczego.” – możemy przeczytać w Planie Ochrony RPN.\n\nRoztoczański Park Narodowy pomaga chronić Zwierzyniec, a dzięki Twojemu wsparciu miejsce to zostanie należycie docenione i skorzysta z wiedzy oraz pasji ekspertów w procesie rewitalizacji.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia Willę Plenipotenta w porannych promieniach słońca. To element ewoluującego na przestrzeni wieków założenia willowego w Zwierzyńcu....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,7 +96,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Wyrastamy z tradycji i historii regionu – 50 lat Roztoczańskiego Parku Narodowego dla przyrody i człowieka",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Wyrastamy-z-tradycji-i-historii-regionu--50-lat"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wyrastamy-z-tradycji-i-historii-regionu--50-lat"
     }
   ]
 }

@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Metryka Zwierzyńca cz. 6",
+  "headline": "Metryka Zwierzyńca cz. 6",
   "datePublished": "2023-12-30",
   "dateModified": "2023-12-30",
   "author": {
@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-6"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz6"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-12-30-metryka-zwierzyncacz6.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-12-30-metryka-zwierzyncacz6.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 275,
-  "articleBody": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\n\"Wielką wartość dla Zwierzynian ma list hetmana z 28 października 1597 r. W liście tym Jan Zamoyski przesyłał szwagrowi zdrowia i uprzejmości, poinformował go o wizycie Jana Sernego (syna Łukasza Sernego, dworzanina Zamoyskiego), który odwiedził w Krakowie ks. Janusza Radziwiłła (syna adresata) i księdza kardynała Jerzego Radziwiłła. Hetman położył na tym liście tak ważną dla miejscowości świętującej swoje czterechsetlecie, adnotację: ”z Zwierzyńca 28 octobris 1597”. Był więc już Zwierzyniec! Nie miasto, bo to ma dziś ledwie dwuletnie dzieje, ani nawet osada, bo ta rozrastała się stopniowo wokół willi Zamoyskich założonej w puszczy koło Rudy. Był już Zwierzyniec - wiejska rezydencja Zamoyskich, w którym rezerwat zwierząt stanowił jeden z elementów pałacowego ogrodu.” \nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nNa pierwszym planie zdjęcia widzimy staw willowy, przy którym stał budynek willi Zamoyskich. To wokół niej na przestrzeni lat rozrastał się Zwierzyniec. Za mostkiem jest długi na 400 metrów kanał.\nPo zakończeniu prac rewitalizacyjnych założenia willowego w Zwierzyńcu, zespół obejmujący willę, oficyny, kościółek na wodzie oraz układ wodny stworzy spójną i harmonijną kompozycję, doskonale wpisującą się w otaczający krajobraz.\n\nSerdecznie zapraszamy do pełnego zaangażowania w odkrywanie i pielęgnowanie wyjątkowego dziedzictwa Zwierzyńca! Twoja aktywna rola w promowaniu tego urokliwego miejsca ma ogromne znaczenie. Im więcej osób zdobędzie świadomość i pozna piękno tego obszaru, tym lepiej będzie ono zachowane i staranniej utrzymywane nie tylko dla nas, ale i dla przyszłych pokoleń.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\n\"Wielką wartość dla Zwierzynian ma list hetmana z 28 października 1597 r. W liście tym Jan Zamoyski przesyłał szwagrowi zdrowia i uprzejmości, poinformował go o wizycie Jana Sernego (syna Łukasza Sernego, dworzanina Zamoyskiego), który odwiedził w Krakowie ks. Janusza Radziwiłła (syna adresata) i księdza kardynała Jerzego Radziwiłła. Hetman położył na tym liście tak ważną dla miejscowości świętującej swoje czterechsetlecie, adnotację: ”z Zwierzyńca 28 octobris 1597”. Był więc już Zwierzyniec! Nie miasto, bo to ma dziś ledwie dwuletnie dzieje, ani nawet osada, bo ta rozrastała się stopniowo wokół willi Zamoyskich założonej w puszczy koło Rudy. Był już Zwierzyniec - wiejska rezydencja Zamoyskich, w którym rezerwat zwierząt stanowił jeden z elementów pałacowego ogrodu.”\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nNa pierwszym planie zdjęcia widzimy staw willowy, przy którym stał budynek willi Zamoyskich. To wokół niej na przestrzeni lat rozrastał się Zwierzyniec. Za mostkiem jest długi na 400 metrów kanał.\nPo zakończeniu prac rewitalizacyjnych założenia willowego w Zwierzyńcu, zespół obejmujący willę, oficyny, kościółek na wodzie oraz układ wodny stworzy spójną i harmonijną kompozycję, doskonale wpisującą się w otaczający krajobraz.\n\nSerdecznie zapraszamy do pełnego zaangażowania w odkrywanie i pielęgnowanie wyjątkowego dziedzictwa Zwierzyńca! Twoja aktywna rola w promowaniu tego urokliwego miejsca ma ogromne znaczenie. Im więcej osób zdobędzie świadomość i pozna piękno tego obszaru, tym lepiej będzie ono zachowane i staranniej utrzymywane nie tylko dla nas, ale i dla przyszłych pokoleń.\n\n\n\n©MJP",
+  "description": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoy...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,8 +99,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Metryka Zwierzyńca cz. 6",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-6"
+      "name": "Metryka Zwierzyńca cz. 6",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz6"
     }
   ]
 }

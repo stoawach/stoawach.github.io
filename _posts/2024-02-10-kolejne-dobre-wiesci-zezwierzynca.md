@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Kolejne dobre wieści ze Zwierzyńca",
+  "headline": "Kolejne dobre wieści ze Zwierzyńca",
   "datePublished": "2024-02-10",
   "dateModified": "2024-02-10",
   "author": {
@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kolejne-dobre-wiesci-ze-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kolejne-dobre-wiesci-zezwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-10-kolejne-dobre-wiesci-zezwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-02-10-kolejne-dobre-wiesci-zezwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 113,
-  "articleBody": "Lubelski Wojewódzki Konserwator Zabytków orzeka o wpisaniu do rejestru zabytków willi Borowianki.\n\nChoć decyzja nie jest jeszcze prawomocna, to już cieszymy się, że również dzięki Twojemu zainteresowaniu, zwierzynieckie zabytki otrzymują kolejną szansę na lepszą przyszłość. \n\n“[Willa Borowianka] wzniesiona w końcu XIX wieku, stanowi istotny element związany z rozwojem zwierzynieckiej osady pałacowej. Jest również przykładem budownictwa mieszkaniowego urzędników i pracowników Ordynacji Zamojskiej typowego dla tego okresu.” czytamy w orzeczeniu.\n\nZdjęcia przedstawiają willę Borowiankę w zimowej szacie. Nad i pod oknami budynku widoczna jest laubzegowa dekoracja. \n\nTa decyzja konserwatora potwierdza, że nasze wspólne zainteresowanie jest kluczowe dla ochrony dziedzictwa. Twoje zaangażowanie ma ogromne znaczenie i naprawdę przyczynia się do przywracania dawnej świetności zabytkowego Zwierzyńca.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Lubelski Wojewódzki Konserwator Zabytków orzeka o wpisaniu do rejestru zabytków willi Borowianki.\n\nChoć decyzja nie jest jeszcze prawomocna, to już cieszymy się, że również dzięki Twojemu zainteresowaniu, zwierzynieckie zabytki otrzymują kolejną szansę na lepszą przyszłość.\n\n“[Willa Borowianka] wzniesiona w końcu XIX wieku, stanowi istotny element związany z rozwojem zwierzynieckiej osady pałacowej. Jest również przykładem budownictwa mieszkaniowego urzędników i pracowników Ordynacji Zamojskiej typowego dla tego okresu.” czytamy w orzeczeniu.\n\nZdjęcia przedstawiają willę Borowiankę w zimowej szacie. Nad i pod oknami budynku widoczna jest laubzegowa dekoracja.\n\nTa decyzja konserwatora potwierdza, że nasze wspólne zainteresowanie jest kluczowe dla ochrony dziedzictwa. Twoje zaangażowanie ma ogromne znaczenie i naprawdę przyczynia się do przywracania dawnej świetności zabytkowego Zwierzyńca.\n\n\n\n©MJP",
+  "description": "Lubelski Wojewódzki Konserwator Zabytków orzeka o wpisaniu do rejestru zabytków willi Borowianki....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,8 +99,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Kolejne dobre wieści ze Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kolejne-dobre-wiesci-ze-Zwierzynca"
+      "name": "Kolejne dobre wieści ze Zwierzyńca",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kolejne-dobre-wiesci-zezwierzynca"
     }
   ]
 }

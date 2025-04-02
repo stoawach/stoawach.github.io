@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "🌳🏰🦌 Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii! 🌳🏰🦌",
+  "headline": "Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii!",
   "datePublished": "2023-06-17",
   "dateModified": "2023-06-17",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/-Zapraszamy-do-Magicznego-Zwierzynca-Odkryj-piekno-przyrody"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zapraszamy-do-magicznego-zwierzynca-odkryj-piekno-przyrody"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-17-zapraszamy-do-magicznego-zwierzynca-odkryj-piekno-przyrody.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-06-17-zapraszamy-do-magicznego-zwierzynca-odkryj-piekno-przyrody.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 226,
-  "articleBody": "Czas na kolejną dawkę magii i historii w naszym niezwykłym Zwierzyńcu! Przygotujcie się na niezapomnianą podróż w głąb czterystu trzydziestu lat piękna i tajemnic tego cudownego miejsca.\n\nNa pierwszym planie zdjęcia widać staw willowy, który dodaje temu miejscu wyjątkowego uroku.\nZ lewej strony możecie dostrzec oficynę boczną południową, a z prawej oficynę boczną północną - pałac administracji. Te majestatyczne budowle wprowadzają nas w atmosferę przeszłości.\nPośrodku tego malowniczego krajobrazu znajduje się miejsce, gdzie przez 250 lat stała modrzewiowa willa. To teren przesiąknięty historią, który stanowi istotny element naszego dziedzictwa.\n\nJak podają Lucyna Matławska-Patyk i Michał Patyk, autorzy artykułu “Renesansowa Willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Wybór terenu pod lokalizację willi padł na malownicze krajobrazowo, osobliwe ustronie w dolinie Wieprza i strumienia Świerszcz, w miejscu, gdzie stok Bukowej Góry opada w nieckę wysłaną piaskami i przechodzi w łagodnie obniżające się ku rzece obszerne plateau otoczone z zachodniej strony mokradłami, u podstawy wału wydmowego Piaskowa Góra, zaś od wschodu rozlewiskami Świerszcza i Wieprza przechodzącymi w Wielkie Bagno. Strumień zagospodarowano systemem kanałów i grobli, tworząc ozdobne sadzawki oraz stawy rybne.”\n\nChcemy, aby świat usłyszał o tym niezwyczajnym miejscu, które z wdziękiem łączy piękno natury i ludzkiej kreacji. Dlatego potrzebujemy Waszej pomocy! Udostępnijcie ten post, polubcie naszą stronę i zaproście swoich przyjaciół do odkrywania niezgłębionych zakątków Zwierzyńca. \nTylko razem możemy uczynić to miejsce jeszcze bardziej znane i docenione!\n \n            \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Czas na kolejną dawkę magii i historii w naszym niezwykłym Zwierzyńcu! Przygotujcie się na niezapomnianą podróż w głąb czterystu trzydziestu lat piękna i tajemnic tego cudownego miejsca.\n\nNa pierwszym planie zdjęcia widać staw willowy, który dodaje temu miejscu wyjątkowego uroku.\nZ lewej strony możecie dostrzec oficynę boczną południową, a z prawej oficynę boczną północną - pałac administracji. Te majestatyczne budowle wprowadzają nas w atmosferę przeszłości.\nPośrodku tego malowniczego krajobrazu znajduje się miejsce, gdzie przez 250 lat stała modrzewiowa willa. To teren przesiąknięty historią, który stanowi istotny element naszego dziedzictwa.\n\nJak podają Lucyna Matławska-Patyk i Michał Patyk, autorzy artykułu “Renesansowa Willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem”:\n“Wybór terenu pod lokalizację willi padł na malownicze krajobrazowo, osobliwe ustronie w dolinie Wieprza i strumienia Świerszcz, w miejscu, gdzie stok Bukowej Góry opada w nieckę wysłaną piaskami i przechodzi w łagodnie obniżające się ku rzece obszerne plateau otoczone z zachodniej strony mokradłami, u podstawy wału wydmowego Piaskowa Góra, zaś od wschodu rozlewiskami Świerszcza i Wieprza przechodzącymi w Wielkie Bagno. Strumień zagospodarowano systemem kanałów i grobli, tworząc ozdobne sadzawki oraz stawy rybne.”\n\nChcemy, aby świat usłyszał o tym niezwyczajnym miejscu, które z wdziękiem łączy piękno natury i ludzkiej kreacji. Dlatego potrzebujemy Waszej pomocy! Udostępnijcie ten post, polubcie naszą stronę i zaproście swoich przyjaciół do odkrywania niezgłębionych zakątków Zwierzyńca.\nTylko razem możemy uczynić to miejsce jeszcze bardziej znane i docenione!\n\n\n\n©MJP",
+  "description": "Czas na kolejną dawkę magii i historii w naszym niezwykłym Zwierzyńcu! Przygotujcie się na niezapomnianą podróż w głąb czterystu trzydziestu lat piękn...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "🌳🏰🦌 Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii! 🌳🏰🦌",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/-Zapraszamy-do-Magicznego-Zwierzynca-Odkryj-piekno-przyrody"
+      "name": "Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii!",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zapraszamy-do-magicznego-zwierzynca-odkryj-piekno-przyrody"
     }
   ]
 }

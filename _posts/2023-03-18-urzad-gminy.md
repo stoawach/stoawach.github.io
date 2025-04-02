@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Urzad-Gminy"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/urzad-gminy"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-18-urzad-gminy.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-03-18-urzad-gminy.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 151,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia dawny Urząd Gminy w Zwierzyńcu. Choć nasze miejscowe prawo obejmuje ochroną jego architektoniczne walory zewnętrzne, to niszczeje on, odkąd trafił w ręce prywatnego właściciela. Nasze wspólne zainteresowanie może uchronić nie tylko ten, ale i inne zabytki przed kompletnym zniszczeniem.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Wiosną 1904 roku rozpoczęto w Zwierzyńcu budowę nowego Urzędu Gminy, umieszczając go obok drogi na Bagno, przy nadleśnictwie urzędującym na terenie dawnej poczty. Wkrótce jednak budynek zmienił swoje przeznaczenie. W 1909 roku założono w nim szpital, a Urząd Gminy przeniesiono do okazałego domu, który zakupiono od Józefa Stelmaszuka.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia dawny Urząd Gminy w Zwierzyńcu. Choć nasze miejscowe prawo obejmuje ochroną jego architektoniczne walory zewnętrzne, to niszczeje on, odkąd trafił w ręce prywatnego właściciela. Nasze wspólne zainteresowanie może uchronić nie tylko ten, ale i inne zabytki przed kompletnym zniszczeniem.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Wiosną 1904 roku rozpoczęto w Zwierzyńcu budowę nowego Urzędu Gminy, umieszczając go obok drogi na Bagno, przy nadleśnictwie urzędującym na terenie dawnej poczty. Wkrótce jednak budynek zmienił swoje przeznaczenie. W 1909 roku założono w nim szpital, a Urząd Gminy przeniesiono do okazałego domu, który zakupiono od Józefa Stelmaszuka.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Urząd Gminy",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Urzad-Gminy"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/urzad-gminy"
     }
   ]
 }

@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Debowa-aleja-w-ogrodzie-skarbowym"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/debowa-aleja-w-ogrodzie-skarbowym"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 166,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia aleję dębową w parku miejskim w Zwierzyńcu. Jeszcze nie tak dawno, bo w latach 90. ubiegłego stulecia, była zagrożona. Na szczęście drzewa mają się dobrze, choć wymagają fachowej pielęgnacji.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Już przy końcu XIX wieku (1893) odnowiono ogród skarbowy, w latach późniejszych wzbogacając drzewostan w liczne egzoty ze szkółki na Chmielnisku. Z tego okresu pochodzą piękne brzozy papierowe, okazałe cypryśniki, platany klonolistne, wiąz korkowy, żywotniki, kasztanowce, sosny wejmutki i liczne gatunki lip, dębów, klonów. Na polecenie naczelnika Wydziału Lasów Władysława Prüffera sadzonkami młodych dębów obsadzono aleję na prawym brzegu Wieprza w obrębie parku. Dziś aleja ta stanowi jedno z atrakcyjnych miejsc w Zwierzyńcu.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia aleję dębową w parku miejskim w Zwierzyńcu. Jeszcze nie tak dawno, bo w latach 90. ubiegłego stulecia, była zagrożona. Na szczęście drzewa mają się dobrze, choć wymagają fachowej pielęgnacji.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Już przy końcu XIX wieku (1893) odnowiono ogród skarbowy, w latach późniejszych wzbogacając drzewostan w liczne egzoty ze szkółki na Chmielnisku. Z tego okresu pochodzą piękne brzozy papierowe, okazałe cypryśniki, platany klonolistne, wiąz korkowy, żywotniki, kasztanowce, sosny wejmutki i liczne gatunki lip, dębów, klonów. Na polecenie naczelnika Wydziału Lasów Władysława Prüffera sadzonkami młodych dębów obsadzono aleję na prawym brzegu Wieprza w obrębie parku. Dziś aleja ta stanowi jedno z atrakcyjnych miejsc w Zwierzyńcu.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Dębowa aleja w ogrodzie skarbowym",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Debowa-aleja-w-ogrodzie-skarbowym"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/debowa-aleja-w-ogrodzie-skarbowym"
     }
   ]
 }

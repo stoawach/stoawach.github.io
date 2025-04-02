@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Metryka Zwierzyńca cz. 4",
+  "headline": "Metryka Zwierzyńca cz. 4",
   "datePublished": "2023-11-04",
   "dateModified": "2023-11-04",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-4"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz4"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-11-04-metryka-zwierzyncacz4.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-11-04-metryka-zwierzyncacz4.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 227,
-  "articleBody": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\n\"Wiedział hetman, co sprzyja człowiekowi. Zaglądał też często do powstającej willi i osobiście troszczył się o ogród i urządzany \"zwierzyniec''. W Archiwum Głównym Akt Dawnych w Warszawie (Arch. Radziwiłłów, dz.V) przetrwały do naszych czasów listy Jana Zamoyskiego pisane do hetmana litewskiego i wojewody wileńskiego, Krzysztofa Radziwiłła. Pisane osobiście przez Jana Zamoyskiego wyblakłym już dziś atramentem, opatrzone podpisami hetmana i herbowymi pieczęciami, są dziś szacownymi, szesnastowiecznymi potwierdzającymi istnienie Zwierzyńca.\nSpójrzmy na adres: \"Oświeconemu Panu, Panu Krzysztofowi Radziwiłłowi, Książęciu na Birżach y z Dubinek, Wojewodzie wileńskiemu, Hetmanowi najwyższemu W. X. Litewskiemu, mnie Miłościwemu Panu i szwagrowi”.\"\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nNa zdjęciu widzimy bramę wjazdową na teren Pałacu Plenipotenta zbudowanego pod koniec XIX wieku. \nRoztoczański Park Narodowy, którego siedziba dyrekcji znajduje się w pałacu, chroni dzisiaj dziedzictwo przyrodnicze i kulturowe Zwierzyńca oraz jego okolic. \n\nZapraszam Cię do aktywnego udziału w odkrywaniu i pielęgnowaniu niezwykłego dziedzictwa Zwierzyńca! Im większa liczba osób dostrzeże i zrozumie piękno tego miejsca, tym większą troską będzie otaczana jego przyszłość.\nPodziel się tym postem, by dołączyć do naszej społeczności - Twoje wsparcie ma ogromne znaczenie!\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\n\"Wiedział hetman, co sprzyja człowiekowi. Zaglądał też często do powstającej willi i osobiście troszczył się o ogród i urządzany \"zwierzyniec''. W Archiwum Głównym Akt Dawnych w Warszawie (Arch. Radziwiłłów, dz.V) przetrwały do naszych czasów listy Jana Zamoyskiego pisane do hetmana litewskiego i wojewody wileńskiego, Krzysztofa Radziwiłła. Pisane osobiście przez Jana Zamoyskiego wyblakłym już dziś atramentem, opatrzone podpisami hetmana i herbowymi pieczęciami, są dziś szacownymi, szesnastowiecznymi potwierdzającymi istnienie Zwierzyńca.\nSpójrzmy na adres: \"Oświeconemu Panu, Panu Krzysztofowi Radziwiłłowi, Książęciu na Birżach y z Dubinek, Wojewodzie wileńskiemu, Hetmanowi najwyższemu W. X. Litewskiemu, mnie Miłościwemu Panu i szwagrowi”.\"\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nNa zdjęciu widzimy bramę wjazdową na teren Pałacu Plenipotenta zbudowanego pod koniec XIX wieku.\nRoztoczański Park Narodowy, którego siedziba dyrekcji znajduje się w pałacu, chroni dzisiaj dziedzictwo przyrodnicze i kulturowe Zwierzyńca oraz jego okolic.\n\nZapraszam Cię do aktywnego udziału w odkrywaniu i pielęgnowaniu niezwykłego dziedzictwa Zwierzyńca! Im większa liczba osób dostrzeże i zrozumie piękno tego miejsca, tym większą troską będzie otaczana jego przyszłość.\nPodziel się tym postem, by dołączyć do naszej społeczności - Twoje wsparcie ma ogromne znaczenie!\n\n\n\n©MJP",
+  "description": "Zwierzyniec obchodzi 430-lecie swego istnienia. 19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoy...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Metryka Zwierzyńca cz. 4",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-4"
+      "name": "Metryka Zwierzyńca cz. 4",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz4"
     }
   ]
 }

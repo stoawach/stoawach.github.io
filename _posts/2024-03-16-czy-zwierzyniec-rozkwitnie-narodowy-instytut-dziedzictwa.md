@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-03-16-czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-03-16-czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, narodowyinstytutdziedzictwa",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, narodowyinstytutdziedzictwa]",
   "wordCount": 126,
-  "articleBody": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.\n\nGłównym wskazaniem  konserwatorskim przedstawionym w opracowaniu jest wdrożenie całościowego programu rewaloryzacji, opartego o szczegółowe badania istniejących relacji przestrzennych.\nTaki program pomoże zachować cenne dziedzictwo Zwierzyńca i jednocześnie maksymalnie wykorzystać jego potencjał.\n\nPierwsze zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena - najcenniejszy barokowy element założenia willowego w Zwierzyńcu.\nKolejne dwa zdjęcia to wiosenne kwiaty (zawilce gajowe i złoć żółta) w parku miejskim znajdującym się w części układu przestrzennego Zwierzyńca wpisanej do rejestru zabytków.\n\nRazem możemy wspólnie chronić i promować dziedzictwo miasta-ogrodu. Twoja aktywna postawa przyczyni się do przywrócenia dawnej świetności Zwierzyńca!\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania przestrzeni zabytkowego Zwierzyńca. W kolejnych postach będziemy chcieli przybliżyć te bardzo ważne dla przyszłości Zwierzyńca uwagi.\n\nGłównym wskazaniem  konserwatorskim przedstawionym w opracowaniu jest wdrożenie całościowego programu rewaloryzacji, opartego o szczegółowe badania istniejących relacji przestrzennych.\nTaki program pomoże zachować cenne dziedzictwo Zwierzyńca i jednocześnie maksymalnie wykorzystać jego potencjał.\n\nPierwsze zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena - najcenniejszy barokowy element założenia willowego w Zwierzyńcu.\nKolejne dwa zdjęcia to wiosenne kwiaty (zawilce gajowe i złoć żółta) w parku miejskim znajdującym się w części układu przestrzennego Zwierzyńca wpisanej do rejestru zabytków.\n\nRazem możemy wspólnie chronić i promować dziedzictwo miasta-ogrodu. Twoja aktywna postawa przyczyni się do przywrócenia dawnej świetności Zwierzyńca!\n\n\n\n©MJP",
+  "description": "Narodowy Instytut Dziedzictwa w ubiegłym roku przygotował opracowanie studialne, w którym określone zostały zalecenia konserwatorskie do kształtowania...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,7 +100,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-Zwierzyniec-rozkwitnie-Narodowy-Instytut-Dziedzictwa"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut-dziedzictwa"
     }
   ]
 }

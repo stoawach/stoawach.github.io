@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Administracja majątku.",
+  "headline": "Administracja majątku",
   "datePublished": "2022-12-16",
   "dateModified": "2022-12-16",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Administracja-majatku"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/administracja-majatku"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-16-administracja-majatku.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-16-administracja-majatku.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 110,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia oficynę boczną południową, w której dziś mieści się internat Technikum im. Jana Zamoyskiego w Zwierzyńcu.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“W oficynach skrzydłowych pałacu umieszczona została administracja majątku. Przenoszone od początku XIX wieku różne działy Zarządu Ordynacji Zamojskiej ostatecznie znalazły się tu w pełnym komplecie po sprzedaży miasta Zamościa carowi Aleksandrowi w 1821 roku.\"\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia oficynę boczną południową, w której dziś mieści się internat Technikum im. Jana Zamoyskiego w Zwierzyńcu.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“W oficynach skrzydłowych pałacu umieszczona została administracja majątku. Przenoszone od początku XIX wieku różne działy Zarządu Ordynacji Zamojskiej ostatecznie znalazły się tu w pełnym komplecie po sprzedaży miasta Zamościa carowi Aleksandrowi w 1821 roku.\"\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Administracja majątku.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Administracja-majatku"
+      "name": "Administracja majątku",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/administracja-majatku"
     }
   ]
 }

@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-30-czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-11-30-czy-wiesz-ze-to-miejsce-odwiedzali-krolowie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec, RoztoczańskiParkNarodowy",
-  "wordCount": 199,
-  "articleBody": "Zdjęcie przedstawia serce założenia willowego w Zwierzyńcu w promieniach zachodzącego jesiennego słońca. Na pierwszym planie jest kościół pw. św. Jana Nepomucena “na wodzie”oraz staw kościelny. Pośrodku kadru znajdują się zabytkowe oficyny, a między nimi centralne miejsce, w którym kiedyś stała imponująca modrzewiowa willa. W tle można dostrzec staw willowy, długi kanał oraz lasy Roztoczańskiego Parku Narodowego.\n\nJak wspominają autorzy artykułu “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” L. Matławska-Patyk i M. Patyk:\n\n„Wiadomo, że w zwierzynieckim domu mieszkały Maria Kazimiera d’Arquien (1º voto Zamoyska, 2º voto Sobieska) oraz siostra ‘Sobiepana’ Gryzelda Konstancja, wdowa po Jeremim Wiśniowieckim — matka króla Michała Korybuta Wiśniowieckiego, a także siostrzeniec III ordynata — Stanisław Koniecpolski. Do Zwierzyńca przyjeżdżali na łowy i wywczasy królewscy goście zapraszani przez Zamoyskich: król Władysław IV (1634), Jan Kazimierz z żoną Ludwiką Marią z Gonzagów de Nevers (1662), król Michał Korybut Wiśniowiecki z żoną Eleonorą z Habsburgów (1671)”.\n\nNiech Zwierzyniec znów stanie się symbolem piękna i historii, dziedzictwem atrakcyjnym dla przybywających tu prezydentów i innych osobistości. Polub i udostępnij, aby przyciągnąć osoby, które – tak jak Ty – pragną odnowy tego wyjątkowego miejsca.\n\nZdjęcie dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n                \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec, RoztoczańskiParkNarodowy]",
+  "wordCount": 200,
+  "articleBody": "Zdjęcie przedstawia serce założenia willowego w Zwierzyńcu w promieniach zachodzącego jesiennego słońca. Na pierwszym planie jest kościół pw. św. Jana Nepomucena “na wodzie”oraz staw kościelny. Pośrodku kadru znajdują się zabytkowe oficyny, a między nimi centralne miejsce, w którym kiedyś stała imponująca modrzewiowa willa. W tle można dostrzec staw willowy, długi kanał oraz lasy Roztoczańskiego Parku Narodowego.\n\nJak wspominają autorzy artykułu “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” L. Matławska-Patyk i M. Patyk:\n\n„Wiadomo, że w zwierzynieckim domu mieszkały Maria Kazimiera d’Arquien (1º voto Zamoyska, 2º voto Sobieska) oraz siostra ‘Sobiepana’ Gryzelda Konstancja, wdowa po Jeremim Wiśniowieckim — matka króla Michała Korybuta Wiśniowieckiego, a także siostrzeniec III ordynata — Stanisław Koniecpolski. Do Zwierzyńca przyjeżdżali na łowy i wywczasy królewscy goście zapraszani przez Zamoyskich: król Władysław IV (1634), Jan Kazimierz z żoną Ludwiką Marią z Gonzagów de Nevers (1662), król Michał Korybut Wiśniowiecki z żoną Eleonorą z Habsburgów (1671)”.\n\nNiech Zwierzyniec znów stanie się symbolem piękna i historii, dziedzictwem atrakcyjnym dla przybywających tu prezydentów i innych osobistości. Polub i udostępnij, aby przyciągnąć osoby, które – tak jak Ty – pragną odnowy tego wyjątkowego miejsca.\n\nZdjęcie MJP dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia serce założenia willowego w Zwierzyńcu w promieniach zachodzącego jesiennego słońca. Na pierwszym planie jest kościół pw. św. Jana...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,7 +100,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy wiesz, że to miejsce odwiedzali królowie?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-wiesz-ze-to-miejsce-odwiedzali-krolowie"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie"
     }
   ]
 }

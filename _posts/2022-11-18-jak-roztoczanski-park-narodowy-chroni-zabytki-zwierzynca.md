@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-18-jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-18-jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy, roztoczanskiparknarodowy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy, roztoczanskiparknarodowy]",
   "wordCount": 189,
-  "articleBody": "Propozycja utworzenia Zwierzynieckiego Parku Narodowego obejmującego 6 400 ha lasów została opracowana m.in. przez Aleksandrę Wachniewską już w 1959 roku. Po kilkunastu latach, 10 maja 1974 roku, udało się urzeczywistnić tę ideę w postaci Roztoczańskiego Parku Narodowego.\n\nW 1990 roku Dyrekcja Roztoczańskiego Parku Narodowego zajęła wyremontowaną wcześniej willę - Pałac Plenipotenta - wpisaną do rejestru zabytków w 1977 roku. Dzięki staraniom Parku budynek jest na bieżąco remontowany, dlatego jego stan można określić jako bardzo dobry. \n\nPark wręcz wzorowo dba też o przestrzeń całego zespołu Pałacu Plenipotenta, który również wpisany jest do rejestru zabytków. Widać troskę o detale: brama wjazdowa i ogrodzenie nawiązują do miejscowej architektury, kształt tablic edukacyjnych i niewielkich rozmiarów informacje dla kierowców nie konkurują wizualnie z obiektami zabytkowymi.\nNajtrudniejszym wyzwaniem dla Parku jest zachowanie czystej perspektywy widokowej na skwerze przed bramą wjazdową oraz willą. Pomimo wielu próśb inwestorów o zezwolenie na umieszczenie reklam czy nawet stoisk handlowych, Park nigdy nie uległ presji zysku za cenę wizualnej dewastacji tej przestrzeni.\n\nDziękujemy Roztoczański Park Narodowy oraz dyrektorowi Andrzej Wojtyło  za dbanie o nasze wspólne dobro. To również dzięki Wam Zwierzyniec zmienia się na lepsze z poszanowaniem swojej historii.\n\n           \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Propozycja utworzenia Zwierzynieckiego Parku Narodowego obejmującego 6 400 ha lasów została opracowana m.in. przez Aleksandrę Wachniewską już w 1959 roku. Po kilkunastu latach, 10 maja 1974 roku, udało się urzeczywistnić tę ideę w postaci Roztoczańskiego Parku Narodowego.\n\nW 1990 roku Dyrekcja Roztoczańskiego Parku Narodowego zajęła wyremontowaną wcześniej willę - Pałac Plenipotenta - wpisaną do rejestru zabytków w 1977 roku. Dzięki staraniom Parku budynek jest na bieżąco remontowany, dlatego jego stan można określić jako bardzo dobry.\n\nPark wręcz wzorowo dba też o przestrzeń całego zespołu Pałacu Plenipotenta, który również wpisany jest do rejestru zabytków. Widać troskę o detale: brama wjazdowa i ogrodzenie nawiązują do miejscowej architektury, kształt tablic edukacyjnych i niewielkich rozmiarów informacje dla kierowców nie konkurują wizualnie z obiektami zabytkowymi.\nNajtrudniejszym wyzwaniem dla Parku jest zachowanie czystej perspektywy widokowej na skwerze przed bramą wjazdową oraz willą. Pomimo wielu próśb inwestorów o zezwolenie na umieszczenie reklam czy nawet stoisk handlowych, Park nigdy nie uległ presji zysku za cenę wizualnej dewastacji tej przestrzeni.\n\nDziękujemy Roztoczański Park Narodowy oraz dyrektorowi Andrzej Wojtyło  za dbanie o nasze wspólne dobro. To również dzięki Wam Zwierzyniec zmienia się na lepsze z poszanowaniem swojej historii.\n\n\n\n©MJP",
+  "description": "Propozycja utworzenia Zwierzynieckiego Parku Narodowego obejmującego 6 400 ha lasów została opracowana m.in. przez Aleksandrę Wachniewską już w 1959 r...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Jak Roztoczański Park Narodowy chroni zabytki Zwierzyńca?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Jak-Roztoczanski-Park-Narodowy-chroni-zabytki-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/jak-roztoczanski-park-narodowy-chroni-zabytki-zwierzynca"
     }
   ]
 }

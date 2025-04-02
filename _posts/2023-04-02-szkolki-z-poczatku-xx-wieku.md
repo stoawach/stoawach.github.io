@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Szkolki-z-poczatku-XX-wieku"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/szkolki-z-poczatku-xx-wieku"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-02-szkolki-z-poczatku-xx-wieku.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-04-02-szkolki-z-poczatku-xx-wieku.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 153,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia zawilce gajowe w parku środowiskowym, który jest częścią układu urbanistycznego Zwierzyńca wpisanego do rejestru zabytków. W tle widać dorodne drzewa i stoiska handlowe w stylu góralskim znajdujące się przy deptaku na ulicy Aleksandry Wachniewskiej.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“[Na początku XX w. w Zwierzyńcu] hodowano ponad 50 gatunków kwiatów, rozprowadzano sadzonki i flance: róż, dalii, lewkonii, szałwii, astrów, laków, petunii, portulaki i innych kwiatów, także mało znane wówczas warzywa jak : szparagi, kalafiory, rabarbar królewski, kapusta brukselska, pomidory. Szkółki dostarczały sadzonek i nasion nie tylko do ogrodów w Zwierzyńcu ale dla całego majątku.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia zawilce gajowe w parku środowiskowym, który jest częścią układu urbanistycznego Zwierzyńca wpisanego do rejestru zabytków. W tle widać dorodne drzewa i stoiska handlowe w stylu góralskim znajdujące się przy deptaku na ulicy Aleksandry Wachniewskiej.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“[Na początku XX w. w Zwierzyńcu] hodowano ponad 50 gatunków kwiatów, rozprowadzano sadzonki i flance: róż, dalii, lewkonii, szałwii, astrów, laków, petunii, portulaki i innych kwiatów, także mało znane wówczas warzywa jak : szparagi, kalafiory, rabarbar królewski, kapusta brukselska, pomidory. Szkółki dostarczały sadzonek i nasion nie tylko do ogrodów w Zwierzyńcu ale dla całego majątku.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Szkółki z początku XX wieku",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Szkolki-z-poczatku-XX-wieku"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/szkolki-z-poczatku-xx-wieku"
     }
   ]
 }

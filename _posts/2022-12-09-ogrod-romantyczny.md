@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Ogród romantyczny.",
+  "headline": "Ogród romantyczny",
   "datePublished": "2022-12-09",
   "dateModified": "2022-12-09",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Ogrod-romantyczny"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/ogrod-romantyczny"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-09-ogrod-romantyczny.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-09-ogrod-romantyczny.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 242,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa zdjęciu ponownie widać staw kościelny. Z prawej strony znajduje się wyspa z tajemniczym pomnikiem. Z lewej strony jest wyspa kościelna z kościółkiem na wodzie.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“O romantycznym ogrodzie w Zwierzyńcu świadczą zachowane do dzisiaj elementy małej architektury, wyciosane z twardego piaskowca: pomnik na wyspie, kamienne ławy, połamane kolumny w nadwieprzańskim parku pochodzące prawdopodobnie z tego samego okresu, co kolumny pałacowych portyków. Monument stojący do dziś na jednej z wysp pałacowego stawu posiada kształt rzymskiego sarkofagu, nie ma na nim żadnego napisu, a tajemniczość owego obiektu zmusza nas do zastanowienia się nad przeszłością, nad tym, co tutaj mogło mieć ongiś miejsce. Odnotowuje to tradycja, która wśród licznych przypuszczeń stwierdza, że upamiętnia on teatr na wodzie, wszak na czołach narożników kamiennego bloku widnieją maski teatralne, a na jednej ze ścian symbol sztuk pięknych - lira. Inne podanie głosi, że na wyspie pochowano pieska, ulubieńca, pięknej Marysieńki Zamoyskiej, żony “Sobiepana”. Możliwe, że na miejscu mogiłki sentymentalna pani, Maria z Granowskich Zamoyska poleciła postawić sarkofag skłaniający do zamyślenia nad losami tych, którzy tu przeżywali radości i rozpacze. Niedostępność wyspy topolowej zwiększała przyjemność wyprawy łódką do romantycznego ustronia.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa zdjęciu ponownie widać staw kościelny. Z prawej strony znajduje się wyspa z tajemniczym pomnikiem. Z lewej strony jest wyspa kościelna z kościółkiem na wodzie.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“O romantycznym ogrodzie w Zwierzyńcu świadczą zachowane do dzisiaj elementy małej architektury, wyciosane z twardego piaskowca: pomnik na wyspie, kamienne ławy, połamane kolumny w nadwieprzańskim parku pochodzące prawdopodobnie z tego samego okresu, co kolumny pałacowych portyków. Monument stojący do dziś na jednej z wysp pałacowego stawu posiada kształt rzymskiego sarkofagu, nie ma na nim żadnego napisu, a tajemniczość owego obiektu zmusza nas do zastanowienia się nad przeszłością, nad tym, co tutaj mogło mieć ongiś miejsce. Odnotowuje to tradycja, która wśród licznych przypuszczeń stwierdza, że upamiętnia on teatr na wodzie, wszak na czołach narożników kamiennego bloku widnieją maski teatralne, a na jednej ze ścian symbol sztuk pięknych - lira. Inne podanie głosi, że na wyspie pochowano pieska, ulubieńca, pięknej Marysieńki Zamoyskiej, żony “Sobiepana”. Możliwe, że na miejscu mogiłki sentymentalna pani, Maria z Granowskich Zamoyska poleciła postawić sarkofag skłaniający do zamyślenia nad losami tych, którzy tu przeżywali radości i rozpacze. Niedostępność wyspy topolowej zwiększała przyjemność wyprawy łódką do romantycznego ustronia.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Ogród romantyczny.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Ogrod-romantyczny"
+      "name": "Ogród romantyczny",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/ogrod-romantyczny"
     }
   ]
 }

@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Jak-miasto-Zwierzyniec-chroni-swoje-zabytki"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-25-jak-miasto-zwierzyniec-chroni-swoje-zabytki.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-25-jak-miasto-zwierzyniec-chroni-swoje-zabytki.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły, krajobrazy]",
   "wordCount": 215,
-  "articleBody": "Zwierzyniec uzyskał prawa miejskie w 1990 roku, a już w roku przyszłym będzie świętował 430 lat swojej historii.\n\nW 2012 roku Gmina podjęła się realizacji części projektu rewaloryzacji założenia willowo-ogrodowego w Zwierzyńcu. Mimo, że to zaledwie początek przewidzianych prac, to już teraz efekt robi wrażenie, szczególnie dzięki długiemu na 400 metrów kanałowi.\nNa terenach, którymi zarządza Gmina, znajdujących się w Zabytkowym Sercu Zwierzyńca, Urząd zadbał o przestrzeganie przepisów dotyczących ochrony krajobrazu. Udało się znaleźć inne - odpowiednie - miejsca dla stoisk handlowych, do tej pory kłócących się z historycznym charakterem miasta.\nNiedawno, decyzją Rady Miejskiej i Urzędu, na terenie zabytkowym wymieniony został system oświetlenia. Światła mają ciepłą, przyjemną dla oka barwę. Dzięki nowoczesnym latarniom LED, iluminacja atrakcji Zwierzyńca nie stanowi już finansowego problemu dla Gminy. Kościółek na wodzie - wizytówka Zwierzyńca - jest wieczorami oświetlony, a Gmina notuje znaczące oszczędności.\nMając na uwadze wyjątkowy charakter Zwierzyńca - miasta-ogrodu - w przestrzeni publicznej pojawiły się nowe, posadzone wspólnie z mieszkańcami, drzewa i krzewy.\n\nPrzyszłoroczne obchody 430-lecia Zwierzyńca z pewnością będą okazją do dalszych drobnych, ale znaczących zmian w krajobrazie miasta. Wierzymy, że będzie jeszcze więcej okazji do chwalenia tego, co zostało zrobione dobrze.\n\nDziękujemy Władzom miasta za dbanie o nasze wspólne dobro. To również dzięki Wam Zwierzyniec zmienia się na lepsze z poszanowaniem swojej historii.\n\n          \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zwierzyniec uzyskał prawa miejskie w 1990 roku, a już w roku przyszłym będzie świętował 430 lat swojej historii.\n\nW 2012 roku Gmina podjęła się realizacji części projektu rewaloryzacji założenia willowo-ogrodowego w Zwierzyńcu. Mimo, że to zaledwie początek przewidzianych prac, to już teraz efekt robi wrażenie, szczególnie dzięki długiemu na 400 metrów kanałowi.\nNa terenach, którymi zarządza Gmina, znajdujących się w Zabytkowym Sercu Zwierzyńca, Urząd zadbał o przestrzeganie przepisów dotyczących ochrony krajobrazu. Udało się znaleźć inne - odpowiednie - miejsca dla stoisk handlowych, do tej pory kłócących się z historycznym charakterem miasta.\nNiedawno, decyzją Rady Miejskiej i Urzędu, na terenie zabytkowym wymieniony został system oświetlenia. Światła mają ciepłą, przyjemną dla oka barwę. Dzięki nowoczesnym latarniom LED, iluminacja atrakcji Zwierzyńca nie stanowi już finansowego problemu dla Gminy. Kościółek na wodzie - wizytówka Zwierzyńca - jest wieczorami oświetlony, a Gmina notuje znaczące oszczędności.\nMając na uwadze wyjątkowy charakter Zwierzyńca - miasta-ogrodu - w przestrzeni publicznej pojawiły się nowe, posadzone wspólnie z mieszkańcami, drzewa i krzewy.\n\nPrzyszłoroczne obchody 430-lecia Zwierzyńca z pewnością będą okazją do dalszych drobnych, ale znaczących zmian w krajobrazie miasta. Wierzymy, że będzie jeszcze więcej okazji do chwalenia tego, co zostało zrobione dobrze.\n\nDziękujemy Władzom miasta za dbanie o nasze wspólne dobro. To również dzięki Wam Zwierzyniec zmienia się na lepsze z poszanowaniem swojej historii.\n\n\n\n©MJP",
+  "description": "Zwierzyniec uzyskał prawa miejskie w 1990 roku, a już w roku przyszłym będzie świętował 430 lat swojej historii....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Jak miasto Zwierzyniec chroni swoje zabytki?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Jak-miasto-Zwierzyniec-chroni-swoje-zabytki"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki"
     }
   ]
 }

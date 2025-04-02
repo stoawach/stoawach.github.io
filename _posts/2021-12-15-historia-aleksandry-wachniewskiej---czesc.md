@@ -27,12 +27,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "OSOBOWA DOJRZAŁOŚĆ TWÓRCZA",
+  "headline": "Historia Aleksandry Wachniewskiej - część V",
   "datePublished": "2021-12-15",
   "dateModified": "2021-12-15",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -44,17 +44,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Przedstawiamy-kolejna-czesc-historii-Aleksandry"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-15-historia-aleksandry-wachniewskiej---czesc.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-12-15-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 209,
-  "articleBody": "Zapraszamy do lektury, prosimy o udostępnienia i wciąż zachęcamy do podpisania petycji, by uratować dom, w którym mieszkała! Link poniżej. \n\nOSOBOWA DOJRZAŁOŚĆ TWÓRCZA\n     “Moja praca twórcza łączy się ściśle z pracą w Ochronie Przyrody. Niestety życie moich leśnych modeli wiele razy było zagrożone - stąd wypływa konieczność walki o nie.”\nW powojennych czasach wielkich przekształceń, gdy narastało zagrożenie dla harmonijnego rozwoju okolicznych lasów, dewastacja krajobrazu i nieposzanowanie spuścizny przyrody i kultury, Aleksandra Wachniewska niestrudzenie stawała w jej obronie.\n     Już w 1946 roku, gdy została nauczycielką rysunków i kreśleń w nowo otwartym Państwowym Gimnazjum Leśnym w Zwierzyńcu, podjęła walkę o wysoki poziom i szerokie horyzonty myślenia młodzieży. Założyła koło Ligi Ochrony Przyrody, bibliotekę, do której książki ściągała z Krakowa od samego prof. Władysława Szafera. Prowadziła z uczniami dokumentację starych drzew i stanowisk roślin chronionych. Organizowała wystawy na temat ochrony przyrody. W tym celu utrzymywała kontakty z najwyższymi autorytetami nauki. Otwarcia pierwszej  wystawy w Gimnazjum dokonał ówczesny rektor UMCS w Lublinie prof.  Strawiński. “Tylko w harmonii z przyrodą może żyć i rozwijać się szczęśliwy naród” - te słowa towarzyszyły ekspozycji.(cdn.)\n\nLink do petycji: \n[https://www.petycjeonline.com/signatures/apelujemy_o_podjcie_natychmiastowych_dziaa_renowacyjnych_domu_aleksandry_wachniewskiej/?u=7053216](https://www.petycjeonline.com/signatures/apelujemy_o_podjcie_natychmiastowych_dziaa_renowacyjnych_domu_aleksandry_wachniewskiej/?u=7053216)\n\nPoprzednie części:\n\nAleksandra Wachniewska, malarka Roztocza:\n[https://www.facebook.com/stoawach/photos/a.104393285333252/126791423093438/](https://www.facebook.com/stoawach/photos/a.104393285333252/126791423093438/)\n\nDzieciństwo Oli pośród lasów:\n[https://www.facebook.com/stoawach/photos/a.104393285333252/127410436364870/](https://www.facebook.com/stoawach/photos/a.104393285333252/127410436364870/)\n\nStudia Sztuk Pięknych i kreacje Aleksandry:\n[https://www.facebook.com/stoawach/photos/a.104393285333252/128044202968160/](https://www.facebook.com/stoawach/photos/a.104393285333252/128044202968160/)\n\nDorobek Malarki:\n[https://www.facebook.com/stoawach/photos/a.104393285333252/129793052793275/](https://www.facebook.com/stoawach/photos/a.104393285333252/129793052793275/)\n\nObraz: A. Wachniewska, zbiory prywatne.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 183,
+  "articleBody": "czesc.jpg\nlocation: \"Unknown Location\"\ndescription: \"Zapraszamy do lektury, prosimy o udostępnienia i wciąż zachęcamy do podpisania petycji, by uratować dom, w którym mieszkała! Link poniżej....\"\n\n\nOSOBOWA DOJRZAŁOŚĆ TWÓRCZA\n     “Moja praca twórcza łączy się ściśle z pracą w Ochronie Przyrody. Niestety życie moich leśnych modeli wiele razy było zagrożone - stąd wypływa konieczność walki o nie.”\nW powojennych czasach wielkich przekształceń, gdy narastało zagrożenie dla harmonijnego rozwoju okolicznych lasów, dewastacja krajobrazu i nieposzanowanie spuścizny przyrody i kultury, Aleksandra Wachniewska niestrudzenie stawała w jej obronie.\n     Już w 1946 roku, gdy została nauczycielką rysunków i kreśleń w nowo otwartym Państwowym Gimnazjum Leśnym w Zwierzyńcu, podjęła walkę o wysoki poziom i szerokie horyzonty myślenia młodzieży. Założyła koło Ligi Ochrony Przyrody, bibliotekę, do której książki ściągała z Krakowa od samego prof. Władysława Szafera. Prowadziła z uczniami dokumentację starych drzew i stanowisk roślin chronionych. Organizowała wystawy na temat ochrony przyrody. W tym celu utrzymywała kontakty z najwyższymi autorytetami nauki. Otwarcia pierwszej  wystawy w Gimnazjum dokonał ówczesny rektor UMCS w Lublinie prof.  Strawiński. “Tylko w harmonii z przyrodą może żyć i rozwijać się szczęśliwy naród” - te słowa towarzyszyły ekspozycji.(cdn.)",
+  "description": "Zapraszamy do lektury, prosimy o udostępnienia i wciąż zachęcamy do podpisania petycji, by uratować dom, w którym mieszkała! Link poniżej....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -77,8 +78,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "OSOBOWA DOJRZAŁOŚĆ TWÓRCZA",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Przedstawiamy-kolejna-czesc-historii-Aleksandry"
+      "name": "Historia Aleksandry Wachniewskiej - część V",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
     }
   ]
 }

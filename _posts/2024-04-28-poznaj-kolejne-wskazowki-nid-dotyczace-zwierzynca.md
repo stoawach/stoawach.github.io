@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Poznaj-kolejne-wskazowki-NID-dotyczace-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-28-poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-04-28-poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 79,
-  "articleBody": "Na zdjęciu widzimy barokowy kościółek “na wodzie” w wiosennej szacie. To najcenniejszy zabytek z 1741 roku usytuowany w założeniu willowym Zwierzyńca.\n\nNarodowy Instytut Dziedzictwa wskazuje na potrzebę utworzenie trasy spacerowej wokół stawu kościelnego połączonej z istniejącymi już alejkami. Nawierzchnia powinna być wykonana z materiałów naturalnych.\n\nWłącz się do rewitalizacji Zwierzyńca! \nTwoje zaangażowanie jest kluczowe – polub, udostępnij posta i przekazuj dalej tę ideę.\nTen mały gest jest dużym krokiem naprzód w przywracaniu blasku naszej wyjątkowej perle. \nDziałajmy razem!\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widzimy barokowy kościółek “na wodzie” w wiosennej szacie. To najcenniejszy zabytek z 1741 roku usytuowany w założeniu willowym Zwierzyńca.\n\nNarodowy Instytut Dziedzictwa wskazuje na potrzebę utworzenie trasy spacerowej wokół stawu kościelnego połączonej z istniejącymi już alejkami. Nawierzchnia powinna być wykonana z materiałów naturalnych.\n\nWłącz się do rewitalizacji Zwierzyńca!\nTwoje zaangażowanie jest kluczowe – polub, udostępnij posta i przekazuj dalej tę ideę.\nTen mały gest jest dużym krokiem naprzód w przywracaniu blasku naszej wyjątkowej perle.\nDziałajmy razem!\n\n\n\n©MJP",
+  "description": "Na zdjęciu widzimy barokowy kościółek “na wodzie” w wiosennej szacie. To najcenniejszy zabytek z 1741 roku usytuowany w założeniu willowym Zwierzyńca....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Poznaj kolejne wskazówki NID dotyczące Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Poznaj-kolejne-wskazowki-NID-dotyczace-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca"
     }
   ]
 }

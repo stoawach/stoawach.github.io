@@ -50,7 +50,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Willa niezwykła.",
+  "headline": "Willa niezwykła",
   "datePublished": "2022-12-01",
   "dateModified": "2022-12-01",
   "author": {
@@ -67,17 +67,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Willa-niezwykla"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/willa-niezwykla"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-01-willa-niezwykla.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-01-willa-niezwykla.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 277,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie na pierwszym planie przedstawia staw willowy. Za drzewami, pomiędzy oficynami skrzydłowymi - południową z lewej i północną z prawej - stała idealna modrzewiowa willa.\nW głębi znajduje się ulica Browarna, która w swoim dzisiejszym kształcie drastycznie rozcina najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Za nią jest staw kościelny z barokowym kościółkiem na wodzie.\n\nSkąd w środku lasu założenie willowe na miarę królów?\nTo wszystko zasługa Kanclerza i  Hetmana Wielkiego Koronnego Jana Zamoyskiego i kolejnych ordynatów. Byli to ludzie nie tylko majętni, ale przede wszystkim dobrze wykształceni i znający najlepsze europejskie wzorce.\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“W styczniu 1578 roku w letniej rezydencji królowej Anny Jagiellonki miały miejsce słynne gody weselne Jana Zamoyskiego (...), na których w jednej z wielkich komnat spełniającej rolę sali teatralnej wystawiono “Odprawę posłów greckich” Jana Kochanowskiego. Całe założenie willowe samo w sobie stanowiło naówczas rewelację i musiało robić duże wrażenie, zwłaszcza, że pobyt tam uświetniono tak wspaniałymi uroczystościami. To wtedy Jan Zamoyski mógł zamarzyć o wzniesieniu podobnej rezydencji w swoich włościach.”\nPrawdopodobne jest, że pierwszy ordynat wzorował swoją posiadłość na Ujazdowie, który często odwiedzał. Potem zarówno w Ujazdowie, jak i w Zwierzyńcu, na osi głównej budowli powstały okazałe kanały wodne. Oczywiście Ujazdów był bardziej rozbudowany pod względem programowym. W nim na osi bocznej powstały słynne Łazienki, które Herakliusz Lubomirski wzorował na domku na wodzie Marysieńki.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta. \nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie na pierwszym planie przedstawia staw willowy. Za drzewami, pomiędzy oficynami skrzydłowymi - południową z lewej i północną z prawej - stała idealna modrzewiowa willa.\nW głębi znajduje się ulica Browarna, która w swoim dzisiejszym kształcie drastycznie rozcina najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Za nią jest staw kościelny z barokowym kościółkiem na wodzie.\n\nSkąd w środku lasu założenie willowe na miarę królów?\nTo wszystko zasługa Kanclerza i  Hetmana Wielkiego Koronnego Jana Zamoyskiego i kolejnych ordynatów. Byli to ludzie nie tylko majętni, ale przede wszystkim dobrze wykształceni i znający najlepsze europejskie wzorce.\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“W styczniu 1578 roku w letniej rezydencji królowej Anny Jagiellonki miały miejsce słynne gody weselne Jana Zamoyskiego (...), na których w jednej z wielkich komnat spełniającej rolę sali teatralnej wystawiono “Odprawę posłów greckich” Jana Kochanowskiego. Całe założenie willowe samo w sobie stanowiło naówczas rewelację i musiało robić duże wrażenie, zwłaszcza, że pobyt tam uświetniono tak wspaniałymi uroczystościami. To wtedy Jan Zamoyski mógł zamarzyć o wzniesieniu podobnej rezydencji w swoich włościach.”\nPrawdopodobne jest, że pierwszy ordynat wzorował swoją posiadłość na Ujazdowie, który często odwiedzał. Potem zarówno w Ujazdowie, jak i w Zwierzyńcu, na osi głównej budowli powstały okazałe kanały wodne. Oczywiście Ujazdów był bardziej rozbudowany pod względem programowym. W nim na osi bocznej powstały słynne Łazienki, które Herakliusz Lubomirski wzorował na domku na wodzie Marysieńki.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta.\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -104,8 +104,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Willa niezwykła.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Willa-niezwykla"
+      "name": "Willa niezwykła",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/willa-niezwykla"
     }
   ]
 }

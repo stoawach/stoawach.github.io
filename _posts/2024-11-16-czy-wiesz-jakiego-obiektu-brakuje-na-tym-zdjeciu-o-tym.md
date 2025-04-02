@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-16-czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-11-16-czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy, NadleśnictwoZwierzyniec",
-  "wordCount": 216,
-  "articleBody": "Ujęcie z lotu ptaka idealnie oddaje genius loci tego miejsca - harmonijne połączenie architektury i natury. \nNa zdjęciu widoczny jest centralny fragment założenia willowego w Zwierzyńcu skąpany w kolorach jesieni i ciepłym świetle zachodzącego słońca. \nNa pierwszym planie znajduje się “kościółek na wodzie” pw. św. Jana Nepomucena wraz ze stawem kościelnym. W środkowej części usytuowane są oficyny pałacowe ustawione w podkowę. Dalej widnieje staw willowy wraz z długim kanałem. W głębi rozciągają się lasy Roztoczańskiego Parku Narodowego i Nadleśnictwa Zwierzyniec.\nNa samym środku zdjęcia ukazuje się miejsce, na którym przez 250 lat stała imponująca  modrzewiowa willa o wymiarach 60x12 metrów – serce renesansowego Zwierzyńca.\n\n„Dominantą architektoniczną osi kompozycyjnej był budynek rezydencji. [...] Całość ukształtowana w układzie osiowym i symetrycznym tworzyła wraz z dominantą budowli kompozycyjną jedność. [...] \nNa osi budynku było wejście z dziedzińca do obszernej sieni — w rodzaju westybulu ze schodami na piętro, gdzie znajdowała się obszerna sala i kaplica”. - podają w artykule z 1986 roku pt. “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” autorzy L. Matławska-Patyk i M. Patyk.\n\nRazem możemy zmienić przyszłość tego wyjątkowego miejsca! Udostępnij ten post i pomóż dotrzeć do osób, które, tak jak Ty, chcą przywrócić blask temu niezwykłemu miejscu!\n\nZdjęcie dzięki uprzejmości Fundacja Honesty, która realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy, NadleśnictwoZwierzyniec]",
+  "wordCount": 217,
+  "articleBody": "Ujęcie z lotu ptaka idealnie oddaje genius loci tego miejsca - harmonijne połączenie architektury i natury.\nNa zdjęciu widoczny jest centralny fragment założenia willowego w Zwierzyńcu skąpany w kolorach jesieni i ciepłym świetle zachodzącego słońca.\nNa pierwszym planie znajduje się “kościółek na wodzie” pw. św. Jana Nepomucena wraz ze stawem kościelnym. W środkowej części usytuowane są oficyny pałacowe ustawione w podkowę. Dalej widnieje staw willowy wraz z długim kanałem. W głębi rozciągają się lasy Roztoczańskiego Parku Narodowego i Nadleśnictwa Zwierzyniec.\nNa samym środku zdjęcia ukazuje się miejsce, na którym przez 250 lat stała imponująca  modrzewiowa willa o wymiarach 60x12 metrów – serce renesansowego Zwierzyńca.\n\n„Dominantą architektoniczną osi kompozycyjnej był budynek rezydencji. [...] Całość ukształtowana w układzie osiowym i symetrycznym tworzyła wraz z dominantą budowli kompozycyjną jedność. [...]\nNa osi budynku było wejście z dziedzińca do obszernej sieni — w rodzaju westybulu ze schodami na piętro, gdzie znajdowała się obszerna sala i kaplica”. - podają w artykule z 1986 roku pt. “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” autorzy L. Matławska-Patyk i M. Patyk.\n\nRazem możemy zmienić przyszłość tego wyjątkowego miejsca! Udostępnij ten post i pomóż dotrzeć do osób, które, tak jak Ty, chcą przywrócić blask temu niezwykłemu miejscu!\n\nZdjęcie MJP dzięki uprzejmości Fundacja Honesty, która realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n\n\n©MJP",
+  "description": "Ujęcie z lotu ptaka idealnie oddaje genius loci tego miejsca - harmonijne połączenie architektury i natury.  Na zdjęciu widoczny jest centralny fragme...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,7 +102,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-O-tym"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu-o-tym"
     }
   ]
 }

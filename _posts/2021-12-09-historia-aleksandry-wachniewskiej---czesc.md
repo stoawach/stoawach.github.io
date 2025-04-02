@@ -31,12 +31,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "DOROBEK MALARKI",
+  "headline": "Historia Aleksandry Wachniewskiej - część IV",
   "datePublished": "2021-12-09",
   "dateModified": "2021-12-09",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -48,17 +48,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-09-historia-aleksandry-wachniewskiej---czesc.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-12-09-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 123,
-  "articleBody": "DOROBEK MALARKI \n\n     Spod Jej ręki wyszły cykle rysunków tuszem przedstawiające głównie drzewa (Teka Przemyska, Teka Parku Narodowego, Teka Turkowicka). Powstawały prace poplenerowe w Ojcowie, Kraśniku czy Kazimierzu. Po wyprawie do Bułgarii powstała Teka Bułgarska.\nWystawiała obrazy z warszawską Grupą Twórczą “Zachęta”, wystawa z tą Grupą była prezentowana w Londynie, z Jej osobistym udziałem. \n\nPrace Wachniewskiej prezentowano na wielu wystawach, głównie w Lublinie i Warszawie. Po II wojnie światowej odbyło się ich szesnaście. (cdn.)\n\nLink do petycji: \n\n[https://www.petycjeonline.com/apelujemy_o_podjcie_natychmiastowych_dziaa_renowacyjnych_domu_aleksandry_wachniewskiej](https://www.petycjeonline.com/apelujemy_o_podjcie_natychmiastowych_dziaa_renowacyjnych_domu_aleksandry_wachniewskiej)\n\nObraz: A. Wachniewska, Teka Turkowicka, zbiory prywatne.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 91,
+  "articleBody": "czesc.jpg\nlocation: \"Unknown Location\"\ndescription: \"Powracamy do serii o życiu, twórczości i działaniach naszej Patronki - Aleksandry Wachniewskiej....\"\n\n\nDOROBEK MALARKI\n\nSpod Jej ręki wyszły cykle rysunków tuszem przedstawiające głównie drzewa (Teka Przemyska, Teka Parku Narodowego, Teka Turkowicka). Powstawały prace poplenerowe w Ojcowie, Kraśniku czy Kazimierzu. Po wyprawie do Bułgarii powstała Teka Bułgarska.\nWystawiała obrazy z warszawską Grupą Twórczą “Zachęta”, wystawa z tą Grupą była prezentowana w Londynie, z Jej osobistym udziałem.\n\nPrace Wachniewskiej prezentowano na wielu wystawach, głównie w Lublinie i Warszawie. Po II wojnie światowej odbyło się ich szesnaście. (cdn.)",
+  "description": "Powracamy do serii o życiu, twórczości i działaniach naszej Patronki - Aleksandry Wachniewskiej....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -81,8 +82,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Kochani!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani"
+      "name": "Historia Aleksandry Wachniewskiej - część IV",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
     }
   ]
 }

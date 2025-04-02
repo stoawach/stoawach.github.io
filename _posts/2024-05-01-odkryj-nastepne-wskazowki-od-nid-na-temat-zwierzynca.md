@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 120,
-  "articleBody": "Na zdjęciu ponownie prezentujemy barokowy kościółek “na wodzie”, otulony wiosenną zielenią. To najcenniejszy i najbardziej rozpoznawalny zabytek Zwierzyńca zbudowany w 1741 roku, usytuowany w założeniu willowym.\n\nNarodowy Instytut Dziedzictwa zwraca uwagę na potrzebę włączenia południowo-wschodniego terenu przy kościółku w projektowaną przestrzeń rekreacyjną. \n\nCieszymy się, że postulaty Stowarzyszenia, dotyczące  przywracania dla mieszkańców i turystów przestrzeni w sąsiedztwie kościółka, znalazły poparcie w wypowiedziach specjalistów. Ich realizacja pozwoli jeszcze lepiej wyeksponować najważniejszy zabytek miasta-ogrodu, tym samym podnosząc prestiż całej gminy.\n\nDołącz do nas i pomóż w odnowie Zwierzyńca!\nTwoje zaangażowanie ma ogromne znaczenie – kliknij „Lubię to”, udostępnij ten post i szerz dalej tę ideę.\nKażdy mały gest przyczynia się do wielkiej zmiany w przywracaniu uroku naszej wyjątkowej perły.\nRazem możemy więcej!\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu ponownie prezentujemy barokowy kościółek “na wodzie”, otulony wiosenną zielenią. To najcenniejszy i najbardziej rozpoznawalny zabytek Zwierzyńca zbudowany w 1741 roku, usytuowany w założeniu willowym.\n\nNarodowy Instytut Dziedzictwa zwraca uwagę na potrzebę włączenia południowo-wschodniego terenu przy kościółku w projektowaną przestrzeń rekreacyjną.\n\nCieszymy się, że postulaty Stowarzyszenia, dotyczące  przywracania dla mieszkańców i turystów przestrzeni w sąsiedztwie kościółka, znalazły poparcie w wypowiedziach specjalistów. Ich realizacja pozwoli jeszcze lepiej wyeksponować najważniejszy zabytek miasta-ogrodu, tym samym podnosząc prestiż całej gminy.\n\nDołącz do nas i pomóż w odnowie Zwierzyńca!\nTwoje zaangażowanie ma ogromne znaczenie – kliknij „Lubię to”, udostępnij ten post i szerz dalej tę ideę.\nKażdy mały gest przyczynia się do wielkiej zmiany w przywracaniu uroku naszej wyjątkowej perły.\nRazem możemy więcej!\n\n\n\n©MJP",
+  "description": "Na zdjęciu ponownie prezentujemy barokowy kościółek “na wodzie”, otulony wiosenną zielenią. To najcenniejszy i najbardziej rozpoznawalny zabytek Zwier...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,7 +101,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Odkryj następne wskazówki od NID na temat Zwierzyńca",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Odkryj-nastepne-wskazowki-od-NID-na-temat-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/odkryj-nastepne-wskazowki-od-nid-na-temat-zwierzynca"
     }
   ]
 }

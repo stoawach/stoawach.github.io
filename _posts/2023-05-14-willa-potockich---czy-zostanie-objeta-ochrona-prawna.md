@@ -66,17 +66,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Willa-Potockich---czy-zostanie-objeta-ochrona-prawna"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/willa-potockich---czy-zostanie-objeta-ochrona-prawna"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-14-willa-potockich---czy-zostanie-objeta-ochrona-prawna.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-05-14-willa-potockich---czy-zostanie-objeta-ochrona-prawna.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
-  "wordCount": 192,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia skąpaną w zachodzącym słońcu, częściowo ukrytą wśród wiosennej zieleni willę Potockich znajdującą się w sąsiedztwie parku miejskiego.\nBudynkiem opiekuje się Nadleśnictwo Zwierzyniec, Lasy Państwowe. Pomimo, że obiekt od 2010 roku nie jest użytkowany, to wciąż jest w zadowalającym stanie technicznym.\nTrwa postępowanie, które prowadzi Lubelski Wojewódzki Konserwator Zabytków, w sprawie wpisu willi do rejestru zabytków, pomagającego zachować ją dla przyszłych pokoleń.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“W osadzie przybyło kilka pięknych budynków, jak willa dyrektora spółki akcyjnej na Rózinie (1921 r.) niesłusznie nazywana później pałacem Zamoyskich, willa Tomaszostwa Potockich zbudowana w sąsiedztwie parku (1921), czy podobny w stylu sąsiedni dom dla naczelnika lasów.(...)\n[Tomasz Potocki] należał do grupy urzędników ordynackich nazywanych w Zwierzyńcu “hajdamakami” - przybyszów z kresów (Podola, Ukrainy), którzy w wyniku bolszewickiej rewolucji utracili majątki i szukali schronienia w Ordynacji Zamojskiej.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
+  "wordCount": 212,
+  "articleBody": "czy-zostanie-objeta-ochrona-prawna.jpg\nlocation: \"Zwierzyniec\"\nlatitude: 50.61039\nlongitude: 22.96615\ndescription: \"Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....\"\n\n\nTen wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia skąpaną w zachodzącym słońcu, częściowo ukrytą wśród wiosennej zieleni willę Potockich znajdującą się w sąsiedztwie parku miejskiego.\nBudynkiem opiekuje się Nadleśnictwo Zwierzyniec, Lasy Państwowe. Pomimo, że obiekt od 2010 roku nie jest użytkowany, to wciąż jest w zadowalającym stanie technicznym.\nTrwa postępowanie, które prowadzi Lubelski Wojewódzki Konserwator Zabytków, w sprawie wpisu willi do rejestru zabytków, pomagającego zachować ją dla przyszłych pokoleń.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“W osadzie przybyło kilka pięknych budynków, jak willa dyrektora spółki akcyjnej na Rózinie (1921 r.) niesłusznie nazywana później pałacem Zamoyskich, willa Tomaszostwa Potockich zbudowana w sąsiedztwie parku (1921), czy podobny w stylu sąsiedni dom dla naczelnika lasów.(...)\n[Tomasz Potocki] należał do grupy urzędników ordynackich nazywanych w Zwierzyńcu “hajdamakami” - przybyszów z kresów (Podola, Ukrainy), którzy w wyniku bolszewickiej rewolucji utracili majątki i szukali schronienia w Ordynacji Zamojskiej.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -104,7 +104,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Willa Potockich - czy zostanie objęta ochroną prawną?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Willa-Potockich---czy-zostanie-objeta-ochrona-prawna"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/willa-potockich---czy-zostanie-objeta-ochrona-prawna"
     }
   ]
 }

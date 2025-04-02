@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2022-07-16",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -57,17 +57,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kto-za-tym-stoi-Jaki-macie-w-tym-interes"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły",
+  "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]",
   "wordCount": 270,
   "articleBody": "Ostatnio, ponieważ prowadzimy wiele akcji, coraz częściej spotykamy się z pytaniem: kto za tym stoi?\nZa tym, czyli za próbą podźwignięcia Zwierzyńca na wyżyny jego możliwości, stoi grupa mieszkańców - Stowarzyszenie im. Aleksandry Wachniewskiej. Jesteśmy zespołem ludzi, który - tak jak nasza patronka - postanowił wziąć sprawy we własne ręce. Jeśli chcecie nas bliżej poznać, zapraszamy do kontaktu z nami. Chętnie umówimy się też na spotkanie w realu i porozmawiamy o tym, do jakiej przyszłości dążymy.\n\nKolejnym pytaniem jest: jaki macie w tym interes?\nNiektórym jeszcze trudno w to uwierzyć, ale naszym interesem jest Zwierzyniec. Chcemy żyć w prawdziwym mieście-ogrodzie. Mieście, które zatroszczy się przede wszystkim o dobrobyt swoich mieszkańców - rozumiany nie tylko jako zasobny portfel, ale też komfort życia.\nWierzymy, że Zwierzyniec ma ogromny potencjał i może zapewnić dostatek swoim obywatelom. Świadczą o tym różne opracowania, w tym naukowe. Mimo bogactwa dostępnych programów wsparcia, w Zwierzyńcu wciąż wygrywają doraźne interesy, stojące w sprzeczności ze zrównoważonym rozwojem. Takim działaniom, często niezgodnym z prawem, mówimy stanowcze nie. Będziemy je wam przedstawiać, bo tylko uwaga i zaangażowanie opinii publicznej może przyczynić się do zmian na lepsze.\n\nPoświęcamy dużo naszego prywatnego czasu działaniom na rzecz Zwierzyńca. Robimy to, bo wierzymy, że będzie to z korzyścią dla obecnych mieszkańców i przyszłych pokoleń. W zamian liczymy na dobre słowo od tych, którzy z nami się zgadzają. Tych, którzy mają inną wizję Zwierzyńca, również prosimy o merytoryczne uwagi i pozytywną krytykę. Jesteśmy otwarci na dialog i chętnie poznamy Wasze wątpliwości.\n\nJeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy!",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "description": "Ostatnio, ponieważ prowadzimy wiele akcji, coraz częściej spotykamy się z pytaniem: kto za tym stoi? Za tym, czyli za próbą podźwignięcia Zwierzyńca n...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -91,7 +92,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Kto za tym stoi? Jaki macie w tym interes?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kto-za-tym-stoi-Jaki-macie-w-tym-interes"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes"
     }
   ]
 }

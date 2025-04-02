@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Villa-Restituta-w-Zwierzyncu-zima-AD-1593"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/villa-restituta-w-zwierzyncu-zima-ad-1593"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-22-villa-restituta-w-zwierzyncu-zima-ad-1593.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-22-villa-restituta-w-zwierzyncu-zima-ad-1593.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 116,
-  "articleBody": "Wizualizacja przedstawia idealną willę wypoczynkową w Zwierzyńcu w zimowej scenerii. To wciąż początkowy etap prac i w kolejnych wersjach przybędzie więcej szczegółów.\n\n21. stycznia 2023 roku miała miejsce inauguracja obchodów 430-lecia Zwierzyńca. Goście zgromadzeni na uroczystości wysłuchali koncertu renesansowych kolęd i dwóch wykładów o historii miasta. Obejrzeli także krótki film “Villa Restituta w Zwierzyńcu zimą AD 1593”.\nTeraz zapraszamy do jego obejrzenia również Ciebie. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Wizualizacja przedstawia idealną willę wypoczynkową w Zwierzyńcu w zimowej scenerii. To wciąż początkowy etap prac i w kolejnych wersjach przybędzie więcej szczegółów.\n\n 21. stycznia 2023 roku miała miejsce inauguracja obchodów 430-lecia Zwierzyńca. Goście zgromadzeni na uroczystości wysłuchali koncertu renesansowych kolęd i dwóch wykładów o historii miasta. Obejrzeli także krótki film “Villa Restituta w Zwierzyńcu zimą AD 1593”.\nTeraz zapraszamy do jego obejrzenia również Ciebie. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Wizualizacja przedstawia idealną willę wypoczynkową w Zwierzyńcu w zimowej scenerii. To wciąż początkowy etap prac i w kolejnych wersjach przybędzie w...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Villa Restituta w Zwierzyńcu zimą AD 1593",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Villa-Restituta-w-Zwierzyncu-zima-AD-1593"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/villa-restituta-w-zwierzyncu-zima-ad-1593"
     }
   ]
 }

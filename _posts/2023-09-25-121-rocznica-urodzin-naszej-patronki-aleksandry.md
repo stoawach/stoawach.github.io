@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2023-09-25",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -58,17 +58,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-Patronki-Aleksandry"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-patronki-aleksandry"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-25-121-rocznica-urodzin-naszej-patronki-aleksandry.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-09-25-121-rocznica-urodzin-naszej-patronki-aleksandry.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 144,
-  "articleBody": "Od czasu zlikwidowania niepodzielonego majątku, jakim była Ordynacja Zamojska, odnotowano trzy pokoleniowe próby ratowania renesansowej willi.\nPierwsze starania podjęła nasza Patronka, artystka malarka Aleksandra Wachniewska. Przenikała Ją niezwykłość zwierzynieckiego założenia, la villa ideale in modo italiano, ale po polsku w drewnie. To Ona w znacznym stopniu przyczyniła się do powstania Roztoczańskiego Parku Narodowego w miejscu dawnego puszczańskiego zwierzyńca - jednego z elementów programu willi, ratując licznymi interwencjami i poparciem ludzi nauki najcenniejsze obszary lasów.\nPiękno zabytkowego założenia i otaczającej go przyrody uwieczniła w swoich obrazach.\nDziś inicjatywę ratowania tego krajobrazowego zabytku, które przetrwało do dnia dzisiejszego, podjęło Stowarzyszenie im. Aleksandry Wachniewskiej. Rozpoczęło o nim szeroką edukację i stara się o jego skuteczną ochronę, jak też o pozyskanie środków na wykonanie odkrywek archeologicznych głównego budynku założenia.\nJest nadzieja, że działania te przyniosą oczekiwane efekty i wreszcie willa zostanie w pełni uznana, doceniona i zachowana.\n\n             \n\n©LMP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Od czasu zlikwidowania niepodzielonego majątku, jakim była Ordynacja Zamojska, odnotowano trzy pokoleniowe próby ratowania renesansowej willi.\nPierwsze starania podjęła nasza Patronka, artystka malarka Aleksandra Wachniewska. Przenikała Ją niezwykłość zwierzynieckiego założenia, la villa ideale in modo italiano, ale po polsku w drewnie. To Ona w znacznym stopniu przyczyniła się do powstania Roztoczańskiego Parku Narodowego w miejscu dawnego puszczańskiego zwierzyńca - jednego z elementów programu willi, ratując licznymi interwencjami i poparciem ludzi nauki najcenniejsze obszary lasów.\nPiękno zabytkowego założenia i otaczającej go przyrody uwieczniła w swoich obrazach.\nDziś inicjatywę ratowania tego krajobrazowego zabytku, które przetrwało do dnia dzisiejszego, podjęło Stowarzyszenie im. Aleksandry Wachniewskiej. Rozpoczęło o nim szeroką edukację i stara się o jego skuteczną ochronę, jak też o pozyskanie środków na wykonanie odkrywek archeologicznych głównego budynku założenia.\nJest nadzieja, że działania te przyniosą oczekiwane efekty i wreszcie willa zostanie w pełni uznana, doceniona i zachowana.\n\n\n\n©LMP",
+  "description": "Od czasu zlikwidowania niepodzielonego majątku, jakim była Ordynacja Zamojska, odnotowano trzy pokoleniowe próby ratowania renesansowej willi. Pierwsz...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -92,7 +93,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "121 rocznica urodzin naszej Patronki Aleksandry Wachniewskiej",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-Patronki-Aleksandry"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/121-rocznica-urodzin-naszej-patronki-aleksandry"
     }
   ]
 }

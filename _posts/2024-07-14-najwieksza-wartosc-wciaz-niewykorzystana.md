@@ -60,17 +60,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Najwieksza-wartosc-wciaz-niewykorzystana"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/najwieksza-wartosc-wciaz-niewykorzystana"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-07-14-najwieksza-wartosc-wciaz-niewykorzystana.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-07-14-najwieksza-wartosc-wciaz-niewykorzystana.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 109,
-  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu. To element zwierzynieckiego założenia willowego.\n\n“Powstanie Zwierzyńca to efekt istnienia rezydencji. Tymczasem obszar zajmowany niegdyś przez modrzewiowy pałac, ogrody i układ wodny z długim kanałem, groblami i stawami (...) nie jest kojarzony ze swoją dawną rolą, znaczeniem i klasą artystyczną. (...) A przecież dla miasta to wartość największa, podstawa jego tożsamości i istotna część niewykorzystanego potencjału turystycznego.” - pisał Andrzej Cygnarowski w artykule z 2002 roku pt.\n“Środowisko Kulturowe Zwierzyńca - szanse i zagrożenia”.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i w ten sposób wesprzyj jego rewitalizację!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu. To element zwierzynieckiego założenia willowego.\n\n“Powstanie Zwierzyńca to efekt istnienia rezydencji. Tymczasem obszar zajmowany niegdyś przez modrzewiowy pałac, ogrody i układ wodny z długim kanałem, groblami i stawami (...) nie jest kojarzony ze swoją dawną rolą, znaczeniem i klasą artystyczną. (...) A przecież dla miasta to wartość największa, podstawa jego tożsamości i istotna część niewykorzystanego potencjału turystycznego.” - pisał Andrzej Cygnarowski w artykule z 2002 roku pt.\n“Środowisko Kulturowe Zwierzyńca - szanse i zagrożenia”.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i w ten sposób wesprzyj jego rewitalizację!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w Zwierzyńcu. To element zwierzynieckiego założenia willowego....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,7 +98,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Największa wartość wciąż niewykorzystana?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Najwieksza-wartosc-wciaz-niewykorzystana"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/najwieksza-wartosc-wciaz-niewykorzystana"
     }
   ]
 }

@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Pałac plenipotenta.",
+  "headline": "Pałac plenipotenta",
   "datePublished": "2022-12-30",
   "dateModified": "2022-12-30",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Palac-plenipotenta"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/palac-plenipotenta"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-30-palac-plenipotenta.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-30-palac-plenipotenta.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, RoztoczańskiParkNarodowy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, RoztoczańskiParkNarodowy]",
   "wordCount": 141,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia pałac plenipotenta. Dziś ma w nim swoją siedzibę Roztoczański Park Narodowy .\nPark stale dba zarówno o stan zachowania samego zabytku jak i jego otoczenia.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Okazałą budowlą wznoszoną przez 10 lat (1880 - 1890 r.) był pałac plenipotenta zbudowany na piaszczystym wzgórzu porosłym lasem, wśród drzew i krzewów starannie dobranych przez ogrodników. Pałac miał postać szwajcarskiego pawilonu ozdobionego koronkowymi szalunkami. Budowniczym tego okazałego obiektu był Ignacy Aleksander Szymański, który w ciągu swej pięćdziesięcioletniej pracy w ordynacji (1887-1937) zdobył sobie powszechny szacunek.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n          \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia pałac plenipotenta. Dziś ma w nim swoją siedzibę Roztoczański Park Narodowy .\nPark stale dba zarówno o stan zachowania samego zabytku jak i jego otoczenia.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Okazałą budowlą wznoszoną przez 10 lat (1880 - 1890 r.) był pałac plenipotenta zbudowany na piaszczystym wzgórzu porosłym lasem, wśród drzew i krzewów starannie dobranych przez ogrodników. Pałac miał postać szwajcarskiego pawilonu ozdobionego koronkowymi szalunkami. Budowniczym tego okazałego obiektu był Ignacy Aleksander Szymański, który w ciągu swej pięćdziesięcioletniej pracy w ordynacji (1887-1937) zdobył sobie powszechny szacunek.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Pałac plenipotenta.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Palac-plenipotenta"
+      "name": "Pałac plenipotenta",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/palac-plenipotenta"
     }
   ]
 }

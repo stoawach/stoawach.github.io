@@ -41,7 +41,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna skrzydłowa północna.",
+  "headline": "Oficyna skrzydłowa północna",
   "datePublished": "2022-11-21",
   "dateModified": "2022-11-21",
   "author": {
@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-polnocna"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-polnocna"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-21-oficyna-skrzydlowa-polnocna.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-21-oficyna-skrzydlowa-polnocna.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 88,
-  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna skrzydłowa północna została wzniesiona przy modrzewiowej willi ordynata. Początkowo, tak jak pozostałe trzy omawiane wcześniej, była parterowa. Została rozbudowana z inicjatywy XIV ordynata Tomasza Franciszka Zamoyskiego. Reprezentacyjny charakter fasady i wnętrz sprawiły, że gmachowi nadano nazwę “Pałac Administracji”.\n\nPisaliśmy już o tym, jak Technikum im. Jana Zamoyskiego dba o zabytki. Teraz kolejna dobra wiadomość. W ubiegłym tygodniu, pod czujnym okiem konserwatora, rozpoczęła się wymiana okien tego obiektu.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna skrzydłowa północna została wzniesiona przy modrzewiowej willi ordynata. Początkowo, tak jak pozostałe trzy omawiane wcześniej, była parterowa. Została rozbudowana z inicjatywy XIV ordynata Tomasza Franciszka Zamoyskiego. Reprezentacyjny charakter fasady i wnętrz sprawiły, że gmachowi nadano nazwę “Pałac Administracji”.\n\nPisaliśmy już o tym, jak Technikum im. Jana Zamoyskiego dba o zabytki. Teraz kolejna dobra wiadomość. W ubiegłym tygodniu, pod czujnym okiem konserwatora, rozpoczęła się wymiana okien tego obiektu.\n\n\n\n©MJP",
+  "description": "Ponownie wracamy do tego elementu większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -95,8 +95,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna skrzydłowa północna.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-skrzydlowa-polnocna"
+      "name": "Oficyna skrzydłowa północna",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-skrzydlowa-polnocna"
     }
   ]
 }

@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.",
+  "headline": "Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza",
   "datePublished": "2024-06-29",
   "dateModified": "2024-06-29",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-06-29-co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-06-29-co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 198,
-  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w nocnej scenerii. To jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest on elementem zwierzynieckiego założenia willowego, który powstał w 1741 roku. Jego mury w znacznej części stanowiły niegdyś inną budowlę.\n\n“Marysieńka w swym liście do męża pisanym w Płoskiem 23 maja 1658 r. podała tę interesującą wiadomość: “... poleciłam, żeby się zabrano do tego małego domku na wodzie, wykończą go jak tylko się da najprędzej.”[...]\n\nCzym był ten budyneczek, wyjaśnia zapis ze zwierzynieckiego inwentarza z 1732 r. Szkoda, że zapis to niekompletny, bo stary inwentarz dawno zaginął. Przetrwał jednak w skrótowej notatce przekazanej pokoleniom przez nieocenionego archiwistę Zamoyskich, Mikołaja Stworzyńskiego, zasłużonego ordynackiego urzędnika i mieszkańca Zwierzyńca. Notatka zawierająca dane o modrzewiowym dworze, opisuje też: “drugi budynek ku łaźni, gontami nowopobity, do którego wchodząc altana na dziesięciu słupach etc… dalej w zabudowaniu alkierzyk, w którym piwniczka murowana, w tej piwniczce studzienka mała etc. dalej izba na altanie etc.” \n\nOt, i “domek na wodzie”.” -  pisała w 1992 roku w książce “Marysieńka i Zwierzyniec” Halina Matławska.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i w ten sposób wesprzyj jego rewitalizację!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w nocnej scenerii. To jeden z najbardziej niezwykłych zabytków województwa lubelskiego. Jest on elementem zwierzynieckiego założenia willowego, który powstał w 1741 roku. Jego mury w znacznej części stanowiły niegdyś inną budowlę.\n\n“Marysieńka w swym liście do męża pisanym w Płoskiem 23 maja 1658 r. podała tę interesującą wiadomość: “... poleciłam, żeby się zabrano do tego małego domku na wodzie, wykończą go jak tylko się da najprędzej.”[...]\n\nCzym był ten budyneczek, wyjaśnia zapis ze zwierzynieckiego inwentarza z 1732 r. Szkoda, że zapis to niekompletny, bo stary inwentarz dawno zaginął. Przetrwał jednak w skrótowej notatce przekazanej pokoleniom przez nieocenionego archiwistę Zamoyskich, Mikołaja Stworzyńskiego, zasłużonego ordynackiego urzędnika i mieszkańca Zwierzyńca. Notatka zawierająca dane o modrzewiowym dworze, opisuje też: “drugi budynek ku łaźni, gontami nowopobity, do którego wchodząc altana na dziesięciu słupach etc… dalej w zabudowaniu alkierzyk, w którym piwniczka murowana, w tej piwniczce studzienka mała etc. dalej izba na altanie etc.”\n\nOt, i “domek na wodzie”.” -  pisała w 1992 roku w książce “Marysieńka i Zwierzyniec” Halina Matławska.\n\nPomóż szerzyć wieści o wyjątkowym Zwierzyńcu i w ten sposób wesprzyj jego rewitalizację!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczny jest Kościół na wodzie pw. św. Jana Nepomucena w nocnej scenerii. To jeden z najbardziej niezwykłych zabytków województwa lubelski...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Co-bylo-tu-wczesniej-Przybliza-to-zapis-ze-zwierzynieckiego"
+      "name": "Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/co-bylo-tu-wczesniej-przybliza-to-zapis-ze-zwierzynieckiego"
     }
   ]
 }

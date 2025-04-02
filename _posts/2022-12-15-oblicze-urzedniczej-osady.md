@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oblicze urzędniczej osady.",
+  "headline": "Oblicze urzędniczej osady",
   "datePublished": "2022-12-15",
   "dateModified": "2022-12-15",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oblicze-urzedniczej-osady"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oblicze-urzedniczej-osady"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-15-oblicze-urzedniczej-osady.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-15-oblicze-urzedniczej-osady.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 122,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa zdjęciu widać drewniany mostek. Znajduje się on w środkowym fragmencie długiego na 450 metrów kanału, który jest częścią układu wodnego zwierzynieckiej idealnej willi.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Powstała dwieście lat wcześniej willa Zamoyskich przestała istnieć, ale nadal doceniane było ogromne bogactwo lasów nie tylko jako źródło przemysłowych surowców, dostrzegano ich walory przyrodnicze i krajobrazowe, i miało to wpływ na wyjątkowe oblicze urzędniczej osady, jaką stał się Zwierzyniec.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa zdjęciu widać drewniany mostek. Znajduje się on w środkowym fragmencie długiego na 450 metrów kanału, który jest częścią układu wodnego zwierzynieckiej idealnej willi.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Powstała dwieście lat wcześniej willa Zamoyskich przestała istnieć, ale nadal doceniane było ogromne bogactwo lasów nie tylko jako źródło przemysłowych surowców, dostrzegano ich walory przyrodnicze i krajobrazowe, i miało to wpływ na wyjątkowe oblicze urzędniczej osady, jaką stał się Zwierzyniec.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oblicze urzędniczej osady.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oblicze-urzedniczej-osady"
+      "name": "Oblicze urzędniczej osady",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oblicze-urzedniczej-osady"
     }
   ]
 }

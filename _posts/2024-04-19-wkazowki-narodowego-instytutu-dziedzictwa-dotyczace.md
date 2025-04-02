@@ -42,7 +42,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Od kilku tygodni przybliżamy Wam wskazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca.",
+  "headline": "Wkazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca",
   "datePublished": "2024-04-19",
   "dateModified": "2024-04-19",
   "author": {
@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wkazowki-narodowego-instytutu-dziedzictwa-dotyczace"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-19-wkazowki-narodowego-instytutu-dziedzictwa-dotyczace.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-04-19-wkazowki-narodowego-instytutu-dziedzictwa-dotyczace.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 153,
-  "articleBody": "Na zdjęciu widzimy założenie willowe, od którego zaczęła się historia naszej miejscowości. Dzięki uprzejmości Tymczasem w Zwierzyńcu możemy podziwiać prawie cały jego obszar z lotu ptaka. Dokładnie pośrodku, pomiędzy oficynami, znajdowała się modrzewiowa willa. Na głównej osi rozciąga się długi na 400 metrów kanał, a po przeciwnej stronie,  na środkowej wyspie stawu kościelnego, jest kościół “na wodzie” - najcenniejszy zwierzyniecki zabytek.\n\nNID proponuje, aby przestrzeń stawu kościelnego i dziedzińca dawnej willi podczas procesu rewitalizacji były traktowane łącznie. Priorytetem jest usunięcie elementów, które oddzielają zespół oficynowy z partnerami ogrodowymi od stawu i kościoła na “wodzie”. Zaleca się, aby to wnętrze krajobrazowe kształtować bez wyraźnego ogrodzenia, z ewentualną możliwością zastosowania niskiego żywopłotu. Teren dziedzińca powinien pozostać otwartą przestrzenią, zapewniającą pełną ekspozycję obiektów historycznych.\n\nUwolnij potencjał Zwierzyńca!\nTwój udział w naszej społeczności ma ogromne znaczenie – polub, udostępnij i przekazuj dalej tę ważną misję. Każde działanie zbliża nas do przywrócenia dawnej świetności temu wyjątkowemu miejscu.\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widzimy założenie willowe, od którego zaczęła się historia naszej miejscowości. Dzięki uprzejmości Tymczasem w Zwierzyńcu możemy podziwiać prawie cały jego obszar z lotu ptaka. Dokładnie pośrodku, pomiędzy oficynami, znajdowała się modrzewiowa willa. Na głównej osi rozciąga się długi na 400 metrów kanał, a po przeciwnej stronie,  na środkowej wyspie stawu kościelnego, jest kościół “na wodzie” - najcenniejszy zwierzyniecki zabytek.\n\nNID proponuje, aby przestrzeń stawu kościelnego i dziedzińca dawnej willi podczas procesu rewitalizacji były traktowane łącznie. Priorytetem jest usunięcie elementów, które oddzielają zespół oficynowy z partnerami ogrodowymi od stawu i kościoła na “wodzie”. Zaleca się, aby to wnętrze krajobrazowe kształtować bez wyraźnego ogrodzenia, z ewentualną możliwością zastosowania niskiego żywopłotu. Teren dziedzińca powinien pozostać otwartą przestrzenią, zapewniającą pełną ekspozycję obiektów historycznych.\n\nUwolnij potencjał Zwierzyńca!\nTwój udział w naszej społeczności ma ogromne znaczenie – polub, udostępnij i przekazuj dalej tę ważną misję. Każde działanie zbliża nas do przywrócenia dawnej świetności temu wyjątkowemu miejscu.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widzimy założenie willowe, od którego zaczęła się historia naszej miejscowości. Dzięki uprzejmości Tymczasem w Zwierzyńcu możemy podziwiać ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,8 +96,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Od kilku tygodni przybliżamy Wam wskazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Od-kilku-tygodni-przyblizamy-Wam-wskazowki-Narodowego"
+      "name": "Wkazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wkazowki-narodowego-instytutu-dziedzictwa-dotyczace"
     }
   ]
 }

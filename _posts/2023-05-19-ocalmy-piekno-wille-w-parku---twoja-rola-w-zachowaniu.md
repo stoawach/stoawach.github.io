@@ -51,7 +51,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.",
+  "headline": "Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa",
   "datePublished": "2023-05-19",
   "dateModified": "2023-05-19",
   "author": {
@@ -68,17 +68,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Ocalmy-piekno-Wille-w-parku---Twoja-rola-w-zachowaniu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-19-ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-05-19-ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
-  "wordCount": 228,
-  "articleBody": "Zastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej pomocy. Poprzez swój komentarz, możesz przyczynić się do wpisania willi do rejestru zabytków, co pomoże w ich ochronie i zachowaniu dla przyszłych pokoleń.\n\nNa załączonym zdjęciu widzisz willę Kosteckich, sąsiadującą z willą Potockich, otoczoną malowniczą zielenią.\nObiema willami opiekuje się Nadleśnictwo Zwierzyniec, Lasy Państwowe. Pomimo, że obiekt od 2010 roku nie jest użytkowany, to wciąż jest w zadowalającym stanie technicznym.\nObecnie Lubelski Wojewódzki Konserwator Zabytków prowadzi postępowanie w sprawie wpisu willi do rejestru zabytków, co pomoże w jej zachowaniu.\n\nDr Mieczysław Kseniak, ceniony ekspert, podkreśla unikalność tego obszaru:\n“Są to tereny szczególnie cenne ze względu na zachowane rezydencje w otoczeniu parku, dużą ilość osobliwości dendrologicznych (...). Najbardziej reprezentacyjnie przedstawiają się stosunkowo niedawno wzniesione rezydencje przy ul. Parkowej zw. “Kosteckich” i “Potockich” otoczone częściowo zniszczonymi ogrodami spacerowo-użytkowymi oraz parkiem. (...)\nDwie wille zbudowane na przełomie lat 20-tych i 30-tych obecnego stulecia reprezentują dworkowy charakter architektury typowy dla miejscowości kurortowo-letniskowych lub rezydencji podmiejskich tego okresu.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak udostępnienie tego posta i okazanie wsparcia przez serduszko, przyczyni się do wzrostu świadomości o tym, czym Zwierzyniec jest i jak wiele jest wart.\n\nDołącz do naszej misji ocalania piękna!\n\n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
+  "wordCount": 255,
+  "articleBody": "twoja-rola-w-zachowaniu.jpg\nlocation: \"Zwierzyniec\"\nlatitude: 50.61039\nlongitude: 22.96615\ndescription: \"Zastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej po...\"\n\n\nZastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej pomocy. Poprzez swój komentarz, możesz przyczynić się do wpisania willi do rejestru zabytków, co pomoże w ich ochronie i zachowaniu dla przyszłych pokoleń.\n\nNa załączonym zdjęciu widzisz willę Kosteckich, sąsiadującą z willą Potockich, otoczoną malowniczą zielenią.\nObiema willami opiekuje się Nadleśnictwo Zwierzyniec, Lasy Państwowe. Pomimo, że obiekt od 2010 roku nie jest użytkowany, to wciąż jest w zadowalającym stanie technicznym.\nObecnie Lubelski Wojewódzki Konserwator Zabytków prowadzi postępowanie w sprawie wpisu willi do rejestru zabytków, co pomoże w jej zachowaniu.\n\nDr Mieczysław Kseniak, ceniony ekspert, podkreśla unikalność tego obszaru:\n“Są to tereny szczególnie cenne ze względu na zachowane rezydencje w otoczeniu parku, dużą ilość osobliwości dendrologicznych (...). Najbardziej reprezentacyjnie przedstawiają się stosunkowo niedawno wzniesione rezydencje przy ul. Parkowej zw. “Kosteckich” i “Potockich” otoczone częściowo zniszczonymi ogrodami spacerowo-użytkowymi oraz parkiem. (...)\nDwie wille zbudowane na przełomie lat 20-tych i 30-tych obecnego stulecia reprezentują dworkowy charakter architektury typowy dla miejscowości kurortowo-letniskowych lub rezydencji podmiejskich tego okresu.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak udostępnienie tego posta i okazanie wsparcia przez serduszko, przyczyni się do wzrostu świadomości o tym, czym Zwierzyniec jest i jak wiele jest wart.\n\nDołącz do naszej misji ocalania piękna!\n\n\n\n©MJP",
+  "description": "Zastanawiałeś się kiedyś, czy zachowanie willi służy interesowi społecznemu? Naszym zdaniem - zdecydowanie tak. Dlatego właśnie potrzebujemy Twojej po...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -105,8 +105,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Ocalmy-piekno-Wille-w-parku---Twoja-rola-w-zachowaniu"
+      "name": "Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/ocalmy-piekno-wille-w-parku---twoja-rola-w-zachowaniu"
     }
   ]
 }

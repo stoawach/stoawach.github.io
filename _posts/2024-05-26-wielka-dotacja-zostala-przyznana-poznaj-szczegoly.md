@@ -45,7 +45,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Wielka dotacja została przyznana! Poznaj szczegóły.",
+  "headline": "Wielka dotacja została przyznana! Poznaj szczegóły",
   "datePublished": "2024-05-26",
   "dateModified": "2024-05-26",
   "author": {
@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-26-wielka-dotacja-zostala-przyznana-poznaj-szczegoly.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-26-wielka-dotacja-zostala-przyznana-poznaj-szczegoly.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 123,
-  "articleBody": "Zdjęcie przedstawia kościół na wodzie pw. św. Jana Nepomucena oświetlony promieniami porannego słońca, otulony soczystą, wiosenną zielenią. To najcenniejszy zabytek zbudowany w zwierzynieckim założeniu willowym w 1741 roku.\n\nJest już decyzja Konserwatora oraz pozwolenie na budowę wydane przez Starostwo, a Rada Miejska jednogłośnie uchwaliła przekazanie na rzecz parafii dotacji pochodzącej z Rządowego Programu Odbudowy Zabytków w wysokości do 3,5 miliona złotych.\n\nPrace obejmą m.in.: naprawę ścian fundamentowych, wykonanie izolacji, zszycie pęknięć ścian, naprawę dachu, wykonanie nowego odprowadzenia wody deszczowej, położenie tynku renowacyjnego, malowanie ścian i konserwację kamieniarki.\nW otoczeniu kościoła powstanie kamienna ścieżka, przeprowadzona zostanie konserwacja zieleni, a także remont dzwonnicy. Odnowiona będzie również kamienna figura NMP.\n\nDołącz do nas i wesprzyj rewitalizację Zwierzyńca!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia kościół na wodzie pw. św. Jana Nepomucena oświetlony promieniami porannego słońca, otulony soczystą, wiosenną zielenią. To najcenniejszy zabytek zbudowany w zwierzynieckim założeniu willowym w 1741 roku.\n\nJest już decyzja Konserwatora oraz pozwolenie na budowę wydane przez Starostwo, a Rada Miejska jednogłośnie uchwaliła przekazanie na rzecz parafii dotacji pochodzącej z Rządowego Programu Odbudowy Zabytków w wysokości do 3,5 miliona złotych.\n\nPrace obejmą m.in.: naprawę ścian fundamentowych, wykonanie izolacji, zszycie pęknięć ścian, naprawę dachu, wykonanie nowego odprowadzenia wody deszczowej, położenie tynku renowacyjnego, malowanie ścian i konserwację kamieniarki.\nW otoczeniu kościoła powstanie kamienna ścieżka, przeprowadzona zostanie konserwacja zieleni, a także remont dzwonnicy. Odnowiona będzie również kamienna figura NMP.\n\nDołącz do nas i wesprzyj rewitalizację Zwierzyńca!\nTwoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia kościół na wodzie pw. św. Jana Nepomucena oświetlony promieniami porannego słońca, otulony soczystą, wiosenną zielenią. To najcenn...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,8 +99,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Wielka dotacja została przyznana! Poznaj szczegóły.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Wielka-dotacja-zostala-przyznana-Poznaj-szczegoly"
+      "name": "Wielka dotacja została przyznana! Poznaj szczegóły",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly"
     }
   ]
 }

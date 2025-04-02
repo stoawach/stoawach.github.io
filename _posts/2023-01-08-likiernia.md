@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Likiernia.",
+  "headline": "Likiernia",
   "datePublished": "2023-01-08",
   "dateModified": "2023-01-08",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Likiernia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/likiernia"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-08-likiernia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-08-likiernia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 249,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia fragment idealnego założenia willowego. \nNa pierwszym planie widnieje część terenu przynależącego do kościółka na wodzie. Głębiej widać dysharmonijny płot wzdłuż ulicy Browarnej. Za nim znajduje się ongiś reprezentacyjny dziedziniec i dwie oficyny. Z lewej widać oficynę boczną mieszczącą internat Technikum im. Jana Zamoyskiego w Zwierzyńcu. Z prawej widać oficynę skrzydłową, w której w pierwszej połowie XIX wieku znajdowała się likiernia, potem plebania, a gdzie obecnie mieszkają członkowie wspólnoty mieszkaniowej. \n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“W 1834 roku w jednej z oficyn pałacowych urządzono likiernię. Fachowiec sprowadzony do kierowania produkcją był postacią niecodzienną. Liczący blisko siedemdziesiąt lat Włoch Luigi Papi miał opinię doskonałego likiernika, a choć zakład nadzorował profesor Jan Koncewicz, Papi bezpośrednio odpowiadał za jakość produktów likierni. [...]\nDo Zwierzyńca wędrowały z Warszawy i zza granicy wozy wiozące różne ingrediencje służące wytwarzaniu gatunkowych wódek: cukier, miód, olejki o różnych zapachach, spirytus francuski, cytryny, kawę, wanilię, cynamon, goździki, migdały, koszenilę, kremor-tartari, kardamon, kolender, korzeń fiołkowy, kwiat i owoc muszkatu, pieprz, imbir, liście bobkowe itp. Produkowano wódki o nie mniej interesujących nazwach: likiery waniliowe, różane, miętowe, pomarańczowe, malinowe, wódki gdańskie, goldwasser, krambambuli, kimmel, kalmus, ratafię, wódki jałowcowe, anyżowe, piołunowe, “persico” i inne.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia fragment idealnego założenia willowego.\nNa pierwszym planie widnieje część terenu przynależącego do kościółka na wodzie. Głębiej widać dysharmonijny płot wzdłuż ulicy Browarnej. Za nim znajduje się ongiś reprezentacyjny dziedziniec i dwie oficyny. Z lewej widać oficynę boczną mieszczącą internat Technikum im. Jana Zamoyskiego w Zwierzyńcu. Z prawej widać oficynę skrzydłową, w której w pierwszej połowie XIX wieku znajdowała się likiernia, potem plebania, a gdzie obecnie mieszkają członkowie wspólnoty mieszkaniowej.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“W 1834 roku w jednej z oficyn pałacowych urządzono likiernię. Fachowiec sprowadzony do kierowania produkcją był postacią niecodzienną. Liczący blisko siedemdziesiąt lat Włoch Luigi Papi miał opinię doskonałego likiernika, a choć zakład nadzorował profesor Jan Koncewicz, Papi bezpośrednio odpowiadał za jakość produktów likierni. [...]\nDo Zwierzyńca wędrowały z Warszawy i zza granicy wozy wiozące różne ingrediencje służące wytwarzaniu gatunkowych wódek: cukier, miód, olejki o różnych zapachach, spirytus francuski, cytryny, kawę, wanilię, cynamon, goździki, migdały, koszenilę, kremor-tartari, kardamon, kolender, korzeń fiołkowy, kwiat i owoc muszkatu, pieprz, imbir, liście bobkowe itp. Produkowano wódki o nie mniej interesujących nazwach: likiery waniliowe, różane, miętowe, pomarańczowe, malinowe, wódki gdańskie, goldwasser, krambambuli, kimmel, kalmus, ratafię, wódki jałowcowe, anyżowe, piołunowe, “persico” i inne.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Likiernia.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Likiernia"
+      "name": "Likiernia",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/likiernia"
     }
   ]
 }

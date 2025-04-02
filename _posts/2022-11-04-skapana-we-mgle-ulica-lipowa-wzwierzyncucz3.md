@@ -38,12 +38,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3",
+  "headline": "Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3",
   "datePublished": "2022-11-04",
   "dateModified": "2022-11-04",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -55,17 +55,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucz3"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 54,
-  "articleBody": "Czyż nie pięknie będzie spacerować bulwarem w otoczeniu tak bujnej przyrody? W Zwierzyńcu, mieście-ogrodzie, zdrowe i dojrzałe drzewa stanowią zasadniczy element zagospodarowania przestrzennego.\nW tej okolicy, przed laty, znajdował się mostek ułatwiający dojście z osiedla nad rzeką do fabryki mebli. Może w przyszłości wróci na swoje miejsce i będzie stanowił malowniczy element pejzażu.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Czyż nie pięknie będzie spacerować bulwarem w otoczeniu tak bujnej przyrody? W Zwierzyńcu, mieście-ogrodzie, zdrowe i dojrzałe drzewa stanowią zasadniczy element zagospodarowania przestrzennego.\nW tej okolicy, przed laty, znajdował się mostek ułatwiający dojście z osiedla nad rzeką do fabryki mebli. Może w przyszłości wróci na swoje miejsce i będzie stanowił malowniczy element pejzażu.\n\n\n\nMJP",
+  "description": "Czyż nie pięknie będzie spacerować bulwarem w otoczeniu tak bujnej przyrody? W Zwierzyńcu, mieście-ogrodzie, zdrowe i dojrzałe drzewa stanowią zasadni...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -88,8 +89,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Skapana-we-mgle-ulica-Lipowa-w-Zwierzyncu-cz-3"
+      "name": "Skąpana we mgle ulica Lipowa w Zwierzyńcu cz. 3",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/skapana-we-mgle-ulica-lipowa-wzwierzyncucz3"
     }
   ]
 }

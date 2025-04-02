@@ -32,7 +32,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2021-09-17",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -44,17 +44,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/milo-nampoinformowac-onowej-inicjatywie-powolanej-przez"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej-przez.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej-przez.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 111,
-  "articleBody": "Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!\n\nZałożyliśmy stowarzyszenie, którego celem jest działanie na rzecz ochrony i rozwoju dziedzictwa kulturowego, krajobrazowego i przyrodniczego naszego Miasta.\n\nNa patronkę naszych działań wybraliśmy Aleksandrę Wachniewską, która podejmowała starania na rzecz ochrony przyrody, zabytków i ważnych elementów krajobrazu Zwierzyńca. Wartości, jakim Artystka była wierna, nadal pozostają aktualne i są bliskie naszemu sercu, dlatego tak naturalnym było dla nas, aby nasze Stowarzyszenie nosiło właśnie Jej imię. \n\nMamy nadzieję na owocną współpracę z mieszkańcami, przedsiębiorcami, samorządem i lokalnymi instytucjami na rzecz zrównoważonego rozwoju Zwierzyńca i okolic. Zapraszamy wszystkie osoby, które podzielają naszą wizję i również czują potrzebę działania dla dobra naszej lokalnej społeczności.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 100,
+  "articleBody": "Założyliśmy stowarzyszenie, którego celem jest działanie na rzecz ochrony i rozwoju dziedzictwa kulturowego, krajobrazowego i przyrodniczego naszego Miasta.\n\nNa patronkę naszych działań wybraliśmy Aleksandrę Wachniewską, która podejmowała starania na rzecz ochrony przyrody, zabytków i ważnych elementów krajobrazu Zwierzyńca. Wartości, jakim Artystka była wierna, nadal pozostają aktualne i są bliskie naszemu sercu, dlatego tak naturalnym było dla nas, aby nasze Stowarzyszenie nosiło właśnie Jej imię.\n\nMamy nadzieję na owocną współpracę z mieszkańcami, przedsiębiorcami, samorządem i lokalnymi instytucjami na rzecz zrównoważonego rozwoju Zwierzyńca i okolic. Zapraszamy wszystkie osoby, które podzielają naszą wizję i również czują potrzebę działania dla dobra naszej lokalnej społeczności.",
+  "description": "Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -78,7 +79,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/milo-nampoinformowac-onowej-inicjatywie-powolanej-przez"
     }
   ]
 }

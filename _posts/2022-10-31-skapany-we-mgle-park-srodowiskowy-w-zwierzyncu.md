@@ -38,12 +38,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Skąpany we mgle park środowiskowy w Zwierzyńcu.",
+  "headline": "Skąpany we mgle park środowiskowy w Zwierzyńcu",
   "datePublished": "2022-10-31",
   "dateModified": "2022-10-31",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -55,17 +55,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/skapany-we-mgle-park-srodowiskowy-w-zwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-10-31-skapany-we-mgle-park-srodowiskowy-w-zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-10-31-skapany-we-mgle-park-srodowiskowy-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, parki",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, parki]",
   "wordCount": 37,
-  "articleBody": "Park znajduje się w części układu przestrzennego miasta wpisanej do rejestru zabytków już w 1978 r. Jak każdy zabytek rejestrowy podlega ochronie prawnej.\n\nZabytki to Twoje dziedzictwo. Działaj, by je chronić!\nNajprościej - udostępniając ten post.\n\n          \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Park znajduje się w części układu przestrzennego miasta wpisanej do rejestru zabytków już w 1978 r. Jak każdy zabytek rejestrowy podlega ochronie prawnej.\n\nZabytki to Twoje dziedzictwo. Działaj, by je chronić!\nNajprościej - udostępniając ten post.\n\n\n\nMJP",
+  "description": "Park znajduje się w części układu przestrzennego miasta wpisanej do rejestru zabytków już w 1978 r. Jak każdy zabytek rejestrowy podlega ochronie praw...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -88,8 +89,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Skąpany we mgle park środowiskowy w Zwierzyńcu.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Skapany-we-mgle-park-srodowiskowy-w-Zwierzyncu"
+      "name": "Skąpany we mgle park środowiskowy w Zwierzyńcu",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/skapany-we-mgle-park-srodowiskowy-w-zwierzyncu"
     }
   ]
 }

@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Przemiany niezwykłej willi.",
+  "headline": "Przemiany niezwykłej willi",
   "datePublished": "2022-12-02",
   "dateModified": "2022-12-02",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Przemiany-niezwyklej-willi"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/przemiany-niezwyklej-willi"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-02-przemiany-niezwyklej-willi.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-02-przemiany-niezwyklej-willi.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 215,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie, zrobione na wyspie, przedstawia najważniejsze wnętrze krajobrazowe Zwierzyńca. Na pierwszym planie jest staw kościelny. Pośrodku widać pobitą gontem dzwonnicę zbudowaną na początku ubiegłego stulecia. W oddali można zobaczyć oficyny idealnej modrzewiowej willi - północną boczną i północną skrzydłową z lewej oraz południową skrzydłową z prawej strony.\n\nWilla ewoluowała na przestrzeni lat.\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“(...) pod koniec XVIII wieku w Zwierzyńcu przystąpiono do realizacji rozległego kompozycyjnie założenia rezydencjonalnego. Składały się nań pałac i cztery oficyny tworzące układ w podkowę, w otoczeniu romantycznego parku przechodzącego w otwarty krajobraz. Realizacja nosi ślady poprzednich układów (...) nastąpiła ona bowiem na ich kanwie przez adaptację względnie trwałych elementów: drewnianego pałacu, kaplicy na środkowej wyspie stawu, dróg, “kamiennego mostu”, alei lipowej, szpalerów grabowych, grup starodrzewu i założeń wodnych, jak: długi kanał, pałacowa sadzawka, staw z wyspami oraz naturalnego otoczenia, które włączono do programu nowej rezydencji.”\nWszystko to działo się z należytym poznaniem i poszanowaniem tego, co przodkowie zostawili w spadku.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta. \nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie, zrobione na wyspie, przedstawia najważniejsze wnętrze krajobrazowe Zwierzyńca. Na pierwszym planie jest staw kościelny. Pośrodku widać pobitą gontem dzwonnicę zbudowaną na początku ubiegłego stulecia. W oddali można zobaczyć oficyny idealnej modrzewiowej willi - północną boczną i północną skrzydłową z lewej oraz południową skrzydłową z prawej strony.\n\nWilla ewoluowała na przestrzeni lat.\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“(...) pod koniec XVIII wieku w Zwierzyńcu przystąpiono do realizacji rozległego kompozycyjnie założenia rezydencjonalnego. Składały się nań pałac i cztery oficyny tworzące układ w podkowę, w otoczeniu romantycznego parku przechodzącego w otwarty krajobraz. Realizacja nosi ślady poprzednich układów (...) nastąpiła ona bowiem na ich kanwie przez adaptację względnie trwałych elementów: drewnianego pałacu, kaplicy na środkowej wyspie stawu, dróg, “kamiennego mostu”, alei lipowej, szpalerów grabowych, grup starodrzewu i założeń wodnych, jak: długi kanał, pałacowa sadzawka, staw z wyspami oraz naturalnego otoczenia, które włączono do programu nowej rezydencji.”\nWszystko to działo się z należytym poznaniem i poszanowaniem tego, co przodkowie zostawili w spadku.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta.\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Przemiany niezwykłej willi.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Przemiany-niezwyklej-willi"
+      "name": "Przemiany niezwykłej willi",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/przemiany-niezwyklej-willi"
     }
   ]
 }

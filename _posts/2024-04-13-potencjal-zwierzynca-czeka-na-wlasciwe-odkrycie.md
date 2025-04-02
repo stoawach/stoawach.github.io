@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-04-13-potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-04-13-potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, NarodowyInstytutDziedzictwa",
-  "wordCount": 168,
-  "articleBody": "NID to państwowa instytucja kultury, która jest eksperckim wsparciem dla Ministerstwa Kultury i Dziedzictwa Narodowego oraz instytucji publicznych w zakresie ochrony i opieki nad zabytkami. Jego misja trwa już ponad 60 lat. Dzięki wykorzystaniu jego wskazań dziedzictwo Zwierzyńca może stać się motorem rozwoju gospodarczego i społecznego.\n\nOpracowanie studialne NID to niepowtarzalna szansa dla Zwierzyńca, nie tylko na rozwój z poszanowaniem tego, co otrzymaliśmy od minionych pokoleń, ale też na wykorzystanie pełnego potencjału drzemiącego w przyrodzie i zabytkach Serca Roztocza.\n\nPierwsze zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena - najcenniejszy barokowy element założenia willowego w Zwierzyńcu - w otoczeniu soczystej wiosennej zieleni.\nNa pierwszym planie kolejnego zdjęcia widać kokorycz pełną i zawilce żółte kwitnące w parku miejskim. W tle można zobaczyć altanki znajdujące się przy deptaku na ul. Aleksandry Wachniewskiej.\n\nCzy Zwierzyniec skorzysta z tej niesamowitej możliwości? To zależy także od Ciebie!\nTwoja aktywność i zaangażowanie są niezwykle istotne, by Zwierzyniec mógł powrócić do dawnej świetności i stać się jeszcze piękniejszym miejscem do życia i odwiedzin.\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, NarodowyInstytutDziedzictwa]",
+  "wordCount": 194,
+  "articleBody": "Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie! To dlatego niezwykle ważne dla niego są wskazania konserwatorskie zawarte w opracowaniu studialnym przygotowanym przez Narodowy Instytut Dziedzictwa.\n\nNID to państwowa instytucja kultury, która jest eksperckim wsparciem dla Ministerstwa Kultury i Dziedzictwa Narodowego oraz instytucji publicznych w zakresie ochrony i opieki nad zabytkami. Jego misja trwa już ponad 60 lat. Dzięki wykorzystaniu jego wskazań dziedzictwo Zwierzyńca może stać się motorem rozwoju gospodarczego i społecznego.\n\nOpracowanie studialne NID to niepowtarzalna szansa dla Zwierzyńca, nie tylko na rozwój z poszanowaniem tego, co otrzymaliśmy od minionych pokoleń, ale też na wykorzystanie pełnego potencjału drzemiącego w przyrodzie i zabytkach Serca Roztocza.\n\nPierwsze zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena - najcenniejszy barokowy element założenia willowego w Zwierzyńcu - w otoczeniu soczystej wiosennej zieleni.\nNa pierwszym planie kolejnego zdjęcia widać kokorycz pełną i zawilce żółte kwitnące w parku miejskim. W tle można zobaczyć altanki znajdujące się przy deptaku na ul. Aleksandry Wachniewskiej.\n\nCzy Zwierzyniec skorzysta z tej niesamowitej możliwości? To zależy także od Ciebie!\nTwoja aktywność i zaangażowanie są niezwykle istotne, by Zwierzyniec mógł powrócić do dawnej świetności i stać się jeszcze piękniejszym miejscem do życia i odwiedzin.\n\n\n\n©MJP",
+  "description": "NID to państwowa instytucja kultury, która jest eksperckim wsparciem dla Ministerstwa Kultury i Dziedzictwa Narodowego oraz instytucji publicznych w z...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,7 +102,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Potencjal-Zwierzynca-czeka-na-wlasciwe-odkrycie"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie"
     }
   ]
 }

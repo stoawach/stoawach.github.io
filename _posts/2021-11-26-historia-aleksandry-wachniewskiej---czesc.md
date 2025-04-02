@@ -30,12 +30,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej",
+  "headline": "Historia Aleksandry Wachniewskiej - część I",
   "datePublished": "2021-11-26",
   "dateModified": "2021-11-26",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -47,17 +47,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani-zaczynamy-nasza-serie-postow-o-Aleksandrze"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-26-historia-aleksandry-wachniewskiej---czesc.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-11-26-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 113,
-  "articleBody": "ALEKSANDRA WACHNIEWSKA\n (1902-1989) \n MALARKA ROZTOCZA\n\n“Gdyby nie to, że mam tyle sentymentu do tych stron, tyle wspomnień, tyle włożonej tu pracy - wyjechałabym stąd już dawno. Nie mogę rozstać się z tutejszymi lasami i wzgórzami, nigdy nie znajdę takich pięknych jodeł i buków, nigdzie nie będą tak pięknie szumieć sosny. (...) Los mój tu związany z tą ziemią, z tymi lasami, które tak bardzo ukochałam!” - słowa te czytamy w albumie “Aleksandra Wachniewska Malarka Roztocza” autorstwa Tomasza Gajewskiego ze Zwierzyńca.\n     Aleksandra Wachniewska to renesansowa wszechstronna osobowość godna przyrodniczego i odrodzeniowego dziedzictwa Kanclerza i Hetmana Wielkiego Koronnego Jana Zamoyskiego. Piękno tej ziemi utrwalała w malarstwie, dokumentacji i staraniach  o zachowanie jej niezwykłych walorów. (cdn.)",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 137,
+  "articleBody": "czesc.jpg\nlocation: \"Unknown Location\"\ndescription: \"ALEKSANDRA WACHNIEWSKA  (1902-1989)...\"\n\n\nPrzez kolejne kilka dni przybliżać będziemy Wam Jej postać. Zapraszamy do lektury i prosimy o udostępnienia!\n\nALEKSANDRA WACHNIEWSKA\n (1902-1989)\n MALARKA ROZTOCZA\n\n“Gdyby nie to, że mam tyle sentymentu do tych stron, tyle wspomnień, tyle włożonej tu pracy - wyjechałabym stąd już dawno. Nie mogę rozstać się z tutejszymi lasami i wzgórzami, nigdy nie znajdę takich pięknych jodeł i buków, nigdzie nie będą tak pięknie szumieć sosny. (...) Los mój tu związany z tą ziemią, z tymi lasami, które tak bardzo ukochałam!” - słowa te czytamy w albumie “Aleksandra Wachniewska Malarka Roztocza” autorstwa Tomasza Gajewskiego ze Zwierzyńca.\n     Aleksandra Wachniewska to renesansowa wszechstronna osobowość godna przyrodniczego i odrodzeniowego dziedzictwa Kanclerza i Hetmana Wielkiego Koronnego Jana Zamoyskiego. Piękno tej ziemi utrwalała w malarstwie, dokumentacji i staraniach  o zachowanie jej niezwykłych walorów. (cdn.)",
+  "description": "ALEKSANDRA WACHNIEWSKA  (1902-1989)...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -80,8 +81,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Kochani, zaczynamy naszą serię postów o Aleksandrze Wachniewskiej",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kochani-zaczynamy-nasza-serie-postow-o-Aleksandrze"
+      "name": "Historia Aleksandry Wachniewskiej - część I",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
     }
   ]
 }

@@ -31,12 +31,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Trzecia część prezentacji Aleksandry Wachniewskiej",
+  "headline": "Historia Aleksandry Wachniewskiej - część III",
   "datePublished": "2021-12-02",
   "dateModified": "2021-12-02",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -48,17 +48,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Trzecia-czesc-prezentacji-Aleksandry-Wachniewskiej"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc-iii"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-02-historia-aleksandry-wachniewskiej---czesc-iii.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-12-02-historia-aleksandry-wachniewskiej---czesc-iii.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 199,
-  "articleBody": "STUDIA SZTUK PIĘKNYCH I KREACJE ALEKSANDRY\n\n     Studia artystyczne w Szkole Sztuk Pięknych w Warszawie ze specjalnością z grafiki ukończyła w latach 1923-1930. Do roku 1939 mieszkała i tworzyła w stolicy (miedzioryty, ilustracje książek, grafika użytkowa, malarstwo sztalugowe). Każdą wolną chwilę spędzała w Zwierzyńcu, gdzie rodzice osiedli w podeszłym wieku. Wiele z tych wypraw znaczyła obrazami zwierzynieckiej ziemi.\n     W pierwszych dniach wojny wróciła do Zwierzyńca i zaangażowała się w działalność konspiracyjną pracując przy wydawnictwach prasy podziemnej. Zaprojektowała i wykonała sztandar 9 Pułku Piechoty AK. Nie odłożyła pędzla. Powstawały tu kolejne pejzaże.\n     W roku 1950 uzyskała status członka nadzwyczajnego Związku Polskich Artystów Plastyków okręgu lubelskiego, w sekcji grafiki. Od 1959 r. była członkiem rzeczywistym. Projektowała cykl pocztówek “Rośliny Tatrzańskie” dla wydawnictwa “Kraj”. Na zlecenie Ligi Ochrony Przyrody wykonywała i wydawała w formie książeczek dla dzieci ilustracje przyrodnicze na temat roślin i zwierząt chronionych. \nMalowała Roztocze z intuicyjnym znawstwem i rozumieniem życia przyrody, z potrzeby serca, dla ocalenia odchodzących w przeszłość krajobrazów. Jej twórczość mocno była spleciona z umiłowaniem malowanej puszczy, drzew, kwiatów, przysiółków, domostw i kapliczek. Na Jej obrazach możemy odnaleźć motywy architektoniczne jak domy po urzędnikach Ordynacji Zamojskiej czy  ludową architekturę roztoczańskich wsi. (cdn.)\n\nObraz - A. Wachniewska, zbiory prywatne.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 211,
+  "articleBody": "czesc-iii.jpg\nlocation: \"Unknown Location\"\ndescription: \"STUDIA SZTUK PIĘKNYCH I KREACJE ALEKSANDRY...\"\n\n\nZapraszamy do lektury i prosimy o udostępnienia!\n\nSTUDIA SZTUK PIĘKNYCH I KREACJE ALEKSANDRY\n\nStudia artystyczne w Szkole Sztuk Pięknych w Warszawie ze specjalnością z grafiki ukończyła w latach 1923-1930. Do roku 1939 mieszkała i tworzyła w stolicy (miedzioryty, ilustracje książek, grafika użytkowa, malarstwo sztalugowe). Każdą wolną chwilę spędzała w Zwierzyńcu, gdzie rodzice osiedli w podeszłym wieku. Wiele z tych wypraw znaczyła obrazami zwierzynieckiej ziemi.\nW pierwszych dniach wojny wróciła do Zwierzyńca i zaangażowała się w działalność konspiracyjną pracując przy wydawnictwach prasy podziemnej. Zaprojektowała i wykonała sztandar 9 Pułku Piechoty AK. Nie odłożyła pędzla. Powstawały tu kolejne pejzaże.\nW roku 1950 uzyskała status członka nadzwyczajnego Związku Polskich Artystów Plastyków okręgu lubelskiego, w sekcji grafiki. Od 1959 r. była członkiem rzeczywistym. Projektowała cykl pocztówek “Rośliny Tatrzańskie” dla wydawnictwa “Kraj”. Na zlecenie Ligi Ochrony Przyrody wykonywała i wydawała w formie książeczek dla dzieci ilustracje przyrodnicze na temat roślin i zwierząt chronionych.\nMalowała Roztocze z intuicyjnym znawstwem i rozumieniem życia przyrody, z potrzeby serca, dla ocalenia odchodzących w przeszłość krajobrazów. Jej twórczość mocno była spleciona z umiłowaniem malowanej puszczy, drzew, kwiatów, przysiółków, domostw i kapliczek. Na Jej obrazach możemy odnaleźć motywy architektoniczne jak domy po urzędnikach Ordynacji Zamojskiej czy  ludową architekturę roztoczańskich wsi. (cdn.)",
+  "description": "STUDIA SZTUK PIĘKNYCH I KREACJE ALEKSANDRY...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -81,8 +82,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Trzecia część prezentacji Aleksandry Wachniewskiej",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Trzecia-czesc-prezentacji-Aleksandry-Wachniewskiej"
+      "name": "Historia Aleksandry Wachniewskiej - część III",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc-iii"
     }
   ]
 }

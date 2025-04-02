@@ -62,17 +62,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-18-czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-18-czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, BrowarZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, BrowarZwierzyniec]",
   "wordCount": 164,
-  "articleBody": "Zdjęcie przedstawia zabytkowy browar w Zwierzyńcu oświetlony przez błyskawicę. To integralny element historycznego miasta-ogrodu.\n\nPoznaliśmy już wspólnie część wytycznych Narodowego Instytutu Dziedzictwa przygotowanych specjalnie dla Zwierzyńca. To dzięki nim wiemy, jak to piękne miasto powinno rozwijać się z poszanowaniem dziedzictwa - tak by w pełni wykorzystać swój niezwykły potencjał.\n\nW odniesieniu do browaru NID wskazuje na potrzebę nowego zagospodarowania dziedzińca. Teren powinien być uporządkowany, a nawierzchnia wymieniona na materiał naturalny. Ponadto, w opracowaniu czytamy: “Stary browar, jako miejsce ważne na mapie kulturalnej miasta, winien być włączony w ciągi spacerowe istniejące w strefie założenia rezydencjonalnego (wzdłuż kanału) poprzez wykonanie sieci alejek i duktów na jego zapleczu. Stworzy to ścieżkę edukacyjną związaną z dawną techniką, następnie przechodzącą w  środowisko naturalne, integrując tym samym przestrzeń opanowaną przez człowieka z krajobrazem otwartym.“.\n\nPrzyłącz się do nas i pomóż w rewitalizacji Zwierzyńca!\nTwoje wsparcie jest niezwykle ważne – polub ten post, udostępnij go i podziel się z innymi.\nKażda pomoc przyczynia się do odzyskania blasku tej wyjątkowej perły.\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia zabytkowy browar w Zwierzyńcu oświetlony przez błyskawicę. To integralny element historycznego miasta-ogrodu.\n\nPoznaliśmy już wspólnie część wytycznych Narodowego Instytutu Dziedzictwa przygotowanych specjalnie dla Zwierzyńca. To dzięki nim wiemy, jak to piękne miasto powinno rozwijać się z poszanowaniem dziedzictwa - tak by w pełni wykorzystać swój niezwykły potencjał.\n\nW odniesieniu do browaru NID wskazuje na potrzebę nowego zagospodarowania dziedzińca. Teren powinien być uporządkowany, a nawierzchnia wymieniona na materiał naturalny. Ponadto, w opracowaniu czytamy: “Stary browar, jako miejsce ważne na mapie kulturalnej miasta, winien być włączony w ciągi spacerowe istniejące w strefie założenia rezydencjonalnego (wzdłuż kanału) poprzez wykonanie sieci alejek i duktów na jego zapleczu. Stworzy to ścieżkę edukacyjną związaną z dawną techniką, następnie przechodzącą w  środowisko naturalne, integrując tym samym przestrzeń opanowaną przez człowieka z krajobrazem otwartym.“.\n\nPrzyłącz się do nas i pomóż w rewitalizacji Zwierzyńca!\nTwoje wsparcie jest niezwykle ważne – polub ten post, udostępnij go i podziel się z innymi.\nKażda pomoc przyczynia się do odzyskania blasku tej wyjątkowej perły.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia zabytkowy browar w Zwierzyńcu oświetlony przez błyskawicę. To integralny element historycznego miasta-ogrodu....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,7 +100,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy teraz prace projektowe będą postępować błyskawicznie?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-teraz-prace-projektowe-beda-postepowac-blyskawicznie"
     }
   ]
 }

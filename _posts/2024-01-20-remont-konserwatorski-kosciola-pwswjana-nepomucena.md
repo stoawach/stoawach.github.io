@@ -44,7 +44,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu",
+  "headline": "Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu",
   "datePublished": "2024-01-20",
   "dateModified": "2024-01-20",
   "author": {
@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Remont-konserwatorski-kosciola-pw-sw-Jana-Nepomucena"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/remont-konserwatorski-kosciola-pwswjana-nepomucena"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-20-remont-konserwatorski-kosciola-pwswjana-nepomucena.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-01-20-remont-konserwatorski-kosciola-pwswjana-nepomucena.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły]",
   "wordCount": 120,
-  "articleBody": "Zwierzyniecki kościół “na wodzie” niedługo odzyska swój blask. Wkrótce poznamy program prac, jakie zostaną wykonane w ramach “Remontu konserwatorskiego Kościoła p.w. św. Jana Nepomucena w Zwierzyńcu wraz z renowacją otoczenia przy kościele”. Wartość robót budowlanych ma wynieść trzy i pół miliona złotych. Obserwuj nasz profil, by razem z nami na bieżąco śledzić przebieg prac.\n\n“Późnobarokowy kościół na wodzie jest najcenniejszym zabytkiem Zwierzyńca, budowlą unikalną, podziwianą ze względu na położenie i piękną sylwetkę.\nZbudowano go na planie łacińskiego krzyża, którego dłuższe ramię stanowi most prowadzony przez wody stawu wprost do wejścia świątyni.” podaje Halina Matławska w książce “Zwierzyniec”.\n\nZdjęcia przedstawiają kościół “na wodzie” w zimowej scenerii i nocnym oświetleniu.\n\nDołącz do naszej misji! Wspólnie sprawmy, że Zwierzyniec zabłyśnie prawdziwym blaskiem!\n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zwierzyniecki kościół “na wodzie” niedługo odzyska swój blask. Wkrótce poznamy program prac, jakie zostaną wykonane w ramach “Remontu konserwatorskiego Kościoła p.w. św. Jana Nepomucena w Zwierzyńcu wraz z renowacją otoczenia przy kościele”. Wartość robót budowlanych ma wynieść trzy i pół miliona złotych. Obserwuj nasz profil, by razem z nami na bieżąco śledzić przebieg prac.\n\n“Późnobarokowy kościół na wodzie jest najcenniejszym zabytkiem Zwierzyńca, budowlą unikalną, podziwianą ze względu na położenie i piękną sylwetkę.\nZbudowano go na planie łacińskiego krzyża, którego dłuższe ramię stanowi most prowadzony przez wody stawu wprost do wejścia świątyni.” podaje Halina Matławska w książce “Zwierzyniec”.\n\nZdjęcia przedstawiają kościół “na wodzie” w zimowej scenerii i nocnym oświetleniu.\n\nDołącz do naszej misji! Wspólnie sprawmy, że Zwierzyniec zabłyśnie prawdziwym blaskiem!\n\n\n\n©MJP",
+  "description": "Zwierzyniecki kościół “na wodzie” niedługo odzyska swój blask. Wkrótce poznamy program prac, jakie zostaną wykonane w ramach “Remontu konserwatorskieg...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,8 +98,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Remont-konserwatorski-kosciola-pw-sw-Jana-Nepomucena"
+      "name": "Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/remont-konserwatorski-kosciola-pwswjana-nepomucena"
     }
   ]
 }

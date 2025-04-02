@@ -57,17 +57,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Kazde-male-miasto-ma-swoj-Wawel"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/kazde-male-miasto-ma-swoj-wawel"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-01-27-kazde-male-miasto-ma-swoj-wawel.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-01-27-kazde-male-miasto-ma-swoj-wawel.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, kościoły]",
   "wordCount": 99,
-  "articleBody": "W Zwierzyńcu na miano Wawelu - prawdziwej perełki - z pewnością zasługuje barokowy kościół “na wodzie” p.w. św. Jana Nepomucena znajdujący się w chronionym obszarze krajobrazowej renesansowej willi. Już dziś jest to obiekt o szczególnym znaczeniu, a efekty czekającego go wkrótce remontu, pomogą rozsławić ten zabytek na całą Polskę.\n Czy w Zwierzyńcu są też inne obiekty, które Twoim zdaniem zasługują na zachowanie i przywrócenie świetności? Podziel się swoimi sugestiami w komentarzu. Twój głos pomoże w lepszej opiece nad dziedzictwem Zwierzyńca.\n\nZdjęcie przedstawia malowniczy kościółek “na wodzie” otoczony poranną jesienną mgłą.\n\nRazem możemy sprawić, że Zwierzyniec zajaśnieje prawdziwym blaskiem! \n\n              \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "W Zwierzyńcu na miano Wawelu - prawdziwej perełki - z pewnością zasługuje barokowy kościół “na wodzie” p.w. św. Jana Nepomucena znajdujący się w chronionym obszarze krajobrazowej renesansowej willi. Już dziś jest to obiekt o szczególnym znaczeniu, a efekty czekającego go wkrótce remontu, pomogą rozsławić ten zabytek na całą Polskę.\n Czy w Zwierzyńcu są też inne obiekty, które Twoim zdaniem zasługują na zachowanie i przywrócenie świetności? Podziel się swoimi sugestiami w komentarzu. Twój głos pomoże w lepszej opiece nad dziedzictwem Zwierzyńca.\n\nZdjęcie przedstawia malowniczy kościółek “na wodzie” otoczony poranną jesienną mgłą.\n\nRazem możemy sprawić, że Zwierzyniec zajaśnieje prawdziwym blaskiem!\n\n\n\n©MJP",
+  "description": "W Zwierzyńcu na miano Wawelu - prawdziwej perełki - z pewnością zasługuje barokowy kościół “na wodzie” p.w. św. Jana Nepomucena znajdujący się w chron...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -95,7 +95,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Każde małe miasto ma swój Wawel?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Kazde-male-miasto-ma-swoj-Wawel"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/kazde-male-miasto-ma-swoj-wawel"
     }
   ]
 }

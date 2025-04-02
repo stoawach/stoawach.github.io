@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/to-dzis-najwazniejszy-element-zalozenia-willowego"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-21-to-dzis-najwazniejszy-element-zalozenia-willowego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-12-21-to-dzis-najwazniejszy-element-zalozenia-willowego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
-  "wordCount": 149,
-  "articleBody": "Fotografia przedstawia ujęcie z lotu ptaka na charakterystyczną sylwetę kościoła pw. św. Jana Nepomucena w Zwierzyńcu oświetlonego zachodzącym jesiennym słońcem. Wokół widać spokojne wody stawu kościelnego przyprószone żółtymi liśćmi, a po lewej stronie sąsiednią wyspę.\n\nKościół jest barokowym elementem rozwijającego się na przestrzeni wieków Założenia Willowego. Jak czytamy w książce Haliny Matławskiej pt. “Kościół świętego Jana Nepomucena w Zwierzyńcu”: \n“Wiadomym mu [I ordynatowi] było, co powinno znajdować się w obrębie takiej willi: wygodny i piękny dwór, budynki zaplecza gospodarczego (kuchnia, piekarnia, pralnia, łaźnia, stajnie, dom ogrodnika), a nade wszystko ogród pełen starannie dobranych drzew, krzewów, kwiatów i ziół, z szumiącym strumieniem, z obowiązkowym zwierzyńczykiem, gdzie spotykano łagodne, oswojone zwierzęta.”\n\nRazem możemy ożywić historię i przyszłość tego miejsca! Polub i podziel się tym postem, by pomóc innym odkryć piękno i wartość niezwykłego dziedzictwa Zwierzyńca.\n\nZdjęcie dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
+  "wordCount": 150,
+  "articleBody": "Fotografia przedstawia ujęcie z lotu ptaka na charakterystyczną sylwetę kościoła pw. św. Jana Nepomucena w Zwierzyńcu oświetlonego zachodzącym jesiennym słońcem. Wokół widać spokojne wody stawu kościelnego przyprószone żółtymi liśćmi, a po lewej stronie sąsiednią wyspę.\n\nKościół jest barokowym elementem rozwijającego się na przestrzeni wieków Założenia Willowego. Jak czytamy w książce Haliny Matławskiej pt. “Kościół świętego Jana Nepomucena w Zwierzyńcu”:\n“Wiadomym mu [I ordynatowi] było, co powinno znajdować się w obrębie takiej willi: wygodny i piękny dwór, budynki zaplecza gospodarczego (kuchnia, piekarnia, pralnia, łaźnia, stajnie, dom ogrodnika), a nade wszystko ogród pełen starannie dobranych drzew, krzewów, kwiatów i ziół, z szumiącym strumieniem, z obowiązkowym zwierzyńczykiem, gdzie spotykano łagodne, oswojone zwierzęta.”\n\nRazem możemy ożywić historię i przyszłość tego miejsca! Polub i podziel się tym postem, by pomóc innym odkryć piękno i wartość niezwykłego dziedzictwa Zwierzyńca.\n\nZdjęcie MJP dzięki uprzejmości Fundacja Honesty, realizującej projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo.\n\n\n\n©MJP",
+  "description": "Fotografia przedstawia ujęcie z lotu ptaka na charakterystyczną sylwetę kościoła pw. św. Jana Nepomucena w Zwierzyńcu oświetlonego zachodzącym jesienn...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "To dziś najważniejszy element Założenia Willowego w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/To-dzis-najwazniejszy-element-Zalozenia-Willowego"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/to-dzis-najwazniejszy-element-zalozenia-willowego"
     }
   ]
 }

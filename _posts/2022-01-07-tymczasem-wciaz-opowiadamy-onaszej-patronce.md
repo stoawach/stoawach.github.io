@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2022-01-07",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -58,17 +58,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Witajcie-w-Roku-Aleksandry-Wachniewskiej"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/tymczasem-wciaz-opowiadamy-onaszej-patronce"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 199,
-  "articleBody": "Nie martwcie się, na huczną inaugurację roku naszej Patronki przyjdzie pora na wiosnę! \n\nPierwsze miesiące 2022 roku przeznaczamy na przygotowania i w związku z tym zapraszamy 14 stycznia na spotkanie otwarte. Przedstawimy plan obchodów i nasze obecne inicjatywy. Jeśli chcecie dołączyć do naszego Stowarzyszenia, włączyć się w organizację Roku Aleksandry Wachniewskiej lub w inne nasze akcje, serdecznie zapraszamy! Szczegóły wkrótce!\n\nTymczasem wciąż opowiadamy o naszej Patronce. Poniżej VII część prezentacji życia i działań Aleksandry Wachniewskiej. \n\nDORODNY PLON NA POKOLENIA\nW roku 1967, kiedy pozostało już tylko wszcząć praktyczne starania o utworzenie parku narodowego na Roztoczu, prof.  Szafer z całą plejadą innych uczonych, pisze do Aleksandry Wachniewskiej: \n“Z górą 30 lat przeminęło, \nświat się zmienił i z nim Polska.\nJedno tylko zostało niezmienione\nw sercu Roztocza:\njego piękno i niedający się opisać\nurok roztockiej przyrody.\nMa on swoją opiekunkę,\nktóra odczuwa piękno Roztocza tak,\njak nikt inny w Polsce.\nNarodowi przekazuje urok drzew i lasu\nurzekającą potęgą\nSwojego szczerego talentu artystycznego.\nJej życzymy wiele sił i wielu jeszcze dzieł.” (cdn.)\n\nPoprzednie części:\nAleksandra Wachniewska, malarka Roztocza:\n[https://www.facebook.com/stoawach/posts/126791469760100](https://www.facebook.com/stoawach/posts/126791469760100)\nDzieciństwo Oli pośród lasów:\n[https://www.facebook.com/stoawach/posts/127410566364857](https://www.facebook.com/stoawach/posts/127410566364857)\nStudia Sztuk Pięknych i kreacje Aleksandry:\n[https://www.facebook.com/stoawach/posts/128044452968135](https://www.facebook.com/stoawach/posts/128044452968135)\nDorobek Malarki:\n[https://www.facebook.com/stoawach/posts/129793726126541](https://www.facebook.com/stoawach/posts/129793726126541)\nOsobowa dojrzałość twórcza:\n[https://www.facebook.com/stoawach/posts/131324862640094](https://www.facebook.com/stoawach/posts/131324862640094)\nJasny cel przeznaczenia:\n[https://www.facebook.com/stoawach/posts/133006222471958](https://www.facebook.com/stoawach/posts/133006222471958)",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 102,
+  "articleBody": "Poniżej VII część prezentacji życia i działań Aleksandry Wachniewskiej.\n\nDORODNY PLON NA POKOLENIA\nW roku 1967, kiedy pozostało już tylko wszcząć praktyczne starania o utworzenie parku narodowego na Roztoczu, prof.  Szafer z całą plejadą innych uczonych, pisze do Aleksandry Wachniewskiej:\n“Z górą 30 lat przeminęło,\nświat się zmienił i z nim Polska.\nJedno tylko zostało niezmienione\nw sercu Roztocza:\njego piękno i niedający się opisać\nurok roztockiej przyrody.\nMa on swoją opiekunkę,\nktóra odczuwa piękno Roztocza tak,\njak nikt inny w Polsce.\nNarodowi przekazuje urok drzew i lasu\nurzekającą potęgą\nSwojego szczerego talentu artystycznego.\nJej życzymy wiele sił i wielu jeszcze dzieł.”",
+  "description": "Nie martwcie się, na huczną inaugurację roku naszej Patronki przyjdzie pora na wiosnę!...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -92,7 +93,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Tymczasem wciąż opowiadamy o naszej Patronce",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Witajcie-w-Roku-Aleksandry-Wachniewskiej"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/tymczasem-wciaz-opowiadamy-onaszej-patronce"
     }
   ]
 }

@@ -31,12 +31,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ALEKSANDRA WACHNIEWSKA",
+  "headline": "Aleksandra Wachniewska",
   "datePublished": "2021-10-14",
   "dateModified": "2021-10-14",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -48,17 +48,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/ALEKSANDRA-WACHNIEWSKA"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/aleksandra-wachniewska"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-14-aleksandra-wachniewska.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-10-14-aleksandra-wachniewska.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 40,
-  "articleBody": "z Fejfer-Stankowskich, \nartystka, malarka Roztocza, współtwórca Roztoczańskiego Parku Narodowego, \nprzyszła na świat jesienią, 25 września 1902 roku.\n   Odeszła także jesienną porą, ukochaną Aleją Marysieńki, 14 października 1989 roku.\n   W obrazach pozostawiła nam niepowtarzalną jesienną paletę barw krajobrazów i portretów drzew.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 42,
+  "articleBody": "ALEKSANDRA WACHNIEWSKA z Fejfer-Stankowskich,\n\n   artystka, malarka Roztocza, współtwórca Roztoczańskiego Parku Narodowego,\n\n   przyszła na świat jesienią, 25 września 1902 roku.\n\n   Odeszła także jesienną porą, ukochaną Aleją Marysieńki, 14 października 1989 roku.\n\n   W obrazach pozostawiła nam niepowtarzalną jesienną paletę barw krajobrazów i portretów drzew.",
+  "description": "z Fejfer-Stankowskich,  artystka, malarka Roztocza, współtwórca Roztoczańskiego Parku Narodowego,...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -81,8 +82,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ALEKSANDRA WACHNIEWSKA",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/ALEKSANDRA-WACHNIEWSKA"
+      "name": "Aleksandra Wachniewska",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/aleksandra-wachniewska"
     }
   ]
 }

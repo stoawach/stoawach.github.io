@@ -49,7 +49,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Pałac administracji.",
+  "headline": "Pałac administracji",
   "datePublished": "2023-01-03",
   "dateModified": "2023-01-03",
   "author": {
@@ -66,17 +66,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Palac-administracji"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/palac-administracji"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-03-palac-administracji.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-03-palac-administracji.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 173,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia murowaną z cegły oficynę skrzydłową północną. Dziś jest to główny budynek Technikum im. Jana Zamoyskiego w Zwierzyńcu.\nPod czujnym okiem delegatury Lubelski Wojewódzki Konserwator Zabytków dobiega końca wymiana okien w oficynie. Dzięki staraniom, jakie podejmuje Powiat Zamojski, najważniejsze zabytki idealnego założenia willowo-parkowego wracają do swojej świetności. \n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Na mocy postanowienia z 11 grudnia 1820 r. wydanego w Opawie, twierdza Zamość z wszelkimi budynkami stała się własnością rządową [...].\nZamoyscy zamieszkali w Pałacu Błękitnym w Warszawie, a ich główną rezydencją wiejską stał się Klemensów, w Zwierzyńcu natomiast ulokowano Zarząd Ordynacji Zamojskiej. [...]\nOficyna lewa (za XIV ordynata, Tomasza Franciszka podwyższona piętrem), stała się “pałacem administracji”, oficyna prawa była siedzibą generalnego plenipotenta.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia murowaną z cegły oficynę skrzydłową północną. Dziś jest to główny budynek Technikum im. Jana Zamoyskiego w Zwierzyńcu.\nPod czujnym okiem delegatury Lubelski Wojewódzki Konserwator Zabytków dobiega końca wymiana okien w oficynie. Dzięki staraniom, jakie podejmuje Powiat Zamojski, najważniejsze zabytki idealnego założenia willowo-parkowego wracają do swojej świetności.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Na mocy postanowienia z 11 grudnia 1820 r. wydanego w Opawie, twierdza Zamość z wszelkimi budynkami stała się własnością rządową [...].\nZamoyscy zamieszkali w Pałacu Błękitnym w Warszawie, a ich główną rezydencją wiejską stał się Klemensów, w Zwierzyńcu natomiast ulokowano Zarząd Ordynacji Zamojskiej. [...]\nOficyna lewa (za XIV ordynata, Tomasza Franciszka podwyższona piętrem), stała się “pałacem administracji”, oficyna prawa była siedzibą generalnego plenipotenta.”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -103,8 +103,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Pałac administracji.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Palac-administracji"
+      "name": "Pałac administracji",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/palac-administracji"
     }
   ]
 }

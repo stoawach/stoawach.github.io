@@ -66,17 +66,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Deptak-dawniej"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/deptak-dawniej"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-15-deptak-dawniej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-04-15-deptak-dawniej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 216,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia groblę pomiędzy stawem kościelnym, a parkiem skarbowym w Zwierzyńcu. Z prawej strony można zobaczyć ludzi spacerujących utwardzonym chodnikiem. Z lewej strony widać tory kolejki wąskotorowej, która kiedyś łączyła browar, tartak i fabrykę mebli. W głębi można dostrzec wciąż istniejący budynek oberży.\nDzisiaj na grobli znajduje się deptak, wypełniony w wakacje \"po brzegi\" przez mieszkańców Zwierzyńca i gości. Według planu gminy, jest to pierwszy fragment układu pieszej penetracji zabytkowej części miasta, który kiedyś umożliwi przyjemne i bezpieczne poruszanie się po Zwierzyńcu w szczycie sezonu.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Zamoyscy troszczyli się o stan dróg w osadzie, na utrzymanie szos, mostów i chodników w Zwierzyńcu ordynacja przeznaczała pokaźne sumy. W roku 1911-1912 wydano na ten cel 9 408 rubli 24 kopiejki. W osadzie obok drewnianych kładek pojawiały się trotuary z cegły (koło domu plenipotenta, browaru, domu łowczego, restauracji).”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\nZdjęcie, w oryginale czarno-białe, udostępnione dzięki uprzejmości Towarzystwa Miłośników Zwierzyńca dla uświetnienia obchodów 430-lecia Zwierzyńca, zostało pokolorowane przez sztuczną inteligencję.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia groblę pomiędzy stawem kościelnym, a parkiem skarbowym w Zwierzyńcu. Z prawej strony można zobaczyć ludzi spacerujących utwardzonym chodnikiem. Z lewej strony widać tory kolejki wąskotorowej, która kiedyś łączyła browar, tartak i fabrykę mebli. W głębi można dostrzec wciąż istniejący budynek oberży.\nDzisiaj na grobli znajduje się deptak, wypełniony w wakacje \"po brzegi\" przez mieszkańców Zwierzyńca i gości. Według planu gminy, jest to pierwszy fragment układu pieszej penetracji zabytkowej części miasta, który kiedyś umożliwi przyjemne i bezpieczne poruszanie się po Zwierzyńcu w szczycie sezonu.\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Zamoyscy troszczyli się o stan dróg w osadzie, na utrzymanie szos, mostów i chodników w Zwierzyńcu ordynacja przeznaczała pokaźne sumy. W roku 1911-1912 wydano na ten cel 9 408 rubli 24 kopiejki. W osadzie obok drewnianych kładek pojawiały się trotuary z cegły (koło domu plenipotenta, browaru, domu łowczego, restauracji).”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\nZdjęcie, w oryginale czarno-białe, udostępnione dzięki uprzejmości Towarzystwa Miłośników Zwierzyńca dla uświetnienia obchodów 430-lecia Zwierzyńca, zostało pokolorowane przez sztuczną inteligencję.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -104,7 +104,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Deptak dawniej",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Deptak-dawniej"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/deptak-dawniej"
     }
   ]
 }

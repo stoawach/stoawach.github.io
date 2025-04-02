@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Degradacja rezydencji.",
+  "headline": "Degradacja rezydencji",
   "datePublished": "2022-12-14",
   "dateModified": "2022-12-14",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Degradacja-rezydencji"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/degradacja-rezydencji"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-14-degradacja-rezydencji.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-14-degradacja-rezydencji.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 141,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia deptak na ulicy Wachniewskiej, który według miejscowego prawa jest tylko pierwszym z planowanych elementów strefy pieszej w Zabytkowym Sercu Zwierzyńca.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“Na początku XIX wieku nastąpiła degradacja Zwierzyńca jako miejsca rezydencji Zamoyskich.”\n“Stanisław Zamoyski po powrocie z zagranicznych wojaży, oczarowany postępem technicznym na Zachodzie, dążąc do uprzemysłowienia dóbr, założył w Zwierzyńcu zakład mechaniczny produkujący maszyny rolnicze i przemysłowe, zbudował nowy browar, udoskonalił produkcję gorzelni, tartaku i młyna.\".\nTo wszystko na skutek pogłębiającego się kryzysu wywołanego kolejnymi zaborami. Trzeba było ratować gospodarkę.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia deptak na ulicy Wachniewskiej, który według miejscowego prawa jest tylko pierwszym z planowanych elementów strefy pieszej w Zabytkowym Sercu Zwierzyńca.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“Na początku XIX wieku nastąpiła degradacja Zwierzyńca jako miejsca rezydencji Zamoyskich.”\n“Stanisław Zamoyski po powrocie z zagranicznych wojaży, oczarowany postępem technicznym na Zachodzie, dążąc do uprzemysłowienia dóbr, założył w Zwierzyńcu zakład mechaniczny produkujący maszyny rolnicze i przemysłowe, zbudował nowy browar, udoskonalił produkcję gorzelni, tartaku i młyna.\".\nTo wszystko na skutek pogłębiającego się kryzysu wywołanego kolejnymi zaborami. Trzeba było ratować gospodarkę.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Degradacja rezydencji.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Degradacja-rezydencji"
+      "name": "Degradacja rezydencji",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/degradacja-rezydencji"
     }
   ]
 }

@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "🌳🏰🦌 Witajcie w tajemniczym świecie Zwierzyńca! 🌳🏰🦌",
+  "headline": "Witajcie w tajemniczym świecie Zwierzyńca!",
   "datePublished": "2023-06-10",
   "dateModified": "2023-06-10",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/-Witajcie-w-tajemniczym-swiecie-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/witajcie-w-tajemniczym-swiecie-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-06-10-witajcie-w-tajemniczym-swiecie-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-06-10-witajcie-w-tajemniczym-swiecie-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 230,
-  "articleBody": "Przedstawiamy Wam kolejny fragment historii tego magicznego miejsca, które wciąż zachwyca i fascynuje. \n\nZdjęcie przedstawia pierwszy fragment układu pieszej penetracji zabytkowej części miasta - urokliwy deptak na ulicy Aleksandry Wachniewskiej. To jedno z najbardziej obleganych miejsc w Zwierzyńcu, pełne tajemnic i historii wciąż czekających na odkrycie.\n\n19 czerwca 2023 roku mija równo czterysta trzydzieści lat od momentu, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, razem z przepiękną puszczą, w której zrodził się Zwierzyniec. To wyjątkowy moment, który chcemy z Wami dzielić!\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Od 1589 r. istniała Ordynacja Zamojska, a hetman stale powiększał jej obszar, czekając na sposobne momenty, aby włączyć do niej nowe dobra. Zdobywał je drogą kupna, procesów z sąsiadami, zajazdów, spadków i darowizn. Szczebrzeszyn wraz z kluczami przynależnych do niego wsi interesował Jana Zamoyskiego od dawna. Był mu ”po drodze”, gdy podążał do Zamościa ze swych oddalonych miast i wsi.”\n\nPragniemy zaprosić Was na wyjątkową podróż w czasie, która poprowadzi Was przez czterysta trzydzieści lat historii Zwierzyńca. Odkryjcie piękno przyrody, które jednoczy się w harmonii z pasją i magią tego niezwykłego miejsca. Przygotujcie się na spotkanie z dzikimi zwierzętami, oszałamiającymi krajobrazami i tajemniczymi opowieściami, które ożywają wśród renesansowych ogrodów i olśniewającej willi.\n\nTeraz jest czas, aby świat usłyszał o tym niezwykłym miejscu! Dołączcie do nas w podróży i podzielcie się tym postem, aby każdy mógł poznać i pokochać Zwierzyniec!\n \n            \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Przedstawiamy Wam kolejny fragment historii tego magicznego miejsca, które wciąż zachwyca i fascynuje.\n\nZdjęcie przedstawia pierwszy fragment układu pieszej penetracji zabytkowej części miasta - urokliwy deptak na ulicy Aleksandry Wachniewskiej. To jedno z najbardziej obleganych miejsc w Zwierzyńcu, pełne tajemnic i historii wciąż czekających na odkrycie.\n\n19 czerwca 2023 roku mija równo czterysta trzydzieści lat od momentu, gdy hetman i kanclerz Jan Zamoyski nabył włość szczebrzeską, razem z przepiękną puszczą, w której zrodził się Zwierzyniec. To wyjątkowy moment, który chcemy z Wami dzielić!\n\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Od 1589 r. istniała Ordynacja Zamojska, a hetman stale powiększał jej obszar, czekając na sposobne momenty, aby włączyć do niej nowe dobra. Zdobywał je drogą kupna, procesów z sąsiadami, zajazdów, spadków i darowizn. Szczebrzeszyn wraz z kluczami przynależnych do niego wsi interesował Jana Zamoyskiego od dawna. Był mu ”po drodze”, gdy podążał do Zamościa ze swych oddalonych miast i wsi.”\n\nPragniemy zaprosić Was na wyjątkową podróż w czasie, która poprowadzi Was przez czterysta trzydzieści lat historii Zwierzyńca. Odkryjcie piękno przyrody, które jednoczy się w harmonii z pasją i magią tego niezwykłego miejsca. Przygotujcie się na spotkanie z dzikimi zwierzętami, oszałamiającymi krajobrazami i tajemniczymi opowieściami, które ożywają wśród renesansowych ogrodów i olśniewającej willi.\n\nTeraz jest czas, aby świat usłyszał o tym niezwykłym miejscu! Dołączcie do nas w podróży i podzielcie się tym postem, aby każdy mógł poznać i pokochać Zwierzyniec!\n\n\n\n©MJP",
+  "description": "Przedstawiamy Wam kolejny fragment historii tego magicznego miejsca, które wciąż zachwyca i fascynuje....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "🌳🏰🦌 Witajcie w tajemniczym świecie Zwierzyńca! 🌳🏰🦌",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/-Witajcie-w-tajemniczym-swiecie-Zwierzynca"
+      "name": "Witajcie w tajemniczym świecie Zwierzyńca!",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/witajcie-w-tajemniczym-swiecie-zwierzynca"
     }
   ]
 }

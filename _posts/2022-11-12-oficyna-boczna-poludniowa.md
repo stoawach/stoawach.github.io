@@ -43,12 +43,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna boczna południowa.",
+  "headline": "Oficyna boczna południowa",
   "datePublished": "2022-11-12",
   "dateModified": "2022-11-12",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -60,17 +60,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-poludniowa"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-poludniowa"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-12-oficyna-boczna-poludniowa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-12-oficyna-boczna-poludniowa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 148,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nTo już ostatnia z 4 opisywanych oficyn, ustawionych w podkowę, zbudowanych pod koniec XVIII wieku przy modrzewiowej willi ordynata. W 1806 roku ulokowano w niej browar porteru i piwa angielskiego, a od 1834 roku działała tu wytwórnia likierów. Po pożarze w 1851 roku budynek został odbudowany i zamieszkali w nim urzędnicy administracji. Znalazło się tu także mieszkanie księdza, dlatego oficynę nazywano “plebanią”.\nPo II wojnie światowej obiekt przejęła szkoła. W latach 1986-96 wykonano remont generalny z adaptacją na cele mieszkaniowe, a budynek stał się własnością wspólnoty mieszkaniowej.\n\nOficyna wciąż, od wielu lat, czeka na dokończenie prac remontowych przy elewacjach, w których brakuje detalu architektonicznego. Potrzebne jest też zagospodarowanie jej bezpośredniego otoczenia, odpowiednie dla obiektu zabytkowego będącego częścią zespołu pałacowego.\nSłychać też dobre wieści - wspólnota podjęła starania o remont dachu budynku.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nTo już ostatnia z 4 opisywanych oficyn, ustawionych w podkowę, zbudowanych pod koniec XVIII wieku przy modrzewiowej willi ordynata. W 1806 roku ulokowano w niej browar porteru i piwa angielskiego, a od 1834 roku działała tu wytwórnia likierów. Po pożarze w 1851 roku budynek został odbudowany i zamieszkali w nim urzędnicy administracji. Znalazło się tu także mieszkanie księdza, dlatego oficynę nazywano “plebanią”.\nPo II wojnie światowej obiekt przejęła szkoła. W latach 1986-96 wykonano remont generalny z adaptacją na cele mieszkaniowe, a budynek stał się własnością wspólnoty mieszkaniowej.\n\nOficyna wciąż, od wielu lat, czeka na dokończenie prac remontowych przy elewacjach, w których brakuje detalu architektonicznego. Potrzebne jest też zagospodarowanie jej bezpośredniego otoczenia, odpowiednie dla obiektu zabytkowego będącego częścią zespołu pałacowego.\nSłychać też dobre wieści - wspólnota podjęła starania o remont dachu budynku.\n\n\n\nMJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -93,8 +94,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna boczna południowa.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-boczna-poludniowa"
+      "name": "Oficyna boczna południowa",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-boczna-poludniowa"
     }
   ]
 }

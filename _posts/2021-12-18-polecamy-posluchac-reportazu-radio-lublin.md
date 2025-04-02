@@ -25,12 +25,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Polecamy posłuchać reportażu Radio Lublin \"Symfonia dla pani Wachniewskiej\"",
+  "headline": "Polecamy posłuchać reportażu Radio Lublin \\\"Symfonia dla pani Wachniewskiej\\",
   "datePublished": "2021-12-18",
   "dateModified": "2021-12-18",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -42,17 +42,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Przy-przedswiatecznych-porzadkach-polecamy-posluchac"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin-symfonia-dla-pani"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 1,
-  "articleBody": "[https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU](https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU)",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 14,
+  "articleBody": "Możecie usłyszeć wiele ciekawych historii prosto z ust znanych Zwierzynian (i nie tylko!).\n\n[https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU](https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU)",
+  "description": "[https://radio.lublin.pl/2021/03/18-03-2021-symfonia-dla-pani-wachniewskiej/?fbclid=IwAR2Au4ioouyHjwPhf9_o1M28Kki1Xoe-LzZ3dSH2iAjKCdN_tCOtCesPOGU](htt...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -75,8 +76,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Przy przedświątecznych porządkach polecamy posłuchać reportażu Radio Lublin \"Symfonia dla pani Wachniewskiej\"",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Przy-przedswiatecznych-porzadkach-polecamy-posluchac"
+      "name": "Polecamy posłuchać reportażu Radio Lublin \\\"Symfonia dla pani Wachniewskiej\\",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/polecamy-posluchac-reportazu-radio-lublin-symfonia-dla-pani"
     }
   ]
 }

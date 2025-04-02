@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-znasz-ukryty-kod-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/czy-znasz-ukryty-kod-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-07-30-czy-znasz-ukryty-kod-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-07-30-czy-znasz-ukryty-kod-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, RadioLublin, Reportaż, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, RadioLublin, Reportaż, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 99,
-  "articleBody": "W sercu Zwierzyńca, między zabytkowymi budynkami Technikum im. Jana Zamoyskiego, drzemie tajemnica, która chce być odkryta. Czyż to nie brzmi jak początek niezwykłej przygody? Odkryjmy tajemniczy kod, który splata historię, przyrodę i zabytki w jedno, tworząc wyjątkowy klimat tego niezwykłego miejsca.\n\nZdjęcie przedstawia oficynę boczną północną dawnej Idealnej Modrzewiowej Willi, która dała początek Zwierzyńcowi.\n\nWasza ciekawość i zaangażowanie są kluczem do odkrycia ukrytego kodu Zwierzyńca. Dlatego razem ruszamy w poszukiwaniu niezgłębionych tajemnic, które tkwią w sercu tego magicznego miejsca!\n\nUdostępnijcie ten post i zaproście swoich przyjaciół do wsłuchania się w \"Ukryty Kod Zwierzyńca\" na antenie Radio Lublin! \n[https://radio.lublin.pl/2023/07/27-07-2023-czeslawa-borowik-ukryty-kod-zwierzynca/](https://radio.lublin.pl/2023/07/27-07-2023-czeslawa-borowik-ukryty-kod-zwierzynca/)\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "W sercu Zwierzyńca, między zabytkowymi budynkami Technikum im. Jana Zamoyskiego, drzemie tajemnica, która chce być odkryta. Czyż to nie brzmi jak początek niezwykłej przygody? Odkryjmy tajemniczy kod, który splata historię, przyrodę i zabytki w jedno, tworząc wyjątkowy klimat tego niezwykłego miejsca.\n\nZdjęcie przedstawia oficynę boczną północną dawnej Idealnej Modrzewiowej Willi, która dała początek Zwierzyńcowi.\n\nWasza ciekawość i zaangażowanie są kluczem do odkrycia ukrytego kodu Zwierzyńca. Dlatego razem ruszamy w poszukiwaniu niezgłębionych tajemnic, które tkwią w sercu tego magicznego miejsca!\n\nUdostępnijcie ten post i zaproście swoich przyjaciół do wsłuchania się w \"Ukryty Kod Zwierzyńca\" na antenie Radio Lublin!\n[https://radio.lublin.pl/2023/07/27-07-2023-czeslawa-borowik-ukryty-kod-zwierzynca/](https://radio.lublin.pl/2023/07/27-07-2023-czeslawa-borowik-ukryty-kod-zwierzynca/)\n\n\n\n©MJP",
+  "description": "W sercu Zwierzyńca, między zabytkowymi budynkami Technikum im. Jana Zamoyskiego, drzemie tajemnica, która chce być odkryta. Czyż to nie brzmi jak pocz...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -99,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Czy znasz ukryty kod Zwierzyńca?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Czy-znasz-ukryty-kod-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/czy-znasz-ukryty-kod-zwierzynca"
     }
   ]
 }

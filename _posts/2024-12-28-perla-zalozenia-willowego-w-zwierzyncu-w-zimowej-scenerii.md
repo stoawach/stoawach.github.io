@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Perla-Zalozenia-Willowego-w-Zwierzyncu-w-zimowej-scenerii"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-28-perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-12-28-perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 142,
-  "articleBody": "Zdjęcie przedstawia kościół pw. św. Jana Nepomucena w Zwierzyńcu. Tafla stawu kościelnego delikatnie pokryta cienką warstwą lodu odbija świątynię i nocne niebo. Gałęzie drzew zdobi świeży śnieg. Zimowa aura dodaje temu miejscu osobliwego uroku.\n\n“Stary dwór w niezmienionej postaci trwał już blisko 140 lat.\nBarokowy zwierzyniecki ogród wzbogacił się o nowy obiekt, gdy dziedzicem został Tomasz Antoni Zamoyski, VII ordynat. Wykształcony jako architekt, rozmiłowany w sztuce ogrodowej, autor niedokończonej pracy “Ogrodnictwo” (1744) nie zaniedbywał zwierzynieckiej willi i często tu przemieszkiwał choćby z powodu kaplicy wnoszonej na miejscu “domku na wodzie”. Altana Marysieńki przechodziła wielkie przeobrażenie, w latach 1742-1747 została przebudowana na kościół pod wezwaniem św. Jana Nepomucena.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nZwierzyniec ma szansę odzyskać dawną świetność – z Twoją pomocą! Podziel się tym postem pokazując, jak wyjątkowe jest to miejsce i pomóż innym poznać jego historię.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia kościół pw. św. Jana Nepomucena w Zwierzyńcu. Tafla stawu kościelnego delikatnie pokryta cienką warstwą lodu odbija świątynię i nocne niebo. Gałęzie drzew zdobi świeży śnieg. Zimowa aura dodaje temu miejscu osobliwego uroku.\n\n“Stary dwór w niezmienionej postaci trwał już blisko 140 lat.\nBarokowy zwierzyniecki ogród wzbogacił się o nowy obiekt, gdy dziedzicem został Tomasz Antoni Zamoyski, VII ordynat. Wykształcony jako architekt, rozmiłowany w sztuce ogrodowej, autor niedokończonej pracy “Ogrodnictwo” (1744) nie zaniedbywał zwierzynieckiej willi i często tu przemieszkiwał choćby z powodu kaplicy wnoszonej na miejscu “domku na wodzie”. Altana Marysieńki przechodziła wielkie przeobrażenie, w latach 1742-1747 została przebudowana na kościół pod wezwaniem św. Jana Nepomucena.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nZwierzyniec ma szansę odzyskać dawną świetność – z Twoją pomocą! Podziel się tym postem pokazując, jak wyjątkowe jest to miejsce i pomóż innym poznać jego historię.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia kościół pw. św. Jana Nepomucena w Zwierzyńcu. Tafla stawu kościelnego delikatnie pokryta cienką warstwą lodu odbija świątynię i no...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -97,7 +97,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Perla-Zalozenia-Willowego-w-Zwierzyncu-w-zimowej-scenerii"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej-scenerii"
     }
   ]
 }

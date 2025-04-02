@@ -29,12 +29,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Druga część naszej serii. Prosimy o udostępnienia!",
+  "headline": "Historia Aleksandry Wachniewskiej - część II",
   "datePublished": "2021-11-29",
   "dateModified": "2021-11-29",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -46,17 +46,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Druga-czesc-naszej-serii-Prosimy-o-udostepnienia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-29-historia-aleksandry-wachniewskiej---czesc.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-11-29-historia-aleksandry-wachniewskiej---czesc.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
-  "wordCount": 79,
-  "articleBody": "DZIECIŃSTWO OLI POŚRÓD LASÓW\n\n     Aleksandra Wachniewska była mocno zakorzeniona w zwierzynieckich stronach, urodzona we Floriance, w 1902 r., w głębi roztoczańskich lasów, gdzie jej ojciec, Franciszek Fejfer-Stankowski, był zarządcą szkółek ogrodowych i folwarku w Ordynacji Zamojskiej.\n\nSama Florianka, jak i przyrodnicze zainteresowania ojca (szczególnie entomologia), sprzyjały kształtowaniu się u córki wrażliwości na piękno przyrody. Znane w bliższej i dalszej rodzinie zamiłowanie do nauki, społeczna postawa i patriotyzm, w naturalny sposób przejmowała Aleksandra. (cdn.)\n\n Zdjęcie w tle - Dominik Dziadosz.",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "keywords": "[]",
+  "wordCount": 85,
+  "articleBody": "czesc.jpg\nlocation: \"Unknown Location\"\ndescription: \"DZIECIŃSTWO OLI POŚRÓD LASÓW...\"\n\n\nProsimy o udostępnienia!\n\nDZIECIŃSTWO OLI POŚRÓD LASÓW\n\nAleksandra Wachniewska była mocno zakorzeniona w zwierzynieckich stronach, urodzona we Floriance, w 1902 r., w głębi roztoczańskich lasów, gdzie jej ojciec, Franciszek Fejfer-Stankowski, był zarządcą szkółek ogrodowych i folwarku w Ordynacji Zamojskiej.\n\nSama Florianka, jak i przyrodnicze zainteresowania ojca (szczególnie entomologia), sprzyjały kształtowaniu się u córki wrażliwości na piękno przyrody. Znane w bliższej i dalszej rodzinie zamiłowanie do nauki, społeczna postawa i patriotyzm, w naturalny sposób przejmowała Aleksandra. (cdn.)",
+  "description": "DZIECIŃSTWO OLI POŚRÓD LASÓW...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -79,8 +80,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Druga część naszej serii. Prosimy o udostępnienia!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Druga-czesc-naszej-serii-Prosimy-o-udostepnienia"
+      "name": "Historia Aleksandry Wachniewskiej - część II",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/historia-aleksandry-wachniewskiej---czesc"
     }
   ]
 }

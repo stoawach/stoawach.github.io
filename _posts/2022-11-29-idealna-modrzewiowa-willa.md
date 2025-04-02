@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Idealna modrzewiowa willa.",
+  "headline": "Idealna modrzewiowa willa",
   "datePublished": "2022-11-29",
   "dateModified": "2022-11-29",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Idealna-modrzewiowa-willa"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/idealna-modrzewiowa-willa"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-29-idealna-modrzewiowa-willa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-29-idealna-modrzewiowa-willa.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 177,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia willowy staw na początku długiego kanału na zwierzyńczyku. Za stawem widać oficynę skrzydłową południową. Dziś znajduje się w niej internat. Po prawej stronie za drzewami jest miejsce, w którym stała idealna modrzewiowa willa.\n\nJednak willa to nie tylko budynek. Jak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”: \n“Willa jest pojęciem szerokim, na którego treść składa się bogaty program użytkowy i kompozycyjny, określający całe założenie. Budynek - rezydencja to tylko część składowa willi obok innych ważnych elementów jak: dziedziniec, podjazd, ogród z odpowiednim wyposażeniem, założenie wodne, zwierzyniec, a  wszystko to w rozplanowaniu całości powiązane ze sobą kompozycyjnie i zespolone z otaczającym naturalnym krajobrazem.\nProgram ten jest dostrzegalny w [idealnej] wiejskiej rezydencji Zamoyskich w Zwierzyńcu, gdzie różne elementy willi przetrwały do czasów współczesnych”.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta. \nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia willowy staw na początku długiego kanału na zwierzyńczyku. Za stawem widać oficynę skrzydłową południową. Dziś znajduje się w niej internat. Po prawej stronie za drzewami jest miejsce, w którym stała idealna modrzewiowa willa.\n\nJednak willa to nie tylko budynek. Jak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”:\n“Willa jest pojęciem szerokim, na którego treść składa się bogaty program użytkowy i kompozycyjny, określający całe założenie. Budynek - rezydencja to tylko część składowa willi obok innych ważnych elementów jak: dziedziniec, podjazd, ogród z odpowiednim wyposażeniem, założenie wodne, zwierzyniec, a  wszystko to w rozplanowaniu całości powiązane ze sobą kompozycyjnie i zespolone z otaczającym naturalnym krajobrazem.\nProgram ten jest dostrzegalny w [idealnej] wiejskiej rezydencji Zamoyskich w Zwierzyńcu, gdzie różne elementy willi przetrwały do czasów współczesnych”.\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od mieszkańców i sympatyków miasta.\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Idealna modrzewiowa willa.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Idealna-modrzewiowa-willa"
+      "name": "Idealna modrzewiowa willa",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/idealna-modrzewiowa-willa"
     }
   ]
 }

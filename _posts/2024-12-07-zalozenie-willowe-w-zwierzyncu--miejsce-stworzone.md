@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Zalozenie-Willowe-w-Zwierzyncu--miejsce-stworzone"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zalozenie-willowe-w-zwierzyncu--miejsce-stworzone"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-12-07-zalozenie-willowe-w-zwierzyncu--miejsce-stworzone.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-12-07-zalozenie-willowe-w-zwierzyncu--miejsce-stworzone.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 102,
-  "articleBody": "Na zdjęciu widzimy barokowy kościół pw. św. Jana Nepomucena - jeden z najbardziej rozpoznawalnych symboli Zwierzyńca - rozświetlony w jesienną noc. Jego lustrzane odbicie w spokojnej tafli stawu przywołuje na myśl bogatą historię założenia willowego.\n\nJak pisze Halina Matławska w książce Kościół świętego Jana Nepomucena w Zwierzyńcu:\n„W 1593 roku Jan Zamoyski nabył włość szczebrzeską. Zaraz też zaczął realizować swój dawno noszony w sercu zamiar zbudowania wiejskiej rezydencji - renesansowej willi, która służyłaby jako miejsce idealnego wypoczynku.”\n\nNiech piękno i historia tego miejsca inspirują kolejne pokolenia. Twoje zaangażowanie pomoże innym odkryć niezwykłość Zwierzyńca i przyczyni się do ochrony tego wyjątkowego dziedzictwa.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widzimy barokowy kościół pw. św. Jana Nepomucena - jeden z najbardziej rozpoznawalnych symboli Zwierzyńca - rozświetlony w jesienną noc. Jego lustrzane odbicie w spokojnej tafli stawu przywołuje na myśl bogatą historię założenia willowego.\n\nJak pisze Halina Matławska w książce Kościół świętego Jana Nepomucena w Zwierzyńcu:\n„W 1593 roku Jan Zamoyski nabył włość szczebrzeską. Zaraz też zaczął realizować swój dawno noszony w sercu zamiar zbudowania wiejskiej rezydencji - renesansowej willi, która służyłaby jako miejsce idealnego wypoczynku.”\n\nNiech piękno i historia tego miejsca inspirują kolejne pokolenia. Twoje zaangażowanie pomoże innym odkryć niezwykłość Zwierzyńca i przyczyni się do ochrony tego wyjątkowego dziedzictwa.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widzimy barokowy kościół pw. św. Jana Nepomucena - jeden z najbardziej rozpoznawalnych symboli Zwierzyńca - rozświetlony w jesienną noc. Je...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -97,7 +97,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Założenie Willowe w Zwierzyńcu – miejsce stworzone do idealnego wypoczynku",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Zalozenie-Willowe-w-Zwierzyncu--miejsce-stworzone"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zalozenie-willowe-w-zwierzyncu--miejsce-stworzone"
     }
   ]
 }

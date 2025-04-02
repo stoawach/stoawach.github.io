@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Nowy-rok-nowe-nadzieje-dla-Zalozenia-Willowego-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 90,
-  "articleBody": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego niezwykłe piękno.\n\n“Długa elewacja frontowa sprawia wrażenie budowli pałacowej - pisze Jerzy Kowalczyk. Również mansardowy dach, jego zdaniem, jest charakterystyczny dla świeckich budowli. Nic dziwnego, wszak była tu niegdyś strojna, pałacowa altana.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy rok 2025 będzie przełomowy dla ochrony tego dziedzictwa? To zależy również od Ciebie! \nDzieląc się tym postem pomóż innym poznać historię tego wyjątkowego miejsca i przyczyń się do jego odnowy.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego niezwykłe piękno.\n\n“Długa elewacja frontowa sprawia wrażenie budowli pałacowej - pisze Jerzy Kowalczyk. Również mansardowy dach, jego zdaniem, jest charakterystyczny dla świeckich budowli. Nic dziwnego, wszak była tu niegdyś strojna, pałacowa altana.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy rok 2025 będzie przełomowy dla ochrony tego dziedzictwa? To zależy również od Ciebie!\nDzieląc się tym postem pomóż innym poznać historię tego wyjątkowego miejsca i przyczyń się do jego odnowy.\n\n\n\n©MJP",
+  "description": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego nie...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -97,7 +97,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Nowy rok, nowe nadzieje dla Założenia Willowego w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Nowy-rok-nowe-nadzieje-dla-Zalozenia-Willowego-w-Zwierzyncu"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/nowy-rok-nowe-nadzieje-dla-zalozenia-willowego-w-zwierzyncu"
     }
   ]
 }

@@ -42,12 +42,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Oficyna wschodnia.",
+  "headline": "Oficyna wschodnia",
   "datePublished": "2022-11-14",
   "dateModified": "2022-11-14",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -59,17 +59,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-wschodnia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-wschodnia"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-14-oficyna-wschodnia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-14-oficyna-wschodnia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 133,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna wschodnia została wybudowana dopiero pod koniec istnienia modrzewiowej willi, około 1820 roku. Była zwana “kawalerską”, zapewne dlatego, że mieszkali w niej urzędnicy nie posiadający rodzin.\nPo II wojnie światowej oficynę przejęła szkoła. W 1950 roku pożar zniszczył wnętrza mieszkalne. Po remoncie w obiekcie urządzono internat, który znajduje się tam do dzisiaj.\n\nNa pierwszym planie widzimy wody trzeciego stawu, który miał powstać w ramach odnowienia zwierzyńczyka. Czego nie udało się dokończyć ludziom, zaczęły realizować bobry. Po prawej stronie fotografii znajduje się wysoka już na półtora metra tama. Zdaje się, że zwierzęta tym razem wybrały odpowiednie miejsce i ich działalność nie psuje grobli ulicy Wachniewskiej. Niszczenie tam i żeremi, bez zezwolenia Regionalnej Dyrekcji Ochrony Środowiska, jest zabronione.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nOficyna wschodnia została wybudowana dopiero pod koniec istnienia modrzewiowej willi, około 1820 roku. Była zwana “kawalerską”, zapewne dlatego, że mieszkali w niej urzędnicy nie posiadający rodzin.\nPo II wojnie światowej oficynę przejęła szkoła. W 1950 roku pożar zniszczył wnętrza mieszkalne. Po remoncie w obiekcie urządzono internat, który znajduje się tam do dzisiaj.\n\nNa pierwszym planie widzimy wody trzeciego stawu, który miał powstać w ramach odnowienia zwierzyńczyka. Czego nie udało się dokończyć ludziom, zaczęły realizować bobry. Po prawej stronie fotografii znajduje się wysoka już na półtora metra tama. Zdaje się, że zwierzęta tym razem wybrały odpowiednie miejsce i ich działalność nie psuje grobli ulicy Wachniewskiej. Niszczenie tam i żeremi, bez zezwolenia Regionalnej Dyrekcji Ochrony Środowiska, jest zabronione.\n\n\n\nMJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -92,8 +93,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Oficyna wschodnia.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Oficyna-wschodnia"
+      "name": "Oficyna wschodnia",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/oficyna-wschodnia"
     }
   ]
 }

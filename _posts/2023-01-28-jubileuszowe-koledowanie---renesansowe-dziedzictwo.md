@@ -44,7 +44,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Jubileuszowe kolędowanie - Renesansowe dziedzictwo.",
+  "headline": "Jubileuszowe kolędowanie - Renesansowe dziedzictwo",
   "datePublished": "2023-01-28",
   "dateModified": "2023-01-28",
   "author": {
@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Jubileuszowe-koledowanie---Renesansowe-dziedzictwo"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/jubileuszowe-koledowanie---renesansowe-dziedzictwo"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-28-jubileuszowe-koledowanie---renesansowe-dziedzictwo.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-28-jubileuszowe-koledowanie---renesansowe-dziedzictwo.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
-  "wordCount": 138,
-  "articleBody": "Na pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i skąpany we mgle długi kanał.\n\nPodczas mającej miejsce 21. stycznia 2023 uroczystej inauguracji obchodów 430-lecia Zwierzyńca wygłoszony został wykład pod tytułem “Renesansowe dziedzictwo Zwierzyńca. W poszukiwaniu ukrytego kodu”. Prelegent - dr inż. arch. urb. Małgorzata Przegalińska - to znakomity znawca tematu, miłośnik Roztocza, pasjonat i oddany badacz dziedzictwa kulturowego regionu.\nZapraszamy do zapoznania się z tą bardzo ciekawą i bogatą w informacje prezentacją. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
+  "wordCount": 169,
+  "articleBody": "renesansowe-dziedzictwo.jpg\nlocation: \"Zwierzyniec\"\nlatitude: 50.61039\nlongitude: 22.96615\ndescription: \"Na pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i...\"\n\n\nNa pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i skąpany we mgle długi kanał.\n\nPodczas mającej miejsce 21. stycznia 2023 uroczystej inauguracji obchodów 430-lecia Zwierzyńca wygłoszony został wykład pod tytułem “Renesansowe dziedzictwo Zwierzyńca. W poszukiwaniu ukrytego kodu”. Prelegent - dr inż. arch. urb. Małgorzata Przegalińska - to znakomity znawca tematu, miłośnik Roztocza, pasjonat i oddany badacz dziedzictwa kulturowego regionu.\nZapraszamy do zapoznania się z tą bardzo ciekawą i bogatą w informacje prezentacją. Link do naszego kanału YouTube znajduje się w komentarzu.\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Na pierwszym planie zdjęcia widoczne jest miejsce, w którym stała idealna modrzewiowa willa. To ona dała początek Zwierzyńcowi. W głębi widać mostek i...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,8 +98,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Jubileuszowe kolędowanie - Renesansowe dziedzictwo.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Jubileuszowe-koledowanie---Renesansowe-dziedzictwo"
+      "name": "Jubileuszowe kolędowanie - Renesansowe dziedzictwo",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/jubileuszowe-koledowanie---renesansowe-dziedzictwo"
     }
   ]
 }

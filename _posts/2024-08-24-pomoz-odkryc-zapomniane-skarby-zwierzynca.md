@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/pomoz-odkryc-zapomniane-skarby-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-08-24-pomoz-odkryc-zapomniane-skarby-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-08-24-pomoz-odkryc-zapomniane-skarby-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 72,
-  "articleBody": "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willowego Zwierzyńca. Ten obraz to tylko jeden z wielu elementów tego magicznego miejsca.\n\nZwiększenie świadomości społecznej na temat tego wyjątkowego zakątka jest kluczowe, by przywrócić jego dawną świetność. Rewaloryzacja wartości kompozycyjnych i krajobrazowych pozwoli na nowo odkryć piękno, które skrywa Zwierzyniec.\n\nPodziel się tym postem i wesprzyj działania na rzecz rewitalizacji Zwierzyńca.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willowego Zwierzyńca. Ten obraz to tylko jeden z wielu elementów tego magicznego miejsca.\n\nZwiększenie świadomości społecznej na temat tego wyjątkowego zakątka jest kluczowe, by przywrócić jego dawną świetność. Rewaloryzacja wartości kompozycyjnych i krajobrazowych pozwoli na nowo odkryć piękno, które skrywa Zwierzyniec.\n\nPodziel się tym postem i wesprzyj działania na rzecz rewitalizacji Zwierzyńca.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia długi na 450 metrów kanał. Światło księżyca i klimatycznych latarni o ciepłej barwie ujawnia fragment niezwykłego założenia willow...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,7 +96,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Pomóż odkryć zapomniane skarby Zwierzyńca!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Pomoz-odkryc-zapomniane-skarby-Zwierzynca"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/pomoz-odkryc-zapomniane-skarby-zwierzynca"
     }
   ]
 }

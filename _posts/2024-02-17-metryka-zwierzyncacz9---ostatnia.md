@@ -46,7 +46,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Metryka Zwierzyńca cz. 9 - ostatnia",
+  "headline": "Metryka Zwierzyńca cz. 9 - ostatnia",
   "datePublished": "2024-02-17",
   "dateModified": "2024-02-17",
   "author": {
@@ -63,17 +63,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-9---ostatnia"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz9---ostatnia"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-02-17-metryka-zwierzyncacz9---ostatnia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-02-17-metryka-zwierzyncacz9---ostatnia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy",
-  "wordCount": 175,
-  "articleBody": "Co jeszcze skrywają tajemnice przeszłości?\n\n\"W Archiwum Państwowym w Lublinie wśród nielicznych dziś dokumentów z Biblioteki Ordynacji Zamojskiej znajduje się spis hodowców owiec i kóz we włości szczebrzeskiej z 4 lipca 1595 r. i tu wśród poddanych wsi Wywłoczki i Turzyńca dopisano nazwiska dwóch chłopów z Rudy utrzymujących po kilka owiec. Są to pierwsze znane rudczańskie imiona, a wymienieni włościanie to: Kuniec z Rudy i Paweł Kutry (“kędzierzawy”). Cztery wieki minęły, a dwaj pradawni mieszkańcy Zwierzyńca-Rudki trwają w naszej pamięci jako ci, którzy stawiali pierwsze zagrody, karczowali pola na lesistych zboczach Tartacznej Góry i być może mieli jakiś udział w budowaniu willi Jana Zamoyskiego, której powstanie zapoczątkowało istnienie Zwierzyńca.” \nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia stawy Echo skąpane w tajemniczej, gęstej mgle. To dziś tereny objęte ochroną Roztoczańskiego Parku Narodowego.\n\nWciąż mamy jeszcze wiele do odkrycia o początkach i niezwykłej historii Zwierzyńca.\n\nPrzyłącz się do naszej misji ochrony i promocji dziedzictwa Zwierzyńca. Każdy Twój gest ma ogromne znaczenie!\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RoztoczańskiParkNarodowy]",
+  "wordCount": 188,
+  "articleBody": "ostatnia.jpg\nlocation: \"Zwierzyniec\"\nlatitude: 50.61039\nlongitude: 22.96615\ndescription: \"Co jeszcze skrywają tajemnice przeszłości?...\"\n\n\nCo jeszcze skrywają tajemnice przeszłości?\n\n\"W Archiwum Państwowym w Lublinie wśród nielicznych dziś dokumentów z Biblioteki Ordynacji Zamojskiej znajduje się spis hodowców owiec i kóz we włości szczebrzeskiej z 4 lipca 1595 r. i tu wśród poddanych wsi Wywłoczki i Turzyńca dopisano nazwiska dwóch chłopów z Rudy utrzymujących po kilka owiec. Są to pierwsze znane rudczańskie imiona, a wymienieni włościanie to: Kuniec z Rudy i Paweł Kutry (“kędzierzawy”). Cztery wieki minęły, a dwaj pradawni mieszkańcy Zwierzyńca-Rudki trwają w naszej pamięci jako ci, którzy stawiali pierwsze zagrody, karczowali pola na lesistych zboczach Tartacznej Góry i być może mieli jakiś udział w budowaniu willi Jana Zamoyskiego, której powstanie zapoczątkowało istnienie Zwierzyńca.”\nArtykuł Haliny Matławskiej “Metryka Zwierzyńca”, z którego pochodzi powyższy fragment, ukazał się po raz pierwszy w Zamojskim Kwartalniku Kulturalnym 1/1993\n\nZdjęcie przedstawia stawy Echo skąpane w tajemniczej, gęstej mgle. To dziś tereny objęte ochroną Roztoczańskiego Parku Narodowego.\n\nWciąż mamy jeszcze wiele do odkrycia o początkach i niezwykłej historii Zwierzyńca.\n\nPrzyłącz się do naszej misji ochrony i promocji dziedzictwa Zwierzyńca. Każdy Twój gest ma ogromne znaczenie!\n\n\n\n©MJP",
+  "description": "Co jeszcze skrywają tajemnice przeszłości?...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -100,8 +100,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Metryka Zwierzyńca cz. 9 - ostatnia",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Metryka-Zwierzynca-cz-9---ostatnia"
+      "name": "Metryka Zwierzyńca cz. 9 - ostatnia",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/metryka-zwierzyncacz9---ostatnia"
     }
   ]
 }

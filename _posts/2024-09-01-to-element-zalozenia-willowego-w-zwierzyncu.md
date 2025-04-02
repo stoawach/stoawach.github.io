@@ -59,17 +59,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/To-element-zalozenia-willowego-w-Zwierzyncu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/to-element-zalozenia-willowego-w-zwierzyncu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-09-01-to-element-zalozenia-willowego-w-zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-09-01-to-element-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 119,
-  "articleBody": "Niedługo rusza wielki remont Kościoła “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. Na prace przy obiekcie przeznaczono aż 3,5 miliona złotych. Remont świątyni to wielki krok naprzód w rewitalizacji tego niezwykłego miejsca. Potrzebne są jednak dalsze działania, by przywrócić blask całemu założeniu willowemu.\n\nFundacja Honesty realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo, który ma na celu promowanie dziedzictwa historycznego regionu dzięki nowoczesnym technologiom. Fotogrametryczny model 3D pozwoli nam nie tylko na dokładne porównanie stanu przed i po remoncie, ale również na zachowanie wirtualnego zapisu tego unikatowego zabytku dla przyszłych pokoleń.\n\nPodziel się tym postem i wesprzyj nasze starania na rzecz rewitalizacji Zwierzyńca. Razem możemy przywrócić to magiczne miejsce do dawnej świetności!\n\n             \n\nzdj. Fundacja Honesty\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Niedługo rusza wielki remont Kościoła “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. Na prace przy obiekcie przeznaczono aż 3,5 miliona złotych. Remont świątyni to wielki krok naprzód w rewitalizacji tego niezwykłego miejsca. Potrzebne są jednak dalsze działania, by przywrócić blask całemu założeniu willowemu.\n\nFundacja Honesty realizuje projekt Kultura3D - Ród Zamoyskich - Historia i Dziedzictwo, który ma na celu promowanie dziedzictwa historycznego regionu dzięki nowoczesnym technologiom. Fotogrametryczny model 3D pozwoli nam nie tylko na dokładne porównanie stanu przed i po remoncie, ale również na zachowanie wirtualnego zapisu tego unikatowego zabytku dla przyszłych pokoleń.\n\nPodziel się tym postem i wesprzyj nasze starania na rzecz rewitalizacji Zwierzyńca. Razem możemy przywrócić to magiczne miejsce do dawnej świetności!\n\n\n\nzdj. Fundacja Honesty\n©MJP",
+  "description": "Niedługo rusza wielki remont Kościoła “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu. Na prace przy obiekcie przeznaczono aż 3,5 miliona złotych. Re...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -97,7 +97,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "To element założenia willowego w Zwierzyńcu",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/To-element-zalozenia-willowego-w-Zwierzyncu"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/to-element-zalozenia-willowego-w-zwierzyncu"
     }
   ]
 }

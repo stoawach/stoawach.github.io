@@ -47,7 +47,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Osada-ogród.",
+  "headline": "Osada-ogród",
   "datePublished": "2022-12-20",
   "dateModified": "2022-12-20",
   "author": {
@@ -64,17 +64,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Osada-ogrod"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/osada-ogrod"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-20-osada-ogrod.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-20-osada-ogrod.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 124,
-  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa pierwszym planie zdjęcia widać staw willowy. Za drzewami, po prawej stronie, stała majestatyczna, idealna modrzewiowa willa. Pośrodku widoczna jest oficyna boczna południowa (dzisiejszy internat Technikum im. Jana Zamoyskiego w Zwierzyńcu).\n\nPomimo zmiany głównej funkcji miejscowości na początku XIX wieku Zwierzyniec wciąż pozostawał zadbany.\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Nie zniszczono zieleni pałacowego ogrodu, otaczano staraniem zbiorniki wodne, dzięki czemu ta szczególna osada urzędnicza była zarazem osobliwą osadą-ogrodem, gdzie przyroda dominowała.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nNa pierwszym planie zdjęcia widać staw willowy. Za drzewami, po prawej stronie, stała majestatyczna, idealna modrzewiowa willa. Pośrodku widoczna jest oficyna boczna południowa (dzisiejszy internat Technikum im. Jana Zamoyskiego w Zwierzyńcu).\n\nPomimo zmiany głównej funkcji miejscowości na początku XIX wieku Zwierzyniec wciąż pozostawał zadbany.\nJak podaje Halina Matławska, autorka książki “Zwierzyniec”:\n“Nie zniszczono zieleni pałacowego ogrodu, otaczano staraniem zbiorniki wodne, dzięki czemu ta szczególna osada urzędnicza była zarazem osobliwą osadą-ogrodem, gdzie przyroda dominowała.”\n\nCzy Zwierzyniec teraz zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o początkach Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -101,8 +101,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Osada-ogród.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Osada-ogrod"
+      "name": "Osada-ogród",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/osada-ogrod"
     }
   ]
 }

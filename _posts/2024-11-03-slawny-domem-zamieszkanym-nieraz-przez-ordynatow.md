@@ -58,17 +58,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Slawny-domem-zamieszkanym-nieraz-przez-ordynatow"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-11-03-slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-11-03-slawny-domem-zamieszkanym-nieraz-przez-ordynatow.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 156,
-  "articleBody": "Na zdjęciu widoczny jest „kościółek na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu w ciepłych barwach jesiennego wieczoru. Ten niezwykły obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego, które ewoluowało na przestrzeni wieków.\n\n„Zwierzyniec — wieś ordynacji zamojskiej w guberni lubelskiej w powiecie zamojskim, o trzy mile od Zamościa odległy, sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów” — podaje Encyklopedia powszechna z 1868 r . Początków „sławnego domu” w Zwierzyńcu szukać zatem należy w końcu XVI stulecia. Przyzwolenie na założenie ordynacji Jan Zamoyski otrzymał na sejmie w Warszawie w 1589 r. Zabiegi o przejęcie terenów, na których leży Zwierzyniec, oraz włączenie ich do ordynacji były trudne i długotrwałe.” - podają w artykule z 1986 roku pt. “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” autorzy L. Matławska-Patyk i M. Patyk.\n\nTwoje wsparcie ma moc odmienić losy całego założenia willowego w Zwierzyńcu. Przyłącz się do nas i wspólnie przywróćmy mu dawny blask!\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczny jest „kościółek na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu w ciepłych barwach jesiennego wieczoru. Ten niezwykły obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego, które ewoluowało na przestrzeni wieków.\n\n„Zwierzyniec — wieś ordynacji zamojskiej w guberni lubelskiej w powiecie zamojskim, o trzy mile od Zamościa odległy, sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów” — podaje Encyklopedia powszechna z 1868 r . Początków „sławnego domu” w Zwierzyńcu szukać zatem należy w końcu XVI stulecia. Przyzwolenie na założenie ordynacji Jan Zamoyski otrzymał na sejmie w Warszawie w 1589 r. Zabiegi o przejęcie terenów, na których leży Zwierzyniec, oraz włączenie ich do ordynacji były trudne i długotrwałe.” - podają w artykule z 1986 roku pt. “Renesansowa willa Jana Zamoyskiego w Zwierzyńcu nad Wieprzem” autorzy L. Matławska-Patyk i M. Patyk.\n\nTwoje wsparcie ma moc odmienić losy całego założenia willowego w Zwierzyńcu. Przyłącz się do nas i wspólnie przywróćmy mu dawny blask!\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczny jest „kościółek na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu w ciepłych barwach jesiennego wieczoru. Ten niezwykły obiekt, zbud...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -96,7 +96,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Slawny-domem-zamieszkanym-nieraz-przez-ordynatow"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow"
     }
   ]
 }

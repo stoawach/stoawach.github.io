@@ -48,7 +48,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Witaj w jubileuszowym, 430. roku historii Zwierzyńca!",
+  "headline": "19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca",
   "datePublished": "2022-12-31",
   "dateModified": "2022-12-31",
   "author": {
@@ -65,17 +65,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-12-31-19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-12-31-19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 224,
-  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia kościół pw. św. Jana Nepomucena - najbardziej rozpoznawalny zwierzyniecki zabytek. Kościółek na wodzie to element idealnej willi Zwierzyniec, która jest dopełnieniem idealnego miasta Zamość.\n\n19 czerwca 2023 roku minie równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski pozyskał włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\nJak podaje Halina Matławska w artykule “Metryka Zwierzyńca”:\n“[...] już w chwili nabycia nowego majątku Jan Zamoyski wiedział, co chce zbudować w puszczy, na lewym brzegu Wieprza, u stóp pięknej Bukowej Góry, w sąsiedztwie wsi Wywłoczki i rozwijającej się Rudy-Rudki (dzisiaj dzielnicy Zwierzyńca). Marzył o wiejskiej rezydencji, gdzie zmęczony trudami życia, oddalony od ciężkich prac i uciążliwych spotkań, mógłby znaleźć chwilę doskonałego odpoczynku, w samotności, albo też w gronie przyjaciół czy zaproszonych gości. Człowiek czynu, rozporządzający gotówką, nie musiał zwlekać z realizacją zamierzeń. W głębi puszczy budował okazały, modrzewiowy dwór, otaczając go rozległym ogrodem, wszystko według dobrych wzorów renesansowych willi znanych już w Polsce w królewskich i magnackich posiadłościach (ujazdowski zespół ogrodowy, wille radziwiłłowskie).”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich.\n\nZdjęcie przedstawia kościół pw. św. Jana Nepomucena - najbardziej rozpoznawalny zwierzyniecki zabytek. Kościółek na wodzie to element idealnej willi Zwierzyniec, która jest dopełnieniem idealnego miasta Zamość.\n\n19 czerwca 2023 roku minęło równo czterysta trzydzieści lat od chwili, gdy hetman i kanclerz Jan Zamoyski pozyskał włość szczebrzeską, a wraz z nią puszczę, w której założył Zwierzyniec.\n\nJak podaje Halina Matławska w artykule “Metryka Zwierzyńca”:\n“[...] już w chwili nabycia nowego majątku Jan Zamoyski wiedział, co chce zbudować w puszczy, na lewym brzegu Wieprza, u stóp pięknej Bukowej Góry, w sąsiedztwie wsi Wywłoczki i rozwijającej się Rudy-Rudki (dzisiaj dzielnicy Zwierzyńca). Marzył o wiejskiej rezydencji, gdzie zmęczony trudami życia, oddalony od ciężkich prac i uciążliwych spotkań, mógłby znaleźć chwilę doskonałego odpoczynku, w samotności, albo też w gronie przyjaciół czy zaproszonych gości. Człowiek czynu, rozporządzający gotówką, nie musiał zwlekać z realizacją zamierzeń. W głębi puszczy budował okazały, modrzewiowy dwór, otaczając go rozległym ogrodem, wszystko według dobrych wzorów renesansowych willi znanych już w Polsce w królewskich i magnackich posiadłościach (ujazdowski zespół ogrodowy, wille radziwiłłowskie).”\n\nCzy Zwierzyniec w tym szczególnym roku lepiej zadba o swoje dziedzictwo, by w przyszłości odzyskać pełną świetność?\nTo zależy także od Ciebie!\nNawet tak mały gest jak serduszko i udostępnienie przyczyni się do poszerzania świadomości, czym Zwierzyniec jest i czego jest wart.\n\n\n\n©MJP",
+  "description": "Ten wpis jest kontynuacją serii o historii Zwierzyńca. Zachęcamy do przeglądania poprzednich....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -102,8 +102,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Witaj w jubileuszowym, 430. roku historii Zwierzyńca!",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Witaj-w-jubileuszowym-430-roku-historii-Zwierzynca"
+      "name": "19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii-zwierzynca"
     }
   ]
 }

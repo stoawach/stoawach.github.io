@@ -52,7 +52,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2022-08-03",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -64,17 +64,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Bobry-chca-trzeciego-stawu"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/bobry-chca-trzeciego-stawu"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, bobry",
+  "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, bobry]",
   "wordCount": 259,
-  "articleBody": "Działalność bobrów w naszym Zwierzyńcu budzi spore emocje. Z jednej strony mamy przyrodników, którzy mówią, jak ważną rolę spełniają te zwierzęta - budują ekosystemy wodne, będąc swoistymi architektami natury. Z drugiej strony słyszymy głosy, że to szkodniki, a poza tym co one w ogóle tu robią! \n\nBobry zostały przywrócone w Roztoczańskim Parku Narodowym w latach 70-tych. Na naszym obszarze jest mało wód powierzchniowych, dlatego bobrza ekspertyza jest bardzo ważna - one dokładnie wiedzą, gdzie powinno być rozlewisko. \n\nZa RPN: “W 1972 roku system wodny strumienia Szum połączono siecią rowów z systemem Świerszcza. Spowodowało to gwałtowne odwodnienie okolicznych obszarów torfowiskowych. Obecnie w obszarze tym zadomowiły się rodziny bobra europejskiego Castor fiber, które skutecznie tamują nadmierne odpływy i przyczyniają się do zwiększenia uwodnienia tego terenu”. \n\nKanał ulgi łączący Zwierzyńczyk z rzeką Wieprz jest miejscem, gdzie bobry z uporem budują swoje piękne tamy… a ktoś z uporem je niszczy. Tym razem ich konstrukcja jest trochę wyżej, blisko niedoszłego trzeciego stawu. Tama jest już pokaźna i być może niedługo zrobi się rozlewisko. Bobry chyba znają nasz Miejscowy Plan Zagospodarowania Przestrzennego.\n\nTylko regionalny dyrektor ochrony środowiska może wydać odstępstwo od zakazu rozbierania bobrzych tam.\n\nRPN: “Niszczenie tam bobrowych i rozlewisk gdziekolwiek, w obecnie panujących warunkach hydrologicznych - jest działaniem daleko nierozważnym. Niszczenie naturalnych procesów, w tym mikroretencji realizowanej przez bobra europejskiego na terenie parku narodowego - poważnym wykroczeniem.”\n\nCo myślicie o działalności bobrów?\n\nJeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy! \n\nBóbr europejski - fot. Przemysław Stachyra",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Działalność bobrów w naszym Zwierzyńcu budzi spore emocje. Z jednej strony mamy przyrodników, którzy mówią, jak ważną rolę spełniają te zwierzęta - budują ekosystemy wodne, będąc swoistymi architektami natury. Z drugiej strony słyszymy głosy, że to szkodniki, a poza tym co one w ogóle tu robią!\n\nBobry zostały przywrócone w Roztoczańskim Parku Narodowym w latach 70-tych. Na naszym obszarze jest mało wód powierzchniowych, dlatego bobrza ekspertyza jest bardzo ważna - one dokładnie wiedzą, gdzie powinno być rozlewisko.\n\nZa RPN: “W 1972 roku system wodny strumienia Szum połączono siecią rowów z systemem Świerszcza. Spowodowało to gwałtowne odwodnienie okolicznych obszarów torfowiskowych. Obecnie w obszarze tym zadomowiły się rodziny bobra europejskiego Castor fiber, które skutecznie tamują nadmierne odpływy i przyczyniają się do zwiększenia uwodnienia tego terenu”.\n\nKanał ulgi łączący Zwierzyńczyk z rzeką Wieprz jest miejscem, gdzie bobry z uporem budują swoje piękne tamy… a ktoś z uporem je niszczy. Tym razem ich konstrukcja jest trochę wyżej, blisko niedoszłego trzeciego stawu. Tama jest już pokaźna i być może niedługo zrobi się rozlewisko. Bobry chyba znają nasz Miejscowy Plan Zagospodarowania Przestrzennego.\n\nTylko regionalny dyrektor ochrony środowiska może wydać odstępstwo od zakazu rozbierania bobrzych tam.\n\nRPN: “Niszczenie tam bobrowych i rozlewisk gdziekolwiek, w obecnie panujących warunkach hydrologicznych - jest działaniem daleko nierozważnym. Niszczenie naturalnych procesów, w tym mikroretencji realizowanej przez bobra europejskiego na terenie parku narodowego - poważnym wykroczeniem.”\n\nCo myślicie o działalności bobrów?\n\nJeśli również uważacie, że Zwierzyniec i jego mieszkańcy zasługują na więcej, polubcie i udostępniajcie ten post, wtedy więcej osób będzie miało szansę go przeczytać. Dziękujemy!\n\nBóbr europejski - fot. Przemysław Stachyra",
+  "description": "Działalność bobrów w naszym Zwierzyńcu budzi spore emocje. Z jednej strony mamy przyrodników, którzy mówią, jak ważną rolę spełniają te zwierzęta - bu...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -98,7 +99,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Bobry chcą trzeciego stawu?",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Bobry-chca-trzeciego-stawu"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/bobry-chca-trzeciego-stawu"
     }
   ]
 }

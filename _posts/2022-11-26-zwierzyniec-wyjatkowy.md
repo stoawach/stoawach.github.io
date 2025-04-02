@@ -44,7 +44,7 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Zwierzyniec wyjątkowy.",
+  "headline": "Zwierzyniec wyjątkowy",
   "datePublished": "2022-11-26",
   "dateModified": "2022-11-26",
   "author": {
@@ -61,17 +61,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Zwierzyniec-wyjatkowy"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/zwierzyniec-wyjatkowy"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-26-zwierzyniec-wyjatkowy.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-26-zwierzyniec-wyjatkowy.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 118,
-  "articleBody": "Co takiego, poza przyrodą i zabytkami, czyni Zwierzyniec wyjątkowym w skali Europy?\n\nTak jak Zamość jest miastem idealnym, tak Zwierzyniec jest idealną wiejską siedzibą (wypoczynkową). Co oznacza ta idealność? Oba te miejsca powstały jeszcze w renesansie dzięki idei tego samego człowieka - Jana Zamoyskiego - pierwszego ordynata. \nNa przestrzeni lat harmonijne powiązanie rezydencji z krajobrazem ulegało przekształceniom. Według zespołu ekspertów priorytetowa dla Zwierzyńca jest ochrona oryginalnych rozwiązań kompozycyjnych oraz przywrócenie pierwotnych powiązań i otwarć widokowych.\n\nW kolejnych postach postaramy się przybliżyć imponujące dziedzictwo Ordynacji, w nadziei, że jego zrozumienie pomoże nam wszystkim lepiej chronić Zwierzyniec.\n\nZdjęcie przedstawia najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Wciąż jeszcze odległe od zaleceń konserwatorskich i opracowań ekspertów. Kiedy Zwierzyniec odzyska swoją dawną świetność?\n \n         \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Co takiego, poza przyrodą i zabytkami, czyni Zwierzyniec wyjątkowym w skali Europy?\n\nTak jak Zamość jest miastem idealnym, tak Zwierzyniec jest idealną wiejską siedzibą (wypoczynkową). Co oznacza ta idealność? Oba te miejsca powstały jeszcze w renesansie dzięki idei tego samego człowieka - Jana Zamoyskiego - pierwszego ordynata.\nNa przestrzeni lat harmonijne powiązanie rezydencji z krajobrazem ulegało przekształceniom. Według zespołu ekspertów priorytetowa dla Zwierzyńca jest ochrona oryginalnych rozwiązań kompozycyjnych oraz przywrócenie pierwotnych powiązań i otwarć widokowych.\n\nW kolejnych postach postaramy się przybliżyć imponujące dziedzictwo Ordynacji, w nadziei, że jego zrozumienie pomoże nam wszystkim lepiej chronić Zwierzyniec.\n\nZdjęcie przedstawia najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Wciąż jeszcze odległe od zaleceń konserwatorskich i opracowań ekspertów. Kiedy Zwierzyniec odzyska swoją dawną świetność?\n\n\n\n©MJP",
+  "description": "Co takiego, poza przyrodą i zabytkami, czyni Zwierzyniec wyjątkowym w skali Europy?...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,8 +98,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Zwierzyniec wyjątkowy.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Zwierzyniec-wyjatkowy"
+      "name": "Zwierzyniec wyjątkowy",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/zwierzyniec-wyjatkowy"
     }
   ]
 }

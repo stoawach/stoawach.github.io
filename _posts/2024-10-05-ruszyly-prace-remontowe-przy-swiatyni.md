@@ -60,17 +60,17 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Ruszyly-prace-remontowe-przy-swiatyni"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/ruszyly-prace-remontowe-przy-swiatyni"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-10-05-ruszyly-prace-remontowe-przy-swiatyni.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-10-05-ruszyly-prace-remontowe-przy-swiatyni.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
   "wordCount": 139,
-  "articleBody": "Na zdjęciu widoczny jest kościół pw. św. Jana Nepomucena w Zwierzyńcu – znany jako kościółek „na wodzie”. Ten wyjątkowy obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego w Zwierzyńcu, które ewoluowało na przestrzeni wieków.\n\n„Świątynia powstawała na miejscu dawnego domku na wodzie! Trudne to zadanie dla projektodawcy budowli wymagało rozważenia, czy fundament postawiony na mokrym gruncie sztucznej wyspy udźwignie wysoką na dziewięć metrów nawę świątyni i czy można wykorzystać (w jakim stopniu) ściany dawnego domku Marysieńki” – czytamy w książce „Kościół świętego Jana Nepomucena w Zwierzyńcu” autorstwa Haliny Matławskiej.\n\nPod bacznym nadzorem konserwatorskim rozpoczęły się roboty budowlane przy świątyni. Najpierw odsłonięto wszystkie fundamenty dookoła kościoła, które w dalszej kolejności zostaną zabezpieczone izolacją poziomą i pionową .\n\nTwoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności ma nie tylko kościółek, ale również całe założenie willowe w Zwierzyńcu.\n\n             \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Na zdjęciu widoczny jest kościół pw. św. Jana Nepomucena w Zwierzyńcu – znany jako kościółek „na wodzie”. Ten wyjątkowy obiekt, zbudowany w 1741 roku, stanowi część historycznego założenia willowego w Zwierzyńcu, które ewoluowało na przestrzeni wieków.\n\n„Świątynia powstawała na miejscu dawnego domku na wodzie! Trudne to zadanie dla projektodawcy budowli wymagało rozważenia, czy fundament postawiony na mokrym gruncie sztucznej wyspy udźwignie wysoką na dziewięć metrów nawę świątyni i czy można wykorzystać (w jakim stopniu) ściany dawnego domku Marysieńki” – czytamy w książce „Kościół świętego Jana Nepomucena w Zwierzyńcu” autorstwa Haliny Matławskiej.\n\nPod bacznym nadzorem konserwatorskim rozpoczęły się roboty budowlane przy świątyni. Najpierw odsłonięto wszystkie fundamenty dookoła kościoła, które w dalszej kolejności zostaną zabezpieczone izolacją poziomą i pionową .\n\nTwoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności ma nie tylko kościółek, ale również całe założenie willowe w Zwierzyńcu.\n\n\n\n©MJP",
+  "description": "Na zdjęciu widoczny jest kościół pw. św. Jana Nepomucena w Zwierzyńcu – znany jako kościółek „na wodzie”. Ten wyjątkowy obiekt, zbudowany w 1741 roku,...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
@@ -98,7 +98,7 @@ Udostępnij ten tekst na Facebooku:
       "@type": "ListItem",
       "position": 3,
       "name": "Ruszyły prace remontowe przy świątyni",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Ruszyly-prace-remontowe-przy-swiatyni"
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/ruszyly-prace-remontowe-przy-swiatyni"
     }
   ]
 }

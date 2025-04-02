@@ -44,12 +44,12 @@ Udostępnij ten tekst na Facebooku:
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Staw zwierzyńczyka.",
+  "headline": "Staw zwierzyńczyka",
   "datePublished": "2022-11-15",
   "dateModified": "2022-11-15",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,17 +61,18 @@ Udostępnij ten tekst na Facebooku:
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/Staw-zwierzynczyka"
+    "@id": "https://stowarzyszeniewachniewskiej.pl/posts/staw-zwierzynczyka"
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-15-staw-zwierzynczyka.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-15-staw-zwierzynczyka.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy",
+  "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
   "wordCount": 121,
-  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nModrzewiowa willa ordynata wraz z kompozycją budynków oraz ogrodu była powiązana z otaczającym krajobrazem.\nPierwotnie stawiska pełniły dla willi funkcję obronną. Były kształtowane przez kolejne wieki. Ich układ ponownie zaplanowano w drugiej połowie XIX wieku. Nie zostały jednak wykonane od razu i pojawiły się dopiero na planach z okresu międzywojennego.\n\nWidoczny na zdjęciu staw to jeden z trzech przewidzianych do odtworzenia przy rewaloryzacji zwierzyńczyka. Odbudową ostatniego z nich na razie zajęły się bobry. Projekt zakłada, że w przyszłości znajdzie się przy nim altana oraz pomost, które będą kolejnymi miejscami wypoczynku dla mieszkańców i turystów.\n\nW tle między drzewami majaczy południowa skrzydłowa oficyna modrzewiowej rezydencji.\n\n         \n\nMJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "articleBody": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.\n\nModrzewiowa willa ordynata wraz z kompozycją budynków oraz ogrodu była powiązana z otaczającym krajobrazem.\nPierwotnie stawiska pełniły dla willi funkcję obronną. Były kształtowane przez kolejne wieki. Ich układ ponownie zaplanowano w drugiej połowie XIX wieku. Nie zostały jednak wykonane od razu i pojawiły się dopiero na planach z okresu międzywojennego.\n\nWidoczny na zdjęciu staw to jeden z trzech przewidzianych do odtworzenia przy rewaloryzacji zwierzyńczyka. Odbudową ostatniego z nich na razie zajęły się bobry. Projekt zakłada, że w przyszłości znajdzie się przy nim altana oraz pomost, które będą kolejnymi miejscami wypoczynku dla mieszkańców i turystów.\n\nW tle między drzewami majaczy południowa skrzydłowa oficyna modrzewiowej rezydencji.\n\n\n\nMJP",
+  "description": "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki....",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">
@@ -94,8 +95,8 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Staw zwierzyńczyka.",
-      "item": "https://stowarzyszeniewachniewskiej.pl/posts/Staw-zwierzynczyka"
+      "name": "Staw zwierzyńczyka",
+      "item": "https://stowarzyszeniewachniewskiej.pl/posts/staw-zwierzynczyka"
     }
   ]
 }
