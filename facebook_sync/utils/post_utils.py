@@ -14,29 +14,68 @@ def generate_safe_filename(title):
     """
     Generates a safe filename by replacing spaces with hyphens,
     removing unsupported characters, and replacing Polish characters with their Latin equivalents.
-    Ensures the truncated title consists of whole words.
+    Ensures the truncated title consists of whole words and avoids repeated or trailing hyphens,
+    while preserving short Roman numerals and 'cd' at the end.
     """
-    # Replace Polish characters with their Latin equivalents
+    # Replace Polish characters with Latin equivalents
     translation_table = str.maketrans("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ", "acelnoszzACELNOSZZ")
     sanitized_title = title.translate(translation_table)
 
-    # Replace spaces with hyphens and remove unsupported characters
-    sanitized_title = re.sub(r"[^a-zA-Z0-9 -]", "", sanitized_title).replace(" ", "-")
+    # Remove unsupported characters (preserve letters, numbers, dashes, spaces)
+    sanitized_title = re.sub(r"[^a-zA-Z0-9 -]", "", sanitized_title)
 
-    # Truncate to the nearest whole word within 50 characters
-    if len(sanitized_title) > 60:
-        truncated = sanitized_title[:60].rsplit("-", 1)[0]  # Cut off at the last hyphen
-    else:
-        truncated = sanitized_title
+    # Replace spaces with hyphens
+    safe_title = sanitized_title.replace(" ", "-")
 
-    # Remove the last word if it's shorter than 3 characters and NOT purely numeric
-    words = truncated.split("-")
-    if words:
-        last_word = words[-1]
-        if len(last_word) < 3 and not last_word.isdigit():
-            words.pop()
+    # Collapse multiple hyphens
+    safe_title = re.sub(r"-{2,}", "-", safe_title)
 
-    return "-".join(words)
+    # Truncate to 50 characters, preferably at last full word
+    if len(safe_title) > 50:
+        safe_title = safe_title[:50]
+        if "-" in safe_title:
+            safe_title = safe_title.rsplit("-", 1)[0]
+
+    # Check last word
+    parts = safe_title.split("-")
+    if parts:
+        last = parts[-1].lower()
+        roman_numerals = {
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii",
+            "xiii",
+            "xiv",
+            "xv",
+            "xvi",
+            "xvii",
+            "xviii",
+            "xix",
+            "xx",
+            "xxi",
+            "xxii",
+            "xxiii",
+            "xxiv",
+            "xxv",
+            "xxx",
+            "xl",
+            "l",
+        }
+        preserved_endings = {"cd"} | roman_numerals
+
+        if len(last) < 3 and not last.isdigit() and last not in preserved_endings:
+            parts.pop()
+
+    return "-".join(parts).lower()
 
 
 def find_related_posts(current_tags, current_post_id, all_existing_files, common_tags, current_content):

@@ -27,7 +27,7 @@ def fetch_posts_from_profile():
 
     GRAPH_API_URL = "https://graph.facebook.com/v17.0"
     today = datetime.now()
-    last_week_start = (today - timedelta(days=today.weekday() + 1300)).date()
+    last_week_start = (today - timedelta(days=today.weekday() + 90)).date()
     last_week_end = (today - timedelta(days=today.weekday() + 1)).date()
 
     since_timestamp = int(last_week_start.strftime("%s"))
