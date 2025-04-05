@@ -1,11 +1,8 @@
 ---
 title: "Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?"
 date: 2022-10-08T11:18:00+01:00
-weight: 2
-
-Powiązane posty:
-
-
+weight: -20221008
+tags: [Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]
 ---
 
 ![Ogród willowy (dziedziniec Technikum im. Jana Zamoyskiego w Zwierzyńcu), Zwierzyniec](/images/posts/dziedziniec.jpg)
@@ -36,6 +33,16 @@ Dbanie o zabytki Zwierzyńca nie polega na robieniu z niego skansenu, ani wyrzuc
 *Stawisko "rybne", Zwierzyńczyk, Zwierzyniec*
 
 MJP/foto. MJP
+
+Powiązane posty:
+- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+
+
+---
 
 <script type="application/ld+json">
 {

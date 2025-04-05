@@ -1,11 +1,8 @@
 ---
 title: "Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?"
 date: 2022-10-15T10:36:00+01:00
-weight: 4
-
-Powiązane posty:
-
-
+weight: -20221015
+tags: [Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]
 ---
 
 ![Gmach główny Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/gmach_glowny.jpg)
@@ -33,6 +30,16 @@ Dziękujemy Technikum im. Jana Zamoyskiego w Zwierzyńcu oraz Powiat Zamojski za
 *Ogród willowy (dziedziniec Technikum im. Jana Zamoyskiego w Zwierzyńcu)*
 
 MJP/foto. MJP
+
+Powiązane posty:
+- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+
+
+---
 
 <script type="application/ld+json">
 {

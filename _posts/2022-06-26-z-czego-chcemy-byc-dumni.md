@@ -1,11 +1,8 @@
 ---
 title: "Z czego chcemy być dumni?"
 date: 2022-06-26T18:25:00+01:00
-weight: 3
-
-Powiązane posty:
-
-
+weight: -20220626
+tags: [Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]
 ---
 
 ![Kościół "na wodzie" pw. św. Jana Nepomucena w Zwierzyńcu, Zwierzyniec](/images/posts/kosciolek_3.jpg)
@@ -23,6 +20,16 @@ Wszyscy możemy zyskać wiele. Pytanie tylko, czy dostrzeżemy ogromny potencja�
 *Willa Borowianka, Zwierzyniec*
 
 MJP/foto. MJP
+
+Powiązane posty:
+- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+
+
+---
 
 <script type="application/ld+json">
 {
