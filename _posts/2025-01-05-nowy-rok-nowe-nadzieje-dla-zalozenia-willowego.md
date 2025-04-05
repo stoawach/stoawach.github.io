@@ -26,11 +26,11 @@ Dzieląc się tym postem pomóż innym poznać historię tego wyjątkowego mie
 ©MJP
 
 Powiązane posty:
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
-- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 - [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
-- [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 
 ---
@@ -63,13 +63,13 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-01-05-nowy-rok-nowe-nadzieje-dla-zalozenia-willowego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
+  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
   "wordCount": 90,
-  "articleBody": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego niezwykłe piękno.\n\n“Długa elewacja frontowa sprawia wrażenie budowli pałacowej - pisze Jerzy Kowalczyk. Również mansardowy dach, jego zdaniem, jest charakterystyczny dla świeckich budowli. Nic dziwnego, wszak była tu niegdyś strojna, pałacowa altana.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy rok 2025 będzie przełomowy dla ochrony tego dziedzictwa? To zależy również od Ciebie!\nDzieląc się tym postem pomóż innym poznać historię tego wyjątkowego miejsca i przyczyń się do jego odnowy.\n\n\n\n©MJP",
-  "description": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego nie...",
+  "articleBody": "Ostatnie promienie zachodzącego słońca rozświetlają niebo różnymi barwami i podkreślają elewację kościoła pw. św. Jana Nepomucena wydobywając jego niezwykłe piękno.\n\n“Długa elewacja frontowa sprawia wrażenie budowli pałacowej - pisze Jerzy Kowalczyk. Również mansardowy dach, jego zdaniem, jest charakterystyczny dla świeckich budowli. Nic dziwnego, wszak była tu niegdyś strojna, pałacowa altana.” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy rok 2025 będzie przełomowy dla ochrony tego dziedzictwa? To zależy również od Ciebie! \nDzieląc się tym postem pomóż innym poznać historię tego wyjątkowego miejsca i przyczyń się do jego odnowy.\n\n               \n\n©MJP",
+  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
