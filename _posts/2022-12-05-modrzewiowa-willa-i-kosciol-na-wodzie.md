@@ -36,8 +36,8 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 Powiązane posty:
 - [Willa niezwykła](/posts/willa-niezwykla)
 - [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
-- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Ogrodowy salon](/posts/ogrodowy-salon)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 

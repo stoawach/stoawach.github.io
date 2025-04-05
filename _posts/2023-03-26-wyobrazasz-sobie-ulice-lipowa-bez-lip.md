@@ -33,7 +33,7 @@ Powiązane posty:
 - [Willa niezwykła](/posts/willa-niezwykla)
 - [Park romantyczny](/posts/park-romantyczny)
 - [Ogrodowy salon](/posts/ogrodowy-salon)
-- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Młyn](/posts/mlyn)
 
 
 ---

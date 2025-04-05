@@ -36,8 +36,8 @@ Powiązane posty:
 - [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa](/posts/ocalmy-piekno-wille-w-parku-twoja-rola)
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
-- [Pałac administracji](/posts/palac-administracji)
 - [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
+- [Pałac administracji](/posts/palac-administracji)
 
 
 ---

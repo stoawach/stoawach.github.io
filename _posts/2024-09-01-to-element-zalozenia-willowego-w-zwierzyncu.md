@@ -26,8 +26,8 @@ zdj. Fundacja Honesty
 ©MJP
 
 Powiązane posty:
-- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
 - [Kościół na wodzie - perła założenia willowego w Zwierzyńcu](/posts/kosciol-na-wodzie-perla-zalozenia-willowego)
+- [To dziś najważniejszy element Założenia Willowego w Zwierzyńcu](/posts/to-dzis-najwazniejszy-element-zalozenia-willowego)
 - [Mgła tajemnic spowija zwierzyniecką willę](/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
 - [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)

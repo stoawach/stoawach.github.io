@@ -32,7 +32,7 @@ Powiązane posty:
 - [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/czy-teraz-prace-projektowe-beda-postepowac)
 - [Wkazówki Narodowego Instytutu Dziedzictwa dotyczące rewitalizacji Zwierzyńca](/posts/wkazowki-narodowego-instytutu-dziedzictwa)
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
-- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 
 
 ---

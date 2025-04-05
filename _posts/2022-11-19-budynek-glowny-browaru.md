@@ -26,7 +26,7 @@ Od 2000 roku, w wakacje, na dziedzińcu browaru odbywają się projekcje kin
 
 Powiązane posty:
 - [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
-- [Willa \](/posts/willa)
+- [Willa Borowianka](/posts/willa-borowianka)
 - [W wieku pary](/posts/w-wieku-pary)
 - [Fabryka mebli](/posts/fabryka-mebli)
 - [Kościół “na wodzie”](/posts/kosciol-na-wodzie)

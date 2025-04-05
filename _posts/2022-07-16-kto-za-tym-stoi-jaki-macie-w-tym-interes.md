@@ -28,7 +28,7 @@ Powiązane posty:
 - [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja)
 - [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
 - [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
-- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
+- [O co chodzi z tym Zwierzyńcem?](/posts/o-co-chodzi-z-tym-zwierzyncem)
 
 
 ---

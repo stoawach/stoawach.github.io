@@ -31,7 +31,7 @@ Powiązane posty:
 - [Oficyna wschodnia](/posts/oficyna-wschodnia)
 - [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
 - [Oficyna skrzydłowa południowa](/posts/oficyna-skrzydlowa-poludniowa)
-- [Willa \](/posts/willa)
+- [Willa Borowianka](/posts/willa-borowianka)
 
 
 ---

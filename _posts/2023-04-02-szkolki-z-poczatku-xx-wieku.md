@@ -31,8 +31,8 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 
 Powiązane posty:
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 - [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Deptak dawniej](/posts/deptak-dawniej)
 

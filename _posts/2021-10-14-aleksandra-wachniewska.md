@@ -27,7 +27,7 @@ Powiązane posty:
 - [Tymczasem wciąż opowiadamy o naszej Patronce](/posts/tymczasem-wciaz-opowiadamy-onaszej-patronce)
 - [Historia Aleksandry Wachniewskiej - część I](/posts/historia-aleksandry-wachniewskiej-czesc-i)
 - [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
-- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
 
 
 ---

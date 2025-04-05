@@ -35,8 +35,8 @@ Powiązane posty:
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Fabryka mebli cd.](/posts/fabryka-meblicd)
 - [Deptak dawniej](/posts/deptak-dawniej)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [W wieku pary](/posts/w-wieku-pary)
 
 
 ---

@@ -30,8 +30,8 @@ Powiązane posty:
 - [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
-- [Perła Założenia Willowego w Zwierzyńcu w zimowej scenerii](/posts/perla-zalozenia-willowego-w-zwierzyncu-w-zimowej)
 - [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
+- [To element założenia willowego w Zwierzyńcu](/posts/to-element-zalozenia-willowego-w-zwierzyncu)
 
 
 ---

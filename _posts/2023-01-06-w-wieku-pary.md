@@ -31,11 +31,11 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Fabryka mebli](/posts/fabryka-mebli)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 - [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Fabryka mebli](/posts/fabryka-mebli)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 
 
 ---

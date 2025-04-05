@@ -29,9 +29,9 @@ Twoje wsparcie sprawia, że Zwierzyniec zostanie odpowiednio doceniony i będz
 ©MJP
 
 Powiązane posty:
-- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Wyrastamy z tradycji i historii regionu – 50 lat Roztoczańskiego Parku Narodowego dla przyrody i człowieka](/posts/wyrastamy-z-tradycji-i-historii-regionu-50-lat)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 - [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 

@@ -22,8 +22,8 @@ Powiązane posty:
 - [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
 - [Drzewom, tak jak ludziom, zdarza się chorować](/posts/drzewom-tak-jak-ludziom-zdarza-sie-chorowac)
 - [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+- [To one dają nam życiodajny tlen, cień i ochłodę w upalne dni](/posts/to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode)
 - [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
-- [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
 
 
 ---

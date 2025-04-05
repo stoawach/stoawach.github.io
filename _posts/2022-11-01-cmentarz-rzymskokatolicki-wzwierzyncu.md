@@ -29,10 +29,10 @@ MJP
 
 Powiązane posty:
 - [Skąpany we mgle park środowiskowy w Zwierzyńcu](/posts/skapany-we-mgle-park-srodowiskowy-w-zwierzyncu)
+- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/jak-technikum-im-jana-zamoyskiego-chroni-zabytki)
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
-- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
-- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/jak-chronione-jest-zabytkowe-serce-zwierzynca-i)
 
 
 ---

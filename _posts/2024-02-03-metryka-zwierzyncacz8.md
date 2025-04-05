@@ -32,8 +32,8 @@ Powiązane posty:
 - [Metryka Zwierzyńca cz. 9 - ostatnia](/posts/metryka-zwierzyncacz9-ostatnia)
 - [Metryka Zwierzyńca cz. 2](/posts/metryka-zwierzyncacz2)
 - [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
-- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 - [Metryka Zwierzyńca cz. 7](/posts/metryka-zwierzyncacz7)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 
 
 ---

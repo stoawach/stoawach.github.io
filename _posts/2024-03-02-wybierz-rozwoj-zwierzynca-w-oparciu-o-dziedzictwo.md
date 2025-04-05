@@ -33,8 +33,8 @@ Wspólnymi siłami możemy być strażnikami dziedzictwa Zwierzyńca oraz jego 
 
 Powiązane posty:
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
-- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Metryka Zwierzyńca cz. 5](/posts/metryka-zwierzyncacz5)
 - [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 

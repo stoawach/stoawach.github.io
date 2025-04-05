@@ -34,8 +34,8 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 
 Powiązane posty:
 - [Willa niezwykła](/posts/willa-niezwykla)
-- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Młyn](/posts/mlyn)
 - [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 

@@ -24,9 +24,9 @@ MJP
 
 Powiązane posty:
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
-- [Mgła tajemnic spowija zwierzyniecką willę](/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
 - [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
+- [Mgła tajemnic spowija zwierzyniecką willę](/posts/mgla-tajemnic-spowija-zwierzyniecka-wille)
+- [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
 - [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
 
 

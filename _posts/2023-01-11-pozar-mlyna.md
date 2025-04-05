@@ -34,8 +34,8 @@ Powiązane posty:
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
-- [Likiernia](/posts/likiernia)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
+- [Likiernia](/posts/likiernia)
 
 
 ---

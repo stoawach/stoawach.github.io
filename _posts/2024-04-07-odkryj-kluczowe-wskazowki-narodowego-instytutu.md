@@ -32,7 +32,7 @@ Powiązane posty:
 - [Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut)
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 - [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/czy-teraz-prace-projektowe-beda-postepowac)
-- [Wybierz rozwój Zwierzyńca w oparciu o dziedzictwo!](/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 
 
 ---

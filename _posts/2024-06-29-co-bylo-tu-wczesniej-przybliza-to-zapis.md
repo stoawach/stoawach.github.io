@@ -33,8 +33,8 @@ Powiązane posty:
 - [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni)
 - [Największa wartość wciąż niewykorzystana?](/posts/najwieksza-wartosc-wciaz-niewykorzystana)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 
 
 ---

@@ -32,9 +32,9 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 Powiązane posty:
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
+- [W wieku pary](/posts/w-wieku-pary)
 - [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Deptak dawniej](/posts/deptak-dawniej)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Fabryka mebli](/posts/fabryka-mebli)
 
 
 ---

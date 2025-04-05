@@ -32,10 +32,10 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Park romantyczny](/posts/park-romantyczny)
-- [Willa niezwykła](/posts/willa-niezwykla)
 - [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Willa niezwykła](/posts/willa-niezwykla)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 

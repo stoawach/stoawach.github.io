@@ -35,14 +35,17 @@ Dbanie o zabytki Zwierzyńca nie polega na robieniu z niego skansenu, ani wyrzuc
 MJP/foto. MJP
 
 Powiązane posty:
-- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
-- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [O co chodzi z tym Zwierzyńcem?](/posts/o-co-chodzi-z-tym-zwierzyncem)
+- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/jak-technikum-im-jana-zamoyskiego-chroni-zabytki)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
-- [“Domek na górce”](/posts/domek-na-gorce)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 
 
 ---
+
+Udostępnij ten tekst na Facebooku:
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/jak-chronione-jest-zabytkowe-serce-zwierzynca-i)
 
 <script type="application/ld+json">
 {
@@ -69,7 +72,7 @@ Powiązane posty:
   },
   "image": null,
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": null,
+  "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]",
   "wordCount": 253,
   "articleBody": "Zabytkowe centrum Zwierzyńca to część układu przestrzennego miasta wpisanego do rejestru zabytków już w 1978 r.  Obszar ten przedstawiamy na mapie. Znajdują się w nim następujące obiekty wpisane do rejestru zabytków:\n- kościół filialny rzymskokat. pw. św. Jana Nepomucena wraz z drzewostanem,\n- zespół Zarządu Ordynacji Zamojskiej wraz z założeniem zieleni i układem wodnym,\n- browar,\n- zespół \"Pałacu Plenipotenta\" wraz z drzewostanem.\n\nNie są to oczywiście jedyne zabytki na tym terenie, ale zabytki rejestrowe to te, które są najlepiej chronione.\n\nUstawa o ochronie zabytków i opiece nad zabytkami jednoznacznie określa sposób postępowania w przypadku obiektów wpisanych do rejestru zabytków: wszelkie działania, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku muszą być konsultowane z konserwatorem i wykonywane wg jego wytycznych, a prowadzenie prac bez pozwolenia podlegać będzie karze administracyjnej do nawet 500.000zł.\n\nTa ochrona pozwala nie tylko na zachowanie dziedzictwa dla przyszłych pokoleń, ale też na właściwe wykorzystywanie jego potencjału w rozwoju gospodarczym i społecznym.\nDbanie o zabytki Zwierzyńca nie polega na robieniu z niego skansenu, ani wyrzucaniu przedsiębiorców i turystów. Popieramy rozwój i inwestycje zawsze wtedy, gdy przyczyniają się do powiększenia naszego wspólnego dobra.\n\n![mapa, Część układu przestrzennego Zwierzyńca wpisanego do rejestru zabytków, Zwierzyniec](/images/posts/strefa.jpg)\n*Część układu przestrzennego Zwierzyńca wpisanego do rejestru zabytków*\n![altana w parku środowiskowym w Zwierzyńcu, Zwierzyniec](/images/posts/altana.jpg)\n*Altana w parku środowiskowym w Zwierzyńcu*\n![Kościół \"na wodzie\" pw. św. Jana Nepomucena w Zwierzyńcu, Zwierzyniec](/images/posts/kosciolek_2.jpg)\n*Kościół \"na wodzie\" pw. św. Jana Nepomucena w Zwierzyńcu*\n![Długi kanał, Zwierzyńczyk, Zwierzyniec](/images/posts/zwierzynczyk.jpg)\n*Długi kanał, Zwierzyńczyk, Zwierzyniec*\n![zwierzyńczyk, Zwierzyniec](/images/posts/zwierzynczyk_2.jpg)\n*Stawisko \"rybne\", Zwierzyńczyk, Zwierzyniec*\n\nMJP/foto. MJP",
   "description": "Odkryj piękno Zwierzyńca i jego zabytki.",

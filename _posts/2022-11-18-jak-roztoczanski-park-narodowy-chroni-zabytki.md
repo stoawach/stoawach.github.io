@@ -31,8 +31,8 @@ Powiązane posty:
 - [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa](/posts/ocalmy-piekno-wille-w-parku-twoja-rola)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/jak-technikum-im-jana-zamoyskiego-chroni-zabytki)
 
 
 ---

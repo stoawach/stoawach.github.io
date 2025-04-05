@@ -31,8 +31,8 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 
 Powiązane posty:
 - [Park romantyczny](/posts/park-romantyczny)
-- [Degradacja rezydencji](/posts/degradacja-rezydencji)
 - [Pożar młyna](/posts/pozar-mlyna)
+- [Degradacja rezydencji](/posts/degradacja-rezydencji)
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Młyn](/posts/mlyn)
 

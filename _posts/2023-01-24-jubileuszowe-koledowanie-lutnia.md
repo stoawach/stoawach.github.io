@@ -29,7 +29,7 @@ Powiązane posty:
 - [Jubileuszowe kolędowanie - Renesansowe dziedzictwo](/posts/jubileuszowe-koledowanie-renesansowe-dziedzictwo)
 - [Villa Restituta w Zwierzyńcu zimą AD 1593](/posts/villa-restituta-w-zwierzyncu-zima-ad-1593)
 - [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
-- [Marysieńka](/posts/marysienka)
+- [Pierwszy poważny remont](/posts/pierwszy-powazny-remont)
 
 
 ---

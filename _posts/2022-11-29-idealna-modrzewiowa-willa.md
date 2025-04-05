@@ -35,7 +35,7 @@ Powiązane posty:
 - [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 - [Ogrodowy salon](/posts/ogrodowy-salon)
-- [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
 
 
 ---

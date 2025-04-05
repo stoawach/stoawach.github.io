@@ -34,9 +34,9 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 Powiązane posty:
 - [“Domek na górce”](/posts/domek-na-gorce)
 - [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
-- [Likiernia](/posts/likiernia)
 - [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Likiernia](/posts/likiernia)
+- [Willa niezwykła](/posts/willa-niezwykla)
 
 
 ---

@@ -30,8 +30,8 @@ Dołącz do naszej misji! Wspólnie sprawmy, że Zwierzyniec zabłyśnie prawd
 Powiązane posty:
 - [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
 - [Wszystko wskazuje na to, że mury świątyni w znacznej części stanowiły niegdyś jakąś inną budowlę!](/posts/wszystko-wskazuje-na-to-ze-mury-swiatyni)
-- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
 - [Ruszyły prace remontowe przy świątyni](/posts/ruszyly-prace-remontowe-przy-swiatyni)
+- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
 - [Wielka dotacja została przyznana! Poznaj szczegóły](/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly)
 
 

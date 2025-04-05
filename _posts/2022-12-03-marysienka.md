@@ -32,8 +32,8 @@ Powiązane posty:
 - [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 - [Willa niezwykła](/posts/willa-niezwykla)
 - [Pierwszy poważny remont](/posts/pierwszy-powazny-remont)
-- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 - [Ogrodowy salon](/posts/ogrodowy-salon)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 
 
 ---

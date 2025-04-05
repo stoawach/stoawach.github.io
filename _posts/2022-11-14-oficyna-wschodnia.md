@@ -29,7 +29,7 @@ Powiązane posty:
 - [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
 - [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
 - [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
-- [Willa \](/posts/willa)
+- [Willa Borowianka](/posts/willa-borowianka)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
 
 

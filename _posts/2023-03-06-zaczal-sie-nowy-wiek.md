@@ -31,11 +31,11 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
 - [Deptak dawniej](/posts/deptak-dawniej)
-- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 
 
 ---

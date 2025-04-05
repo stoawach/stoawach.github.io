@@ -30,10 +30,10 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Ogrodowy salon](/posts/ogrodowy-salon)
 - [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
+- [Ogrodowy salon](/posts/ogrodowy-salon)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
-- [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
+- [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
 - [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 
 

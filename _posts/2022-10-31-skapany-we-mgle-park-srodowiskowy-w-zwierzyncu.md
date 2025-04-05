@@ -23,10 +23,10 @@ MJP
 
 Powiązane posty:
 - [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
+- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/jak-chronione-jest-zabytkowe-serce-zwierzynca-i)
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
-- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
-- [“Domek na górce”](/posts/domek-na-gorce)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 
 
 ---

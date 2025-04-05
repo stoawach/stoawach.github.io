@@ -36,8 +36,8 @@ Dołącz do naszej misji ocalania piękna!
 
 Powiązane posty:
 - [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
-- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 - [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
 

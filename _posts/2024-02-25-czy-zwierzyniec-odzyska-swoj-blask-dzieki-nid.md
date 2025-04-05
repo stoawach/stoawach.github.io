@@ -29,8 +29,8 @@ Razem możemy chronić i promować dziedzictwo Zwierzyńca. Twój udział pomo�
 ©MJP
 
 Powiązane posty:
-- [Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa](/posts/odkryj-kluczowe-wskazowki-narodowego-instytutu)
 - [Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut)
+- [Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa](/posts/odkryj-kluczowe-wskazowki-narodowego-instytutu)
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 - [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)

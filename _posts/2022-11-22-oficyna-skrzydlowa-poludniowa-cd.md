@@ -29,7 +29,7 @@ Powiązane posty:
 - [Oficyna skrzydłowa północna](/posts/oficyna-skrzydlowa-polnocna)
 - [Kościół “na wodzie”](/posts/kosciol-na-wodzie)
 - [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
-- [Willa \](/posts/willa)
+- [Willa Borowianka](/posts/willa-borowianka)
 - [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
 
 

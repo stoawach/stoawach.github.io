@@ -30,11 +30,11 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 ©MJP
 
 Powiązane posty:
-- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
 - [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
 - [“Domek na górce”](/posts/domek-na-gorce)
 - [Zniszczenie i zapomnienie](/posts/zniszczenie-i-zapomnienie)
-- [Willa niezwykła](/posts/willa-niezwykla)
+- [Park romantyczny](/posts/park-romantyczny)
 
 
 ---

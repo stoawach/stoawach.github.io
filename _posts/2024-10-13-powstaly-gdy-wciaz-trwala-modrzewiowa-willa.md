@@ -27,8 +27,8 @@ Twoje zainteresowanie sprawia, że szansę na odzyskanie dawnej świetności m
 Powiązane posty:
 - [Niecodzienny widok na tle zabytkowej architektury](/posts/niecodzienny-widok-na-tle-zabytkowej-architektury)
 - [Ruszyły prace remontowe przy świątyni](/posts/ruszyly-prace-remontowe-przy-swiatyni)
-- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
 
 

@@ -20,9 +20,9 @@ Dziś ich święto. Światowy Dzień Drzewa. Spróbujmy sprawić, aby miały s
 Powiązane posty:
 - [Drzewom, tak jak ludziom, zdarza się chorować](/posts/drzewom-tak-jak-ludziom-zdarza-sie-chorowac)
 - [Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska](/posts/jesienia-25-wrzesnia-1902-roku-w-folwarku)
-- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
-- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
 - [Miło nam poinformować o nowej inicjatywie powołanej przez grupę mieszkańców Zwierzyńca!](/posts/milo-nampoinformowac-onowej-inicjatywie-powolanej)
+- [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
+- [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
 
 
 ---

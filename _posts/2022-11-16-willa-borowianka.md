@@ -4,14 +4,14 @@ date: 2022-11-16
 weight: -20221116
 post_id: 103478058758108_149672631107932
 tags: [Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]
-featured_image: /../images/posts/2022-11-16-willa.jpg
+featured_image: /../images/posts/2022-11-16-willa-borowianka.jpg
 location: "Zwierzyniec"
 latitude: 50.61039
 longitude: 22.96615
 description: "Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki...."
 ---
 
-![Willa "Borowianka".](/images/posts/2022-11-16-willa.jpg)
+![Willa "Borowianka".](/images/posts/2022-11-16-willa-borowianka.jpg)
 *Willa "Borowianka".*
 
 Kolejny element większej całości - założenia willowo-ogrodowego. Zachęcamy do przeglądania poprzednich postów o elementach tej układanki.
@@ -37,13 +37,13 @@ Powiązane posty:
 ---
 
 Udostępnij ten tekst na Facebooku:
-[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/willa)
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/willa-borowianka)
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Willa \\\"Borowianka\\",
+  "headline": "Willa Borowianka",
   "datePublished": "2022-11-16",
   "dateModified": "2022-11-16",
   "author": {
@@ -64,7 +64,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-16-willa.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-16-willa-borowianka.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",
@@ -97,7 +97,7 @@ Udostępnij ten tekst na Facebooku:
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Willa \\\"Borowianka\\",
+      "name": "Willa Borowianka",
       "item": "https://stowarzyszeniewachniewskiej.pl/posts/willa-borowianka"
     }
   ]

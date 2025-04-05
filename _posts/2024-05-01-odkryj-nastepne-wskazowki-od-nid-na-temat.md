@@ -32,9 +32,9 @@ Razem możemy więcej!
 Powiązane posty:
 - [Poznaj kolejne wskazówki NID dotyczące Zwierzyńca](/posts/poznaj-kolejne-wskazowki-nid-dotyczace-zwierzynca)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Wybierz rozwój Zwierzyńca w oparciu o dziedzictwo!](/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo)
 - [Potencjał Zwierzyńca czeka na właściwe odkrycie i wykorzystanie!](/posts/potencjal-zwierzynca-czeka-na-wlasciwe-odkrycie-i)
 - [Czy teraz prace projektowe będą postępować błyskawicznie?](/posts/czy-teraz-prace-projektowe-beda-postepowac)
+- [Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa](/posts/odkryj-kluczowe-wskazowki-narodowego-instytutu)
 
 
 ---

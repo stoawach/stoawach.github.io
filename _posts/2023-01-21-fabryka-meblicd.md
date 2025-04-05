@@ -34,7 +34,7 @@ Powiązane posty:
 - [Fabryka mebli](/posts/fabryka-mebli)
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Likiernia](/posts/likiernia)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [W wieku pary](/posts/w-wieku-pary)
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
 
 

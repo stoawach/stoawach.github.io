@@ -33,8 +33,8 @@ Twoja aktywność i zaangażowanie są niezwykle istotne, by Zwierzyniec móg
 Powiązane posty:
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Wybierz rozwój Zwierzyńca w oparciu o dziedzictwo!](/posts/wybierz-rozwoj-zwierzynca-w-oparciu-o-dziedzictwo)
-- [Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Czy Zwierzyniec rozkwitnie? Narodowy Instytut Dziedzictwa podpowiada jak!](/posts/czy-zwierzyniec-rozkwitnie-narodowy-instytut)
 - [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
 
 

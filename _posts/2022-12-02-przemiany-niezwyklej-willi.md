@@ -35,8 +35,8 @@ Powiązane posty:
 - [Ogrodowy salon](/posts/ogrodowy-salon)
 - [Willa niezwykła](/posts/willa-niezwykla)
 - [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
-- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
 - [Długi kanał modrzewiowej willi](/posts/dlugi-kanal-modrzewiowej-willi)
+- [Idealna modrzewiowa willa](/posts/idealna-modrzewiowa-willa)
 
 
 ---

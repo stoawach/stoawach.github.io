@@ -31,10 +31,10 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 
 Powiązane posty:
 - [Szkółki z początku XX wieku](/posts/szkolki-z-poczatku-xx-wieku)
-- [“Domek na górce”](/posts/domek-na-gorce)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
 - [Dębowa aleja w ogrodzie skarbowym](/posts/debowa-aleja-w-ogrodzie-skarbowym)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [“Domek na górce”](/posts/domek-na-gorce)
+- [Pożar młyna](/posts/pozar-mlyna)
 
 
 ---

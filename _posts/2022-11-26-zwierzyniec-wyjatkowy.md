@@ -29,10 +29,10 @@ Zdjęcie przedstawia najważniejsze dla Zwierzyńca wnętrze krajobrazowe. Wci�
 
 Powiązane posty:
 - [Ocalmy piękno: Wille w parku - Twoja rola w zachowaniu dziedzictwa](/posts/ocalmy-piekno-wille-w-parku-twoja-rola)
-- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
-- [Willa niezwykła](/posts/willa-niezwykla)
 - [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
-- [Czy Zwierzyniec odzyska swój blask? Dzięki NID wiemy jak może się to stać!](/posts/czy-zwierzyniec-odzyska-swoj-blask-dzieki-nid)
+- [Willa niezwykła](/posts/willa-niezwykla)
+- [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 
 
 ---

@@ -34,7 +34,7 @@ Powiązane posty:
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Likiernia](/posts/likiernia)
-- [Urząd Gminy](/posts/urzad-gminy)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Fabryka mebli](/posts/fabryka-mebli)
 
 

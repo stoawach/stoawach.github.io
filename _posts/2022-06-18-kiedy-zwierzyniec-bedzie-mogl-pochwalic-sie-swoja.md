@@ -25,8 +25,8 @@ Powiązane posty:
 - [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 - [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
+- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/jak-chronione-jest-zabytkowe-serce-zwierzynca-i)
 - [430 lat Zwierzyńca](/posts/430-lat-zwierzynca)
-- [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---

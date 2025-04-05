@@ -26,7 +26,7 @@ Powiązane posty:
 - [Historia Aleksandry Wachniewskiej - część III](/posts/historia-aleksandry-wachniewskiej-czesc-iii)
 - [Historia Aleksandry Wachniewskiej - część VI](/posts/historia-aleksandry-wachniewskiej-czesc-vi)
 - [Laudacja Aleksandry Wachniewskiej](/posts/laudacja-aleksandry-wachniewskiej)
-- [Historia Aleksandry Wachniewskiej - część V](/posts/historia-aleksandry-wachniewskiej-czesc-v)
+- [Historia Aleksandry Wachniewskiej - część I](/posts/historia-aleksandry-wachniewskiej-czesc-i)
 
 
 ---

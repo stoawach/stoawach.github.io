@@ -26,10 +26,10 @@ MJP
 
 Powiązane posty:
 - [Kto za tym stoi? Jaki macie w tym interes?](/posts/kto-za-tym-stoi-jaki-macie-w-tym-interes)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
+- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
 - [Bobry chcą trzeciego stawu?](/posts/bobry-chca-trzeciego-stawu)
 - [Kiedy Zwierzyniec będzie mógł pochwalić się swoją historią?](/posts/kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja)
-- [Jak miasto Zwierzyniec chroni swoje zabytki?](/posts/jak-miasto-zwierzyniec-chroni-swoje-zabytki)
-- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 
 
 ---

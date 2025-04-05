@@ -27,8 +27,8 @@ Pisaliśmy już o tym, jak Technikum im. Jana Zamoyskiego dba o zabytki. T
 Powiązane posty:
 - [Oficyna skrzydłowa południowa cd](/posts/oficyna-skrzydlowa-poludniowa-cd)
 - [Pałac administracji](/posts/palac-administracji)
-- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
 - [Kościół “na wodzie”](/posts/kosciol-na-wodzie)
+- [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
 - [Wnętrze krajobrazowe](/posts/wnetrze-krajobrazowe)
 
 

@@ -33,7 +33,7 @@ Powiązane posty:
 - [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
 - [Największa wartość wciąż niewykorzystana?](/posts/najwieksza-wartosc-wciaz-niewykorzystana)
 - [Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu](/posts/remont-konserwatorski-kosciola-pwswjana)
-- [Czy wiesz, że to miejsce odwiedzali królowie?](/posts/czy-wiesz-ze-to-miejsce-odwiedzali-krolowie)
+- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
 
 
 ---

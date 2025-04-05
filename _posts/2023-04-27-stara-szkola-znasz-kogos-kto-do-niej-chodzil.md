@@ -37,7 +37,7 @@ Powiązane posty:
 - [Fabryka mebli](/posts/fabryka-mebli)
 - [Urząd Gminy](/posts/urzad-gminy)
 - [Pożar młyna](/posts/pozar-mlyna)
-- [Willa Potockich - czy zostanie objęta ochroną prawną?](/posts/willa-potockich-czy-zostanie-objeta-ochrona-prawna)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 
 
 ---

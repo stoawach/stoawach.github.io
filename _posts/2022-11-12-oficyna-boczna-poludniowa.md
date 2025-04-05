@@ -31,7 +31,7 @@ Powiązane posty:
 - [Oficyna wschodnia](/posts/oficyna-wschodnia)
 - [Budynek główny browaru](/posts/budynek-glowny-browaru)
 - [Staw zwierzyńczyka](/posts/staw-zwierzynczyka)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
+- [Willa Borowianka](/posts/willa-borowianka)
 
 
 ---

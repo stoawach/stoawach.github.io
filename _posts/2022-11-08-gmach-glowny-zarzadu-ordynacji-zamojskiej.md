@@ -25,11 +25,11 @@ Czy w najbliższej przyszłości założenie willowo-ogrodowe wróci do pełn
 MJP
 
 Powiązane posty:
+- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/jak-technikum-im-jana-zamoyskiego-chroni-zabytki)
 - [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
-- [Oficyna skrzydłowa południowa](/posts/oficyna-skrzydlowa-poludniowa)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
+- [Oficyna skrzydłowa południowa](/posts/oficyna-skrzydlowa-poludniowa)
 - [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
-- [Ogrodowy salon](/posts/ogrodowy-salon)
 
 
 ---

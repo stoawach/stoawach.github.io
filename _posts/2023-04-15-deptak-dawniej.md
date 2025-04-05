@@ -36,8 +36,8 @@ Powiązane posty:
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
 - [19 czerwca 2023 roku minęło równo 430 lat historii Zwierzyńca](/posts/19czerwca-2023-roku-minelo-rowno-430-lat-historii)
 - [Pożar młyna](/posts/pozar-mlyna)
-- [Fabryka mebli cd.](/posts/fabryka-meblicd)
 - [Fabryka mebli](/posts/fabryka-mebli)
+- [Fabryka mebli cd.](/posts/fabryka-meblicd)
 
 
 ---

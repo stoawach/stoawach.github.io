@@ -33,14 +33,17 @@ Pomóżcie nam przywrócić Zwierzyńcowi blask, na jaki zasługuje.
 MJP/foto. MJP
 
 Powiązane posty:
-- [Cmentarz rzymskokatolicki w Zwierzyńcu](/posts/cmentarz-rzymskokatolicki-wzwierzyncu)
-- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Jak chronione jest zabytkowe serce Zwierzyńca i co daje nam ta ochrona?](/posts/jak-chronione-jest-zabytkowe-serce-zwierzynca-i)
+- [Jak Technikum im. Jana Zamoyskiego chroni zabytki Zwierzyńca?](/posts/jak-technikum-im-jana-zamoyskiego-chroni-zabytki)
+- [Z czego chcemy być dumni?](/posts/z-czego-chcemy-byc-dumni)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
-- [“Domek na górce”](/posts/domek-na-gorce)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 
 
 ---
+
+Udostępnij ten tekst na Facebooku:
+[Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/o-co-chodzi-z-tym-zwierzyncem)
 
 <script type="application/ld+json">
 {
@@ -67,7 +70,7 @@ Powiązane posty:
   },
   "image": null,
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": null,
+  "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]",
   "wordCount": 295,
   "articleBody": "Jak wiemy, część układu przestrzennego Zwierzyńca wpisana jest do rejestru zabytków województwa lubelskiego. Cóż takiego wyjątkowego jest w naszym mieście, że postanowiono objąć ochroną nie tylko pojedyncze budynki, ale cały obszar zabytkowego centrum?\nOddajmy głos doktorowi Mieczysławowi Kseniakowi, jednemu ze współautorów realizowanego przez miasto \"Projektu rewaloryzacji założenia pałacowo-parkowego w Zwierzyńcu\":\n“zaproponowano przebieg granicy ochrony konserwatorskiej w taki sposób, aby stworzyć możliwie najlepsze warunki do odtworzenia i utrzymania jego pierwotnych walorów” (M. Kseniak 1978).\n\nJakie to walory?\nTo unikalne w skali kraju i świata założenie willowe, które zachowało się w dobrym stanie - i ma szansę być odtworzone.\n“zasadniczym ogniwem łączącym całość założenia jest zespół pałacowy, należy więc odtworzyć jego uniwersalne powiązania kompozycyjno-widokowe tak z terenami dawnego parkanu Zwierzyńca jak i z osadą przemysłowo-mieszkalną.” (M. Kseniak 1978)\n“Był on [zwierzyniec] ukoronowaniem działań Jana Zamoyskiego, związanych z powstaniem i organizacją Ordynacji Zamojskiej i najnowocześniejszej jak na owe czasy fortyfikacji i renesansowego Zamościa, opartego na wzorcach włoskich, realizowanych w oparciu o projekt Bernardo Morando. Był to zwierzyniec godny królów i książąt, w czym zdecydowanie prześcigał włoskich Medyceuszy.” (M. Kseniak, K. Pałgan, P. Szkołut 2014)\n\nCo to znaczy?\nZwierzyniec ma szansę stać się prawdziwą perłą - nie tylko Roztocza, ale całej Europy. Możemy powrócić do idei miasta-ogrodu. Problemem nie są środki finansowe, bo tych jest sporo w różnych funduszach przeznaczonych dla kultury i dziedzictwa. Jedyne, czego potrzeba, to świadomość, wola i zaangażowanie mieszkańców, władz oraz innych ludzi dobrej woli.\nPomóżcie nam przywrócić Zwierzyńcowi blask, na jaki zasługuje.\n\n![Projekt rewaloryzacji założenia willowo-parkowego w Zwierzyńcu, Zwierzyniec](/images/posts/projekt_rewaloryzacji.jpg)\n*Projekt rewaloryzacji założenia willowo-parkowego w Zwierzyńcu*\n![długi kanał, Zwierzyńczyk, Zwierzyniec](/images/posts/dlugi_kanal.jpg)\n*Długi kanał, Zwierzyńczyk, Zwierzyniec*\n![Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu, Zwierzyniec](/images/posts/oficyna_skrzydlowa_poludniowa.jpg)\n*Oficyna skrzydłowa południowa (internat) Technikum im. Jana Zamoyskiego w Zwierzyńcu*\n![Staw willowy, Zwierzyńczyk, Zwierzyniec](/images/posts/staw_dlugiego_kanalu.jpg)\n*Staw willowy, Zwierzyńczyk, Zwierzynie*\n\nMJP/foto. MJP",
   "description": "Odkryj piękno Zwierzyńca i jego zabytki.",

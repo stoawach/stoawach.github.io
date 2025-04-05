@@ -33,10 +33,10 @@ Nawet tak mały gest jak serduszko i udostępnienie przyczyni się do posze
 
 Powiązane posty:
 - [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
 - [Fabryka mebli](/posts/fabryka-mebli)
 - [Likiernia](/posts/likiernia)
-- [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
-- [Zielona osada - ogród](/posts/zielona-osada-ogrod)
+- [Pożar młyna](/posts/pozar-mlyna)
 
 
 ---

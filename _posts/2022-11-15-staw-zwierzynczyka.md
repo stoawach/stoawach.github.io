@@ -31,8 +31,8 @@ Powiązane posty:
 - [Oficyna boczna północna](/posts/oficyna-boczna-polnocna)
 - [Oficyna boczna południowa](/posts/oficyna-boczna-poludniowa)
 - [Oficyna wschodnia](/posts/oficyna-wschodnia)
-- [Willa \](/posts/willa)
 - [Wnętrze krajobrazowe](/posts/wnetrze-krajobrazowe)
+- [Willa Borowianka](/posts/willa-borowianka)
 
 
 ---

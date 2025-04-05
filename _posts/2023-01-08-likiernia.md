@@ -35,8 +35,8 @@ Powiązane posty:
 - [Deptak dawniej](/posts/deptak-dawniej)
 - [Ogrodowy salon](/posts/ogrodowy-salon)
 - [Stara Szkoła - Znasz kogoś, kto do niej chodził?](/posts/stara-szkola-znasz-kogos-kto-do-niej-chodzil)
-- [Pałac administracji](/posts/palac-administracji)
 - [Oberża i nowe drogi](/posts/oberza-i-nowe-drogi)
+- [Pałac administracji](/posts/palac-administracji)
 
 
 ---

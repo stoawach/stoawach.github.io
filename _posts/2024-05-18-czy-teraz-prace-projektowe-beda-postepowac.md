@@ -33,7 +33,7 @@ Powiązane posty:
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
 - [Zapraszamy Was w podróż przez historię Zwierzyńca na Roztoczu](/posts/zapraszamy-was-w-podroz-przez-historie-zwierzynca)
-- [Odkryj kluczowe wskazówki Narodowego Instytutu Dziedzictwa](/posts/odkryj-kluczowe-wskazowki-narodowego-instytutu)
+- [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
 
 
 ---

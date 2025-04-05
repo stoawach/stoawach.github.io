@@ -29,8 +29,8 @@ Powiązane posty:
 - [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
 - [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
 - [Odkryjcie niezwykłe połączenie historii i sacrum w Zwierzyńcu!](/posts/odkryjcie-niezwykle-polaczenie-historii-i-sacrum)
-- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 - [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Metryka Zwierzyńca cz. 6](/posts/metryka-zwierzyncacz6)
 
 
 ---

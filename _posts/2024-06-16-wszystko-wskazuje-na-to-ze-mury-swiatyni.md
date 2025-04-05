@@ -29,9 +29,9 @@ Twoje wsparcie pomaga przywrócić blask tej wyjątkowej perły.
 Powiązane posty:
 - [Co było tu wcześniej? Przybliża to zapis ze zwierzynieckiego inwentarza](/posts/co-bylo-tu-wczesniej-przybliza-to-zapis)
 - [Największa wartość wciąż niewykorzystana?](/posts/najwieksza-wartosc-wciaz-niewykorzystana)
-- [Wielka dotacja została przyznana! Poznaj szczegóły](/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly)
 - [Remont konserwatorski kościoła p.w. św. Jana Nepomucena w Zwierzyńcu](/posts/remont-konserwatorski-kosciola-pwswjana)
-- [“Sławny domem zamieszkanym nieraz przez ordynatów od najdawniejszych czasów”](/posts/slawny-domem-zamieszkanym-nieraz-przez-ordynatow)
+- [Wielka dotacja została przyznana! Poznaj szczegóły](/posts/wielka-dotacja-zostala-przyznana-poznaj-szczegoly)
+- [Ruszyły prace remontowe przy świątyni](/posts/ruszyly-prace-remontowe-przy-swiatyni)
 
 
 ---

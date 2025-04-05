@@ -30,8 +30,8 @@ Powiązane posty:
 - [Modrzewiowa willa i kościół na wodzie](/posts/modrzewiowa-willa-i-kosciol-na-wodzie)
 - [Przemiany niezwykłej willi](/posts/przemiany-niezwyklej-willi)
 - [Pierwszy poważny remont](/posts/pierwszy-powazny-remont)
-- [Willa niezwykła](/posts/willa-niezwykla)
 - [Wnętrze modrzewiowej willi](/posts/wnetrze-modrzewiowej-willi)
+- [Willa niezwykła](/posts/willa-niezwykla)
 
 
 ---

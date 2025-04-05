@@ -35,10 +35,10 @@ Udostępnijcie ten post, aby zaprosić innych do odkrywania tej wyjątkowej 
 
 Powiązane posty:
 - [Zapraszamy do Magicznego Zwierzyńca! Odkryj piękno przyrody i historii!](/posts/zapraszamy-do-magicznego-zwierzynca-odkryj-piekno)
-- [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
 - [Czy wiesz, jakiego obiektu brakuje na tym zdjęciu? O tym wciąż wie niewielu!](/posts/czy-wiesz-jakiego-obiektu-brakuje-na-tym-zdjeciu)
-- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
+- [Zwierzyńcem Zachwyceni! Odkryjcie urok tego wspaniałego miejsca!](/posts/zwierzyncem-zachwyceni-odkryjcie-urok-tego)
 - [Założenie Willowe - zapomniana harmonia Zwierzyńca](/posts/zalozenie-willowe-zapomniana-harmonia-zwierzynca)
+- [Po co nam zabytki?](/posts/po-co-nam-zabytki)
 
 
 ---
