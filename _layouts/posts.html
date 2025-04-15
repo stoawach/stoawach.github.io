@@ -1,0 +1,41 @@
+---
+layout: default
+bodyClass: "page-posts"
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    {% for post in site.posts %}
+    <div class="col-12 col-md-6 mb-3">
+      <div class="post-summary">
+        <div class="post-content">
+          <h2 class="post-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          {% assign post_content_lines = post.content | newline_to_br | split: '</p>' %}
+          {% assign post_content = '' %}
+          {% for line in post_content_lines offset:1 %}
+          {% assign post_content = post_content | append: line %}
+          {% endfor %}
+          <p>{{ post_content | markdownify | strip_html | truncate: 100 }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
