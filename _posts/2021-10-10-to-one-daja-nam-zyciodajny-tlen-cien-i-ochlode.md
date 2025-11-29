@@ -55,7 +55,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-10-10-to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-10-to-one-daja-nam-zyciodajny-tlen-cien-i-ochlode.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

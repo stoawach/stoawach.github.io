@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-10-21-metryka-zwierzyncacz1.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-10-21-metryka-zwierzyncacz1.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",

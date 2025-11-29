@@ -44,7 +44,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-03-21-tvp3-lublin-o-spusciznie-aleksandry-wachniewskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-03-21-tvp3-lublin-o-spusciznie-aleksandry-wachniewskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

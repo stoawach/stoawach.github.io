@@ -63,7 +63,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-09-25-jesienia-25-wrzesnia-1902-roku-w-folwarku.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-25-jesienia-25-wrzesnia-1902-roku-w-folwarku.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

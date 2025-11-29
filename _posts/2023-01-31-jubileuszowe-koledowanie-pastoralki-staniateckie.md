@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-01-31-jubileuszowe-koledowanie-pastoralki-staniateckie.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-01-31-jubileuszowe-koledowanie-pastoralki-staniateckie.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",

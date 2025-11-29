@@ -60,7 +60,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-10-14-aleksandra-wachniewska.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-10-14-aleksandra-wachniewska.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

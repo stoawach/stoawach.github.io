@@ -83,7 +83,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-09-13-zwierzyniecki-okragly-stol.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-09-13-zwierzyniecki-okragly-stol.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[ZwierzynieckiOkrągłyStół, Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, MagiczneMiejsce, RomantycznyZwierzyniec, PowiatZamojski]",

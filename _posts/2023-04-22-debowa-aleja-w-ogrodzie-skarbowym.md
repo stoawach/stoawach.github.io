@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-04-22-debowa-aleja-w-ogrodzie-skarbowym.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",

@@ -61,7 +61,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-16-kto-za-tym-stoi-jaki-macie-w-tym-interes.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, kościoły]",

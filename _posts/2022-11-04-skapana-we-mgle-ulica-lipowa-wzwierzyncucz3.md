@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-04-skapana-we-mgle-ulica-lipowa-wzwierzyncucz3.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",

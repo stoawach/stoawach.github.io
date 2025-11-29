@@ -65,7 +65,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-07-19-zapisana-w-krajobrazie-opowiesc-o-willi-ktora.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-07-19-zapisana-w-krajobrazie-opowiesc-o-willi-ktora.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, RomantycznyZwierzyniec, PowiatZamojski, RoztoczańskiParkNarodowy]",

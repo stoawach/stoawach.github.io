@@ -78,7 +78,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-10-08-w-miniona-niedziele-odbyly-sie-pierwsze-warsztaty.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-10-08-w-miniona-niedziele-odbyly-sie-pierwsze-warsztaty.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[ZwierzynieckiOkrągłyStół, Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, MagiczneMiejsce, RomantycznyZwierzyniec, PowiatZamojski]",

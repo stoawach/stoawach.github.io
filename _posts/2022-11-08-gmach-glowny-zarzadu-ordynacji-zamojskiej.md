@@ -62,7 +62,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-11-08-gmach-glowny-zarzadu-ordynacji-zamojskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, kościoły]",

@@ -52,7 +52,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-05-16-16-maja-2023-roku-to-smutny-dzien-dla-zwierzynca.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

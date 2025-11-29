@@ -70,7 +70,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-11-26-czy-wiecie-ze-uklad-naszych-ulic-i-szpalerow.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-11-26-czy-wiecie-ze-uklad-naszych-ulic-i-szpalerow.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości]",

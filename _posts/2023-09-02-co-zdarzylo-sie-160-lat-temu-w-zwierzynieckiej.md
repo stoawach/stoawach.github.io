@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-09-02-co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-09-02-co-zdarzylo-sie-160-lat-temu-w-zwierzynieckiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie]",

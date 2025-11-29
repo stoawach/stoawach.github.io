@@ -81,7 +81,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-11-24-dziekujemy-to-slowo-ktore-dzis-najglosniej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-11-24-dziekujemy-to-slowo-ktore-dzis-najglosniej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

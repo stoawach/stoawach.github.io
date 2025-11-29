@@ -61,7 +61,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-02-01-jaki-los-czeka-dom-inicjatorki-powstania.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-02-01-jaki-los-czeka-dom-inicjatorki-powstania.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie]",

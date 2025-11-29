@@ -57,7 +57,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-07-01-akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-07-01-akt-lokacyjny-z-1580-roku-wrocil-do-zamoscia.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, Roztocze, Lubelskie, kościoły, villarestituta, turystyka, dziedzictwo, Zamość, MiastoIdealne]",

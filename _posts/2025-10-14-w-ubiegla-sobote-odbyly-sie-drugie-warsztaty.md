@@ -60,7 +60,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-10-14-w-ubiegla-sobote-odbyly-sie-drugie-warsztaty.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-10-14-w-ubiegla-sobote-odbyly-sie-drugie-warsztaty.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[ZwierzynieckiOkrągłyStół, Zwierzyniec, MiastoOgród, UkrytyKodZwierzyńca, Roztocze, Lubelskie, dziedzictwo, zieloneMiasto, społeczność, partycypacja, krajobraz, warsztaty, PowiatZamojski]",

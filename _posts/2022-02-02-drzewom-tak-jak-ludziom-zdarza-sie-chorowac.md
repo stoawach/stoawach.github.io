@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-02-02-drzewom-tak-jak-ludziom-zdarza-sie-chorowac.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-02-02-drzewom-tak-jak-ludziom-zdarza-sie-chorowac.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",
