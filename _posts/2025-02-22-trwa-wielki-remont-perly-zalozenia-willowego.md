@@ -64,13 +64,13 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-02-22-trwa-wielki-remont-perly-zalozenia-willowego.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-02-22-trwa-wielki-remont-perly-zalozenia-willowego.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 128,
-  "articleBody": "Zimowe słońce oświetla kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu podkreślając piękno barokowej architektury. Wkoło rozciąga się lekko zamarznięty staw, który od wieków stanowi integralną część Założenia Willowego. \n\n“Obu budów - kaplicy na wodzie w Zwierzyńcu i pałacu w Klemensowie doglądała energiczna żona Tomasza Antoniego, Teresa Aniela z Michowskich.” podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nW ubiegłym roku zakończono jeden z najtrudniejszych etapów renowacji - wykonanie izolacji poziomej i pionowej przy fundamentach świątyni. Obecnie trwa skomplikowany proces zszywania ścian nawy głównej, który ma na celu przywrócenie dawnej stabilności konstrukcji. Wkrótce rozpoczną się kolejne kluczowe prace - remont elewacji frontowej i wymiana pokrycia dachowego.\n\nRazem możemy zadbać o przyszłość tego wyjątkowego miejsca! Udostępnij ten post, by więcej osób mogło dowiedzieć się o niezwykłej historii Zwierzyńca.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zimowe słońce oświetla kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu podkreślając piękno barokowej architektury. Wkoło rozciąga się lekko zamarznięty staw, który od wieków stanowi integralną część Założenia Willowego.\n\n“Obu budów - kaplicy na wodzie w Zwierzyńcu i pałacu w Klemensowie doglądała energiczna żona Tomasza Antoniego, Teresa Aniela z Michowskich.” podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nW ubiegłym roku zakończono jeden z najtrudniejszych etapów renowacji - wykonanie izolacji poziomej i pionowej przy fundamentach świątyni. Obecnie trwa skomplikowany proces zszywania ścian nawy głównej, który ma na celu przywrócenie dawnej stabilności konstrukcji. Wkrótce rozpoczną się kolejne kluczowe prace - remont elewacji frontowej i wymiana pokrycia dachowego.\n\nRazem możemy zadbać o przyszłość tego wyjątkowego miejsca! Udostępnij ten post, by więcej osób mogło dowiedzieć się o niezwykłej historii Zwierzyńca.\n\n\n\n©MJP",
+  "description": "Zimowe słońce oświetla kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu podkreślając piękno barokowej architektury. Wkoło rozciąga się lekko z...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"

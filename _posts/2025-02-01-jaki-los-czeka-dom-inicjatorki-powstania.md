@@ -61,13 +61,13 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-02-01-jaki-los-czeka-dom-inicjatorki-powstania.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-02-01-jaki-los-czeka-dom-inicjatorki-powstania.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie]",
   "wordCount": 91,
-  "articleBody": "Zdjęcie przedstawia ganek domu Aleksandry Wachniewskiej przy ulicy Jej imienia w Zwierzyńcu. Los budynku wciąż pozostaje niepewny.\n\nTrwa wznowione postępowanie w sprawie wpisu domu Aleksandry Wachniewskiej do rejestru zabytków Województwa Lubelskiego. Dzięki przeprowadzonej kwerendzie archiwalnej Konserwatorowi udało się ustalić, że budynek powstał w latach 30. XIX wieku, a najpóźniej na początku lat 40.\nKluczową wartością domu jest pamięć o Aleksandrze Wachniewskiej - artystce, orędowniczce ochrony przyrody - która mieszkała tu przez niemal 60 lat.\n\nUdostępnij ten post, by szerzyć wiedzę o historii Zwierzyńca i pomóc wspólnie zadbać o jego przyszłość.\n\n            \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia ganek domu Aleksandry Wachniewskiej przy ulicy Jej imienia w Zwierzyńcu. Los budynku wciąż pozostaje niepewny.\n\nTrwa wznowione postępowanie w sprawie wpisu domu Aleksandry Wachniewskiej do rejestru zabytków Województwa Lubelskiego. Dzięki przeprowadzonej kwerendzie archiwalnej Konserwatorowi udało się ustalić, że budynek powstał w latach 30. XIX wieku, a najpóźniej na początku lat 40.\nKluczową wartością domu jest pamięć o Aleksandrze Wachniewskiej - artystce, orędowniczce ochrony przyrody - która mieszkała tu przez niemal 60 lat.\n\nUdostępnij ten post, by szerzyć wiedzę o historii Zwierzyńca i pomóc wspólnie zadbać o jego przyszłość.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia ganek domu Aleksandry Wachniewskiej przy ulicy Jej imienia w Zwierzyńcu. Los budynku wciąż pozostaje niepewny....",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"

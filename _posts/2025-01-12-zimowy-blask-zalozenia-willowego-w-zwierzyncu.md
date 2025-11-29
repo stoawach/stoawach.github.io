@@ -63,13 +63,13 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-01-12-zimowy-blask-zalozenia-willowego-w-zwierzyncu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2025-01-12-zimowy-blask-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 130,
-  "articleBody": "W zimową noc aura kościoła św. Jana Nepomucena rozświetla serce założenia willowego. Delikatna pierzyna śniegu okrywa wyspę i staw kościelny, tworząc malowniczą scenerię podkreślającą majestat barokowej architektury.\n\n“Kościół bez wież, nakryty mansardowymi dachami tak nad nawą jak i kaplicami, w kalenicy został opatrzony wieżyczką z sygnaturką. Wystrój architektoniczny fasady podobny do jezuickiego kościoła Il Gesu w Rzymie projektu Giacomo della Porty, efekt prac kamieniarskich i rzeźbiarskich, był wyrazem wpływów włoskiego baroku, który w okresie kontrreformacji i rozkwitu architektury sakralnej (zwłaszcza po zwycięstwie wiedeńskim) przemówił z całą siłą” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy nowe działania w zabytkowym obszarze pomogą wydobyć pełnię wartości tego niezwykłego dziedzictwa? Twoje wsparcie ma znaczenie! \nPodziel się tym postem, by szerzyć wiedzę o tym wyjątkowym miejscu i wspólnie zadbać o jego przyszłość.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "W zimową noc aura kościoła św. Jana Nepomucena rozświetla serce założenia willowego. Delikatna pierzyna śniegu okrywa wyspę i staw kościelny, tworząc malowniczą scenerię podkreślającą majestat barokowej architektury.\n\n“Kościół bez wież, nakryty mansardowymi dachami tak nad nawą jak i kaplicami, w kalenicy został opatrzony wieżyczką z sygnaturką. Wystrój architektoniczny fasady podobny do jezuickiego kościoła Il Gesu w Rzymie projektu Giacomo della Porty, efekt prac kamieniarskich i rzeźbiarskich, był wyrazem wpływów włoskiego baroku, który w okresie kontrreformacji i rozkwitu architektury sakralnej (zwłaszcza po zwycięstwie wiedeńskim) przemówił z całą siłą” - podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”.\n\nCzy nowe działania w zabytkowym obszarze pomogą wydobyć pełnię wartości tego niezwykłego dziedzictwa? Twoje wsparcie ma znaczenie!\nPodziel się tym postem, by szerzyć wiedzę o tym wyjątkowym miejscu i wspólnie zadbać o jego przyszłość.\n\n\n\n©MJP",
+  "description": "W zimową noc aura kościoła św. Jana Nepomucena rozświetla serce założenia willowego. Delikatna pierzyna śniegu okrywa wyspę i staw kościelny, tworząc ...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"
