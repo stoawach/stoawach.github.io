@@ -71,7 +71,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-11-11-laudacja-aleksandry-wachniewskiej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-11-laudacja-aleksandry-wachniewskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

@@ -56,7 +56,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-09-17-milo-nampoinformowac-onowej-inicjatywie-powolanej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

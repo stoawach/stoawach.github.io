@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-08-03-bobry-chca-trzeciego-stawu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Roztocze, Lubelskie, turystyka, dziedzictwo, zabytki, bobry]",

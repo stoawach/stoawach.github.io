@@ -54,7 +54,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-12-18-polecamy-posluchac-reportazu-radio-lublin.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

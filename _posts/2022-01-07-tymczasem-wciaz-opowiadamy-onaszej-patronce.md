@@ -69,7 +69,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-01-07-tymczasem-wciaz-opowiadamy-onaszej-patronce.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

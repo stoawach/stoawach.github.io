@@ -68,7 +68,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2023-03-06-zaczal-sie-nowy-wiek.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2023-03-06-zaczal-sie-nowy-wiek.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy]",

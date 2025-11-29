@@ -28,7 +28,7 @@ Udostępnij ten tekst na Facebooku:
   "dateModified": "2025-03-21",
   "author": {
     "@type": "Organization",
-    "name": "Stowarzyszenie Wachniewskiej"
+    "name": "Stowarzyszenie im. Aleksandry Wachniewskiej"
   },
   "publisher": {
     "@type": "Organization",
@@ -47,10 +47,11 @@ Udostępnij ten tekst na Facebooku:
     "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-03-21-tvp3-lublin-o-spusciznie-aleksandry-wachniewskiej.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "",
+  "keywords": "[]",
   "wordCount": 1,
   "articleBody": "[https://lublin.tvp.pl/85684538/19-marca-2025](https://lublin.tvp.pl/85684538/19-marca-2025)",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki."
+  "description": "[https://lublin.tvp.pl/85684538/19-marca-2025](https://lublin.tvp.pl/85684538/19-marca-2025)...",
+  "copyrightHolder": null
 }
 </script>
 <script type="application/ld+json">

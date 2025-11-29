@@ -57,7 +57,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-10-wyjatkowa-rocznica-dokladnie-50-lat-temu-10-maja.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-10-wyjatkowa-rocznica-dokladnie-50-lat-temu-10-maja.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[RoztoczańskiParkNarodowy, 50latRPN, OchronaPrzyrody, DziedzictwoPrzyrodnicze]",

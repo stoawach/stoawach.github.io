@@ -59,7 +59,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2022-06-18-kiedy-zwierzyniec-bedzie-mogl-pochwalic-sie-swoja.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[europejskiedniarcheologii, Zwierzyniec, Roztocze, Lubelskie, pałace, villarestituta, turystyka, historia]",

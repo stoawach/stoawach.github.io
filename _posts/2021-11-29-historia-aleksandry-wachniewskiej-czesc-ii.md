@@ -58,7 +58,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2021-11-29-historia-aleksandry-wachniewskiej-czesc-ii.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2021-11-29-historia-aleksandry-wachniewskiej-czesc-ii.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[]",

@@ -67,10 +67,10 @@ Udostępnij ten tekst na Facebooku:
     "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2025-04-05-barokowa-perla-zalozenia-willowego-w-zwierzyncu.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
-  "keywords": "Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec",
+  "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce, KościółNaWodzie, RomantycznyZwierzyniec]",
   "wordCount": 90,
-  "articleBody": "Zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu skąpany w promieniach zachodzącego, wczesnowiosennego słońca. Już niedługo ten widok zakryją rusztowania.\n\nTrwa remont konserwatorski świątyni. Wkrótce rozpocznie się wymiana dachówek i staranna renowacja elewacji frontowej.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”: Kamienną dekorację fasady wykonał prawdopodobnie ten sam, co i w Klemensowie, snycerz ze Lwowa, zaangażowany przez Tomasza Antoniego w 1746 roku.\n\nRazem możemy zwrócić uwagę innych na piękno i wyjątkową wartość tego miejsca! Udostępnij ten post, by więcej osób mogło poznać niezwykłą historię Zwierzyńca.\n\n               \n\n©MJP",
-  "description": "Odkryj piękno Zwierzyńca i jego zabytki.",
+  "articleBody": "Zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu skąpany w promieniach zachodzącego, wczesnowiosennego słońca. Już niedługo ten widok zakryją rusztowania.\n\nTrwa remont konserwatorski świątyni. Wkrótce rozpocznie się wymiana dachówek i staranna renowacja elewacji frontowej.\n\nJak podają autorzy książki “Willa Zamoyskich w Zwierzyńcu”: Kamienną dekorację fasady wykonał prawdopodobnie ten sam, co i w Klemensowie, snycerz ze Lwowa, zaangażowany przez Tomasza Antoniego w 1746 roku.\n\nRazem możemy zwrócić uwagę innych na piękno i wyjątkową wartość tego miejsca! Udostępnij ten post, by więcej osób mogło poznać niezwykłą historię Zwierzyńca.\n\n\n\n©MJP",
+  "description": "Zdjęcie przedstawia kościół “na wodzie” pw. św. Jana Nepomucena w Zwierzyńcu skąpany w promieniach zachodzącego, wczesnowiosennego słońca. Już niedług...",
   "copyrightHolder": {
     "@type": "Person",
     "name": "Michał Jan Patyk"

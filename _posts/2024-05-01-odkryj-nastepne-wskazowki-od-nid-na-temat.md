@@ -67,7 +67,7 @@ Udostępnij ten tekst na Facebooku:
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://stowarzyszeniewachniewskiej.pl//images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat.jpg"
+    "url": "https://stowarzyszeniewachniewskiej.pl/images/posts/2024-05-01-odkryj-nastepne-wskazowki-od-nid-na-temat.jpg"
   },
   "articleSection": "Dziedzictwo Kulturowe i Zabytki",
   "keywords": "[Zwierzyniec, UkrytyKodZwierzyńca, MiastoOgród, Zamojszczyzna, Roztocze, Lubelskie, villarestituta, turystyka, dziedzictwo, zabytki, krajobrazy, TajemnicePrzeszłości, PodróżeWczasie, MagiczneMiejsce]",
