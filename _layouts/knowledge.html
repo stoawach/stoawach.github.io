@@ -26,9 +26,13 @@ bodyClass: "page-knowledge"
       <div class="post-summary">
         <div class="post-content">
           <h2 class="post-title">
-            {% assign link = item.resource_url | default: item.url %}
-            <a href="{{ link | relative_url }}" {% if item.resource_url %}target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
           </h2>
+          {% if item.resource_url %}
+            <p>
+              <a class="button button-primary" href="{{ item.resource_url | relative_url }}" target="_blank" rel="noopener">Pobierz PDF</a>
+            </p>
+          {% endif %}
           {% if item.excerpt %}
             <p>{{ item.excerpt | strip_html | truncate: 140 }}</p>
           {% else %}
