@@ -1,8 +1,13 @@
 baseurl: '/'
 permalink: /posts/:title/
 title: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+url: https://stowarzyszeniewachniewskiej.pl
+lang: pl
 
-logo:
+# jekyll-seo-tag expects `site.logo` to be a URL string. The theme-specific
+# sizes/variants are kept under `site.logos`.
+logo: "/images/logo/logo.svg"
+logos:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"

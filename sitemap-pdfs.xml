@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /sitemap-pdfs.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign items = site.knowledge | sort: 'date' %}
+  {% for item in items %}
+    {% if item.resource_url and item.resource_url contains '.pdf' %}
+    <url>
+      <loc>{{ item.resource_url | relative_url | absolute_url }}</loc>
+      {% if item.date %}<lastmod>{{ item.date | date_to_xmlschema }}</lastmod>{% endif %}
+    </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
