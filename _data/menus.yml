@@ -2,6 +2,9 @@ main:
   - name: "Aktualności"
     url: "/posts/"
     weight: 2
+  - name: "Wiedza"
+    url: "/wiedza/"
+    weight: 3
   # - name: "Zespół"
     # url: "/team/"
     # weight: 3

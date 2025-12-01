@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stowarzyszeniewachniewskiej.pl/sitemap.xml
+Sitemap: https://stowarzyszeniewachniewskiej.pl/sitemap-pdfs.xml
