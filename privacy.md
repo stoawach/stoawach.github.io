@@ -1,7 +1,7 @@
 ---
 title: Prywatność
 layout: page
-description: Informacje o prywatności
+description: Polityka prywatności i ochrony danych osobowych. Informacje o użyciu Google Analytics i plikach cookies na stronie Stowarzyszenia.
 ---
 
 # Polityka prywatności

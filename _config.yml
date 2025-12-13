@@ -1,8 +1,30 @@
 baseurl: '/'
 permalink: /posts/:title/
 title: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+tagline: 'Ochrona dziedzictwa Zwierzyńca'
+description: 'Działamy na rzecz ochrony dziedzictwa kulturowego, krajobrazowego i przyrodniczego Zwierzyńca oraz wspieramy jego zrównoważony rozwój.'
 url: https://stowarzyszeniewachniewskiej.pl
-lang: pl
+lang: pl-PL
+
+# Author and organization
+author:
+  name: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+  email: 'zwierzyniec1593@gmail.com'
+
+# Social media profiles
+social:
+  name: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+  links:
+    - https://www.facebook.com/stoawach
+    - https://www.instagram.com/stoawach
+    - https://www.youtube.com/channel/UC0XRvOZQQd2XmXJ6dRZfFPQ
+
+# Twitter card configuration
+twitter:
+  card: summary_large_image
+
+# Default Open Graph image for social media sharing
+image: /images/posts/kosciolek_2.jpg
 
 # jekyll-seo-tag expects `site.logo` to be a URL string. The theme-specific
 # sizes/variants are kept under `site.logos`.
@@ -52,6 +74,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 exclude:
   - Gemfile
@@ -64,3 +87,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
