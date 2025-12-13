@@ -23,8 +23,8 @@ social:
 twitter:
   card: summary_large_image
 
-# Default Open Graph image for social media sharing
-image: /images/posts/kosciolek_2.jpg
+# Default Open Graph image for social media sharing (absolute URL required by jekyll-seo-tag)
+image: https://stowarzyszeniewachniewskiej.pl/images/posts/kosciolek_2.jpg
 
 # jekyll-seo-tag expects `site.logo` to be a URL string. The theme-specific
 # sizes/variants are kept under `site.logos`.
@@ -51,6 +51,10 @@ collections:
     permalink: /wiedza/:name/
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://stowarzyszeniewachniewskiej.pl/images/posts/kosciolek_2.jpg
   - scope:
       path: ""
       type: "posts"

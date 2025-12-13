@@ -38,33 +38,6 @@ bodyClass: "page-post"
 }
 </script>
 
-<!-- Structured Data: BreadcrumbList -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Strona główna",
-      "item": "{{ site.url }}"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Aktualności",
-      "item": "{{ site.url }}/posts"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "{{ page.title }}",
-      "item": "{{ page.url | absolute_url }}"
-    }
-  ]
-}
-</script>
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
