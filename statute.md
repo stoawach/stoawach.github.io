@@ -1,6 +1,7 @@
 ---
 title: Regulamin Stowarzyszenia im. Aleksandry Wachniewskiej
 layout: page
+description: Statut i regulamin Stowarzyszenia im. Aleksandry Wachniewskiej w Zwierzyńcu. Cele, zasady działania i struktura organizacyjna.
 ---
 
 §1. Stowarzyszenie zwykle nosi nazwę Stowarzyszenie im. Aleksandry Wachniewskiej. W dalszych postanowieniach regulaminu zwane jest Stowarzyszeniem. _Patronka Stowarzyszenia,artystka malarka Aleksandra Wachniewska (1902-1989) jest dla Stowarzyszenia autorytetem broniącym dziedzictwa Zwierzyńca w jego kształcie architektoniczno-krajobrazowo-przyrodniczym._

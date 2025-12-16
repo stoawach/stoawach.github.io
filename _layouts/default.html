@@ -5,7 +5,16 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon: minimalny zestaw dla Google + SVG -->
+  <link rel="icon" href="{{ '/images/favicon-48x48.png' | relative_url }}" sizes="48x48" type="image/png">
+  <link rel="icon" href="{{ '/images/favicon-192x192.png' | relative_url }}" sizes="192x192" type="image/png">
+  <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon.png' | relative_url }}" sizes="180x180">
+  <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <!-- PWA manifest i Safari pinned tab -->
+  <link rel="manifest" href="{{ '/manifest.webmanifest' | relative_url }}">
+  <link rel="mask-icon" href="{{ '/images/safari-pinned-tab.svg' | relative_url }}" color="#000000">
   <!-- Google Fonts CDN -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,6 +28,45 @@
   {% if page.resource_url %}
   <link rel="alternate" type="application/pdf" href="{{ page.resource_url | relative_url }}">
   {% endif %}
+
+  <!-- Structured Data: Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}",
+    "logo": "{{ site.logo | absolute_url }}",
+    "description": "{{ site.description }}",
+    {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
+    "sameAs": [
+      {% for link in site.social.links %}
+      "{{ link }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Zwierzyniec",
+      "addressCountry": "PL"
+    }
+  }
+  </script>
+
+  <!-- Structured Data: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}",
+    "description": "{{ site.description }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}"
+    },
+    "inLanguage": "pl-PL"
+  }
+  </script>
 
 </head>
 

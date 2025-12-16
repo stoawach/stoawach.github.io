@@ -1,7 +1,7 @@
 ---
 title: O nas
 layout: page
-description: O nas
+description: Grupa mieszkańców Zwierzyńca działająca na rzecz ochrony dziedzictwa i zrównoważonego rozwoju miasta. Poznaj naszą misję i wartości, którymi się kierujemy.
 bodyClass: page-about
 ---
 
