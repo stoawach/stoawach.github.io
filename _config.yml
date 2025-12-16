@@ -6,6 +6,9 @@ description: 'Działamy na rzecz ochrony dziedzictwa kulturowego, krajobrazowego
 url: https://stowarzyszeniewachniewskiej.pl
 lang: pl-PL
 
+# SEO Keywords dla całej strony
+keywords: 'Zwierzyniec, dziedzictwo kulturowe, Roztocze, zabytki, Aleksandra Wachniewska, Miasto Ogród, ochrona zabytków, rozwój lokalny, Lubelskie, Zamojszczyzna'
+
 # Author and organization
 author:
   name: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
@@ -19,6 +22,7 @@ social:
     - https://www.instagram.com/stoawach
     - https://www.youtube.com/channel/UC0XRvOZQQd2XmXJ6dRZfFPQ
     - https://www.linkedin.com/company/stoawach
+    - https://patronite.pl/stoawach
 
 # Twitter card configuration
 twitter:

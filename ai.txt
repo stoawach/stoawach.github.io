@@ -1,0 +1,81 @@
+# AI Training and Crawling Policy
+# Plik ai.txt dla Stowarzyszenia im. Aleksandry Wachniewskiej
+# Data utworzenia: 2025-12-16
+# Zgodność ze standardem: https://site.spawning.ai/spawning-ai-txt
+
+# === POLITYKA OGÓLNA ===
+# Treści naszej strony mogą być używane przez AI zgodnie z poniższymi zasadami:
+
+User-agent: *
+Allow: /
+
+# === SZCZEGÓŁOWA POLITYKA DLA POSZCZEGÓLNYCH BOTÓW ===
+
+# OpenAI GPT (ChatGPT)
+User-agent: GPTBot
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Anthropic Claude
+User-agent: Claude-Web
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Google Extended (trenowanie modeli Bard/Gemini)
+User-agent: Google-Extended
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Common Crawl (CCBot)
+User-agent: CCBot
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Meta AI (Facebook)
+User-agent: FacebookBot
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# === INFORMACJE O PRAWACH AUTORSKICH ===
+# Copyright: © 2025 Stowarzyszenie im. Aleksandry Wachniewskiej
+# License: Treści tekstowe mogą być cytowane z podaniem źródła
+# Images: Wszystkie prawa zastrzeżone - wymagana zgoda
+# Contact: zwierzyniec1593@gmail.com
+
+# === ATRYBUTY DODATKOWE ===
+# Attribution-Required: true
+# Commercial-Use: contact-required
+# Summarization: allowed
+# Training: allowed-with-attribution
+

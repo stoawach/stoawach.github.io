@@ -6,6 +6,13 @@
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff">
+
+  <!-- SEO & AI Control Meta Tags -->
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
+  <meta name="bingbot" content="index, follow">
+  <meta name="google" content="nositelinkssearchbox">
+  <meta name="google" content="notranslate">
   <!-- Favicon: minimalny zestaw dla Google + SVG -->
   <link rel="icon" href="{{ '/images/favicon-48x48.png' | relative_url }}" sizes="48x48" type="image/png">
   <link rel="icon" href="{{ '/images/favicon-192x192.png' | relative_url }}" sizes="192x192" type="image/png">
@@ -29,16 +36,25 @@
   <link rel="alternate" type="application/pdf" href="{{ page.resource_url | relative_url }}">
   {% endif %}
 
-  <!-- Structured Data: Organization -->
+  <!-- Structured Data: Organization + LocalBusiness -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": ["Organization", "NGO"],
+    "@id": "{{ site.url | append: '/#organization' }}",
     "name": "{{ site.title }}",
+    "alternateName": "StoAWach",
     "url": "{{ site.url }}",
     "logo": "{{ site.logo | absolute_url }}",
     "description": "{{ site.description }}",
     {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
+    "foundingDate": "2021",
+    "knowsAbout": ["Dziedzictwo kulturowe", "Ochrona zabytków", "Zwierzyniec", "Rozwój lokalny", "Roztocze"],
+    "areaServed": {
+      "@type": "City",
+      "name": "Zwierzyniec",
+      "addressCountry": "PL"
+    },
     "sameAs": [
       {% for link in site.social.links %}
       "{{ link }}"{% unless forloop.last %},{% endunless %}
@@ -47,7 +63,14 @@
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Zwierzyniec",
+      "addressRegion": "Lubelskie",
       "addressCountry": "PL"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "General Inquiries",
+      "email": "{{ site.author.email }}",
+      "availableLanguage": ["pl-PL"]
     }
   }
   </script>
@@ -57,14 +80,24 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": "{{ site.url | append: '/#website' }}",
     "name": "{{ site.title }}",
+    "alternateName": ["StoAWach","SAW"],
     "url": "{{ site.url }}",
     "description": "{{ site.description }}",
     "publisher": {
-      "@type": "Organization",
-      "name": "{{ site.title }}"
+      "@id": "{{ site.url | append: '/#organization' }}"
     },
-    "inLanguage": "pl-PL"
+    "inLanguage": "pl-PL",
+    "copyrightYear": "{{ site.time | date: '%Y' }}",
+    "copyrightHolder": {
+      "@id": "{{ site.url | append: '/#organization' }}"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Zwierzyniec",
+      "description": "Dziedzictwo kulturowe i przyrodnicze Zwierzyńca na Roztoczu"
+    }
   }
   </script>
 

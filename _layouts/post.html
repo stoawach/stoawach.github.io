@@ -8,28 +8,47 @@ bodyClass: "page-post"
 {
   "@context": "https://schema.org",
   "@type": "Article",
+  "@id": "{{ page.url | absolute_url }}",
   "headline": "{{ page.title }}",
   "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "inLanguage": "pl-PL",
+  {% if content contains "©MJP" %}
   "author": {
-    "@type": "Organization",
-    "name": "{{ site.title }}"
+    "@type": "Person",
+    "name": "Michał Jan Patyk"
   },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Michał Jan Patyk"
+  },
+  {% else %}
+  "author": {
+    "@id": "{{ site.url | append: '/#organization' }}"
+  },
+  "copyrightHolder": {
+    "@id": "{{ site.url | append: '/#organization' }}"
+  },
+  {% endif %}
   "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.logo | absolute_url }}"
-    }
+    "@id": "{{ site.url | append: '/#organization' }}"
   },
   {% if page.featured_image %}
-  "image": "{{ page.featured_image | absolute_url }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.featured_image | absolute_url }}"
+  },
   {% elsif page.image %}
-  "image": "{{ page.image | absolute_url }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image | absolute_url }}"
+  },
   {% else %}
-  "image": "{{ site.image | absolute_url }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ site.image | absolute_url }}"
+  },
   {% endif %}
   "mainEntityOfPage": {
     "@type": "WebPage",

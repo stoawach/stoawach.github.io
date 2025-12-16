@@ -1,4 +1,12 @@
 google_analytics_id: G-TJE210S7TL
-meta_twitter_site: ""
-meta_twitter_creator: ""
-copyright_text: 'Wszystkie prawa zastrzeżone 2025 © Michał Patyk'
+meta_twitter_site: "@stoawach"
+meta_twitter_creator: "@stoawach"
+copyright_text: 'Wszystkie prawa zastrzeżone 2025 © Stowarzyszenie im. Aleksandry Wachniewskiej'
+
+# Dodatkowe metadane SEO
+meta_author: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+meta_publisher: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
+
+# Polityka AI i robotów
+ai_policy_url: '/ai.txt'
+robots_policy_url: '/robots.txt'
