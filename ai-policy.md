@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Polityka AI i Scrapingu Treści
+title: Polityka AI i Scrapowania Treści
 permalink: /ai-policy/
 description: Polityka dotycząca wykorzystania treści strony przez systemy sztucznej inteligencji i web scrapers.
 ---
 
-# Polityka AI i Scrapingu Treści
+# Polityka AI i Scrapowania Treści
 
 ## Wprowadzenie
 

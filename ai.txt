@@ -1,18 +1,20 @@
 # AI Training and Crawling Policy
 # Plik ai.txt dla Stowarzyszenia im. Aleksandry Wachniewskiej
 # Data utworzenia: 2025-12-16
+# Ostatnia aktualizacja: 2025-12-19
 # Zgodność ze standardem: https://site.spawning.ai/spawning-ai-txt
+
+# === WERSJA SKŁADNI ===
+ai.txt-version: 1
 
 # === POLITYKA OGÓLNA ===
 # Treści naszej strony mogą być używane przez AI zgodnie z poniższymi zasadami:
 
-User-agent: *
-Allow: /
-
 # === SZCZEGÓŁOWA POLITYKA DLA POSZCZEGÓLNYCH BOTÓW ===
 
 # OpenAI GPT (ChatGPT)
-User-agent: GPTBot
+User-Agent-Name: GPTBot
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -20,7 +22,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Anthropic Claude
-User-agent: Claude-Web
+User-Agent-Name: Claude-Web
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -28,7 +31,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Google Extended (trenowanie modeli Bard/Gemini)
-User-agent: Google-Extended
+User-Agent-Name: Google-Extended
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -36,7 +40,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Common Crawl (CCBot)
-User-agent: CCBot
+User-Agent-Name: CCBot
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -44,7 +49,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Perplexity AI
-User-agent: PerplexityBot
+User-Agent-Name: PerplexityBot
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -52,7 +58,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Meta AI (Facebook)
-User-agent: FacebookBot
+User-Agent-Name: FacebookBot
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
@@ -60,7 +67,8 @@ Disallow: /assets/
 Disallow: /images/
 
 # Cohere AI
-User-agent: cohere-ai
+User-Agent-Name: cohere-ai
+Disallow-All: false
 Allow: /
 Allow: /posts/
 Allow: /wiedza/
