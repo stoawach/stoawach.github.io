@@ -23,6 +23,15 @@ bodyClass: "page-post"
     "@type": "Person",
     "name": "Michał Jan Patyk"
   },
+  {% elsif page.author %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+  },
   {% else %}
   "author": {
     "@id": "{{ site.url | append: '/#organization' }}"
