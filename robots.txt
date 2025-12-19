@@ -1,5 +1,82 @@
+# Robots.txt dla Stowarzyszenia im. Aleksandry Wachniewskiej
+# Data aktualizacji: 2025-12-16
+
+# === WYSZUKIWARKI (Search Engines) ===
 User-agent: *
 Allow: /
+Disallow: /assets/js/
+Disallow: /.git/
+Disallow: /.jekyll-cache/
+Disallow: /_site/
 
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# === AI CRAWLERS - KONTROLOWANA INDEKSACJA ===
+
+# OpenAI GPT (ChatGPT)
+User-agent: GPTBot
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Google Extended (Bard/Gemini training)
+User-agent: Google-Extended
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Anthropic Claude
+User-agent: Claude-Web
+User-agent: anthropic-ai
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Common Crawl
+User-agent: CCBot
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Meta AI (Facebook)
+User-agent: FacebookBot
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
+
+# Omgili (AI scraper)
+User-agent: omgili
+Disallow: /
+
+# === SITEMAPS ===
 Sitemap: https://stowarzyszeniewachniewskiej.pl/sitemap.xml
 Sitemap: https://stowarzyszeniewachniewskiej.pl/sitemap-pdfs.xml
+
+# === POLITYKA AI ===
+# Szczegółowe zasady dotyczące wykorzystania treści przez AI znajdują się w pliku ai.txt
+# Zobacz: https://stowarzyszeniewachniewskiej.pl/ai.txt
