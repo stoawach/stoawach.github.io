@@ -7,83 +7,74 @@
 # === WERSJA SKŁADNI ===
 ai.txt-version: 1
 
-# === POLITYKA OGÓLNA ===
-# Treści naszej strony mogą być używane przez AI zgodnie z poniższymi zasadami:
+# === POLITYKA OGÓLNA (domyślne zasady dla wszystkich botów) ===
+User-Agent: *
+Allow: /posts/
+Allow: /wiedza/
+Disallow: /assets/
+Disallow: /images/
 
 # === SZCZEGÓŁOWA POLITYKA DLA POSZCZEGÓLNYCH BOTÓW ===
 
 # OpenAI GPT (ChatGPT)
-User-Agent-Name: GPTBot
-Disallow-All: false
-Allow: /
+User-Agent: GPTBot
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Anthropic Claude
-User-Agent-Name: Claude-Web
-Disallow-All: false
-Allow: /
+User-Agent: Claude-Web
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Google Extended (trenowanie modeli Bard/Gemini)
-User-Agent-Name: Google-Extended
-Disallow-All: false
-Allow: /
+User-Agent: Google-Extended
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Common Crawl (CCBot)
-User-Agent-Name: CCBot
-Disallow-All: false
-Allow: /
+User-Agent: CCBot
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Perplexity AI
-User-Agent-Name: PerplexityBot
-Disallow-All: false
-Allow: /
+User-Agent: PerplexityBot
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Meta AI (Facebook)
-User-Agent-Name: FacebookBot
-Disallow-All: false
-Allow: /
+User-Agent: FacebookBot
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
 # Cohere AI
-User-Agent-Name: cohere-ai
-Disallow-All: false
-Allow: /
+User-Agent: cohere-ai
 Allow: /posts/
 Allow: /wiedza/
 Disallow: /assets/
 Disallow: /images/
 
-# === INFORMACJE O PRAWACH AUTORSKICH ===
+# === INFORMACJE O PRAWACH AUTORSKICH (komentarz, informacyjne) ===
 # Copyright: © 2025 Stowarzyszenie im. Aleksandry Wachniewskiej
 # License: Treści tekstowe mogą być cytowane z podaniem źródła
 # Images: Wszystkie prawa zastrzeżone - wymagana zgoda
 # Contact: zwierzyniec1593@gmail.com
 
-# === ATRYBUTY DODATKOWE ===
+# === ATRYBUTY DODATKOWE (informacyjnie, poza standardem) ===
 # Attribution-Required: true
 # Commercial-Use: contact-required
 # Summarization: allowed
 # Training: allowed-with-attribution
+
 
