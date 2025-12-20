@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ''
 permalink: /posts/:title/
 title: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
 tagline: 'Ochrona dziedzictwa Zwierzyńca'
@@ -84,6 +84,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+# Canonical URL configuration
+canonical_url: true
 
 exclude:
   - Gemfile
