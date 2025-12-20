@@ -43,3 +43,53 @@ Ta publikacja to wyjątkowe podsumowanie trzy­miesięcznego procesu, w którym 
   }
 }
 </script>
+
+<!-- Structured Data: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Czym był projekt „Zwierzyniecki Okrągły Stół”?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Był to trzymiesięczny proces, w którym mieszkańcy, eksperci i społecznicy wspólnie pracowali nad przyszłością Zwierzyńca. Celem było stworzenie realnej wizji miasta-ogrodu, opartej na jego tożsamości i dziedzictwie, poprzez dialog, warsztaty i diagnozę społeczną."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jakie są największe zagrożenia dla Zwierzyńca według mieszkańców?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Według diagnozy społecznej, mieszkańcy jako największe zagrożenia wskazali: zły stan techniczny i niszczenie zabytków, niekontrolowany rozwój masowej turystyki, brak spójnej wizji rozwoju miasta oraz chaotyczną, niedopasowaną nową zabudowę. Obawiają się, że Zwierzyniec może stracić swoją unikalną tożsamość na rzecz komercjalizacji i chaosu przestrzennego."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Co mieszkańcy Zwierzyńca cenią najbardziej w swoim mieście?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zdecydowanie największym atutem według mieszkańców jest bliskość przyrody i Roztoczańskiego Parku Narodowego. Na kolejnych miejscach znalazły się unikalny, historyczny charakter i zabytki oraz spokój i kameralna atmosfera."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Dlaczego Zwierzyniec powinien zostać Pomnikiem Historii?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zwierzyniec zasługuje na ten status, ponieważ jest materializacją humanistycznej koncepcji Jana Zamoyskiego, stanowiąc komplementarne dopełnienie idealnego miasta Zamościa. Jest to twórcza adaptacja włoskiej idei 'villa ideale' do polskich warunków, a jego układ przestrzenny jest żywym dokumentem ewolucji polskiej sztuki ogrodowej. Tworzy też unikalne w skali Europy połączenie historycznego założenia z obszarem o randze parku narodowego."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jakie są trzy główne kierunki działania na przyszłość?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zidentyfikowano trzy strategiczne filary: 1) Filar I: Ratunek dla serca – ochrona i rewaloryzacja historycznego DNA Zwierzyńca. 2) Filar II: Zwierzyniec dla Mieszkańców – podniesienie jakości życia codziennego. 3) Filar III: Pomnik Historii – strategiczna dźwignia rozwoju, która jest narzędziem do realizacji dwóch pierwszych filarów."
+      }
+    }
+  ]
+}
+</script>

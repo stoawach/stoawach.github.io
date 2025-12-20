@@ -3,6 +3,27 @@ layout: default
 bodyClass: "page-knowledge"
 ---
 
+<!-- Structured Data: ItemList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Zasoby wiedzy - Stowarzyszenie im. Aleksandry Wachniewskiej",
+  "description": "Materiały edukacyjne, artykuły, mapy i dokumenty PDF o Zwierzyńcu i jego dziedzictwie",
+  "itemListElement": [
+    {% assign items = site.knowledge | sort: 'date' | reverse %}
+    {% for item in items %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "url": "{{ item.url | absolute_url }}",
+      "name": "{{ item.title | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">

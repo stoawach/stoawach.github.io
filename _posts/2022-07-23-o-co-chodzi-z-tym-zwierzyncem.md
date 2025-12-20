@@ -45,6 +45,41 @@ Powiązane posty:
 Udostępnij ten tekst na Facebooku:
 [Udostępnij na Facebooku](https://www.facebook.com/sharer/sharer.php?u=https://stowarzyszeniewachniewskiej.pl/posts/o-co-chodzi-z-tym-zwierzyncem)
 
+<!-- Structured Data: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cóż takiego wyjątkowego jest w Zwierzyńcu, że objęto ochroną cały obszar zabytkowego centrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To unikalne w skali kraju założenie willowe, które zachowało się w dobrym stanie i ma szansę być odtworzone. Zasadniczym ogniwem łączącym całość założenia jest zespół pałacowy, należy więc odtworzyć jego uniwersalne powiązania kompozycyjno-widokowe tak z terenami dawnego parkanu zwierzyńca jak i z całym miastem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jakie są walory zabytkowego Zwierzyńca?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zwierzyniec był ukoronowaniem działań Jana Zamoyskiego, związanych z powstaniem i organizacją Ordynacji Zamojskiej i renesansowego Zamościa, opartego na wzorcach włoskich, realizowanych w oparciu o projekt Bernardo Morando. Był to zwierzyniec godny królów i książąt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Czy Zwierzyniec ma szansę na rewitalizację?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tak, Zwierzyniec ma szansę stać się prawdziwą perłą nie tylko Roztocza, ale całej Polski. Możemy powrócić do idei miasta-ogrodu. Problemem nie są środki finansowe, bo tych jest sporo w różnych funduszach przeznaczonych dla kultury i dziedzictwa. Jedyne, czego potrzeba, to świadomość, wola i zaangażowanie mieszkańców, władz oraz innych ludzi dobrej woli."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Structured Data: BlogPosting -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
