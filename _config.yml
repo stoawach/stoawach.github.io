@@ -85,9 +85,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-# Canonical URL configuration
-canonical_url: true
-
 exclude:
   - Gemfile
   - Gemfile.lock
