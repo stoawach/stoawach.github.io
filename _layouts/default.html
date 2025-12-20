@@ -70,7 +70,6 @@
       "Villa Restituta",
       "Renesansowa willa w Zwierzyńcu",
       "Zwierzyniec - miasto-ogród",
-      "VILLA RESTITUTA",
       "Dziedzictwo kulturowe",
       "Ochrona zabytków",
       "Historia lokalna",
@@ -94,10 +93,6 @@
       "name": "Zwierzyniec",
       "addressCountry": "PL"
     },
-    "memberOf": {
-      "@type": "Organization",
-      "name": "Polskie organizacje pozarządowe"
-    },
     "sameAs": [
       {% for link in site.social.links %}
       "{{ link }}"{% unless forloop.last %},{% endunless %}
@@ -116,14 +111,6 @@
       "email": "{{ site.author.email }}",
       "availableLanguage": ["pl-PL"],
       "areaServed": "PL"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": {
-        "@type": "EntryPoint",
-        "urlTemplate": "{{ site.url }}/posts?q={search_term_string}"
-      },
-      "query-input": "required name=search_term_string"
     }
   }
   </script>
