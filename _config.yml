@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ''
 permalink: /posts/:title/
 title: 'Stowarzyszenie im. Aleksandry Wachniewskiej'
 tagline: 'Ochrona dziedzictwa Zwierzyńca'
