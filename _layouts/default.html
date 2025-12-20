@@ -42,17 +42,61 @@
     "@type": ["Organization", "NGO"],
     "@id": "{{ site.url | append: '/#organization' }}",
     "name": "{{ site.title }}",
-    "alternateName": "StoAWach",
+    "alternateName": ["StoAWach", "SAW"],
+    "legalName": "Stowarzyszenie im. Aleksandry Wachniewskiej",
     "url": "{{ site.url }}",
-    "logo": "{{ site.logo | absolute_url }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | absolute_url }}",
+      "contentUrl": "{{ site.logo | absolute_url }}"
+    },
+    "image": "{{ site.image }}",
     "description": "{{ site.description }}",
     {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
     "foundingDate": "2021-08-11",
-    "knowsAbout": ["Dziedzictwo kulturowe", "Ochrona zabytków", "Zwierzyniec", "Rozwój lokalny", "Roztocze"],
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Zwierzyniec",
+        "addressRegion": "Lubelskie",
+        "addressCountry": "PL"
+      }
+    },
+    "knowsAbout": [
+      "Aleksandra Wachniewska",
+      "Zwierzyniec",
+      "Roztocze",
+      "Villa Restituta",
+      "Renesansowa willa w Zwierzyńcu",
+      "Zwierzyniec - miasto-ogród",
+      "VILLA RESTITUTA",
+      "Dziedzictwo kulturowe",
+      "Ochrona zabytków",
+      "Historia lokalna",
+      "Architektura zabytkowa",
+      "Architektura drewniana",
+      "Roztoczański Park Narodowy",
+      "Ochrona przyrody",
+      "Ordynacja Zamojska",
+      "Edukacja historyczna",
+      "Rozwój lokalny",
+      "Turystyka kulturowa",
+      "Promocja regionu",
+      "Rewitalizacja",
+      "Krajobraz kulturowy",
+      "Organizacje pozarządowe",
+      "Społeczność lokalna"
+    ],
+    "slogan": "{{ site.tagline }}",
     "areaServed": {
       "@type": "City",
       "name": "Zwierzyniec",
       "addressCountry": "PL"
+    },
+    "memberOf": {
+      "@type": "Organization",
+      "name": "Polskie organizacje pozarządowe"
     },
     "sameAs": [
       {% for link in site.social.links %}
@@ -63,13 +107,23 @@
       "@type": "PostalAddress",
       "addressLocality": "Zwierzyniec",
       "addressRegion": "Lubelskie",
+      "postalCode": "22-470",
       "addressCountry": "PL"
     },
     "contactPoint": {
       "@type": "ContactPoint",
       "contactType": "General Inquiries",
       "email": "{{ site.author.email }}",
-      "availableLanguage": ["pl-PL"]
+      "availableLanguage": ["pl-PL"],
+      "areaServed": "PL"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ site.url }}/posts?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
     }
   }
   </script>

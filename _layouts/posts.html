@@ -3,6 +3,26 @@ layout: default
 bodyClass: "page-posts"
 ---
 
+<!-- Structured Data: ItemList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Aktualności - Stowarzyszenie im. Aleksandry Wachniewskiej",
+  "description": "Lista artykułów i wiadomości o działaniach na rzecz ochrony dziedzictwa Zwierzyńca",
+  "itemListElement": [
+    {% for post in site.posts limit:50 %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "url": "{{ post.url | absolute_url }}",
+      "name": "{{ post.title | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
