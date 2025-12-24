@@ -1,5 +1,5 @@
 ---
-title: Wiedza
+title: Wiedza o Zwierzyńcu - Artykuły, Mapy i Materiały Historyczne
 layout: knowledge
 description: Artykuły, mapy i materiały PDF związane ze Zwierzyńcem
 intro_image: "images/illustrations/mapa_1829.svg"
@@ -9,6 +9,6 @@ intro_image_hide_on_mobile: true
 permalink: /wiedza/
 ---
 
-# Zasoby wiedzy
+# Zasoby wiedzy o Zwierzyńcu - artykuły, mapy i materiały historyczne
 
 Poniżej znajdziesz zebrane przez nas materiały: artykuły, mapy oraz dokumenty PDF.

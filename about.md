@@ -1,5 +1,5 @@
 ---
-title: O nas
+title: O Stowarzyszeniu im. Aleksandry Wachniewskiej w Zwierzyńcu
 layout: page
 description: Grupa mieszkańców Zwierzyńca działająca na rzecz ochrony dziedzictwa i zrównoważonego rozwoju miasta. Poznaj naszą misję i wartości, którymi się kierujemy.
 bodyClass: page-about

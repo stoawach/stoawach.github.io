@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: Kontakt - Stowarzyszenie im. Aleksandry Wachniewskiej
 layout: page
 description: Skontaktuj się ze Stowarzyszeniem im. Aleksandry Wachniewskiej w Zwierzyńcu. Chętnie odpowiemy na pytania i umówimy się na spotkanie.
 ---
