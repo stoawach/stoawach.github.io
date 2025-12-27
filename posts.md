@@ -9,3 +9,5 @@ intro_image_hide_on_mobile: true
 ---
 
 # Zachęcamy do lektury
+
+Zapraszamy do zapoznania się z publikacjami poświęconymi dziedzictwu, krajobrazowi i przyszłości Zwierzyńca. To zbiór analiz, wniosków i refleksji powstających we współpracy z mieszkańcami i ekspertami.
