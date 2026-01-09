@@ -31,6 +31,10 @@
 
   {% seo %}
 
+  <!-- GoatCounter Analytics - Privacy-friendly, no cookies -->
+  <script data-goatcounter="https://stoawach.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+
   {% if page.resource_url %}
   <link rel="alternate" type="application/pdf" href="{{ page.resource_url | relative_url }}">
   {% endif %}
@@ -152,6 +156,5 @@
   {% include footer.html %}
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include cookie-consent.html %}
 </body>
 </html>
